@@ -27,9 +27,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #2991D6; }
+a:hover   { color: #AA0000; }
+a:visited { color: #0A2333; }
 
 /*****************************************************************************/
 /*
@@ -46,8 +46,8 @@ ul.posts li {
 }
 
 ul.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  color: #B0B0B0;
+  font-family: 'Monaco', monospace;
   font-size: 80%;
 }
 
