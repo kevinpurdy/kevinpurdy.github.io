@@ -27,9 +27,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #2991D6; }
+a         { color: #237EBA; }
 a:hover   { color: #AA0000; }
-a:visited { color: #0A2333; }
+a:visited { color: #0C2B40; }
 
 /*****************************************************************************/
 /*
