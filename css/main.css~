@@ -13,14 +13,16 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #fcfaf2;
   font: 13.34px 'PT Serif', serif;
   font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
