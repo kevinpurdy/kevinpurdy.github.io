@@ -1,0 +1,24 @@
+---
+author: Kevin Purdy
+comments: true
+date: 2008-07-25 09:46:00+00:00
+layout: post
+slug: new-look
+title: New look
+wordpress_id: 66
+tags:
+- announcements
+- WordPress
+---
+
+If you're a return visitor, you might notice that I've changed the looks of this place. Let me tell you, it's a lot more fun than house decorating, but it involves just as many challenges.
+
+For those who follow WordPress minutiae, I made the move from the [PressRow theme](http://www.findcreditcards.org/pressrow/), designed by [Chris Pearson](http://www.pearsonified.com), to [Cutline](http://cutline.tubetorial.com/), which Pearson also worked on. PressRow hadn't been seeing any updates in a long time, and I find that managing sidebar "widgets" is a lot easier than manually embedding "plug-ins" on the sidebar.
+
+The sad part? What _really_ pushed the upgrade was the new WordPress [iPhone app](http://iphone.wordpress.org/), which requires an up-to-date installation. I don't know when, exactly, I'll be away from my computer, with a wi-fi connection, and in need of writing a quick post, but, hey, what kind of tech writer would I be if I didn't prepare for the pretend data-pocalypse?
+
+Here's an _exclusive_, exciting sneak peek at the late-night fun involved in re-building a site to fit the Cutline theme!
+
+![WordPress code for Cutline redesign](http://thepurdman.com/wp-content/uploads/2008/07/redesign_code.gif)
+
+
