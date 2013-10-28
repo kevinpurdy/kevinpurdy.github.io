@@ -10,12 +10,15 @@
   padding: 0;
 }
 
+html {
+	font: normal 112.5%/1.65 serif; /* base font size 18px with 1.65 line-height */
+}
+
 html, body { height: 100%; }
 
 body {
   background-color: #fcfaf2;
-  font: 13.34px 'PT Serif', serif;
-  font-size: small;
+  font: normal 112.5%/1.65 'PT Serif' serif;
   text-align: center;
 }
 
@@ -27,9 +30,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #237EBA; }
+a         { color: #2582BF; }
 a:hover   { color: #AA0000; }
-a:visited { color: #0C2B40; }
+a:visited { color: #0A2333; }
 
 /*****************************************************************************/
 /*
@@ -84,7 +87,7 @@ ul.posts span {
 }
 
 .site .header a.extra {
-  color: #aaa;
+  color: #D1D1D1;
   margin-left: 1em;
 }
 
