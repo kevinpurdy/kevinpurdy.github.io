@@ -5,23 +5,12 @@ published: true
 ---
 
 <div id="home">
-  <h3>Things on Which I Work</h3>
-  <table class="project">
-    <tr>
-      <td class="project"><a href="http://kevinpurdy.contently.com"><img src="/assets/contently.jpg"/></a>
-			  <br/>Writing portfolio (on Contently)</td>
-      <td class="project"><a href="http://tedxbuffalo.com"><img src="/assets/tedxbuffalo.jpg"/></a>
-			  <br/>Founder & Program Director, <a href="http://tedxbuffalo.com">TEDxBuffalo</a></td>
-      <td class="project"><a href="http://coworkbuffalo.com"><img src="/assets/coworkbuffalo.png"/></a>
-			  <br/>Co-Founder & Executive VP of Caffeine, <a href="http://coworkbuffalo.com">CoworkBuffalo</a></td>
-    </tr>
-    <tr>
-      <td class="project"><a href="http://5by5.tv/inbeta"><img src="/assets/inbeta.jpg"/>
-			  <br/>Co-Host, <a href="http://5by5.tv/inbeta">In Beta</a></td>
-      <td class="project"><a href="http://ignitebuffalo.com"><img src="/assets/ignitebuffalo.jpg"/></a>
-			  <br/>Lead organizer, <a href="http://ignitebuffalo.com">Ignite Buffalo</a></td>
-      <td class="project"><a href="http://inpodform.com"><img src="/assets/inpodform.jpg"/></a></td>
-			  <br/>Co-Host, <a href="http://inpodform.com">In Pod Form</a></td>
-    </tr>
-  </table>
+  <h2>Work, present and past</h2>
+  <p class="drop-cap">I am, primarily, a writer.</p>
+  <p>I have a <a href="http://kevinpurdy.contently.com">portfolio of recent work up at Contently</a>. I write most often about technology, but also <a href="http://the-magazine.org/23/the-everending-story#.UnPEU6pDt2M">obsessive video game modders</a>, <a href="http://www.buffalospree.com/Buffalo-Spree/May-2013/Leaders-of-the-Pack-On-the-trail-of-Buffalos-most-elusive-organization">secretive moneyed social clubs</a>, <a href="http://lifehacker.com/5585217/what-caffeine-actually-does-to-your-brain">caffeine</a>, and other nerdy things.</p>
+  <p>I'm getting better at podcasts. I co-host <a href="http://5by5.tv/inbeta">In Beta</a>, a weekly podcast with <a href="http://ginatrapani.org">Gina Trapani</a>. Every so often, I get to do another episode of <a href="http://inpodform.com">In Pod Form</a> with <a href="http://phildzikiy.com">Phil Dzikiy</a>.</p>
+
+  <p>I've launched a few events and projects in Buffalo. Namely: the annual <a href="http://tedxbuffalo.com">TEDxBuffalo</a> conference, <a href="http://coworkbuffalo.com">CoworkBuffalo</a> in downtown Buffalo, and the off-the-cuff <a href="http://ignitebuffalo.com">Ignite Buffalo</a> talk session.</p>
+  
+  <p>Want to hire me? Email me: <strong>ks{last name} {at} {gmail.com}</strong>
 </div>

@@ -19,7 +19,7 @@ html, body { height: 100%; }
 body {
   background-color: #fcfaf2;
   font: normal 112.5%/1.65 'PT Serif' serif;
-  font-size: small;
+/*  font-size: small; */
   text-align: center;
 }
 
@@ -171,17 +171,9 @@ ul.posts span img {
 
 /*****************************************************************************/
 /*
-/* Projects
+/* Ego writing (on Projects page)
 /*
 /*****************************************************************************/
 
-.project img { 
-  width:200px;
-  height:200px;
-}
+/* .ego span { */
 
-.project table, .project td {
-  border: 0px;
-  border-spacing: 5px;
-  border-padding: 5px;
-}
