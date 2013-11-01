@@ -50,7 +50,7 @@ ul.posts li {
 }
 
 ul.posts span {
-  color: #B0B0B0;
+  color: #575757;
   font-family: 'Monaco', monospace;
   font-size: 80%;
 }
@@ -92,7 +92,7 @@ ul.posts span img {
 }
 
 .site .header a.extra {
-  color: #D1D1D1;
+  color: #575757;
   margin-left: 1em;
 }
 
