@@ -181,5 +181,7 @@ ul.posts span img {
 }
 
 .project table, .project td {
-  border: 1px solid #237CB7;
+  border: 0px;
+  border-spacing: 10px;
+  border-padding: 10px;
 }

@@ -176,10 +176,12 @@ ul.posts span img {
 /*****************************************************************************/
 
 .project img { 
-  width:300px;
-  height:300px;
+  width:200px;
+  height:200px;
 }
 
 .project table, .project td {
-  border: 1px solid #237CB7;
+  border: 0px;
+  border-spacing: 5px;
+  border-padding: 5px;
 }
