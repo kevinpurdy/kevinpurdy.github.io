@@ -19,6 +19,7 @@ html, body { height: 100%; }
 body {
   background-color: #fcfaf2;
   font: normal 112.5%/1.65 'PT Serif' serif;
+  font-size: small;
   text-align: center;
 }
 
@@ -52,6 +53,10 @@ ul.posts span {
   color: #B0B0B0;
   font-family: 'Monaco', monospace;
   font-size: 80%;
+}
+
+ul.posts span img {
+  width:200px;
 }
 
 /*****************************************************************************/
@@ -162,4 +167,19 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+/*****************************************************************************/
+/*
+/* Projects
+/*
+/*****************************************************************************/
+
+.project img { 
+  width:200px;
+  height:200px;
+}
+
+.project table, .project td {
+  border: 1px solid #237CB7;
 }
