@@ -9,8 +9,8 @@ published: true
   <h2>Recent Blog Posts</h2>
   <ul class="posts">
     {% for post in site.posts limit: 3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-	  <br/>{{ post.excerpt }}</li>
+      <li><p><span><a href="{{ post.url }}">{{ post.excerpt }}</a></span><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        </p></li>
     {% endfor %}
       <li>&raquo; <a href="/archive/index.html">More posts ...</a></li>
   </ul>
