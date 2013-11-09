@@ -26,6 +26,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
   font-family: 'PT Sans Narrow', sans-serif;
+  padding-bottom: 1em;
 }
 
 h1 { margin-bottom: 1em; }

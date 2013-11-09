@@ -47,14 +47,11 @@ div.posts {
   margin-bottom: 2em;
 }
 
-div.posts li {
-  line-height: 1.75em;
-}
-
 div.posts span {
   color: #575757;
   font-family: 'Monaco', monospace;
   font-size: 80%;
+  line-height: 1.75em;
 }
 
 div.posts span img {

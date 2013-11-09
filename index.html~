@@ -5,10 +5,15 @@ published: true
 ---
 
 <div id="home">
-<h1>I am a freelance writer in Buffalo, NY</h1>
-  <h2>Recent Blog Posts</h2>
+
+<p class="drop-cap">I am a <a href="/projects/index.html">freelance writer</a>. I live in Buffalo, NY. I've worked on many articles, two books, two podcasts, and a few events.</p>
+
+<p>You can find me online at <a href="https://twitter.com/kevinpurdy">Twitter</a> , <a href="http://kevinpurdy.tumblr.com/">Tumblr</a>, <a href="https://plus.google.com/u/0/+KevinPurdy">Google+</a>, and <a href="http://flickr.com/photos/purdman1">Flickr</a>. If you're in Buffalo, I'm probably at <a href="http://coworkbuffalo.com">CoworkBuffalo</a> or walking <a href="#">Howard</a>.</p>
+
+<p>I blog here, but not at a good blog pace. Here are some recent posts:</p>
+
     {% for post in site.posts limit: 3 %}
-      <div><span><a href="{{ post.url }}">{{ post.excerpt }}</a></span><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></span>
+      <div class="posts"><span><a href="{{ post.url }}">{{ post.excerpt }}</a></span><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></span>
       </div>
     {% endfor %}
       <li>&raquo; <a href="/archive/index.html">More posts ...</a></li>
