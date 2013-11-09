@@ -14,7 +14,7 @@ tags:
 - old school
 ---
 
-![radio_shack_dialer](http://thepurdman.com/wp-content/uploads/2010/06/radio_shack_dialer.jpg)
+![radio_shack_dialer](/assets/uploads/2010/06/radio_shack_dialer.jpg)
 _Not the exact same dialer my father carried, but pretty close. (Via [PhishMe](http://blog.phishme.com/2007/08/oldschool-radioshack-redbox-1990s-preaking/).)_
 
 _Note: This post inspired by Gizmodo's feature on [what our dads taught us about tech](http://gizmodo.com/5568058/what-our-dads-taught-us-about-tech)._

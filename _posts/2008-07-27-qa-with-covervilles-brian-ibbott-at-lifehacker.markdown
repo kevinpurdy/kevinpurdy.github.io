@@ -11,7 +11,7 @@ tags:
 - Lifehacker
 ---
 
-![](http://thepurdman.com/wp-content/uploads/2008/07/ibbott_cropped.jpg)
+![](/assets/uploads/2008/07/ibbott_cropped.jpg)
 
 Brian Ibbott, creator and host of the long-running, ground-breaking music podcast [Coverville](http://www.coverville.com), agreed to chat with me last week, and [the Q&A; is posted at Lifehacker](http://lifehacker.com/399156/how-covervilles-brian-ibbott-gets-things-done).
 

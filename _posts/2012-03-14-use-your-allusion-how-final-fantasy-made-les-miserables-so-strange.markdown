@@ -23,7 +23,7 @@ tags:
 - video games
 ---
 
-![Screen from Arm Joe 2D computer game](http://thepurdman.com/wp-content/uploads/2012/03/armjoe.jpg)
+![Screen from Arm Joe 2D computer game](/assets/uploads/2012/03/armjoe.jpg)
 
 
 

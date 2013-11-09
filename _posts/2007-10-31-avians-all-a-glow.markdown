@@ -12,7 +12,7 @@ tags:
 - Linux
 ---
 
-![Tux Gourd Style](http://thepurdman.com/wp-content/uploads/2007/10/tux_gourd_style11.jpg)
+![Tux Gourd Style](/assets/uploads/2007/10/tux_gourd_style11.jpg)
 _My friends laughed, but I still think he looks better
 than a Window. Or even an Apple._
 

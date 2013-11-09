@@ -11,7 +11,7 @@ tags:
 - navel gazing
 ---
 
-![Oh, the (easy) irony.](http://thepurdman.com/wp-content/uploads/2008/05/blogging_splash1.jpg)
+![Oh, the (easy) irony.](/assets/uploads/2008/05/blogging_splash1.jpg)
 
 I wrote up today's Top 10 feature on Lifehacker, [Top 10 Tools to Get Blogging Done](http://lifehacker.com/387619/top-10-tools-to-get-blogging-done). I wrote about how tools like Tumblr, Foxmarks, and others can make getting your ideas written and posted much easier.
 

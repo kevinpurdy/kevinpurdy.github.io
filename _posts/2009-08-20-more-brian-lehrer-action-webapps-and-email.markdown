@@ -13,7 +13,7 @@ tags:
 - WNYC
 ---
 
-![Mint.com income](http://thepurdman.com/wp-content/uploads/2009/08/mint_income.jpg)
+![Mint.com income](/assets/uploads/2009/08/mint_income.jpg)
 _Not my real income/spending, but, damn, Mint.com makes self-reflection look sexy._
 
 I'm really enjoying my guest stint on [_The Brian Lehrer Show_](http://www.wnyc.org/shows/bl/) on WNYC, public radio for New York City. When someone, be it a host or caller, forces you to actually _talk_ about something you write about every morning in short bursts, it brings a new kind focus to it. You're forced to think about the most commonly applicable aspects of technology and productivity thinking--what I like to call the "Brother-in-Law Test" (more on that some other time).

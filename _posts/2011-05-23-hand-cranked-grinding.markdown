@@ -8,7 +8,7 @@ title: Hand-Cranked Grinding
 wordpress_id: 289
 ---
 
-![Hario Skerton coffee grinder](http://thepurdman.com/wp-content/uploads/2011/05/hario_grinder.jpg)
+![Hario Skerton coffee grinder](/assets/uploads/2011/05/hario_grinder.jpg)
 _Photo by [dennis.tang](http://www.flickr.com/photos/tangysd/4384467603/in/photostream/)._
 
 I've become something of a coffee snob lately. The snobbery took root in [research for a Lifehacker feature](http://lifehacker.com/5778831/dropping-the-drip-how-to-get-started-with-better-coffee-making), then quickly grew to encompass two kitchen cabinet shelves, quite a few spare thoughts, and whatever discretionary dollars I can justify. It's at the point where, standing outside myself, I can see what it looks like to make a pained decision between single estate Colombian and triple African Kona blends. The word "precious" comes to mind, but here's how I can forgive myself.<!-- more -->
@@ -20,7 +20,7 @@ Whether you're making espresso or drip-based coffee, you have control over certa
 
 My preference is the [inverted Aeropress method](http://sprudge.com/aeropress-champion-marie-hagemeisters-winning-brew-method.html), which is something like a hybrid of a French press and hand-powered espresso machine. To get better coffee from the system, I've run some experiments and taken some notes. For each amount of coffee I want to make--every 1.5-ounce espresso-like "shot," or every five ounces of espresso-plus-water "Americano" coffee--I've measured out the coffee-to-water ratio set down by the [Specialty Coffee Association of America](http://scaa.org/), along with the timing on my particular microwave to get that amount of water to a certain temperature.
 
-![Hand-drawn coffee ratio and water heating table](http://thepurdman.com/wp-content/uploads/2011/05/coffee_times2.jpg)
+![Hand-drawn coffee ratio and water heating table](/assets/uploads/2011/05/coffee_times2.jpg)
 
 Knowing all that, the only thing left is to get some coffee grounds ready. The [AeroPress](http://www.aerobie.com/Products/aeropress.htm) is like a syringe, creating a vacuum seal that you press liquid through with your hand power. If you grind your coffee too finely, _a la_ espresso, the grounds can create a seal and cause you some serious anguish and embarrassment, as even the most dedicated gym rat will look ridiculous trying to out-muscle the universe. Grind too coarse, closer to French press styles or the pre-ground supermarket stuff, and your water doesn't get optimum exposure to enough surfaces of your beans. So you aim to get a consistent grind that's just in the right in-between spot, and that is [best accomplished with a burr grinder, not an electric-powered blade](http://www.gimmecoffee.com/galleries/grinder_fight/).
 
@@ -28,7 +28,7 @@ So most every night, or sometimes early in the morning, it's time to pull [Hario
 
 At first, nothing is happening. You _hear_ something and feel the resistance shiver up your arms, and if you lowered your eyes and looked into the reservoir, you'd see that there was, indeed, grounds starting to pile up. But you look at the beans, and despite how your arm starts to feel after a few dozen turns, it looks like the beans haven't moved at all. You think about the electric grinder, which is more like a chopper, but at least you see the beans fling themselves about in its lid and get smaller with each pass, and all you have to do is stand there and keep the button pressed down. Still--keep grinding. If you must, take a break and look at what you're turning out. It's consistent, it looks really nice, and you're the one who created it. Now--back to the grind.
 
-![Hand versus electric grinder results](http://thepurdman.com/wp-content/uploads/2011/05/hand_versus_blade_grind.jpg)
+![Hand versus electric grinder results](/assets/uploads/2011/05/hand_versus_blade_grind.jpg)
 _Photo via [Gimme! Coffee](http://www.gimmecoffee.com/galleries/grinder_fight/)._
 
 Eventually, you notice the level of beans has indeed lowered, and soon after that, you're just grinding in a state of contentment. If you're alone, you might even be able, to paraphrase [_The Miracle of Mindfulness_](http://www.goodreads.com/book/show/95747.The_Miracle_of_Mindfulness), to grind the coffee not just to ensure good coffee the next day and get back to your evening, but to grind the coffee in order to grind the coffee. You're investing in a better product, giving your arms a workout, and cementing in your mind the real cost of good things. But all you know is the crank, the container, and the sound and vibration of the job. And then you're done.

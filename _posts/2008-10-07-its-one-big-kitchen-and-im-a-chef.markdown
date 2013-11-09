@@ -13,7 +13,7 @@ tags:
 - One Big Kitchen
 ---
 
-![](http://thepurdman.com/wp-content/uploads/2008/10/onebigkitchen_scaled.jpg)
+![](/assets/uploads/2008/10/onebigkitchen_scaled.jpg)
 
 I was a contributor at [Buffalo Buffet](http://buffalobuffet.com), the Western-New-York-centric food blog run by my good friend Andrew Galarneau, from its earliest inception.
 

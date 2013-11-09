@@ -13,4 +13,4 @@ tags:
 
 but there are people still cranking out quality material for me to laugh at, delivered at high speed every day:
 
-![too_easy.jpg](http://thepurdman.com/wp-content/uploads/2007/12/too_easy1.jpg)
+![too_easy.jpg](/assets/uploads/2007/12/too_easy1.jpg)

@@ -15,7 +15,7 @@ tags:
 - wxxi
 ---
 
-![wxxi](http://thepurdman.com/wp-content/uploads/2009/06/wxxi.jpg)
+![wxxi](/assets/uploads/2009/06/wxxi.jpg)
 _Wrote notes to organize thoughts on blogging. Proceeded to talk about cats, iPhone cameras, magnets._
 
 I was lucky enough to be [interviewed](http://www.publicbroadcasting.net/wxxi/news.newsmain/article/2446/0/1520186/Mixed.Media/Mixed.Media..Life.Hacking.06-24-09) at Rochester's local NPR affiliate, [WXXI](http://wxxi.org), for its weekly _Mixed Media_ segment. You can hear my 13:48 of audio fame in a [full, streaming podcast](http://www.publicbroadcasting.net/wxxi/news.newsmain/article/2446/0/1520186/Mixed.Media/Mixed.Media..Life.Hacking.06-24-09); the version that plays on actual air waves (July 1 at about 3:44pm, methinks?) will be much shorter. It's mostly a soft, slightly rambling introduction to [Lifehacker](http://lifehacker.com), as well as some honest answers about what it's like to blog for a living.

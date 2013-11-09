@@ -8,7 +8,7 @@ title: My 2012 Year in Review, Part 1 or, My Grandfather’s Tub Bass
 wordpress_id: 412
 ---
 
-![dick_purdy_christmas](http://thepurdman.com/wp-content/uploads/2013/01/dick_purdy_christmas.jpg)
+![dick_purdy_christmas](/assets/uploads/2013/01/dick_purdy_christmas.jpg)
 
 
 
@@ -46,7 +46,7 @@ The other option, the one I’m aiming for here, is to treat each hard-come-by o
 
 
 
-![dpurdy_and_ladies_600](http://thepurdman.com/wp-content/uploads/2013/01/dpurdy_and_ladies_600.jpg)
+![dpurdy_and_ladies_600](/assets/uploads/2013/01/dpurdy_and_ladies_600.jpg)
 
 
 

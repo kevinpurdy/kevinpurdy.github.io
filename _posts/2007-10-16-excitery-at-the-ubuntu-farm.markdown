@@ -11,7 +11,7 @@ tags:
 - Linux
 ---
 
-![purdman_ubuntu_crop](http://thepurdman.com/wp-content/uploads/2007/10/purdman_ubuntu_crop1.jpg)
+![purdman_ubuntu_crop](/assets/uploads/2007/10/purdman_ubuntu_crop1.jpg)
 _Colors I can never wear, but love to have on my desktop_
 
 Over at Lifehacker, I took [a screenshot tour](http://lifehacker.com/software/screenshot-tour/a-look-at-ubuntu-710-gutsy-gibbon-rc1-311005.php) through installing the latest release from Ubuntu, 7.10, or "Gutsy Gibbon," as it's code-named. I plan to offer a few more comments here on what's still missing from the most popular/buzz-worthy Linux distribution, but overall, I'm pretty satisfied.

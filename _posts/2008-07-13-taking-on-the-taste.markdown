@@ -13,7 +13,7 @@ tags:
 - Taste of Buffalo
 ---
 
-![Taste of Buffalo 2008](http://thepurdman.com/wp-content/uploads/2008/07/3_taste_treats1.jpg)
+![Taste of Buffalo 2008](/assets/uploads/2008/07/3_taste_treats1.jpg)
 
 One man, alone (actually, accompanied by a patient wife and/or a friend or two) and unarmed (except with a camera, wallet, iPod touch, keys, a water bottle, pre-applied sunscreen and sunglasses) against a horde (nearly 60, actually) of Buffalo's restaurants, all lined up on one avenue, for two days.
 

@@ -19,6 +19,6 @@ The sad part? What _really_ pushed the upgrade was the new WordPress [iPhone app
 
 Here's an _exclusive_, exciting sneak peek at the late-night fun involved in re-building a site to fit the Cutline theme!
 
-![WordPress code for Cutline redesign](http://thepurdman.com/wp-content/uploads/2008/07/redesign_code.gif)
+![WordPress code for Cutline redesign](/assets/uploads/2008/07/redesign_code.gif)
 
 

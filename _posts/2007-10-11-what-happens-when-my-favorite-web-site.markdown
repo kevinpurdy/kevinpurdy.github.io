@@ -15,7 +15,7 @@ tags:
 
 Well, [this](http://lifehacker.com/software/announcements/introducing-guest-editor-kevin-purdy-308107.php), namely.
 
-![lifehacker_clip](http://thepurdman.com/wp-content/uploads/2007/10/lifehacker_clip1.jpg)
+![lifehacker_clip](/assets/uploads/2007/10/lifehacker_clip1.jpg)
 
 It also partially explains why I haven't had a post up here in a while, because I'm doing my own life-hacking and working to fit all my schedules together.
 

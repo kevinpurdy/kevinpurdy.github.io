@@ -13,7 +13,7 @@ tags:
 - smartphones
 ---
 
-![Some favorite Android apps, folder-ized](http://thepurdman.com/wp-content/uploads/2011/11/android_apps_still_using.png)
+![Some favorite Android apps, folder-ized](/assets/uploads/2011/11/android_apps_still_using.png)
 _These are a few of my favorite things_
 
 

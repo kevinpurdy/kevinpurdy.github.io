@@ -1,0 +1,18 @@
+---
+author: Kevin Purdy
+comments: true
+date: 2008-07-29 13:43:36+00:00
+layout: post
+slug: what-i-use
+title: What I use
+wordpress_id: 91
+tags:
+- geekery
+- Lifehacker
+- navel gazing
+---
+
+![Cork and Thinkpad](http://thepurdman.com/wp-content/uploads/2008/07/cork_and_thinkpad.jpg)
+_A ThinkPad, a cat that doesn't understand personal space, coffee, and water--vital parts of my morning routine._
+
+My social-media-savvy (and skilled) fellow Lifehacker [Tamar Weinberg](http://www.techipedia.com/) did the yeoman's job of getting the whole editorial team to spill [what we use](http://lifehacker.com/399296/the-lifehacker-editors-favorite-software-and-hardware) in discussing, planning, researching, and writing the site. My own picks and preferences are about halfway down the page--they'll stand out for all the Linux gear (plus the open admission to using Vista without a pistol to my frontal lobe).

@@ -16,7 +16,7 @@ tags:
 - rochester
 ---
 
-[![Cork is Mr. Manager. Of beer.](http://thepurdman.com/wp-content/uploads/2009/02/beery_gaze2.jpg)](http://www.flickr.com/photos/purdman1/3282892335/in/set-72157613542941075/)
+[![Cork is Mr. Manager. Of beer.](/assets/uploads/2009/02/beery_gaze2.jpg)](http://www.flickr.com/photos/purdman1/3282892335/in/set-72157613542941075/)
 _What is happening?_
 
 Since the last time I dropped some HTML here (2008!), quite a bit has changed for the Purdman. Here's the traffic-friendly listicle version:
@@ -33,7 +33,7 @@ How to adapt to Rochester, then? Reverse every future-of-news-business article a
 
 	
   * **I turned 28:**
-![](http://thepurdman.com/wp-content/uploads/2009/02/birthday_wall.png)
+![](/assets/uploads/2009/02/birthday_wall.png)
 'Nuff said.
 
 	

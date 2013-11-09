@@ -16,7 +16,7 @@ tags:
 - tedxbuffalo
 ---
 
-_![Me, holding half a kayak paddle, in front of an outdoor projection screen set up for Rock Band 3. Yup.](http://thepurdman.com/wp-content/uploads/2011/12/at_spy_lake.jpg)_
+_![Me, holding half a kayak paddle, in front of an outdoor projection screen set up for Rock Band 3. Yup.](/assets/uploads/2011/12/at_spy_lake.jpg)_
 
 _Look closely, and you'll notice I'm holding only half a kayak paddle. Which could be a metaphor for how I feel writing about my own year in review. Yup. (Photo by Jennifer Phillips)_
 
@@ -26,7 +26,7 @@ Man, this week was slow. This last week, the one between Christmas and New Year�
 
 **Leaving Lifehacker**
 
-![Image from my last (official) Lifehacker post](http://thepurdman.com/wp-content/uploads/2011/12/last_lifehacker_post.jpg)
+![Image from my last (official) Lifehacker post](/assets/uploads/2011/12/last_lifehacker_post.jpg)
 
 It was a big deal, stepping away from the job that changed my life. But after three and a half years of waking up early, scanning hundreds of headlines, and pinching five or six rapid-fire posts, plus a feature or two every week, it was [time to go](http://lifehacker.com/5797054/five-lists-of-five-things-i-learned-at-lifehacker).
 
@@ -44,7 +44,7 @@ So I wrote about [my “knitting circle”](http://www.fastcompany.com/1800307/w
 
 **TEDxBuffalo 2011**
 
-![Me on stage at TEDxBuffalo 2011](http://thepurdman.com/wp-content/uploads/2011/12/tedx_stage.jpg)
+![Me on stage at TEDxBuffalo 2011](/assets/uploads/2011/12/tedx_stage.jpg)
 
 _Photo by Tricia Marcolini_
 
@@ -58,7 +58,7 @@ Anyways, I wrote up a [post-conference wrap-up](http://www.tedxbuffalo.com/tedxb
 
 **_Google+: The Missing Manual_**
 
-![Cover of Google+: The Missing Manual](http://thepurdman.com/wp-content/uploads/2011/12/gplus_mm_cover.jpg)
+![Cover of Google+: The Missing Manual](/assets/uploads/2011/12/gplus_mm_cover.jpg)
 
 When I wasn’t making my friends sick of hearing about TEDxBuffalo, I was deflating all their remaining camraderie with grumbles about “the book.” The book was my second instructional tome about a Google product, after [_The Complete Android Guide_](http://completeandroidguide.com), but this time published and edited by what you might call a more traditional publisher, O’Reilly Media. Even though O’Reilly is an innovator in many areas of the publishing field, it’s becoming a kind of standard-bearer for tech publications, and there’s a well-defined process for pitching, writing, and producing a book.
 
@@ -68,7 +68,7 @@ It’s an ebook sold without any digital restrictions, with free lifetime downlo
 
 **In Pod Form**
 
-![First episode of In Pod Form](http://thepurdman.com/wp-content/uploads/2011/12/inpodform_clip.jpg)
+![First episode of In Pod Form](/assets/uploads/2011/12/inpodform_clip.jpg)
 
 Here’s another thing that was hard to do this year: [start a podcast](http://inpodform.com). Not with Lifehacker, or O’Reilly, or from any other pre-existing platform I’ve lucked into. Just from the efforts of myself and [Phil Dzikiy](http://phildzikiy.com). It has been humbling, in all the right ways, to start from scratch, learning how to not suck at planning, recording, editing, publishing, and promoting a show where two guys you (probably) don’t know are trying to entertain you with takes on the news, not-that-young dude culture, technology, and other not-too-specific topics.
 
@@ -78,7 +78,7 @@ It’s been revealing to see how hard it is to build an audience from scratch. A
 
 **Travels**
 
-![The floor of an apartment in Austin, Tex., where way too many young men were staying.](http://thepurdman.com/wp-content/uploads/2011/12/southby_mattress.jpg)
+![The floor of an apartment in Austin, Tex., where way too many young men were staying.](/assets/uploads/2011/12/southby_mattress.jpg)
 
 [TripIt](http://tripit.com) says that I traveled 0 miles in 2011, but I trust my memory more than their apparently twitchy API.
 

@@ -8,7 +8,7 @@ title: Szekely's Principle (a.k.a. an Ode to the Nexus One)
 wordpress_id: 302
 ---
 
-![The Nexus One, Booting Up on Its Own Box](http://thepurdman.com/wp-content/uploads/2011/06/n1_boot_and_box.jpg)
+![The Nexus One, Booting Up on Its Own Box](/assets/uploads/2011/06/n1_boot_and_box.jpg)
 _Unlocked and ready to roll._
 
 
@@ -37,7 +37,7 @@ There were Android phones before the first Nexus, of course, and even Google-ble
 
 
 
-![Nexus One, closeup of back](http://thepurdman.com/wp-content/uploads/2011/06/n1_back_closeup.jpg)
+![Nexus One, closeup of back](/assets/uploads/2011/06/n1_back_closeup.jpg)
 
 
 
@@ -57,7 +57,7 @@ When it [finally, actually launched](http://lifehacker.com/5440719/the-news-you-
 
 
 
-![Nexus One, closeup of front/bottom](http://thepurdman.com/wp-content/uploads/2011/06/n1_front_closeup.jpg)
+![Nexus One, closeup of front/bottom](/assets/uploads/2011/06/n1_front_closeup.jpg)
 
 
 
@@ -75,7 +75,7 @@ After the initial buzz, though, the Nexus One proved to be an earnest failure, a
 
 Me? I loved my Nexus One. Best device I've bought in my life. Part of that is how I bought it: off-contract, with a cheap T-Mobile data plan already in place (for my contract-price G1), enthused about using it to write an up-to-date [Complete Android Guide](http://completeandroidguide.com). It felt just fine in my pocket, it didn't need a case, and while the camera wasn't amazing, it was the camera I always had with me, as [evidenced by my (kinda neglected) Flickr stream](http://www.flickr.com/photos/purdman1). The Nexus One was indeed the first phone to get the Android 2.2 update, and since it's the phone of choice for Android developers, I've basically never had a compatibility issue with a Market app or third-party firmware. But then the Nexus S launched, and ol' model One took a good long while to get its Android 2.3 fix, behind the new Senior Prom King Nexus.
 
-![Nexus One at boot-up screen, with accessories and original packaging](http://thepurdman.com/wp-content/uploads/2011/06/n1_paraphernalia.jpg)
+![Nexus One at boot-up screen, with accessories and original packaging](/assets/uploads/2011/06/n1_paraphernalia.jpg)
 
 
 

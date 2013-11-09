@@ -8,7 +8,7 @@ title: The Android Book, Fanboys, Printable Check-Ins, and Goodbye to 2010
 wordpress_id: 282
 ---
 
-![complete_android_guide](http://thepurdman.com/wp-content/uploads/2010/10/complete_android_guide.jpg)
+![complete_android_guide](/assets/uploads/2010/10/complete_android_guide.jpg)
 _That's not my black nail polish, or my hand, or Mac setup, even if they're all pretty nice. Photo by [@cassandrarife](http://twitter.com/cassandrarife/status/25981101635)._
 
 If you want something done, the saying goes, give it to a busy person. Except a personal blog post.
@@ -20,7 +20,7 @@ The busiest people I know, especially those that write online for a living, wear
 ### [The Complete Android Guide](http://completeandroidguide.com)
 
 
-[![cag_clip](http://thepurdman.com/wp-content/uploads/2011/01/cag_clip.png)](http://completeandroidguide.com)
+[![cag_clip](/assets/uploads/2011/01/cag_clip.png)](http://completeandroidguide.com)
 It's a how-to guide for Android smartphone users, covering all the little buttons, menus, inter-app capabilities, system settings, and interface differences that make owning a Droid, EVO, Galaxy, Nexus, or any other Google-powered smartphone so fun--and intimidating. The first edition is available for [purchase](http://completeandroidguide.com), both as a print edition and an ebook that looks great on a Kindle, iPad, or any screen, really.
  
 I'm majorly proud of the team at [3Ones](http://3ones.com) that helped put this together, and continues to support the product, but I'm also inspired by the business model they've put together. New editions come out just as soon as I have time to check out new Google releases, and those who own previous editions can get new ebook copies, covering all the changes, for just 99 cents. At this very moment, I'm only hours away from turning on a Nexus S and taking screenshots of Android 2.3 (a.k.a. "Gingerbread.") And the whole thing is available as a [free wiki for anyone to read](http://www.completeguides.net/01_The_Complete_Android_Guide)--that's where I write my changes and rethink the sections. And the ebook product is unencumbered by copy protection or device-specific coding. You can use those PDF and ePub files on any device you choose, as many as you have.
@@ -51,7 +51,7 @@ Want to help out? We can use all you have, whether it's a speaker pitch, an offe
 ### Fanboy
 
 
-![google_fan_hat](http://thepurdman.com/wp-content/uploads/2011/01/google_fan_hat.png)
+![google_fan_hat](/assets/uploads/2011/01/google_fan_hat.png)
 Speaking of simplification! Writing a book about Android phones, while simultaneously trying to cover the latest updates and finds for Windows, Mac, Linux, more than a dozen notable browsers, and thousands of nifty webapp services, has certainly made my input streams more, shall we say, pointed. Other Lifehacker writers experience this, too, from time to time. So, here's some air-clearing. (_Photo by [Snazzo](http://www.flickr.com/photos/snazzo/5217676380/in/photostream/)._)
  
 I did write an entire 280-plus page book about how to use Android. I do own a Nexus One, perhaps the most geeky of Android phones out there (up until the Nexus S). And I'm lucky enough that Google sometimes lets me borrow a new device to try it out and document the best ways to use it. I am enthusiastic about the potential of Android, and I'm generally more sympathetic to open-source projects than walled gardens, cathedrals, or whatever Renaissance-era allegory you want to use for proprietary technology.

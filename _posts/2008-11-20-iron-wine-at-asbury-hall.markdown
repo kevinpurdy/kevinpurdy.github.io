@@ -12,7 +12,7 @@ tags:
 - video
 ---
 
-![Iron & Wine at Babeville, by LibraRonin](http://thepurdman.com/wp-content/uploads/2008/11/iron_and_wine_buffalo.jpg)
+![Iron & Wine at Babeville, by LibraRonin](/assets/uploads/2008/11/iron_and_wine_buffalo.jpg)
 _Sarah and Samuel Beam, on-stage at Asbury Hall/Babeville, Nov. 12, 2008. Photo by [LibraRonin](http://flickr.com/photos/libraronin/3030475105/)._
 
 [Iron & Wine](http://www.ironandwine.com/) is one of the very few music acts the wife and I have Absolute Agreement on, so we snapped up tickets to their Nov. 12 gig at Ani DiFranco's [Babeville](http://www.babevillebuffalo.com/), a.k.a. Asbury Hall, as soon as we knew about the gig.

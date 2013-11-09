@@ -20,7 +20,7 @@ tags:
 - video
 ---
 
-![loved_them_myths](http://thepurdman.com/wp-content/uploads/2010/03/loved_them_myths.jpg)_"What's your Twitter handle? Are you looking for VC money? On Foursquare? HELLOOOO?!?" (image via [Wikimedia Commons](http://en.wikipedia.org/wiki/File:Michelangelo_Caravaggio_065.jpg))._
+![loved_them_myths](/assets/uploads/2010/03/loved_them_myths.jpg)_"What's your Twitter handle? Are you looking for VC money? On Foursquare? HELLOOOO?!?" (image via [Wikimedia Commons](http://en.wikipedia.org/wiki/File:Michelangelo_Caravaggio_065.jpg))._
 
 Over a long weekend in September 2007, and right before I sent an overly earnest pitch letter to the editors at [Lifehacker](http://lifehacker.com), I [created this web site](http://thepurdman.com/hello-world/) so that I might appear impressive, experienced, and engaged in the wider world of tech.
 
@@ -32,7 +32,7 @@ This is, as _The Wire_'s Marlo Stanfield put it, "[One of those good problems](h
 
 Oh, well. This update mostly keeps the pace down that same, singular street, but let's hope it's the last block before I turn the corner again. Having pounded that extended metaphor into the pavement (meta!), let's get to the new stuff about **me, me, me:**
 
-![sense_of_urgency](http://thepurdman.com/wp-content/uploads/2010/03/sense_of_urgency.jpg)
+![sense_of_urgency](/assets/uploads/2010/03/sense_of_urgency.jpg)
 
 **Writing a book:** The Complete Guide to Android. There is nothing to show at this point, and nothing's ever certain. But I'm sure trying to get something done, in the vein of Gina Trapani's [Complete Guide to Google Wave](http://completewaveguide.com/), with the topic being the rising [Android](http://en.wikipedia.org/wiki/Android_(operating_system)) smartphone OS from Google.
 
@@ -46,7 +46,7 @@ As you might imagine, it's a Buffalo-focused take on the [Iron Chef (America)](h
 
 I was asked to represent [Buffalo Spree magazine](http://buffalospree.com) as a judge at the first regular season throw-down, and I gladly accepted, since tickets last year sold out before I could think twice about it. Adam Goetz from [SAMPLE](http://sampleourrestaurant.com) took on challenger Ross Warhol, executive chef at the Chautauqua Institution's [Athenaeum Hotel](http://www.ciweb.org/athenaeum-home/), with the secret ingredient being [whole milk ricotta cheese from Sorrento](http://www.sorrentocheese.com/cheeses/ricotta.html), itself headquartered in Buffalo.
 
-![nickel_city_chef](http://thepurdman.com/wp-content/uploads/2010/03/nickel_city_chef.jpg)_Via [Nickel City Chef [Facebook]](http://www.facebook.com/photo.php?pid=3459155&id=82593583947)._
+![nickel_city_chef](/assets/uploads/2010/03/nickel_city_chef.jpg)_Via [Nickel City Chef [Facebook]](http://www.facebook.com/photo.php?pid=3459155&id=82593583947)._
 
 The highlights:
 
@@ -67,8 +67,8 @@ The highlights:
 
 **Artvoice's 5 Questions With ...** Were [asked of me](http://artvoice.com/issues/v9n7/five_questions). My dad later informed me that the "little brown device" he carried around was actually a signal emitter that let him use his own long distance service over AT&T lines. Which is kind of neat, to learn your dad dabbled in [phone phreaking](http://en.wikipedia.org/wiki/Phreaking) while you were wolfing down Honey Nut Cheerios.
 
-![ppg](http://thepurdman.com/wp-content/uploads/2010/03/ppg.jpg)**Pittsburgh Post-Gazette:** Interviewed me for a feature, ["'Life hack' aims to boost productivity in workplace](http://www.post-gazette.com/pg/10060/1038905-407.stm)." Steve Twedt was great to talk to, and genuinely interested in learning about the roots, range, and regular uses of all kinds of things Lifehacker-ish.
+![ppg](/assets/uploads/2010/03/ppg.jpg)**Pittsburgh Post-Gazette:** Interviewed me for a feature, ["'Life hack' aims to boost productivity in workplace](http://www.post-gazette.com/pg/10060/1038905-407.stm)." Steve Twedt was great to talk to, and genuinely interested in learning about the roots, range, and regular uses of all kinds of things Lifehacker-ish.
 
-![cbs3](http://thepurdman.com/wp-content/uploads/2010/03/cbs3.jpg)**CBS3 Philadelphia:** Did a video Skype interview for a [feature on resolution-keeping apps](http://cbs3.com/video/?id=94273@kyw.dayport.com).
+![cbs3](/assets/uploads/2010/03/cbs3.jpg)**CBS3 Philadelphia:** Did a video Skype interview for a [feature on resolution-keeping apps](http://cbs3.com/video/?id=94273@kyw.dayport.com).
 
 Yeesh. I feel like I'm about to drown in the internet equivalent of a [very still pond](http://en.wikipedia.org/wiki/Narcissus_(mythology)). With all that What I've Been Up To out of the way, though, I aim to write something else next time. Something [with cheese](http://www.flickr.com/photos/purdman1/4389302593/), perhaps.

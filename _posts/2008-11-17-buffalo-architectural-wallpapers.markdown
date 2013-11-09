@@ -13,7 +13,7 @@ tags:
 - Things I Really Like
 ---
 
-![](http://thepurdman.com/wp-content/uploads/2008/11/nyt_buff_architecture_splash.jpg)
+![](/assets/uploads/2008/11/nyt_buff_architecture_splash.jpg)
 _Nine things to like about the Nickel City_
 
 So the New York Times gave Buffalo's architectural treasures [ the feature treatment](http://www.nytimes.com/2008/11/16/arts/design/16ouro.html) on Sunday, detailing our city's beautiful contradictions and breathtaking buildings. We've got projects designed by architectural progressives who had brilliant designs on the future, while the modern city itself ... well, that's another 40 posts or so.
