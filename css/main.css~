@@ -42,23 +42,24 @@ a:visited { color: #0A2333; }
 /* Home
 /*
 /*****************************************************************************/
-ul.posts {
+div.posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
 
-ul.posts li {
+div.posts li {
   line-height: 1.75em;
 }
 
-ul.posts span {
+div.posts span {
   color: #575757;
   font-family: 'Monaco', monospace;
   font-size: 80%;
 }
 
-ul.posts span img {
+div.posts span img {
   width:300px;
+  margin: 10px; 
 }
 
 /*****************************************************************************/
