@@ -115,11 +115,9 @@ p + .drop-cap {
  *
  */
 
-/**
 html {
- 	font: normal 112.5%/1.65 serif; /* base font size 18px with 1.65 line-height;
+	font: normal 112.5%/1.65 serif; /* base font size 18px with 1.65 line-height */
 }
- */
 
 body {
 	-webkit-hyphens: auto;
@@ -128,7 +126,7 @@ body {
 	-o-hyphens: auto;
 	hyphens: auto;
 	word-wrap: break-word;
-#	color: #444444;
+	color: #444444;
 }
 
 
