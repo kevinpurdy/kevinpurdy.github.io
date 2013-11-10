@@ -6,6 +6,9 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
+	<!-- Reset -->
+	<link rel="stylesheet" href="/css/reset.css">
+
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
@@ -31,9 +34,7 @@
            <a class="extra" href="/archive/index.html">archive</a>
            <a class="extra" href="/contact/index.html">contact</a>
           </div>
-
           {{ content }}
-
           <div class="footer">
             <div class="contact">
               <p>
