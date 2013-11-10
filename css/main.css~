@@ -5,6 +5,7 @@
 /* 1. Responsive Template: Added media-queries so that it works well
 /*    on a wide-range of screens.
 /*
+/* (Slightly modified further by Kevin Purdy (github.com/kevinpurdy), mostly with custom needs and Typeplate tweaks)
 
 The MIT License (MIT)
 
@@ -51,6 +52,13 @@ body {
   line-height: 1.45em;
   padding: 0 2em;
   text-rendering: optimizeLegibility;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -o-hyphens: auto;
+  hyphens: auto;
+  word-wrap: break-word;
+  color: #444444;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -81,7 +89,7 @@ h3 {
   line-height: 1.4em;
 }
 
-p { margin: 0 0 1em; }
+p { margin: 0 0 1.0em; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
@@ -143,7 +151,7 @@ div.posts span img {
   margin: auto;
   max-width: 33.875em;
   padding: 0 1em;
-  color: #111;
+#  color: #111;
 }
 
 .site .header a {
@@ -307,4 +315,132 @@ code {
     font-size: 110%;
     padding: 0;
   }
+}
+
+/********************************************************************/
+/*        Additions from TypePlate:
+ * URL ............ http://typeplate.com
+ * VERSION ........ 1.1.1
+ * Github ......... https://github.com/typeplate/typeplate.github.io
+ * AUTHORS ........ Dennis Gaebel (@gryghostvisuals) & Zachary Kain (@zakkain)
+ * LICENSE ........ Creative Commmons Attribution 3.0
+ * LICENSE URL .... http://creativecommons.org/licenses/by/3.0
+/********************************************************************/
+
+/**
+ *
+ * =======================================================================
+ * Drop Capitals:
+ * Extend this object into your markup.
+
+	 <p class="drop-cap">What a wonderful day it is out there wouldn't you'd say?</p>
+
+	* =======================================================================
+ */
+
+.drop-cap:first-letter {
+	float: left;
+	margin: auto .25em auto auto;
+	padding: inherit;
+	font-size: 4em;
+	font-family: inherit;
+	line-height: 1;
+	text-indent: 0;
+	background: transparent;
+	color: inherit;
+}
+
+p + .drop-cap {
+	text-indent: 0;
+	margin-top: 0;
+}
+
+/**
+ *
+ * =======================================================================
+	 Hyphens
+ * =======================================================================
+ */
+
+abbr,
+acronym,
+blockquote,
+code,
+dir,
+kbd,
+listing,
+plaintext,
+q,
+samp,
+tt,
+var,
+xmp {
+	/* Accepted values: [ none | manual | auto ] */ /* http://meyerweb.com/eric/thoughts/2012/12/17/where-to-avoid-css-hyphenation */
+	-webkit-hyphens: none; /* Safari 5.1 thru 6, iOS 4.2 thru 6 */
+	-moz-hyphens: none; /* Firefox 16 thru 20 */
+	-ms-hyphens: none; /* IE10 */
+	-o-hyphens: none; /* PRESTO...haha LOL */
+	hyphens: none;	 /* W3C standard */
+}
+
+/**
+ *
+ * =======================================================================
+	 Pull Quotes
+ * =======================================================================
+ */
+
+/**
+ * Pull Quotes Markup
+ *
+	<aside class="pull-quote">
+		<blockquote>
+			<p></p>
+		</blockquote>
+	</aside>
+ *
+ * Extend this object into your custom stylesheet.
+ *
+ */
+
+.pull-quote {
+	position: relative;
+	padding: 1em;
+}
+.pull-quote:before,
+.pull-quote:after {
+	height: 1em;
+	opacity: 0.15;
+	position: absolute;
+	font-size: 4em;
+	color: #dc976e;
+}
+.pull-quote:before {
+	content: '“';
+	top: 0;
+	left: 0;
+}
+.pull-quote:after {
+	content: '”';
+	bottom: 0;
+	right: 0;
+}
+
+/**
+ *
+ * =======================================================================
+	 Unicode Ampersand
+ * =======================================================================
+ */
+
+@font-face {
+	font-family: "Ampersand";
+	src: local("Georgia"), local("Garamond"), local("Palatino"), local("Book Antiqua");
+	unicode-range: U+0026;
+}
+
+@font-face {
+	font-family: "Ampersand";
+	src: local("Georgia");
+	unicode-range: U+270C;
 }

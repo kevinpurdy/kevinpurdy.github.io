@@ -16,7 +16,7 @@
         <link rel="stylesheet" href="/css/main.css">
 
 	<!-- Typeplate CSS - fingers crossed -->
-	<link rel="stylesheet" href="/css/typeplate.css">
+	<!-- <link rel="stylesheet" href="/css/typeplate.css"> -->
 
 	<!-- Google Fonts -->
 	<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
