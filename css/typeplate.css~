@@ -128,7 +128,7 @@ body {
 	-o-hyphens: auto;
 	hyphens: auto;
 	word-wrap: break-word;
-	color: #444444;
+#	color: #444444;
 }
 
 
