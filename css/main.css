@@ -126,7 +126,7 @@ div.header {
 }
 
 .site .header h1.title {
-  display: inline-block;
+#  display: inline-block;
   font-size: 180%;
 }
 
