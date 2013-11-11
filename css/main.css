@@ -247,7 +247,7 @@ div.posts span img {
 }
 
 .post img {
-  max-width: 640px;
+  max-width: 100%;
 }
 
 .post ul, .post ol {
