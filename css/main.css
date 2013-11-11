@@ -143,6 +143,11 @@ div.header {
   margin-left: 1em;
 }
 
+.site .header a.extra_first {
+  color: #aaa;
+  margin-left: 0em;
+}
+
 .site .header a.extra:hover {
   color: #000;
 }
