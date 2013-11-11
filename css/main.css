@@ -241,6 +241,10 @@ div.posts span img {
   padding: 0.2em 0.5em;
 }
 
+.post img {
+  max-width: 640px;
+}
+
 .post ul, .post ol {
   margin-left: 1.35em;
 }
