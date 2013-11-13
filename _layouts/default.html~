@@ -6,8 +6,7 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	
-	<!-- RSS feed, maybe? -->
-	<link xmlns="http://www.w3.org/2005/Atom" href="http://kevinpurdy.github.io/feed.xml" rel="self" type="application/rss+xml" />
+	
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
