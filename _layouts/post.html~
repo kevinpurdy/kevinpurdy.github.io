@@ -4,9 +4,8 @@ layout: default
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
-
 <!-- Pocket button -->
+<p>
 <table align="left">
 <tr>
 <td><a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
@@ -19,6 +18,8 @@ layout: default
 ></iframe></td>
 </tr>
 </table>
+</p>
 
+<div class="post">
 {{ content }}
 </div>

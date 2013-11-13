@@ -6,9 +6,7 @@ published: true
 
 <div id="home">
 
-<p class="drop-cap">There are already pages about <a href="/projects/index.html">my work</a> and <a href="/contact/index.html">contacting me</a>. This is more about me (me, me).</p>
-
-<p><img src="/assets/me_and_maxwell.jpg" alt="Self portrait with canned coffee" title="Me and Maxwell"/></p>
+<img src="/assets/me_and_maxwell.jpg" alt="Self portrait with canned coffee" title="Me and Maxwell" style="float: left; margin: 30px;"><p class="drop-cap">There are already pages about <a href="/projects/index.html">my work</a> and <a href="/contact/index.html">contacting me</a>. This is more about me (me, me).</p>
 
 <p>The notable points, so far:</p>
 
@@ -20,8 +18,11 @@ published: true
 <li><p>After more than 3 years and <a href="http://lifehacker.com/5797054/five-lists-of-five-things-i-learned-at-lifehacker">5,883 posts</a>, I left Lifehacker to strike out on my own. I'm now writing for <a href="http://kevinpurdy.contently.com/">quite a few different publications</a>.</li>
 </ul>
 
-<img src="/assets/writing_tedxbuffalo_intro.jpg" style="alignment: float-right;"/>
+<img src="/assets/writing_tedxbuffalo_intro.jpg" style="float: right; margin: 30px;"/>
 
 <p>I have a <a href="http://elizabethfoxsolomon.com">wonderful wife</a>, a <a href="http://www.flickr.com/photos/purdman1/tags/howard/">dog named Howard</a>, two cats (Cork and Apricot), and a ménagerie of friends and side projects to keep me busy.</p>
 
+<p>If you're wondering what this site is made out of, <a href="/colophon.md">check the colophon</a>.</p>
+
+<p>Wherever you go, there you are.</p>
 </div>

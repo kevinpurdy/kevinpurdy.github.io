@@ -10,10 +10,10 @@ published: true
 
 <p>You can find me online at <a href="https://twitter.com/kevinpurdy">Twitter</a> , <a href="http://kevinpurdy.tumblr.com/">Tumblr</a>, <a href="https://plus.google.com/u/0/+KevinPurdy">Google+</a>, and <a href="http://flickr.com/photos/purdman1">Flickr</a>. If you're in Buffalo, I'm probably at <a href="http://coworkbuffalo.com">CoworkBuffalo</a> or walking <a href="http://www.flickr.com/photos/purdman1/tags/howard/">Howard</a>.</p>
 
-<p>I blog here, but not at a good blog pace. Here are some recent posts:</p>
+<p>I blog here, but not terribly often. Here are the last three posts:</p>
 
     {% for post in site.posts limit: 3 %}
-      <div class="posts"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></span><br/>
+      <div class="posts"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></span>
         <em>{{ post.excerpt }}</em> <a href="{{ post.url }}">&#8230;</a></span>
       </div>
     {% endfor %}
