@@ -118,6 +118,7 @@ blockquote {
 
 div.header {
   margin-bottom: 1em;
+  word-wrap: normal;
 }
 
 .site .header a {
@@ -162,6 +163,7 @@ div.header {
   border-top: 4px solid #8f9a9c;
   margin-top: 2em;
   overflow: hidden;
+  word-wrap: normal;
 }
 
 .site .footer .contact {

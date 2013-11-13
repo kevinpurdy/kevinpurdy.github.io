@@ -5,9 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<!-- Reset -->
-	<!-- <link rel="stylesheet" href="/css/reset.css"> -->
+	
+	<!-- RSS feed, maybe? -->
+	<link xmlns="http://www.w3.org/2005/Atom" href="http://kevinpurdy.github.io/feed.xml" rel="self" type="application/rss+xml" />
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
@@ -15,8 +15,8 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
-	<!-- Typeplate CSS - fingers crossed -->
-	<!-- <link rel="stylesheet" href="/css/typeplate.css"> -->
+	<!-- Typeplate CSS - modified -->
+	<link rel="stylesheet" href="/css/kp-typeplate.css">
 
 	<!-- Google Fonts -->
 	<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
@@ -28,7 +28,7 @@
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
+            <a class="extra_first" href="/">home</a>
             <a class="extra" href="/about/index.html">about</a>
            <a class="extra" href="/projects/index.html">projects</a>
            <a class="extra" href="/archive/index.html">archive</a>
@@ -39,7 +39,7 @@
             <div class="contact">
               <p>
                 Kevin Purdy<br />
-                Freelance writer type<br />
+                Freelance writer<br />
               </p>
             </div>
             <div class="contact">
