@@ -92,7 +92,7 @@ h3 {
 p { margin: 0 0 1.0em; }
 
 a         { color: #0058a1; }
-a:hover   { color: #1b202e; }
+a:hover   { color: #000; }
 a:visited { color: #5b2b61; }
 
 
@@ -209,7 +209,7 @@ ul.posts li {
 }
 
 ul.posts span {
-  color: #616678;
+  color: #aaa;
   font-family: 'Monaco', monospace;
   font-size: 80%;
   display: list-item;
@@ -221,7 +221,7 @@ div.posts {
 }
 
 div.posts span {
-  color: #616678;
+  color: #575757;
   font-family: 'Monaco', monospace;
   font-size: 80%;
   line-height: 1.75em;
