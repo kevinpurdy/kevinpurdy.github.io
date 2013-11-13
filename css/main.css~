@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 170%;
+  font-size: 300%;
   margin-top: 1em;
   margin-bottom: 0.5em;
   line-height: 1.4em;
@@ -92,7 +92,7 @@ h3 {
 p { margin: 0 0 1.0em; }
 
 a         { color: #0058a1; }
-a:hover   { color: #000; }
+a:hover   { color: #1b202e; }
 a:visited { color: #5b2b61; }
 
 
@@ -127,7 +127,7 @@ div.header {
 
 .site .header h1.title {
 #  display: inline-block;
-  font-size: 180%;
+  font-size: 300%;
 }
 
 .site .header h1.title a {
@@ -209,7 +209,7 @@ ul.posts li {
 }
 
 ul.posts span {
-  color: #aaa;
+  color: #616678;
   font-family: 'Monaco', monospace;
   font-size: 80%;
   display: list-item;
@@ -221,7 +221,7 @@ div.posts {
 }
 
 div.posts span {
-  color: #575757;
+  color: #616678;
   font-family: 'Monaco', monospace;
   font-size: 80%;
   line-height: 1.75em;

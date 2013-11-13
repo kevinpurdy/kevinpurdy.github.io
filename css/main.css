@@ -69,21 +69,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 170%;
+  font-size: 300%;
   margin-top: 1em;
   margin-bottom: 0.5em;
   line-height: 1.4em;
 }
 
 h2 {
-  font-size: 150%;
+  font-size: 240%;
   margin-top: 1em;
   margin-bottom: 0.5em;
   line-height: 1.4em;
 }
 
 h3 {
-  font-size: 100%;
+  font-size: 180%;
   margin-top: 3.5em;
   margin-bottom: 0.5em;
   line-height: 1.4em;
@@ -127,7 +127,7 @@ div.header {
 
 .site .header h1.title {
 #  display: inline-block;
-  font-size: 180%;
+  font-size: 300%;
 }
 
 .site .header h1.title a {
