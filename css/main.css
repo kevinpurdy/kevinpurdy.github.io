@@ -133,6 +133,7 @@ div.header {
   font-weight: bold;
   text-decoration: none;
   font-family: 'Oswald', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
 }
 
 .site .header h1.title {
