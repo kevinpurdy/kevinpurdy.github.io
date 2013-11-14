@@ -63,8 +63,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #38313b;
-  font-family: 'PT Sans Narrow', 'Helvetica Neue', sans-serif;
-  font-weight: 400;
+  font-family: 'Oswald', 'Helvetica Neue', sans-serif;
+  font-weight: 700;
   text-rendering: optimizeLegibility;
 }
 
@@ -132,7 +132,7 @@ div.header {
 .site .header a {
   font-weight: bold;
   text-decoration: none;
-  font-family: 'PT Sans Narrow', 'Helvetica Neue', sans-serif;
+  font-family: 'Oswald', 'Helvetica Neue', sans-serif;
 }
 
 .site .header h1.title {
