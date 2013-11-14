@@ -138,11 +138,11 @@ div.header {
 .site .header h1.title {
 #  display: inline-block;
   font-size: 300%;
-  font-weight: 700;
 }
 
 .site .header h1.title a {
   color: #f05a35;
+  font-weight: 700;
 }
 
 .site .header h1.title a:hover {
