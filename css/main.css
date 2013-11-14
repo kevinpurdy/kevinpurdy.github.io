@@ -282,6 +282,10 @@ div.posts img {
   text-align: justify;
 }
 
+.post img {
+  max-width: 100%;
+}
+
 /************************************************************************/
 /*    Media Queries
 /*
