@@ -153,12 +153,14 @@ div.header {
   color: #686169;
   margin-left: 1em;
   font-weight: 300;
+  font-size: 120%;
 }
 
 .site .header a.extra_first {
   color: #686169;
   margin-left: 0em;
   font-weight: 300;
+  font-size: 120%;
 }
 
 .site .header a.extra:hover {
