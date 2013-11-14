@@ -15,7 +15,7 @@ The layout, such as it is, come from picking apart and copying other sites, like
 
 [Designer Nicholas Barone](http://nicholasbarone.com) gave far too much free advice and guidance on both goals and details.
 
-The typography is augmented by and adapted from Zachary Kain and Dennis Gaebel's [TypePlate](http://typeplate.com/) starter kit. The fonts are [PT Sans](https://www.google.com/webfonts/specimen/PT+Sans), [PT Serif](https://www.google.com/webfonts/specimen/PT+Serif), and [Monaco](https://en.wikipedia.org/wiki/Monaco_(typeface)). A few other typefaces may sneak into blockquotes and code snippets here and there.
+The typography is augmented by and adapted from Zachary Kain and Dennis Gaebel's [TypePlate](http://typeplate.com/) starter kit. The fonts are [PT Sans Narrow](https://www.google.com/fonts/specimen/PT+Sans+Narrow), [PT Serif](https://www.google.com/webfonts/specimen/PT+Serif), and [Monaco](https://en.wikipedia.org/wiki/Monaco_(typeface)). A few other typefaces may sneak into blockquotes and code snippets here and there.
 
 The colors come from the Pengin cover of Shane Jones' [_Light Boxes_](http://www.amazon.com/Light-Boxes-Novel-Shane-Jones/dp/0143117785/) (more specifically, an [illustration/wallpaper of the Italian edition](http://aliceavaldi.wordpress.com/2011/05/01/light-boxes-io-sono-febbraio-di-shane-jones/). 
 
