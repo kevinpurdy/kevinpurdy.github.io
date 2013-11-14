@@ -12,9 +12,11 @@ published: true
 
 <p>I blog here, but not terribly often. Here are the last three posts:</p>
 
+<hr style="4px solid #8f9a9c; margin-top: 2em; margin-bottom: 2em;"/>
+
     {% for post in site.posts limit: 3 %}
       <div class="posts"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></span>
-        <em>{{ post.excerpt }}</em> <a href="{{ post.url }}">&#8230;</a></span>
+        <em>{{ post.excerpt }}</em>
       </div>
     {% endfor %}
       &raquo; <a href="/archive/index.html">More posts ...</a>
