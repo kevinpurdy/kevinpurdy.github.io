@@ -133,7 +133,6 @@ div.header {
   font-weight: bold;
   text-decoration: none;
   font-family: 'Oswald', 'Helvetica Neue', sans-serif;
-  font-weight: 300;
 }
 
 .site .header h1.title {
@@ -153,11 +152,13 @@ div.header {
 .site .header a.extra {
   color: #686169;
   margin-left: 1em;
+  font-weight: 300;
 }
 
 .site .header a.extra_first {
   color: #686169;
   margin-left: 0em;
+  font-weight: 300;
 }
 
 .site .header a.extra:hover {
