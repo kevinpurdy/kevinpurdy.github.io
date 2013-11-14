@@ -47,8 +47,8 @@ html, body { height: 100%; }
 body {
   background-color: #fcfcfc;
   font-size: 130%;
-  font-family: 'Georgia', serif;
-  font-weight: 300;
+  font-family: 'PT Serif', Georgia, serif;
+  font-weight: 400;
   line-height: 1.45em;
   padding: 0 2em;
   text-rendering: optimizeLegibility;
