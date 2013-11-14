@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Colophon
+published: true
 ---
 
 This site is written, built (so to speak) and maintained by Kevin Purdy.
 
-The core pieces come from [Jekyll](http://jekyllrb.com), a static site generation tool that lures in [Markdown](http://daringfireball.net/projects/markdown) nerds like me who have just enough knowledge of the web to put something together. I have the pleasure of being a friend and coworker of one of Jekyll's major contributors, [Nick Quaranto](http://quaran.to/). He answered some questions and sparked the move.
+The core pieces come from [Jekyll](http://jekyllrb.com), a static site generation tool that lures in [Markdown](http://daringfireball.net/projects/markdown) nerds like me who know just enough to be really annoying to people who know more. I have the pleasure of being a friend and coworker of one of Jekyll's major contributors, [Nick Quaranto](http://quaran.to/). He answered some questions and sparked the move.
 
 The archive of posts from before November 2013 come from a [WordPress](http://wordpress.com)-based site on a shared host. I used [exitwp](https://github.com/thomasf/exitwp) to convert most of those posts to Jekyll-ready Markdown.
 
