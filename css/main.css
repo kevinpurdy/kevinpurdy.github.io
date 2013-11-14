@@ -142,7 +142,7 @@ div.header {
 
 .site .header h1.title a {
   color: #f05a35;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .site .header h1.title a:hover {
@@ -152,14 +152,14 @@ div.header {
 .site .header a.extra {
   color: #686169;
   margin-left: 1em;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 120%;
 }
 
 .site .header a.extra_first {
   color: #686169;
   margin-left: 0em;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 120%;
 }
 
