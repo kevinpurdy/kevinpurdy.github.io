@@ -64,7 +64,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #38313b;
   font-family: 'Oswald', 'Helvetica Neue', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   text-rendering: optimizeLegibility;
 }
 
@@ -133,12 +133,13 @@ div.header {
   font-weight: bold;
   text-decoration: none;
   font-family: 'Oswald', 'Helvetica Neue', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .site .header h1.title {
 #  display: inline-block;
   font-size: 300%;
+  font-weight: 700;
 }
 
 .site .header h1.title a {
