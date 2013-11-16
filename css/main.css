@@ -46,10 +46,10 @@ html, body { height: 100%; }
 
 body {
   background-color: #fcfcfc;
-  font-size: 130%;
+  font-size: 120%;
   font-family: 'PT Serif', Georgia, serif;
   font-weight: 400;
-  line-height: 1.45em;
+  line-height: 1.6;
   padding: 0 2em;
   text-rendering: optimizeLegibility;
   -webkit-hyphens: auto;
@@ -89,7 +89,7 @@ h3 {
   line-height: 1.4em;
 }
 
-p { margin: 0 0 1.0em; }
+p { margin-bottom: 1.5em;}
 
 a         { color: #0058a1; }
 a:hover   { color: #1b202e; }
