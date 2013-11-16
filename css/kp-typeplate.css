@@ -8,33 +8,6 @@
  * LICENSE URL .... http://creativecommons.org/licenses/by/3.0
 /********************************************************************/
 
-/**
- *
- * =======================================================================
- * Drop Capitals:
- * Extend this object into your markup.
-
-	 <p class="drop-cap">What a wonderful day it is out there wouldn't you'd say?</p>
-
-	* =======================================================================
- */
-
-.drop-cap:first-letter {
-	float: left;
-	margin: auto .25em auto auto;
-	padding: inherit;
-	font-size: 4em;
-	font-family: inherit;
-	line-height: 1;
-	text-indent: 0;
-	background: transparent;
-	color: inherit;
-}
-
-p + .drop-cap {
-	text-indent: 0;
-	margin-top: 0;
-}
 
 /**
  *
