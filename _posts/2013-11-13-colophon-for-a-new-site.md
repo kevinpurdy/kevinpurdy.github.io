@@ -10,7 +10,7 @@ The core pieces come from [Jekyll](http://jekyllrb.com), a static site generatio
 
 The archive of posts from before November 2013 come from a [WordPress](http://wordpress.com)-based site on a shared host. I used [exitwp](https://github.com/thomasf/exitwp) to convert most of those posts to Jekyll-ready Markdown.
 
-Most the content was written in [gedit](http://projects.gnome.org/gedit/) on an Ubuntu machine, though I used [Draft](http://draftin.com) or [Prose.io](http://prose.io) for some longer pieces. The images were smashed down to reasonable size by [Trimage](http://trimage.org/). The site is hosted on [GitHub Pages](http://pages.github.com/), which hosts Jekyll and simple HTML sites for free, which is amazing.
+Most of the content was written in [gedit](http://projects.gnome.org/gedit/) on an Ubuntu machine, though I used [Draft](http://draftin.com) or [Prose.io](http://prose.io) for some longer pieces. The images were smashed down to reasonable size by [Trimage](http://trimage.org/). The site is hosted on [GitHub Pages](http://pages.github.com/), which hosts Jekyll and simple HTML sites for free, which is amazing.
 
 The layout, such as it is, come from picking apart and copying other sites, like most things on the web. Most helpful were [a responsive Jekyll template from Kashyap/kgrz](http://kgrz.io/jekyll/2013/09/13/responsive-jekyll.html) and the smart defaults of Jekyll itself.
 
