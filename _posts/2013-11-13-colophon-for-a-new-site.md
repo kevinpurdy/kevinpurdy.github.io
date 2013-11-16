@@ -18,6 +18,6 @@ The layout, such as it is, come from picking apart and copying other sites, like
 
 The typography is augmented by and adapted from Zachary Kain and Dennis Gaebel's [TypePlate](http://typeplate.com/) starter kit. The fonts are [Merriweather](https://www.google.com/webfonts/specimen/Merriweather) and [Oswald](http://www.google.com/fonts/specimen/Oswald). A few other typefaces may sneak into blockquotes and code snippets here and there.
 
-The colors come from the Pengin cover of Shane Jones' [_Light Boxes_](http://www.amazon.com/Light-Boxes-Novel-Shane-Jones/dp/0143117785/) (more specifically, a [wallpaper from the Italian edition](http://aliceavaldi.wordpress.com/2011/05/01/light-boxes-io-sono-febbraio-di-shane-jones/). 
+The colors come from the Pengin cover of Shane Jones' [_Light Boxes_](http://www.amazon.com/Light-Boxes-Novel-Shane-Jones/dp/0143117785/) (more specifically, a [wallpaper from the Italian edition](http://aliceavaldi.wordpress.com/2011/05/01/light-boxes-io-sono-febbraio-di-shane-jones/)). 
 
 Everything else came from asking my wife if something looked terrible. Thank you, Liz.
