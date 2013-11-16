@@ -65,6 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #38313b;
   font-family: 'Oswald', 'Helvetica Neue', sans-serif;
   font-weight: 400;
+  text-transform: uppercase;
   text-rendering: optimizeLegibility;
 }
 
@@ -133,6 +134,7 @@ div.header {
   font-weight: bold;
   text-decoration: none;
   font-family: 'Oswald', 'Helvetica Neue', sans-serif;
+  text-transform: uppercase;
 }
 
 .site .header h1.title {
@@ -143,6 +145,7 @@ div.header {
 .site .header h1.title a {
   color: #f05a35;
   font-weight: 400;
+  text-transform: uppercase;
 }
 
 .site .header h1.title a:hover {
@@ -153,14 +156,14 @@ div.header {
   color: #686169;
   margin-left: 1em;
   font-weight: 400;
-  font-size: 120%;
+  font-size: 130%;
 }
 
 .site .header a.extra_first {
   color: #686169;
   margin-left: 0em;
   font-weight: 400;
-  font-size: 120%;
+  font-size: 130%;
 }
 
 .site .header a.extra:hover {
