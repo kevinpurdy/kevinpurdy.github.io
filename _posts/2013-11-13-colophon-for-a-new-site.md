@@ -14,9 +14,9 @@ Most the content was written in [gedit](http://projects.gnome.org/gedit/) on an 
 
 The layout, such as it is, come from picking apart and copying other sites, like most things on the web. Most helpful were [a responsive Jekyll template from Kashyap/kgrz](http://kgrz.io/jekyll/2013/09/13/responsive-jekyll.html) and the smart defaults of Jekyll itself.
 
-[Designer Nicholas Barone](http://nicholasbarone.com) gave far too much free advice and guidance on both goals and details. [David Kleinshmidt](https://twitter.com/zobar2) weighed in on font weights and typography decisions. Buffalo has smart people in some of its chairs.
+[Designer Nicholas Barone](http://nicholasbarone.com) gave far too much free advice and guidance on both goals and details. [David Kleinshmidt](https://twitter.com/zobar2) weighed in on font weights and typography decisions. [Chris Van Patten](http://chrisvanpatten.com) dispensed advice on spacing and differentiation. [Paddy Foran](http://paddy.io) implemented RSS and pushed [SubToMe](https://www.subtome.com/) as a subscribe tool. Buffalo has smart people in some of its chairs.
 
-The typography is augmented by and adapted from Zachary Kain and Dennis Gaebel's [TypePlate](http://typeplate.com/) starter kit. The fonts are [PT Serif](https://www.google.com/webfonts/specimen/PT+Serif), [Oswald](http://www.google.com/fonts/specimen/Oswald), and [Monaco](https://en.wikipedia.org/wiki/Monaco_(typeface)). A few other typefaces may sneak into blockquotes and code snippets here and there.
+The typography is augmented by and adapted from Zachary Kain and Dennis Gaebel's [TypePlate](http://typeplate.com/) starter kit. The fonts are [Merriweather](https://www.google.com/webfonts/specimen/Merriweather) and [Oswald](http://www.google.com/fonts/specimen/Oswald). A few other typefaces may sneak into blockquotes and code snippets here and there.
 
 The colors come from the Pengin cover of Shane Jones' [_Light Boxes_](http://www.amazon.com/Light-Boxes-Novel-Shane-Jones/dp/0143117785/) (more specifically, a [wallpaper from the Italian edition](http://aliceavaldi.wordpress.com/2011/05/01/light-boxes-io-sono-febbraio-di-shane-jones/). 
 
