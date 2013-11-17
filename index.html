@@ -15,7 +15,7 @@ published: true
 <hr/>
 
     {% for post in site.posts limit: 3 %}
-      <div class="posts"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></span>
+      <div class="posts"><span>{{ post.date | date_to_string }}</span><br/> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></span>
         <em>{{ post.excerpt }}</em>
       </div>
     {% endfor %}
