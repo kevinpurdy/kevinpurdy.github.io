@@ -3,22 +3,9 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
-
-<!-- Pocket button -->
-<p>
-<table align="left">
-<tr>
-<td><a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
-<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script></td>
-
-<!-- Instapaper button -->
-<td><iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
- style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;"
- src="http://www.instapaper.com/e2?url={{ page.url }}&title={{ page.title }}"
-></iframe></td>
-</tr>
-</table>
-</p>
+<!-- Read and subscribe links. One day, I'll figure out how to align the actual buttons. -->
+<div class="meta">Save to: <a href="https://getpocket.com/save?url=http://thepurdman.com{{ page.url }}&title={{ page.title }}">Pocket</a> | <a href="http://www.instapaper.com/hello2?url=http://thepurdman.com{{ page.url }}&title={{ page.title }}">Instapaper</a> || Subs<input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="Subscribe">
+</div>
 
 <div class="post">
 {{ content }}

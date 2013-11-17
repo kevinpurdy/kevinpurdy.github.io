@@ -3,6 +3,9 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
+<!-- Read and subscribe links. One day, I'll figure out how to align the actual buttons. -->
+<div class="meta">Save to: <a href="https://getpocket.com/save?url=http://thepurdman.com{{ page.url }}&title={{ page.title }}">Pocket</a> | <a href="http://www.instapaper.com/hello2?url=http://thepurdman.com{{ page.url }}&title={{ page.title }}">Instapaper</a> || Subscribe: <input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="SubToMe">
+</div>
 
 <div class="post">
 {{ content }}

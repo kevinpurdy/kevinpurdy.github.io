@@ -171,7 +171,7 @@ div.header {
 }
 
 .site .meta {
-  color: #aaa;
+  color: #8f9a9c;
 }
 
 .site .footer {
@@ -308,6 +308,18 @@ div.posts p {
   max-width: 100%;
 }
 
+/* Read/subscribe buttons/links */
+
+div.meta {
+  margin-bottom: 1em;
+  color: #8f9a9c;
+  vertical-align: text-bottom;
+}
+
+div.meta a {
+  text-decoration: none;
+}  
+
 /************************************************************************/
 /*    Media Queries
 /*
@@ -324,18 +336,12 @@ div.posts p {
   .post code {
     font-size: 80%;
   }
-  .site .header a.extra {
-    margin-left: 0.5em;
-  }
 }
 
 @media screen and (max-width: 800px) {
   body {
     font-size: 100%;
     padding: 0 1.5em;
-  }
-  .site .header a.extra {
-    margin-left: 0.5em;
   }
 }
 
@@ -354,10 +360,6 @@ div.posts p {
   .contact {
     width: 100%;
   }
-  .site .header a.extra {
-    margin-left: 0.5em;
-  }
-
 }
 
 @media screen and (max-width: 320px) {
@@ -365,8 +367,4 @@ div.posts p {
     font-size: 100%;
     padding: 0;
   }
-  .site .header a.extra {
-    margin-left: 0.5em;
-  }
-
 }
