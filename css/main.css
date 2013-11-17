@@ -319,26 +319,31 @@ div.posts p {
 
 @media screen and (max-width: 1000px) {
   body {
-    font-size: 120%;
+    font-size: 110%;
     padding: 0 4em;
   }
   .post code {
     font-size: 80%;
   }
+  .site .header a.extra {
+    margin-left: 0.5em;
+  }
 }
 
 @media screen and (max-width: 800px) {
   body {
-    font-size: 110%;
+    font-size: 100%;
     padding: 0 1.5em;
   }
-
+  .site .header a.extra {
+    margin-left: 0.5em;
+  }
 }
 
 
 @media screen and (max-width: 500px) {
   body {
-    font-size: 110%;
+    font-size: 100%;
     padding: 0 0.5em;
   }
 
@@ -350,11 +355,19 @@ div.posts p {
   .contact {
     width: 100%;
   }
+  .site .header a.extra {
+    margin-left: 0.5em;
+  }
+
 }
 
 @media screen and (max-width: 320px) {
   body {
-    font-size: 110%;
+    font-size: 100%;
     padding: 0;
   }
+  .site .header a.extra {
+    margin-left: 0.5em;
+  }
+
 }
