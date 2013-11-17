@@ -128,6 +128,7 @@ hr {
 div.header {
   margin-bottom: 2em;
   word-wrap: normal;
+  display: inline-table;
 }
 
 .site .header a {
