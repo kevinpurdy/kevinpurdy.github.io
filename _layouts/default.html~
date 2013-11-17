@@ -18,8 +18,15 @@
 	<link rel="stylesheet" href="/css/kp-typeplate.css">
 
 	<!-- Google Fonts -->
-	<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+	<!-- <link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'> -->
+	<!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'> -->
+	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+	<!-- Will pick just one of these two after testing -->
+	<link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+	
+	<!-- RSS Feed -->
+	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.base_url }}/feed.xml" />
+	
 
     </head>
     <body>
