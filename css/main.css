@@ -229,7 +229,7 @@ ul.posts li {
 
 ul.posts span {
   color: #616678;
-  font-family: 'Monaco', monospace;
+  font-family: 'Merriweather', serif;
   font-size: 80%;
   display: list-item;
 }
@@ -241,7 +241,7 @@ div.posts {
 
 div.posts span {
   color: #616678;
-  font-family: 'Merriweather';
+  font-family: 'Merriweather', serif;
   font-size: 80%;
   line-height: 1.75em;
 }
