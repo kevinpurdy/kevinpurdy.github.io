@@ -46,10 +46,10 @@ html, body { height: 100%; }
 
 body {
   background-color: #fcfcfc;
-  font-size: 130%;
-  font-family: 'PT Serif', serif;
-  font-weight: 300;
-  line-height: 1.45em;
+  font-size: 120%;
+  font-family: 'Merriweather', Georgia, serif;
+  font-weight: 400;
+  line-height: 1.6;
   padding: 0 2em;
   text-rendering: optimizeLegibility;
   -webkit-hyphens: auto;
@@ -63,8 +63,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #38313b;
-  font-family: 'PT Sans Narrow', sans-serif;
-  font-weight: 800;
+  font-family: 'Oswald', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
   text-rendering: optimizeLegibility;
 }
 
@@ -76,20 +77,20 @@ h1 {
 }
 
 h2 {
-  font-size: 240%;
+  font-size: 200%;
   margin-top: 1em;
   margin-bottom: 0.5em;
   line-height: 1.4em;
 }
 
 h3 {
-  font-size: 180%;
+  font-size: 150%;
   margin-top: 3.5em;
   margin-bottom: 0.5em;
   line-height: 1.4em;
 }
 
-p { margin: 0 0 1.0em; }
+p { margin-bottom: 1.5em;}
 
 a         { color: #0058a1; }
 a:hover   { color: #1b202e; }
@@ -101,6 +102,14 @@ blockquote {
   background: #fafafa;
   border-left: 5px #81E26D solid;
   color: #666;
+}
+
+hr {
+  border: 1px solid;
+  color: #8f9a9c;
+  background-color: #8f9a9c;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 /*****************************************************************************/
@@ -117,13 +126,16 @@ blockquote {
 }
 
 div.header {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   word-wrap: normal;
+  display: inline-table;
 }
 
 .site .header a {
   font-weight: bold;
   text-decoration: none;
+  font-family: 'Oswald', 'Helvetica Neue', sans-serif;
+  text-transform: uppercase;
 }
 
 .site .header h1.title {
@@ -133,6 +145,8 @@ div.header {
 
 .site .header h1.title a {
   color: #f05a35;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 
 .site .header h1.title a:hover {
@@ -142,11 +156,15 @@ div.header {
 .site .header a.extra {
   color: #686169;
   margin-left: 1em;
+  font-weight: 400;
+  font-size: 110%;
 }
 
 .site .header a.extra_first {
   color: #686169;
   margin-left: 0em;
+  font-weight: 400;
+  font-size: 110%;
 }
 
 .site .header a.extra:hover {
@@ -169,6 +187,7 @@ div.header {
 .site .footer .contact {
   float: left;
   margin-right: 3em;
+  margin-top: 2em;
 }
 
 .site .footer .contact a {
@@ -212,7 +231,7 @@ ul.posts li {
 
 ul.posts span {
   color: #616678;
-  font-family: 'Monaco', monospace;
+  font-family: 'Merriweather', serif;
   font-size: 80%;
   display: list-item;
 }
@@ -224,7 +243,7 @@ div.posts {
 
 div.posts span {
   color: #616678;
-  font-family: 'Monaco', monospace;
+  font-family: 'Merriweather', serif;
   font-size: 80%;
   line-height: 1.75em;
 }
@@ -300,26 +319,31 @@ div.posts p {
 
 @media screen and (max-width: 1000px) {
   body {
-    font-size: 120%;
+    font-size: 110%;
     padding: 0 4em;
   }
   .post code {
     font-size: 80%;
   }
+  .site .header a.extra {
+    margin-left: 0.5em;
+  }
 }
 
 @media screen and (max-width: 800px) {
   body {
-    font-size: 110%;
+    font-size: 100%;
     padding: 0 1.5em;
   }
-
+  .site .header a.extra {
+    margin-left: 0.5em;
+  }
 }
 
 
 @media screen and (max-width: 500px) {
   body {
-    font-size: 110%;
+    font-size: 100%;
     padding: 0 0.5em;
   }
 
@@ -331,11 +355,19 @@ div.posts p {
   .contact {
     width: 100%;
   }
+  .site .header a.extra {
+    margin-left: 0.5em;
+  }
+
 }
 
 @media screen and (max-width: 320px) {
   body {
-    font-size: 110%;
+    font-size: 100%;
     padding: 0;
   }
+  .site .header a.extra {
+    margin-left: 0.5em;
+  }
+
 }
