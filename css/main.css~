@@ -171,7 +171,7 @@ div.header {
 }
 
 .site .meta {
-  color: #aaa;
+  color: #8f9a9c;
 }
 
 .site .footer {
@@ -312,7 +312,7 @@ div.posts p {
 
 div.meta {
   margin-bottom: 1em;
-  color: #aaa;
+  color: #8f9a9c;
   vertical-align: text-bottom;
 }
 
