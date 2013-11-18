@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /clips/
+Disallow: clips.html
+Disallow: robots.txt

@@ -127,7 +127,7 @@ hr {
 div.header {
   margin-bottom: 2em;
   word-wrap: normal;
-  display: inline-table;
+#  display: inline-table;
 }
 
 .site .header a {
@@ -310,6 +310,7 @@ div.posts p {
 
 /* Read/subscribe buttons/links */
 
+/*
 div.meta {
   margin-bottom: 1.5em;
   color: #8f9a9c;
@@ -318,7 +319,12 @@ div.meta {
 
 div.meta a {
   text-decoration: none;
-}  
+} 
+*/
+
+div.addthis_default_style {
+  margin-bottom: 1.5em;
+}
 
 /************************************************************************/
 /*    Media Queries

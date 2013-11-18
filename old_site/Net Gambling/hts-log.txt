@@ -1,0 +1,13 @@
+HTTrack3.32+swf launched on Tue, 04 May 2004 10:50:32 at http://www.buffalonews.com/editorial/20040430/1052988.asp +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/*
+(winhttrack -qwC2%Ps2u1%sN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2004], %s -->" -%l "en, en, *" http://www.buffalonews.com/editorial/20040430/1052988.asp -O "C:\My Web Sites\Net Gambling,C:\My Web Sites\Net Gambling" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -%A php3,php,php2,asp,jsp,pl,cfm,nsf=text/html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:50:33	Info: 	Note: due to www.buffalonews.com remote robots.txt rules, links begining with these path will be forbidden: /404_error (see in the options to disable this)
+10:50:50	Warning: 	Warning, link #50 empty
+
+HTTrack Website Copier/3.32 mirror complete in 18 seconds : 49 links scanned, 48 files written (345984 bytes overall) [358934 bytes received at 19940 bytes/sec]
+(No errors, 1 warnings, 1 messages)

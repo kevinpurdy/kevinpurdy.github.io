@@ -1,0 +1,182 @@
+<style type="text/css">
+<!--
+a.testNav {
+	text-indent: 15px;
+	text-decoration:none;
+	Font-size: 10px;
+	font-family:arial,helvetica; 
+	Font-weight: bolder; 
+	color:#cc3300;
+    text-align:right;
+	}
+	
+a.testNav:hover {
+	text-indent: 15px;
+	text-decoration:underline;
+	Font-size: 10px;
+	font-family:arial,helvetica; 
+	Font-weight: bold; 
+	color:#9900cc;
+    text-align:right;
+	}
+	
+a.testNav:link {
+	text-indent: 15px;
+	text-decoration:none;
+	Font-size: 10px;
+	font-family:arial,helvetica; 
+	Font-weight: bold; 
+	color:#0000cc;
+    text-align:right;
+	}
+	
+a.testNav:visited {
+	text-indent: 15px;
+	text-decoration:none;
+	Font-size: 10px;
+	font-family:arial, helvetica; 
+	Font-weight: bold; 
+	color:#cc0000;
+    text-align:right;
+	}	
+
+a.bottomNav			{Font-size: 11px;font-family:arial,helvetica; Font-weight: 200; color:navy;}\
+a.search:visited	{text-decoration:none;color:white; font-size: 11px}
+a.search:link		{text-decoration:none;color:white; font-size: 11px}
+a.search:hover		{text-decoration:underline;color:white}
+a:link				{text-decoration: none; color:navy;}
+a:visited			{text-decoration: none; color:navy;}
+a:hover				{text-decoration: underline; color:navy;}
+.nav				{Font-Size: 11px;}
+.centerLinks		{Font-Size: 10px;}
+html				{Font-Family: arial, helvetica; background-repeat: no-repeat;}
+td					{Font-Family: arial, helvetica;font-size:11px;}
+.norepeat			{background-repeat: no-repeat;}
+font.spacer			{Font-size: 7px;font-family:arial,helvetica;}
+
+black				{color:#000000}
+a.APlinks			{text-decoration:underline;color:blue; font-size: 11px}
+a.story:visited		{text-decoration:underline;color:blue; font-weight:bold; font-size: 14px}
+a.story:link		{text-decoration:underline;color:blue; font-weight:bold; font-size: 14px}
+a.story:hover		{text-decoration:underline;color:blue; font-weight:bold; font-size: 14px}
+.HeadByLine	        {Font-size: 11px; font-family:arial,helvetica; color:#B7B7B7; font-weight:bold}
+.EnlargeLine        {Font-size: 11px; font-family:arial,helvetica; color:#000000; font-weight:normal}
+.StoryHead	        {Font-size: 12px; font-family:arial,helvetica; color:#1C2279; font-weight:bold}
+.MainStoryHead	    {Font-size: 18px; font-family:arial,helvetica; color:#000000; font-weight:bold}
+.searchbar			{Font-size: 12px;font-family:arial,helvetica; color:#FFFFFF; height : 35px;}
+.TopicSecondHead	{Font-size: 16px; font-family:arial,helvetica; color:#000000; font-weight:bold}
+.TopicSecondHead2	{Font-size: 16px; font-family:arial,helvetica; color:#669900; font-weight:bold}
+.DeathTopicHead		{Font-size: 16px; font-family:arial,helvetica; color:#6A6A4F; font-weight:bold}
+.DeathTopicHead2	{Font-size: 16px; font-family:arial,helvetica; color:#9b927f; font-weight:bold}
+.DateFont		    {Font-size: 10px; font-family:arial,helvetica; color:#1C2279; font-weight:bold}
+.HeadByLine	        {Font-size: 11px; font-family:arial,helvetica; color:#B7B7B7; font-weight:bold}
+a.completestory:visited		{text-decoration:underline;font-size: 11px; font-family:arial,helvetica; color:red;}
+a.completestory:link		{text-decoration:underline;font-size: 11px; font-family:arial,helvetica; color:red;}
+a.completestory:hover		{text-decoration:underline;font-size: 11px; font-family:arial,helvetica; color:red;}
+
+a.ToolsBar   	    {
+	Font-size: 13px;
+	font-family:arial,helvetica;
+	Font-weight: bold;
+	color:#ffffff;
+}
+	
+.topicHDR			{Font-size: 25px; font-family:arial,helvetica; color:#BE0004; font-weight:bold}
+.HDRLocation		{Font-size: 14px; font-family:arial,helvetica; color:#0D1B71; font-weight:bold}
+.HDRsearchbar		{Font-size: 11px; font-family:arial,helvetica; color:#0D1B71; height : 14px;}
+
+.HDRsearchText			{
+	font-size : 11px;
+	font-style : arial;
+	font-weight : bold;
+	font-family : Arial, Helvetica;
+	color : #FDD61E;
+}
+.HDRLinksText			{
+	font-size : 11px;
+	font-style : arial;
+	font-weight : bold;
+	font-family : Arial, Helvetica;
+	color : #ffffff;
+}
+.HDRLinksTextYellow		{
+	font-size : 11px;
+	font-style : arial;
+	font-weight : bold;
+	font-family : Arial, Helvetica;
+	color : #FDD61E;
+}
+.storyText			{
+	font-size : 12px;
+	font-style : arial, Helvetica;
+	font-family : Arial, Helvetica;
+	color : #000000;
+}
+
+.storyText2			{
+	font-size : 16px;
+	font-style : arial, Helvetica;
+	font-family : Arial, Helvetica;
+	color : #000000;
+}
+
+.deckText 		  {
+	font-size : 12px;
+	font-style : arial, Helvetica;
+	font-family : Arial, Helvetica;
+	color : #000000;
+}
+.captionText			{
+	font-size : 11px;
+	font-style : arial, Helvetica;
+	font-family : Arial, Helvetica;
+	color : #000000;
+}
+
+.TopicNavButton {
+		PADDING-LEFT: 1px;
+		PADDING-RIGHT: 1px;
+		PADDING-TOP: 1px;
+		PADDING-BOTTOM: 1px;
+
+		BORDER-LEFT: black 1px solid;
+		BORDER-RIGHT: black 1px solid;
+		BORDER-TOP: black 1px solid;
+		BORDER-BOTTOM: black 1px solid;
+
+		font-family: "arial, helvetica";
+		font-weight: bold;
+		font-size: 11px;
+		color: #BE0004;
+		
+		margin: 1px;
+		BACKGROUND-COLOR: #ffffff;		
+
+	}
+	
+
+.NextPrevButton {
+		PADDING-LEFT: 1px;
+		PADDING-RIGHT: 1px;
+		PADDING-TOP: 1px;
+		PADDING-BOTTOM: 1px;
+
+		BORDER-LEFT: black 1px solid;
+		BORDER-RIGHT: black 1px solid;
+		BORDER-TOP: black 1px solid;
+		BORDER-BOTTOM: black 1px solid;
+
+		font-family: "arial, helvetica";
+		font-weight: bold;
+		font-size: 11px;
+		color: ##ffffff;
+		
+		margin: 1px;
+		BACKGROUND-COLOR: #ffffff;		
+
+	}
+	
+.weather			{font-size: 11px; color: #FBF6D8}
+.weatherDate		{font-size: 10px; font-weight : bold; color: #ffffff}
+-->
+</style>

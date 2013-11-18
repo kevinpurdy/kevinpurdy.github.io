@@ -1,0 +1,8 @@
+<html>
+<head><title>Purdman Solutions Group</title></head>
+<body>
+
+<p>Content goes here - simple, eh?</p>
+
+</body>
+</html>

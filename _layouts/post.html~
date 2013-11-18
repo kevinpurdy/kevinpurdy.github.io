@@ -4,9 +4,24 @@ layout: default
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 <!-- Read and subscribe links. One day, I'll figure out how to align the actual buttons. -->
-<div class="meta">Save to: <a href="https://getpocket.com/save?url=http://thepurdman.com{{ page.url }}&title={{ page.title }}">Pocket</a> | <a href="http://www.instapaper.com/hello2?url=http://thepurdman.com{{ page.url }}&title={{ page.title }}">Instapaper</a> || Subs<input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="Subscribe">
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_pocket"></a>
+<a class="addthis_button_instapaper"></a><input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="Subscribe">
+<!-- Adding scripts here to prevent delayed loading -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-528961b169726935"></script>
 </div>
 
 <div class="post">
 {{ content }}
 </div>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style" style="margin-bottom: 1.5em;">
+<a class="addthis_button_pocket"></a>
+<a class="addthis_button_instapaper"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_google_plusone_share"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<!-- AddThis Button END -->

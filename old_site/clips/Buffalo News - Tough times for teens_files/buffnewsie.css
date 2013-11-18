@@ -1,0 +1,147 @@
+testNav {
+	FONT-WEIGHT: bolder; FONT-SIZE: 10px; COLOR: #000000; TEXT-INDENT: 20px; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: right
+}
+A.testNav {
+	FONT-WEIGHT: bolder; FONT-SIZE: 10px; COLOR: #cc3300; TEXT-INDENT: 20px; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: right
+}
+A.testNav:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #9900cc; TEXT-INDENT: 20px; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: right; TEXT-DECORATION: underline
+}
+A.testNav:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #0000cc; TEXT-INDENT: 20px; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: right
+}
+A.testNav:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #cc0000; TEXT-INDENT: 20px; FONT-FAMILY: arial, helvetica; TEXT-ALIGN: right
+}
+TD {
+	FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica
+}
+A:link {
+	COLOR: navy; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: navy; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: navy; TEXT-DECORATION: underline
+}
+.norepeat {
+	BACKGROUND-REPEAT: no-repeat
+}
+A.APlinks {
+	FONT-SIZE: 11px; COLOR: blue; TEXT-DECORATION: underline
+}
+A.story:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: blue; TEXT-DECORATION: underline
+}
+A.story:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: blue; TEXT-DECORATION: underline
+}
+A.story:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: blue; TEXT-DECORATION: underline
+}
+.EmailPageText {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+.EmailPageThankYou {
+	FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+.EmailPageHeadline {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+.HeadByLine {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #b7b7b7; FONT-FAMILY: arial,helvetica
+}
+.EnlargeLine {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+.StoryHead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #1c2279; FONT-FAMILY: arial,helvetica
+}
+.MainStoryHead {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+.MainStorySP {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+.TopicSecondHead {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+.TopicSecondHead2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #669900; FONT-FAMILY: arial,helvetica
+}
+.DeathTopicHead {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #6a6a4f; FONT-FAMILY: arial,helvetica
+}
+.DeathTopicHead2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #9b927f; FONT-FAMILY: arial,helvetica
+}
+.DateFont {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #1c2279; FONT-FAMILY: arial,helvetica
+}
+A.ToolsBar {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial,helvetica
+}
+A.ToolsBar:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: none
+}
+A.ToolsBar:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: none
+}
+A.ToolsBar:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: none
+}
+.topicHDR {
+	FONT-WEIGHT: bold; FONT-SIZE: 25px; COLOR: #be0004; FONT-FAMILY: arial,helvetica
+}
+.HDRLocation {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0d1b71; FONT-FAMILY: arial,helvetica
+}
+.HDRPopularLink {
+	FONT-SIZE: 12px; COLOR: #0d1b71; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: none
+}
+.HDRsearchbar {
+	FONT-SIZE: 11px; COLOR: #0d1b71; FONT-FAMILY: arial,helvetica; HEIGHT: 14px
+}
+A.completestory:visited {
+	FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: underline
+}
+A.completestory:link {
+	FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: underline
+}
+A.completestory:hover {
+	FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: underline
+}
+.HDRsearchText {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #fdd61e; FONT-FAMILY: Arial, Helvetica
+}
+.HDRLinksText {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica
+}
+.HDRLinksTextYellow {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #fdd61e; FONT-FAMILY: Arial, Helvetica
+}
+.deckText {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica
+}
+.storyText {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica
+}
+.storyText2 {
+	FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica
+}
+.captionText {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica
+}
+.TopicNavButton {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: black 1px solid; PADDING-LEFT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; MARGIN: 1px; BORDER-LEFT: black 1px solid; COLOR: #be0004; PADDING-TOP: 1px; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #ffffff
+}
+.NextPrevButton {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: black 1px solid; PADDING-LEFT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; MARGIN: 1px; BORDER-LEFT: black 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #ffffff
+}
+.weather {
+	FONT-SIZE: 11px; COLOR: #fbf6d8; FONT-FAMILY: arial,helvetica
+}
+.weatherDate {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: arial,helvetica
+}

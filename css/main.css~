@@ -127,7 +127,7 @@ hr {
 div.header {
   margin-bottom: 2em;
   word-wrap: normal;
-  display: inline-table;
+#  display: inline-table;
 }
 
 .site .header a {
@@ -310,15 +310,25 @@ div.posts p {
 
 /* Read/subscribe buttons/links */
 
+/*
 div.meta {
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   color: #8f9a9c;
   vertical-align: text-bottom;
 }
 
 div.meta a {
   text-decoration: none;
-}  
+} 
+*/
+
+div.addthis_default_style {
+  margin-bottom: 1.5em;
+}
+
+a.addthis_button_instapaper, a.addthis_button_twitter, a.addthis_button_facebook, a.addthis_button_google_plusone_share, a.addthis_button_compact {
+  padding-right: 5px;
+}
 
 /************************************************************************/
 /*    Media Queries

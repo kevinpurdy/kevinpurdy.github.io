@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.buffalonews.com	TRUE	/	FALSE	1999999999	SITESERVER	ID=6fddf82029b046dc7d36b26d9b95ee6e
+www.buffalonews.com	TRUE	/	FALSE	1999999999	ASPSESSIONIDQQADDCSA	OIJBDKADDHPKEPFEEAFFLHGB
+.buffalo.com	TRUE	/	FALSE	1999999999	SITESERVER	ID=c8ea24582d0cb9aa2ec37aaf1384192c
+
