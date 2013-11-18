@@ -20,5 +20,5 @@ published: true
       </div>
     {% endfor %}
       <p>&raquo; <a href="/archive/index.html">More posts</a></p>
-      <p>Subscribe to new posts with your favorite reader via <input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="SubToMe"/></p>
+      <p>Subscribe to new posts with your favorite reader via <input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="SubToMe"/> (or your browser's <a href="http://kevinpurdy.github.io/feed.xml">built-in RSS tool</a>.</p>
 </div>

@@ -3,18 +3,11 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
-<!-- Read and subscribe links via AddThis. Wish I could figure out how to modify the buttons' padding in main.css -->
-<!-- Adding scripts first to prevent delayed loading -->
-<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-528961b169726935"></script>
-<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-<a class="addthis_button_pocket" style="padding-right: 5px;"></a>
-<a class="addthis_button_instapaper" style="padding-right: 5px;"></a><input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="Subscribe">
-</div>
 
 <div class="post">
 {{ content }}
 </div>
+<!-- Save & share links via AddThis. Wish I could figure out how to modify the buttons' padding in main.css. Also: SubToMe button -->
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style addthis_32x32_style" style="margin-bottom: 1.5em;">
 <a class="addthis_button_pocket style="padding-right: 5px;""></a>
@@ -23,5 +16,7 @@ layout: default
 <a class="addthis_button_facebook style="padding-right: 5px;""></a>
 <a class="addthis_button_google_plusone_share style="padding-right: 5px;""></a>
 <a class="addthis_button_compact style="padding-right: 5px;""></a>
-</div>
+</div><input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="Subscribe">
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-528961b169726935"></script>
 <!-- AddThis Button END -->
