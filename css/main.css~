@@ -124,16 +124,8 @@ hr {
 #  color: #111;
 }
 
-.site img.left {
+.site img {
   max-width: 50%;
-  float: left;
-  margin-right: 30px;
-}
-
-.site img.right {
-  max-width: 50%;
-  float: right;
-  margin-left: 30px;
 }
 
 div.header {
