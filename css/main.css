@@ -322,6 +322,10 @@ div.posts p {
 
 .post img {
   max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+  margin-bottom: 1.5em;
 }
 
 /* Read/subscribe buttons/links */
