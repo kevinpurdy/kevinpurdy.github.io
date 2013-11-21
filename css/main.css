@@ -85,7 +85,7 @@ h2 {
 
 h3 {
   font-size: 150%;
-  margin-top: 3.5em;
+  margin-top: 2.0em;
   margin-bottom: 0.5em;
   line-height: 1.4em;
 }
@@ -109,6 +109,10 @@ hr {
   background-color: #8f9a9c;
   margin-top: 2em;
   margin-bottom: 2em;
+}
+
+li {
+  margin-bottom: 0.6em;
 }
 
 /*****************************************************************************/
