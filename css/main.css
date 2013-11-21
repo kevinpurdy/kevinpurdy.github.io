@@ -124,6 +124,10 @@ hr {
 #  color: #111;
 }
 
+.site img {
+  max-width: 50%;
+}
+
 div.header {
   margin-bottom: 2em;
   word-wrap: normal;
