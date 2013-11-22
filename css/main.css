@@ -111,6 +111,10 @@ hr {
   margin-bottom: 2em;
 }
 
+ul {
+  list-style-position: inside;
+}
+
 li {
   margin-bottom: 0.6em;
 }
