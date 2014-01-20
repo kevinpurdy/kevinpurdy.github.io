@@ -73,21 +73,21 @@ h1 {
   font-size: 300%;
   margin-top: 1em;
   margin-bottom: 0.5em;
-  line-height: 1.4em;
+  line-height: 1.6em;
 }
 
 h2 {
   font-size: 200%;
   margin-top: 1em;
   margin-bottom: 0.5em;
-  line-height: 1.4em;
+  line-height: 1.6em;
 }
 
 h3 {
   font-size: 150%;
   margin-top: 2.0em;
   margin-bottom: 0.5em;
-  line-height: 1.4em;
+  line-height: 1.6em;
 }
 
 p { margin-bottom: 1.5em;}
@@ -109,6 +109,10 @@ hr {
   background-color: #8f9a9c;
   margin-top: 2em;
   margin-bottom: 2em;
+}
+
+ul {
+  list-style-position: inside;
 }
 
 li {
@@ -324,7 +328,7 @@ div.posts p {
   max-width: 100%;
   display: block;
   margin-left: auto;
-  margin-right: auto
+  margin-right: auto;
   margin-bottom: 1.5em;
 }
 
