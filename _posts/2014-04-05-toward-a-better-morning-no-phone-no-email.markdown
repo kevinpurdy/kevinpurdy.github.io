@@ -18,7 +18,7 @@ In 150 words? I noted that my life had changed quite a bit in one year and eight
 
 **Me:** "No, I cannot help you with that."
 
-Working for free is a topic for another post (or series, or book, or endless context-heavy debate). But I wanted to get something out of the exercise. So here's what I wrote about mornings, with just a dollop of after-the-fact editing.
+Working for free is a topic for another post (or series, or book, or endless context-heavy debate). But I wanted to get something out of the exercise. So here's what I wrote about mornings, with just a dollop of after-the-fact editing and expansion.
 
 ***
 
