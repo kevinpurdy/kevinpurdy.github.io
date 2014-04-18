@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Personal Tour of the Queens of the Stone Age Discography
+title: A Biographical Tour of the Queens of the Stone Age Discography
 published: true
 ---
 
