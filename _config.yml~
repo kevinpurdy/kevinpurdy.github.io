@@ -1,5 +1,6 @@
 name: Kevin Purdy
 markdown: redcarpet
 pygments: true
-base_url: http://kevinpurdy.github.io
+base_url: http://thepurdman.com
 description: "Kevin Purdy's personal site"
+permalink: /:title/
