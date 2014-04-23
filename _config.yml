@@ -2,6 +2,7 @@ name: Kevin Purdy
 markdown: redcarpet
 kramdown:
     input: GFM
+markdown: kramdown
 pygments: true
 base_url: http://thepurdman.com
 description: "Kevin Purdy's personal site"
