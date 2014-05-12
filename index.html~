@@ -6,13 +6,13 @@ published: true
 
 <div id="home">
 
-<p>I am a <a href="/work/index.html">freelance writer</a>. I live in Buffalo, NY. I write for the web, I write books, co-host podcasts, and help launch events.</p>
+<p>I am a <a href="/work/index.html">freelance writer</a>. I live in Buffalo, NY. I write about technology and obsessions. I also host podcasts and help launch events.</p>
 
-<p>You can find me online at <a href="https://twitter.com/kevinpurdy">Twitter</a> , <a href="http://kevinpurdy.tumblr.com/">Tumblr</a>, <a href="https://plus.google.com/u/0/+KevinPurdy">Google+</a>, and <a href="http://flickr.com/photos/purdman1">Flickr</a>. If you're in Buffalo, you might find me at <a href="http://coworkbuffalo.com">CoworkBuffalo</a> or walking <a href="http://www.flickr.com/photos/purdman1/tags/howard/">Howard</a>.</p>
+<p>You can find me online at <a href="https://twitter.com/kevinpurdy">Twitter</a> , <a href="http://kevinpurdy.tumblr.com/">Tumblr</a>, <a href="https://plus.google.com/u/0/+KevinPurdy?rel=author">Google+</a>, and <a href="http://flickr.com/photos/purdman1">Flickr</a>. If you're in Buffalo, you might find me at <a href="http://coworkbuffalo.com">CoworkBuffalo</a> or walking <a href="http://www.flickr.com/photos/purdman1/tags/howard/">Howard</a>. Infrequently I will <a href="/archive/index.html">add a blog post here</a>.</p>
 
-<p>I <a href="/archive/index.html">blog here</a>, but not terribly often. Below are the last three posts:</p>
+<p>Want to work on something together? <a href="/contact/index.html">Contact me.</a></p>
 
-<hr/>
+<!-- 
 
     {% for post in site.posts limit: 3 %}
       <div class="posts"><span>{{ post.date | date_to_string }}</span><br/> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></span>
@@ -21,6 +21,4 @@ published: true
     {% endfor %}
       <p>&raquo; <a href="/archive/index.html">More posts</a></p>
 
-<p>You can subscribe to new posts with your favorite reader via <input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="SubToMe"/> (or your browser's <a href="http://kevinpurdy.github.io/feed.xml">built-in RSS tool</a>)</p>
-
-<p>See something not quite right? <a href="https://github.com/kevinpurdy/kevinpurdy.github.io/issues">Create or solve an issue on the open-source code</a>, or jump right in and <a href="https://github.com/kevinpurdy/kevinpurdy.github.io/pulls">make a branch</a>. I'm always learning.</p>
+-->
