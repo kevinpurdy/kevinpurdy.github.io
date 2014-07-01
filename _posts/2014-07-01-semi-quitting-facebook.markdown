@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semi-quitting Facebook
+title: Semi-Quitting Facebook
 published: true
 ---
 
