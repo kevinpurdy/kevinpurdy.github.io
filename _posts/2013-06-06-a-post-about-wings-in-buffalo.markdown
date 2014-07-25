@@ -16,7 +16,7 @@ tags:
 
 ![nine-eleven-tavern-medium-wings](/assets/uploads/2013/06/nine-eleven-tavern-medium-wings.jpg)
 
-Photo via [Buffalo Eats](http://buffaloeats.org/2010/10/18/food-porn-nine-eleven-tavern/), who eats and shoots for all of us.
+_Photo via [Buffalo Eats](http://buffaloeats.org/2010/10/18/food-porn-nine-eleven-tavern/), who eats and shoots for all of us._
 
 A reader (or maybe [_In Beta_](http://5by5.tv/inbeta) listener) wrote me an email recently, asking, as politely as possible for an out-of-the blue request, if the only guy he knew in Buffalo could recommend a few places for wings in a town known for them. This happens when you live here.
 
