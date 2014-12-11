@@ -4,7 +4,7 @@ title: A Journey Through Wegman's Nature
 published: true
 ---
 
-![healthier_better_lives.jpg](https://draftin.com:443/images/25073?token=erMwlkUY0lBVCZN4D4-8mImCvJNK227-b-C3ByS-NRw-GNDUj3inc5B5OyK5zZgtwtVQRoUjefhtwdWPZdgfALM)<br/>_Original image from [Bendiful Blog](http://www.bendifulblog.com/wegmans-healthier-better-lives-event/)_
+![healthier_better_lives.jpg](https://draftin.com:443/images/25073?token=erMwlkUY0lBVCZN4D4-8mImCvJNK227-b-C3ByS-NRw-GNDUj3inc5B5OyK5zZgtwtVQRoUjefhtwdWPZdgfALM)
 
 Have you ever searched for something?
 
@@ -58,3 +58,5 @@ Bob's Red Mill Organic Whole Ground Flaxseed Meal. $4.49 per pound. I went into 
 But now there can be [whole grain cherry almond cookies](http://www.wegmans.com/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=10052&catalogId=10002&productId=807389). More than that, we have all learned that flours and meals and grains can show up anywhere, or even move in right next to yoga straps made from the wool of New Zealand sheeps that have never been fed Midwestern corn.
 
 Nature's Market corrects itself.
+
+_Original image (top) from [Bendiful Blog](http://www.bendifulblog.com/wegmans-healthier-better-lives-event/)_
