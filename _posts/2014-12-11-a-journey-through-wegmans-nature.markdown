@@ -53,7 +53,9 @@ Wait a minute. Right there, by the Kind bars, which are nowhere near the other e
 
 ![nm5.jpg](https://draftin.com:443/images/25072?token=brkyy8jTXV-1WsF5bPSlz8vWS-9YxcdQsI5hJ9Z-C1drNpYH-XUenmzWl9w0iKm8f6K5tLpdPxY9fmxkGYba6ps)
 
-Bob's Red Mill Organic Whole Ground Flaxseed Meal. $4.49 per pound. I went into Nature, where everything you want to feel good about or need to pay more for is jammed together [like a Katamari Damacy ball](http://media.edge-online.com/wp-content/uploads/sites/117/oldfiles/katamari_damacy_vita_02.jpg). I made my way through Nature, and Nature made its way through me. Also: you read this whole thing. 
+Bob's Red Mill Organic Whole Ground Flaxseed Meal. $4.49 per pound. Right above "NATURES STEP-STOOL," proving that no detail is no small for Nature's Attention.
+
+I went into Nature, where everything you want to feel good about or need to pay more for is jammed together [like a Katamari Damacy ball](http://media.edge-online.com/wp-content/uploads/sites/117/oldfiles/katamari_damacy_vita_02.jpg). I made my way through Nature, and Nature made its way through me. Also: you read this whole thing. 
 
 But now there can be [whole grain cherry almond cookies](http://www.wegmans.com/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=10052&catalogId=10002&productId=807389). More than that, we have all learned that flours and meals and grains can show up anywhere, or even move in right next to yoga straps made from the wool of New Zealand sheeps that have never been fed Midwestern corn.
 
