@@ -53,7 +53,7 @@ Wait a minute. Right there, by the Kind bars, which are nowhere near the other e
 
 ![nm5.jpg](/assets/post_images/2014-12-11/nm5.jpg)
 
-Bob's Red Mill Organic Whole Ground Flaxseed Meal. $4.49 per pound. Right above "NATURES STEP-STOOL," proving that no detail is no small for Nature's Attention.
+Bob's Red Mill Organic Whole Ground Flaxseed Meal. $4.49 per pound. Right above "NATURES STEP-STOOL," proving that no detail is too small for Nature's Attention.
 
 I went into Nature, where everything you want to feel good about or need to pay more for is jammed together [like a Katamari Damacy ball](http://media.edge-online.com/wp-content/uploads/sites/117/oldfiles/katamari_damacy_vita_02.jpg). I made my way through Nature, and Nature made its way through me. Also: you read this whole thing. 
 
