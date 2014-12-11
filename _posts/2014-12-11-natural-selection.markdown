@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Journey Through Wegman's Nature
+title: Natural Selection
 published: true
 ---
 
