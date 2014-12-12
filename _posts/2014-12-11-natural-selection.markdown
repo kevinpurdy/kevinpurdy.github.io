@@ -24,7 +24,7 @@ One Sunday, it was Flaxseed Meal. _Ground_ Flaxseed Meal. **Whole** _Ground_ Fla
 
 This isn't non-GMO applesauce or kelp flour we're talking about. This is bag of ground up seeds. Let's go find it.
 
-I head toward the six or so aisles of the Free Republic of Nature's Marketplaceâ€”after I finish in produce, but before the dry goods and dairy. I roll my shoulders up and back a bit, get my mind right, and swing the cart into the rarefied realms of Nue Natyrzstan's Marccet.
+I head toward the six or so aisles of the Free Republic of Nature's Marketplace—after I finish in produce, but before the dry goods and dairy. I roll my shoulders up and back a bit, get my mind right, and swing the cart into the rarefied realms of Nue Natyrzstan's Marccet.
 
 ![nm1.jpg](/assets/post_images/2014-12-11/nm1.jpg)
 
@@ -47,7 +47,7 @@ But ground flaxseed meal must be found. I search the first aisle, full of soups 
 
 Herbal supplements get their own aisle. This aisle is unique, in that Wegmans, or the People's Republic of Natural Wegmans, have not seeded these shelves with unrelated but high-margin items. Perhaps like myself, Nature's Marketplace just never has the energy to argue with herbal supplements.
 
-I scan every aisle of the District 12 Nature Hub once more. I begin to lose faith in Bob's Red Mill, or Wegmans, or NATURE, or maybe everything. Will another kind of flax do? Can I just grind my own flax seeds, and will that make it a "meal"? What distinguishes a flour from a meâ€” ![nm4 (1).jpg](/assets/post_images/2014-12-11/nm4.jpg) 
+I scan every aisle of the District 12 Nature Hub once more. I begin to lose faith in Bob's Red Mill, or Wegmans, or NATURE, or maybe everything. Will another kind of flax do? Can I just grind my own flax seeds, and will that make it a "meal"? What distinguishes a flour from a me— ![nm4 (1).jpg](/assets/post_images/2014-12-11/nm4.jpg) 
 
 Wait a minute. Right there, by the Kind bars, which are nowhere near the other energy bars? And the ... fleeced yoga accessories? Just over from those $9 pickles, which are on top of little specialty bags of flour, not with the other flours? Yes. It is here.
 
