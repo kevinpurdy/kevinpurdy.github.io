@@ -4,7 +4,7 @@ title: My 2014 in Abridged Review
 published: true
 ---
 
-<iframe src="https://www.flickr.com/photos/purdman1/15974650739/" width="480" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/purdman1/15974650739/player/" width="480" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 **Contents**
 + <a href="#thingsiwrote">Things I Wrote</a>
