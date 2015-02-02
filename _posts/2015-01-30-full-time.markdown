@@ -2,6 +2,7 @@
 layout: post
 title: Going Full-Time
 published: true
+excerpt: In which the author gets an actual job.
 ---
 
 Starting Tuesday (Feb. 3, 2015), I will be a full-time writer for [The Wirecutter](http://thewirecutter.com) and [The Sweethome](http://thesweethome.com).
