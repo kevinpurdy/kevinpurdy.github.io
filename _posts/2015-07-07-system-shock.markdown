@@ -37,6 +37,8 @@ Playing _System Shock_ is hearing ghostly audio diaries, full of both vital miss
 
 People create things because they're fun to make, and then they change people's lives. It's amazing, this stuff.
 
+***
+
 [^1]: The gender of the player character is shown to be male in the intro cutscene, but it's essentially non-assigned during the game. Luckily, it would seem, there are no full-length or head-height mirrors on Citadel Station.
 
 [^2]: It was a BIOS setting for the hard drive: "Turbo Mode: Enabled/Disabled." Why would anyone ever want their hard drive to _not_ run in "Turbo Mode," I ask you? 
