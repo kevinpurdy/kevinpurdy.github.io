@@ -5,7 +5,7 @@ published: true
 excerpt: The author is forever changed by an epic battle. Against a Gateway PC.
 ---
 
-_This was originally a pitch to write a book about _System Shock_. It is now a slightly fragmented note about how a video game changed who I was and what I would become. Enjoy._
+_This was originally a pitch to write a book about_ System Shock. _It is now a slightly fragmented note about how a video game changed who I was and what I would become. Enjoy._
 
 I am not joking, not one little bit, when I state that _System Shock_ is the reason I have my career.
 
