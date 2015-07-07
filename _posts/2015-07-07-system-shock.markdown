@@ -9,7 +9,7 @@ _This was originally a pitch to write a book about_ System Shock. _It is now a s
 
 I am not joking, not one little bit, when I state that _System Shock_ is the reason I have my career.
 
-[_System Shock_](https://en.wikipedia.org/wiki/System_Shock) was the first real stab at realistic physics in first-person shooting games. It raised the stakes on immersive audio design. It showcased the possibilities of [emergent game design](http://www.gamasutra.com/view/news/204942/Spector_Go_emergent__game_design_is_not_all_about_you.php). And gamers should praise this modestly selling game as the true ancestor of [_BioShock_](http://www.bioshockgame.com/site/agegate.html).
+The PC (MS-DOS) game [_System Shock_](https://en.wikipedia.org/wiki/System_Shock) was the first real stab at realistic physics in first-person shooting games. It raised the stakes on immersive audio design. It showcased the possibilities of [emergent game design](http://www.gamasutra.com/view/news/204942/Spector_Go_emergent__game_design_is_not_all_about_you.php). And gamers should praise this modestly selling game as the true ancestor of [_BioShock_](http://www.bioshockgame.com/site/agegate.html).
 
 But none of that is why _System Shock_ mattered so much to a 16-year-old kid in upstate New York. Let's begin where so many gaming stories begin: a suburban basement.
 
