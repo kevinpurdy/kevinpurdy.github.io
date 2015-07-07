@@ -2,7 +2,7 @@
 layout: post
 title: My Own Personal SHODAN
 published: true
-excerpt: The tale of a heroic battle against a beige box.
+excerpt: The author is forever changed by an epic battle. Against a Gateway PC.
 ---
 
 _This was originally a pitch to write a book about _System Shock_. It is now a slightly fragmented note about how a video game changed who I was and what I would become. Enjoy._
