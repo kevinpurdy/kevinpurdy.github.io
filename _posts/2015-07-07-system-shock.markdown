@@ -2,7 +2,7 @@
 layout: post
 title: Fighting My Own Personal SHODAN
 published: true
-excerpt: In which the author becomes a different person while fighting an all-powerful enemy: a Gateway PC from the early 1990s.
+excerpt: In which the author is changed in fighting his enemy: a 1990s Gateway PC
 ---
 
 _This was originally a pitch to write a book about _System Shock_. It is now a slightly fragmented note about how a video game changed who I was and what I would become. Enjoy._
