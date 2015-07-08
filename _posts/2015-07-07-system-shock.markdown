@@ -7,6 +7,8 @@ excerpt: The author is forever changed by an epic battle. Against a Gateway PC.
 
 _This was originally a pitch to write a book about_ System Shock. _It is now a slightly fragmented note about how a video game changed who I was and what I would become. Enjoy._
 
+***
+
 I am not joking, not one little bit, when I state that _System Shock_ is the reason I have my career.
 
 The PC (MS-DOS) game [_System Shock_](https://en.wikipedia.org/wiki/System_Shock) was the first real stab at realistic physics in first-person shooting games. It raised the stakes on immersive audio design. It showcased the possibilities of [emergent game design](http://www.gamasutra.com/view/news/204942/Spector_Go_emergent__game_design_is_not_all_about_you.php). And gamers should praise this modestly selling game as the true ancestor of [_BioShock_](http://www.bioshockgame.com/site/agegate.html).
@@ -15,7 +17,7 @@ But none of that is why _System Shock_ mattered so much to a 16-year-old kid in 
 
 _System Shock_ would not run on the Gateway 486DX/33 desktop my father brought home from his seafood processing business. Well, the game would run, but it would randomly hit a complete halt. A frightful error stream would spew down the left side of a giant monitor, painting green or sometimes yellow-on-black DOS text over the game's 3-D graphics. The last line was always "[DIVIDE OVERFLOW](http://superuser.com/questions/409259/ms-dos-divide-overflow-error)." It was sometimes accompanied by a terrible whine or skipping from plastic speakers.
 
-This base-level problem, this unknowable enemy, nicely mirrored the battle I was engaged in whenever the game wasn't crashing. I was battling errant artificial intelligence code, seeking to stop you, the hacker in over his[^1] head, from effectively fixing her.
+This real-world problem, this unknowable enemy, mirrored the battle I was engaged in whenever the game wasn't crashing. I was battling SHODAN, an errant artificial intelligence, seeking to stop you, the hacker in over his[^1] head, from effectively fixing her and regaining control of a wayward space station.
 
 I was, at the time, a C student with no particular interest in research, in exploring systems, in understanding how things worked so that I could explain them to other people. I wore a lot of flannel and told anyone who would listen that I didn't care about most things.
 
