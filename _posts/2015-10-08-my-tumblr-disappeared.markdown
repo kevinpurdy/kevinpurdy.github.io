@@ -18,10 +18,11 @@ For those who might offer to fix, or at least solve the mystery, I am sorry to s
 + I used a randomly generated password from LastPass for this account, at least 8 characters long, numbers and symbols and everything.
 + I do not appear to have been part of Tumblr's recent sweep-out of inactive accounts. I did not get an email stating that I was inactive and should do something about that.
 + I did not back up my Tumblr account. Tumblr does not make it easy to do so, last I checked. But I could have done it, probably.
++ The last Wayback Machine snapshot is from <a href="https://web.archive.org/web/20150322115800/http://kevinpurdy.tumblr.com/">March 2015</a>.
 
 If it was a Tumblr database error, or some other benign mistake, I suppose I've learned a lesson.
 
-If my account was compromised: why? If it was a spambot, why are they even worse with procrastination than I am?
+If my account was compromised ("hacked"): why? If it was a spambot, why are they even worse with procrastination than I am?
 
 If you value something, don't leave it on somebody else's servers without backups.
 
