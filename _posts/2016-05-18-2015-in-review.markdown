@@ -45,11 +45,11 @@ I  forgot about the knee trouble, except for the occasional weird popping sound 
 
 I liked running.
 
-Last year, I ran 322 miles, according to Runkeeper/Strava/Garmin. Nearly 50 hours of running, not including the stupid amount of time I spent fiddling with the apps, straps, and shoes. On one Tuesday evening in July, I pressed myself about as hard as I could and ran 3 miles at a pace of 6 minutes 15 seconds per mile. I ran a half-marathon on a Saturday in August, showered at a friends' house, went to an Oktoberfest celebration at a brewery, and drank and sausaged back a large number of the 1,853 calories I supposedly burned. Good day.
+Last year, I ran 322 miles, according to Runkeeper/Strava/Garmin. Nearly 50 hours of running, not including the stupid amount of time I spent fiddling with the apps, straps, and shoes. On one Tuesday evening in July, I pressed myself about as hard as I could and ran 3 miles at a pace of 6 minutes 15 seconds per mile. I ran a half-marathon on a Saturday in August. Then I showered at a friends' house, went to an Oktoberfest celebration at a brewery, and drank and ate sausage and restocked a large number of the 1,853 calories I supposedly burned. Good day.
 
-Then, one weekend, [CoworkBuffalo](#cowork) needed cleaning, because some Serious Business Types were coming the next day. I showed up mid-morning, a couple hours ahead of schedule. I wore my Motorhead T-shirt for the occasion ("Everything Louder than Everyone Else"). I stuck in my earbuds, turned up the running playlist on my phone, cracked open one of those fancy canned craft beers, smiled at my fake badass-ery, and got to work. I toweled out heating vents, I wiped down bike tire marks on walls, I got down and scrubbed the scuffs off the molding, I scrubbed every inch of our giant windows. I spent four hours on it, and when I got back to my car, pressing the accelerator felt more wobbly and uncertain than I expected.
+Then, one weekend, [CoworkBuffalo](#cowork) needed cleaning, because some Serious Business Types were coming the next day. I showed up mid-morning, a couple hours ahead of schedule. I wore my Motorhead T-shirt for the occasion ("Everything Louder than Everyone Else"). I stuck in my earbuds, turned up the running playlist on my phone, cracked open one of those fancy canned craft beers, smiled at my fake badass-ery, and got to work. I toweled out heating vents, I wiped down bike tire marks on walls, I got down and scrubbed the scuffs off the molding, I scrubbed every inch of our giant windows. I spent four hours on it, and felt good about my work. Then I got back to my car, pressed the accelerator, and my knee felt wobbly and uncertain.
 
-I had my second arthroscopic surgery on the medial meniscus of my right knee in mid-January of 2016. Orthopedic "sports" doctors seem unable to tell patients that they "can't run"—maybe it's too much of a challenge to certain sets of ears. But I can't run anymore, not like I used to. I went two miles the other day, jogging with a friend at a 9:45-ish pace, and at mile 2, my knee was not ... knee-ing correctly.
+I had my second arthroscopic surgery on the medial meniscus of my right knee in mid-January of 2016. Orthopedic "sports" doctors don't tell you that you "can't run," because I guess you could prove them wrong right then by running out of their office. But I can't run anymore, not like I used to. I went two miles one day in March 2016, jogging with a friend at a 9:45-ish pace, and at mile 2, my knee was not ... knee-ing correctly.
 
 I think I've grown, learned, arrived at something: maybe it wasn't the miles, the times, the rankings that I enjoyed. Maybe, hopefully, it was the reward of sticking with something, doing it over and over, and seeing results. I hope so, anyways.
 
@@ -124,6 +124,7 @@ Just finished a new round of kitchen trash can testing for @homesweethome. With 
 #### Personal blog posts
 
 I wrote four of them:
+
 + [Going full-time](http://thepurdman.com/full-time/), about going full-time.
 + [My Own Personal SHODAN](http://thepurdman.com/system-shock/), putting a rejected book proposal out there.
 + [Currently Digging](http://thepurdman.com/currently-digging/), a list of things I was into at that time.
