@@ -28,7 +28,8 @@ Bad year, 2013. Moving on.
 
 I stopped freelancing and signed up to write for one site. I wrote guides to buying the best [USB microphones](http://thewirecutter.com/reviews/the-best-usb-microphone/), [toilet brush](http://thesweethome.com/reviews/best-toilet-brush/), [small trash cans](http://thesweethome.com/reviews/best-small-trash-cans/), and updated guides to [cutting boards](http://thesweethome.com/reviews/best-cutting-board/), [kitchen trash can](http://thesweethome.com/reviews/best-trash-can/), and [instant-read thermometer](http://thesweethome.com/reviews/the-best-instant-read-thermometer/). It certainly feels like I chipped in on a bunch of other stuff. Many guides didn't go up until 2016. It's a  remarkable place to work, as a professional writer who (_wait for it_) has never felt (_oh man_) like they have enough time (_whoa_) to  think things through (I _know_, **right**?). You think things through, argue about each others' decisions, change your mind when new evidence is present. Crazy, these days.
 
-### Broke my knee, again<a name="knee"></a>
+<a name="knee"></a>
+### Broke my knee, again
 
 ![Doctor's sketch of right knee meniscus](/assets/post_images/2016-05-18/knee_drawing.png)
 
@@ -50,7 +51,8 @@ I had my second arthroscopic surgery on the medial meniscus of my right knee in 
 
 I think I've grown, learned, arrived at something: maybe it wasn't the miles, the times, the rankings that I enjoyed. Maybe, hopefully, it was the reward of sticking with something, doing it over and over, and seeing results. I hope so, anyways.
 
-### Le Petit Mid-Life Crisis<a name="two-fifths"></a>
+<a name="two-fifths"></a>
+### Le Petit Mid-Life Crisis
 
 ![no comment](/assets/post_images/2016-05-18/midlife_crisis.jpg)
 <em>Photo by <a href="https://www.flickr.com/photos/65662643@N02/5999111511/">Dean Smith/Flickr</a>.</em>
@@ -77,7 +79,8 @@ It lasted months, if not the whole year. It's better now, but I can still hear t
 
 _Abrupt change of tone follows_
 
-### TEDxBuffalo<a name="tedx"></a>
+<a name="tedx"></a>
+### TEDxBuffalo
 
 ![TEDxBuffalo 2016, from the front-corner of the stage](/assets/post_images/2016-05-18/tedxbuffalo_2016.jpg)
 <em>Photo by <a href="https://www.flickr.com/photos/tedxbuffalo/22506239645/in/dateposted/">TEDxBuffalo/Flickr</a>.</em>
@@ -86,13 +89,14 @@ It happened again! This year's [TED-licensed event in Buffalo](http://tedxbuffal
 
 Eight [speakers/performers](http://www.tedxbuffalo.com/2015speakers/), lots of [photos and cupcakes](https://www.flickr.com/photos/tedxbuffalo/sets/72157660243165501), and [eight high-quality TED-style talks](https://www.youtube.com/playlist?list=PLsRNoUx8w3rPf1W0aQ-DqkQUJOnXSfh_H). If you want to cry, watch [Dr. Christopher Kerr's talk on the dreams of the dying](https://www.youtube.com/watch?v=rbnBe-vXGQM&index=6&list=PLsRNoUx8w3rPf1W0aQ-DqkQUJOnXSfh_H&nohtml5=False).
 
-### CoworkBuffalo<a name="cowork"></a>
+<a name="cowork"></a>
+### CoworkBuffalo
 
 ![Youngster seeks charging cable at CoworkBuffalo](/assets/post_images/2016-05-18/coworkbuffalo_2016.jpg)
 
 We were open! Another year! I helped run [Buffalo's independent coworking space](http://coworkbuffalo.com) again, where we hosted workers, training sessions, and community group meetings, and ground up a lot of fresh [Public Espresso](http://publicespresso.com) beans.
 
-### Shared Web Output<a name="output"></a>
+### Shared Web Output
 
 #### Twitter
 
