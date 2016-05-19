@@ -96,6 +96,7 @@ Eight [speakers/performers](http://www.tedxbuffalo.com/2015speakers/), lots of [
 
 We were open! Another year! I helped run [Buffalo's independent coworking space](http://coworkbuffalo.com) again, where we hosted workers, training sessions, and community group meetings, and ground up a lot of fresh [Public Espresso](http://publicespresso.com) beans.
 
+<a name="output"></a>
 ### Shared Web Output
 
 #### Twitter
@@ -126,13 +127,14 @@ I wrote four of them:
 
 Looking up how to count all the photos in a certain range on Google Photos. Only posted [5 photos to Flickr in 2015](https://www.flickr.com/search/?user_id=11550160%40N03&min_taken_date=1420088400&max_taken_date=1451624399&view_all=1&text=).
 
-<a name="misc"></a>### Miscellaneous
+<a name="misc"></a>
+### Miscellaneous
 
-### Slack
+#### Slack
 
 I posted 19,552 messages into Wirecutter's [Slack](http://slack.com) channels, 926 into a Slack room with friends, and 149 messages into another room with interesting people.
 
-### Books I read
+#### Books I read
 
 I'm not sure. I will read whatever article catches my fancy on Twitter or Feedly or in Slack, whatever I'm doing, but I can't be bothered to give myself 20 minutes a day for Reading I Want.
 
