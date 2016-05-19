@@ -3,7 +3,8 @@ markdown: redcarpet
 kramdown:
     input: GFM
 markdown: kramdown
-pygments: true
+pygments: false
 base_url: http://thepurdman.com
 description: "Kevin Purdy's personal site"
 permalink: /:title/
+highlighter: rouge
