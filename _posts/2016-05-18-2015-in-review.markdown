@@ -1,0 +1,144 @@
+---
+layout: post
+title: 2015 In Review
+published: true
+---
+
+**Contents**
++ Intro
++ [Full-time at Wirecutter/Sweethome](#fulltime)
++ [Broken knee](#knee)
++ [2/5-life crisis](#two-fifths)
++ [TEDxBuffalo](#tedx)
++ [CoworkBuffalo](#cowork)
++ [Shared web output](#output)
++ [Miscellaneous](#misc)
+
+Corporations (and [Canada](http://laws.justice.gc.ca/eng/F-8/FullText.html)!) don't get around to their annual reviews until early April because their financial year doesn't end until March 31.
+
+Me, I'm putting this thing up just shy of halfway through two-thousand-freaking-sixteen, because I procrastinate the hard things. But I still wanted to leave something here about a year of my life that went by.
+
+I posted reviews for [2014](http://thepurdman.com/my-year-in-abridged-review/), 2012 (in [two](http://thepurdman.com/my-2012-year-in-review-part-1-or-my-grandfathers-tub-bass/) [parts](http://thepurdman.com/my-2012-year-in-review-part-2-in-which-things-from-the-year-will-actually-be-reviewed/)), [2011](http://thepurdman.com/one-of-those-year-end-looking-back-posts-except-unpaid/), and [2010](http://thepurdman.com/the-android-book-fanboys-printable-check-ins-and-goodbye-to-2010/). I've rewritten this thing three times now, but I'm not gonna leave it like I left 2013. The year Lou Reed and Roger Ebert died. 
+
+Bad year, 2013. Moving on.
+
+<a name="fulltime"></a>### Full-time at The Wirecutter/Sweethome
+
+I stopped freelancing and signed up to write for one site. I wrote guides to buying the best [USB microphones](http://thewirecutter.com/reviews/the-best-usb-microphone/), [toilet brush](http://thesweethome.com/reviews/best-toilet-brush/), [small trash cans](http://thesweethome.com/reviews/best-small-trash-cans/), and updated guides to [cutting boards](http://thesweethome.com/reviews/best-cutting-board/), [kitchen trash can](http://thesweethome.com/reviews/best-trash-can/), and [instant-read thermometer](http://thesweethome.com/reviews/the-best-instant-read-thermometer/). It certainly feels like I chipped in on a bunch of other stuff. Many guides didn't go up until 2016. It's a  remarkable place to work, as a professional writer who (_wait for it_) has never felt (_oh man_) like they have enough time (_whoa_) to  think things through (I _know_, **right**?). You think things through, argue about each others' decisions, change your mind when new evidence is present. Crazy, these days.
+
+<a name="knee"></a>### Broke my knee, again
+
+![Doctor's sketch of right knee meniscus](/assets/post_images/2016-05-18/knee_drawing.png)
+
+I did a dumb thing in 2003, when I was 24, living in a student apartment at the University at Buffalo. I bought a pair of rollerblades.
+
+More dumb than that was allowing a college roommate who didn't know how to rollerblade to teach me how. How do you stop moving forward? You'll learn on this downward-sloping parking lot. The scene ends with me clutching my right knee, but also looking at the Pontiac Firebird I had just hit, hoping I didn't leave a dent.
+
+That, and walking around with a limp for too long, dug a bunch of cuts and holes in the [medial meniscus](https://en.wikipedia.org/wiki/Medial_meniscus), the cartilage that keeps your gross knee bones from straight-up grinding on one another. I had surgery, I wore a series of casts for two months, and stopped physical therapy short, because I got a bill for six weeks of copays at once and I had never even heard of copays until then.
+
+I  forgot about the knee trouble, except for the occasional weird popping sound when standing up from a crouch. I started running, for the first time since high school cross country, in late 2014. In 2015, I started taking it way too seriously.
+
+I liked running.
+
+Last year, I ran 322 miles, according to Runkeeper/Strava/Garmin. Nearly 50 hours of running, not including the stupid amount of time I spent fiddling with the apps, straps, and shoes. On one Tuesday evening in July, I pressed myself about as hard as I could and ran 3 miles at a pace of 6 minutes 15 seconds per mile. I ran a half-marathon on a Saturday in August, showered at a friends' house, went to an Oktoberfest celebration at a brewery, and drank and sausaged back a large number of the 1,853 calories I supposedly burned. Good day.
+
+Then, one weekend, [CoworkBuffalo](#cowork) needed cleaning, because some Serious Business Types were coming the next day. I showed up mid-morning, a couple hours ahead of schedule. I wore my Motorhead T-shirt for the occasion ("Everything Louder than Everyone Else"). I stuck in my earbuds, turned up the running playlist on my phone, cracked open one of those fancy canned craft beers, smiled at my fake badass-ery, and got to work. I toweled out heating vents, I wiped down bike tire marks on walls, I got down and scrubbed the scuffs off the molding, I scrubbed every inch of our giant windows. I spent four hours on it, and when I got back to my car, pressing the accelerator felt more wobbly and uncertain than I expected.
+
+I had my second arthroscopic surgery on the medial meniscus of my right knee in mid-January of 2016. Orthopedic "sports" doctors seem unable to tell patients that they "can't run"—maybe it's too much of a challenge to certain sets of ears. But I can't run anymore, not like I used to. I went two miles the other day, jogging with a friend at a 9:45-ish pace, and at mile 2, my knee was not ... knee-ing correctly.
+
+I think I've grown, learned, arrived at something: maybe it wasn't the miles, the times, the rankings that I enjoyed. Maybe, hopefully, it was the reward of sticking with something, doing it over and over, and seeing results. I hope so, anyways.
+
+<a name="two-fifths"></a>### Le Petit Mid-Life Crisis
+
+![no comment](/assets/post_images/2016-05-18/midlife_crisis.jpg)
+<em>Photo by <a href="https://www.flickr.com/photos/65662643@N02/5999111511/">Dean Smith/Flickr</a>.</em>
+
+A month and a couple weeks before I turned 35, I was recording a podcast with my friend Chaz, who was himself about to turn 30. [The episode](http://shoutengine.com/TheChazCast/chazcast-episode-2-14275) started with Chaz asking if I thought age and experience were different now, in "the workplace," than when I was just starting out. I talked about how I work remotely for a young and growing company, but used to work at old, shrinking newspapers, and how they are (surprise!) different. Chaz asks me a different version of his question, because I didn't answer it. I say something bland, like work is just work, and everybody's just trying to get by.
+
+Then,  at 8 minutes and 30 seconds in, I say something that I was telling myself for the first time, too:
+
+> I think, when you're young, you can still tell yourself that someday you're going to be the absolute best at—probably a whole bunch of things, because you're young and stupid. (But) you can at least convince yourself that, "I'm _probably_ going to be the best feature writer that the world has ever seen." And you wouldn't actually say that. But, like, you're talking to friends and you say to them (_sarcastically_), "Ha-ha-ha, I'm going to be the best feature writer the New York Times has ever seen!" You all laugh, you move onto the next conversation. But meanwhile, you're holding your beer, and you're like, "I am. I am going to be the best feature writer the New York Times has ever seen." The conversation has moved on, your friends are talking about something else, and you're (saying to yourself), "No, seriously, I  mean it. That's probably me, right? Everyone knows that, right? Everyone's aware of this. Okay. Cool."
+> 
+> When you get older, I think you realize that ... the world is going to keep churning out young people, that will be better than you. ... There's so many people who are better at individual portions of your job than you are. When you get older, you're like, "Alright, I have to figure out what it is about me that's unique, and prioritize." ...
+> 
+> I am constantly working at figuring out what it is that―
+> _Chaz: Makes me good at what I do?_
+> Yeah, pretty much. And it takes a long time to get there.
+
+And that is what I sounded like _after_ months of therapy and self-discovery. Yikes.
+
+The fearful, reactive part of my brain was telling me, constantly, that I was not a Good Writer, based on the edits  and notes I would get back (even though everybody gets edits and notes). That would be okay if I was a Serious Journalist, but I wasn't that, either, because I couldn't get started on this article I'd had in my head for years. I was not a Good Homeowner, because, God, just look at my old house getting older, and imagine what my neighbors think of me. I was not a Fast Runner, a Responsible Money-Saver, a Decent Parent, a Social Work Hero. 
+
+If I was any one of those things, I thought, I could forgive myself for not being the others. Which is dumb and not true. I just walked around with big invisible headphones on, constantly repeating and shuffling a playlist of low-frequency regrets and reminders. A few people told me they could see it, sense it. "Heaviness," one friend put it.
+
+It lasted months, if not the whole year. It's better now, but I can still hear tracks from that playlist sometimes, as if from the window of a passing car. Tough getting older.
+
+_Abrupt change of tone follows_
+
+<a name="tedx"></a>### TEDxBuffalo
+
+![TEDxBuffalo 2016, from the front-corner of the stage](/assets/post_images/2016-05-18/tedxbuffalo_2016.jpg)
+<em>Photo by <a href="https://www.flickr.com/photos/tedxbuffalo/22506239645/in/dateposted/">TEDxBuffalo/Flickr</a>.</em>
+
+It happened again! This year's [TED-licensed event in Buffalo](http://tedxbuffalo.com) was at Babeville at Asbury Hall, a.k.a. Ani DiFranco's church. 18-year-old Kevin, a big fan of [Up Up Up Up Up Up](http://store.righteousbabe.com/collections/music/products/up-up-up-up-up-up#.Vwlux-ArKJc), would scarcely believe it.
+
+Eight [speakers/performers](http://www.tedxbuffalo.com/2015speakers/), lots of [photos and cupcakes](https://www.flickr.com/photos/tedxbuffalo/sets/72157660243165501), and [eight high-quality TED-style talks](https://www.youtube.com/playlist?list=PLsRNoUx8w3rPf1W0aQ-DqkQUJOnXSfh_H). If you want to cry, watch [Dr. Christopher Kerr's talk on the dreams of the dying](https://www.youtube.com/watch?v=rbnBe-vXGQM&index=6&list=PLsRNoUx8w3rPf1W0aQ-DqkQUJOnXSfh_H&nohtml5=False).
+
+<a name="cowork"></a>### CoworkBuffalo
+
+![Youngster seeks charging cable at CoworkBuffalo](/assets/post_images/2016-05-18/coworkbuffalo_2016.jpg)
+
+We were open! Another year! I helped run [Buffalo's independent coworking space](http://coworkbuffalo.com) again, where we hosted workers, training sessions, and community group meetings, and ground up a lot of fresh [Public Espresso](http://publicespresso.com) beans.
+
+<a name="output"></a>### Shared Web Output
+
+#### Twitter
+
+![Unpaid Twitter work in 2015](/assets/post_images/2016-05-18/thinkup_2015.png)
+
+I posted [1,876 tweets in 2015](https://kevinpurdy.thinkup.com/?u=kevinpurdy&n=twitter&d=2015-12-21&s=eoy_total_posts), consisting of [20,675 words](https://kevinpurdy.thinkup.com/?u=kevinpurdy&n=twitter&d=2015-12-10&s=eoy_word_count). My longest tweet-streak was [58 days in a row](https://kevinpurdy.thinkup.com/?u=kevinpurdy&n=twitter&d=2015-12-17&s=eoy_longest_streak).  My Twitter [bestie was @phildzikiy](https://kevinpurdy.thinkup.com/?u=kevinpurdy&n=twitter&d=2015-12-09&s=eoy_bestie).
+
+My most popular tweet was about [going full-time at the Wirecutter/Sweethome](https://kevinpurdy.thinkup.com/?u=kevinpurdy&n=twitter&d=2015-12-23&s=eoy_most_popular). My most popular photo was of Howard licking his lips behind a trash can:
+
+Just finished a new round of kitchen trash can testing for @homesweethome. With a new research assistant. pic.twitter.com/exYmzboDNR— Kevin Purdy (@kevinpurdy) November 6, 2015
+
+[ThinkUp](http://thinkup.com) is wonderful. One of my friends created it, one of my friends worked on it. [Your company with all the money should buy it](https://medium.com/@anildash/thinkup-s-next-step-39f245c10db0?source=user_profile---------1-).
+
+#### Tumblr
+
+[Lost my Tumblr account, to gremlins, in October 2015](http://thepurdman.com/my-tumblr-disappeared/). I liked it. Too bad.
+
+#### Personal blog posts
+
+I wrote four of them:
++ [Going full-time](http://thepurdman.com/full-time/), about going full-time.
++ [My Own Personal SHODAN](http://thepurdman.com/system-shock/), putting a rejected book proposal out there.
++ [Currently Digging](http://thepurdman.com/currently-digging/), a list of things I was into at that time.
++ [My Tumblr disappeared](http://thepurdman.com/my-tumblr-disappeared/), about that thing happening.
+
+#### Photos
+
+Looking up how to count all the photos in a certain range on Google Photos. Only posted [5 photos to Flickr in 2015](https://www.flickr.com/search/?user_id=11550160%40N03&min_taken_date=1420088400&max_taken_date=1451624399&view_all=1&text=).
+
+<a name="misc"></a>### Miscellaneous
+
+### Slack
+
+I posted 19,552 messages into Wirecutter's [Slack](http://slack.com) channels, 926 into a Slack room with friends, and 149 messages into another room with interesting people.
+
+### Books I read
+
+I'm not sure. I will read whatever article catches my fancy on Twitter or Feedly or in Slack, whatever I'm doing, but I can't be bothered to give myself 20 minutes a day for Reading I Want.
+
+I want to start measuring and improving this, because right now, my Goodreads account implies I only read three books last year: one about housebreaking a dog, another from [Boss Fight Books](http://bossfightbooks) (I'm pretty sure I read 10 of those last year), and [_Goodbye Surfing, Hello God!_](http://www.amazon.com/Goodbye-Surfing-Hello-Jules-Siegel-ebook/dp/B0061R6CBM). Or maybe those really are the only books I read. Either way: change is needed.
+
+***
+
+Thank you for reading all that.
+
+
+
+
+
+
+
