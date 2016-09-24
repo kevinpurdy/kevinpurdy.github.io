@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make your won Linux Crapbook
+title: Make your own Linux Crapbook
 published: true
 ---
 
