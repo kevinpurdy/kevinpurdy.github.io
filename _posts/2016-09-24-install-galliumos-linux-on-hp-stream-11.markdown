@@ -4,10 +4,9 @@ title: Make your won Linux Crapbook
 published: true
 ---
 
-Or, how to install GalliumOS, a very lightweight Ubuntu-ish Linux OS, on the HP Stream 11 and make it useful again
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Or, how to install GalliumOS, a very lightweight Ubuntu-ish Linux OS, on the HP Stream 11 and make it useful again
 
-_If you want to skip to the part with the actual how-to on installing GalliumOS on the Stream 11, <a href="#howto">you can do so</a>.
+_If you want to skip to the part with the actual how-to on installing GalliumOS on the Stream 11, <a href="#howto">you can do so</a>._
 
 A family friend recently gave my wife and I a laptop. It was not a gift, but a surrender. This laptop, she told my wife, "Just doesn't work," and was "a mistake." I have three pets from a shelter and a weird affection for old laptops, so I took the odd little slab under my wing.
 
