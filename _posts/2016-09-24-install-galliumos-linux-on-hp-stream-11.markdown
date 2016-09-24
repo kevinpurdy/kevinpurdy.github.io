@@ -1,3 +1,9 @@
+---
+layout: post
+title: Make your won Linux Crapbook
+published: true
+---
+
 Make your own Linux Crapbook
 =========================
 
@@ -24,7 +30,7 @@ First I tried [CloudReady](https://www.neverware.com/), which purports to "turn 
 
 GalliumOS is a good-looking Linux OS, and it's pretty snappy on the Stream 11. 
 
-![Screenshot of full GalliumOS desktop](full_desktop_screenshot.png)
+![Screenshot of full GalliumOS desktop](/assets/post_images/2016-09-24/full_desktop_screenshot.png)
 
 I wrote this entire guide on the Stream, while keeping Chrome (technically Chromium) open with 2-5 tabs open at various times. It has some smart, useful built-in apps: Pidgin for instant messaging, VLC for playing every media file on Earth, Simple Scan for scanning, and a few others. I like Mousepad for text editing, because it has color schemes and Markdown support. If you want, you can install nearly any app that works with 64-bit Ubuntu or Xubuntu. I've added clients for [Slack](http://slack.com) and [Zoom](https://support.zoom.us/hc/en-us), just in case I have to do some work on this little Streamy. I've even added [DisplayLink drivers](http://www.displaylink.com/downloads/ubuntu) to hook up to a monitor through a USB 3.0 hub at my office. 
 
@@ -75,7 +81,7 @@ If you don't need Bluetooth on your laptop, you can definitely skip the quirky p
 
 Shut down your Stream 11. Before you start it up again, get your finger ready on the Escape key (upper-left-most key). It's a very small window in which you can press the escape key while booting up to enter the boot options. Once the menu appears, press F10 to enter BIOS Setup.
 
-![Smartphone photo of BIOS menu, exciting](stream_bios.jpg)
+![Smartphone photo of BIOS menu, exciting](/assets/post_images/2016-09-24/stream_bios.jpg)
 
 Inside the creepy, 1982-_Tron_-style menu, head over to the System Configuration section by pressing the right arrow twice. Now head down to the "Boot Options" menu by pressing the down arrow twice, then hit Enter to fold down the Boot Options menu. Now head down to "Legacy Support," then press Enter to change Legacy Support to "Enabled." You'll get a little warning that you might not be able to boot your system anymore, but that's okay. 
 
@@ -83,7 +89,7 @@ Now there's a few new options below, in the "Legacy Boot Order" section. Head do
 
 Tap right to head over to "Exit," then choose "Save and Exit." The Stream may try to restart, but just shut it off by holding down the power button.
 
-![Photo of Stream's warning about secure boot mode being off](creepy_warning.jpg)
+![Photo of Stream's warning about secure boot mode being off](/assets/post_images/2016-09-24/creepy_warning.jpg)
 
 Now the Stream is going to make one last attempt to hold onto its Windows 8 install (unlike most people who have one). You have to type in a four-digit code and hit Enter to prove you're a real human who wanted to make this system change. Do it, move on.
 
@@ -91,7 +97,7 @@ Now the Stream is going to make one last attempt to hold onto its Windows 8 inst
 
 _Note: If you have your USB Wi-Fi adatper or Ethernet cord and an ethernet-to-USB adapter, now would be a good time to plug it in. Also, if you're going to try to dual-boot Gallium and Windows (eep), you're [on your own with this install](https://help.ubuntu.com/community/WindowsDualBoot)_
 
-![Options to check for downloading and third-party during Gallium installation](check_options.png)
+![Options to check for downloading and third-party during Gallium installation](/assets/post_images/2016-09-24/check_options.png)
 
 If you're connected to internet through an adapter, click the Wi-Fi icon in the lower-right corner and connect to your router. Click through and fill out the forms of Gallium's installation. When it asks what kind of installation you want, choose "Erase disk and install GalliumOS" for the easiest going. If you're plugged into Wi-Fi, choose to "Download updates while installing GalliumOS," and "Install third-party software." Move through the rest of the setup, and reboot when asked to do so.
 
