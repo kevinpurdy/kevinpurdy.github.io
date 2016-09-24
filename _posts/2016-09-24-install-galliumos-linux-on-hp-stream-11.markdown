@@ -4,9 +4,6 @@ title: Make your won Linux Crapbook
 published: true
 ---
 
-Make your own Linux Crapbook
-=========================
-
 Or, how to install GalliumOS, a very lightweight Ubuntu-ish Linux OS, on the HP Stream 11 and make it useful again
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
