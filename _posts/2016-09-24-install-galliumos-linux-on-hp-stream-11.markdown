@@ -4,9 +4,11 @@ title: Make your won Linux Crapbook
 published: true
 ---
 
-## Or, how to install GalliumOS, a very lightweight Ubuntu-ish Linux OS, on the HP Stream 11 and make it useful again
+### Or, how to install GalliumOS, a very lightweight Ubuntu-ish Linux OS, on the HP Stream 11 and make it useful again
 
 _If you want to skip to the part with the actual how-to on installing GalliumOS on the Stream 11, <a href="#howto">you can do so</a>._
+
+![Hey, look, it's the HP Stream 11, running Linux!](/assets/post_images/2016-09-24/top_image2.jpg)
 
 A family friend recently gave my wife and I a laptop. It was not a gift, but a surrender. This laptop, she told my wife, "Just doesn't work," and was "a mistake." I have three pets from a shelter and a weird affection for old laptops, so I took the odd little slab under my wing.
 
@@ -127,7 +129,7 @@ If this doesn't work for you, well, believe me, I've been there. One suggestion:
 
 ### Getting Bluetooth working
 
-If you need Bluetooth on your newly reborn HP Stream 11, [it's not an easy process](http://askubuntu.com/a/632348). But, since you and I have the same laptop, I can spare you a lot of the trouble. [Here's the hex file](BCM.hcd). Download the file into your home folder (or copy it there using the file manager). Now follow the instructions from near the end:
+If you need Bluetooth on your newly reborn HP Stream 11, [it's not an easy process](http://askubuntu.com/a/632348). But, since you and I have the same laptop, I can spare you a lot of the trouble. [Here's the hex file](/assets/files/BCM.hcd). Download the file into your home folder (or copy it there using the file manager). Now follow the instructions from near the end:
 
 `sudo cp ~/BCM.hcd /lib/firmware/brcm`
 `Turn your computer off and on again. Not just reboot!`
