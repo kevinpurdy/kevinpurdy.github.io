@@ -235,6 +235,7 @@ pre {
 
 code {
   font-family: Consolas, "Inconsolata", "Courier New", monospace;
+  font-size: 110%;
 }
 
 /*****************************************************************************/
@@ -305,7 +306,7 @@ div.posts p {
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
-  font-size: 0.7em;
+  font-size: 110%;
 
 }
 
