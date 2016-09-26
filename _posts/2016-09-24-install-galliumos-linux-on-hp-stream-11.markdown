@@ -83,7 +83,7 @@ Shut down your Stream 11. Before you start it up again, get your finger ready on
 
 ![Smartphone photo of BIOS menu, exciting](/assets/post_images/2016-09-24/stream_bios.jpg)
 
-Inside the creepy, 1982-_Tron_-style menu, head over to the System Configuration section by pressing the right arrow twice. Now head down to the "Boot Options" menu by pressing the down arrow twice, then hit Enter to fold down the Boot Options menu. Now head down to "Legacy Support," then press Enter to change Legacy Support to "Enabled." You'll get a little warning that you might not be able to boot your system anymore, but that's okay. 
+Inside the creepy _Tron_-style menu, head over to the System Configuration section by pressing the right arrow twice. Now head down to the "Boot Options" menu by pressing the down arrow twice, then hit Enter to fold down the Boot Options menu. Now head down to "Legacy Support," then press Enter to change Legacy Support to "Enabled." You'll get a little warning that you might not be able to boot your system anymore, but that's okay. 
 
 Now there's a few new options below, in the "Legacy Boot Order" section. Head down to the "USB Diskette on Key/USB Hard Disk" item, then press F5 (at the very top of the keyboard, to the left of the "Mute" button) to move USB Diskette above "Notebook Hard Drive." Now the Stream will look for the USB drive before it automatically boots what's on its own hard drive.
 
