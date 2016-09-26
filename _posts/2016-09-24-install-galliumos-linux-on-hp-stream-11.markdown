@@ -6,7 +6,7 @@ published: true
 
 ### Or, how to install GalliumOS, a very lightweight Ubuntu-ish Linux OS, on the HP Stream 11 and make it useful again
 
-_If you want to skip to the part with the actual how-to on installing GalliumOS on the Stream 11, <a href="#howto">you can do so</a>._
+_If you want to skip all the prose and get right to installing GalliumOS on the Stream 11, <a href="#howto">you can do so</a>._
 
 ![Hey, look, it's the HP Stream 11, running Linux!](/assets/post_images/2016-09-24/top_image2.jpg)
 
@@ -51,6 +51,7 @@ If you don't need Bluetooth on your laptop, you can definitely skip the quirky p
 <h3 id="howto">How to install GalliumOS on the HP Stream 11</h3>
 
 **What you'll need**
+
 + Space on a computer (Stream or other) for a 1.0 GB download
 + A USB thumb drive, 2 GB or larger (1 GB might cut it, but 2 GB is safe)
 + USB Wi-FI adapter (optional, but highly recommended; here's [my choice](https://www.amazon.com/Edimax-EW-7811Un-150Mbps-Raspberry-Supports/dp/B003MTTJOY))
@@ -66,6 +67,7 @@ If you don't need Bluetooth on your laptop, you can definitely skip the quirky p
 3) **Write the GalliumOS ISO to the USB drive.** If you're using your Stream to do this, follow the Windows instructions below.
 
 **Windows:** The [Ubuntu Wiki has a write-up](https://wiki.ubuntu.com/Win32DiskImager/iso2usb), but the basics are:
+
 + Download and install [Win32 Disk Imager](http://sourceforge.net/projects/win32diskimager)
 + Open Win32 Disk Imager, and click the select (folder) button for image file. Click in the lower-right corner to change the file filter to "*.*". Choose the GalliumOS file you downloaded.
 + Under "Device," select your USB drive. Make sure it's that little USB drive you plan to use, and not, you know, the drive with all of your family photos. Unplug those other drives if you're not sure.
