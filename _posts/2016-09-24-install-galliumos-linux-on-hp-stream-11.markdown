@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make your own Linux Crapbook
+title: Make the HP Stream 11 into a Linux Crapbook
 published: true
 ---
 
