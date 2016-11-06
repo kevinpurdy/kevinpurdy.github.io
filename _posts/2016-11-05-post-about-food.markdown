@@ -4,7 +4,7 @@ title: Lait Cru Brasserie on a Friday night
 published: true
 ---
 
-![Menu from Nov. 4, 2016 at Lait Cru Brasserie in Buffalo](/assets/post_images/2016-11-05/laitcru2.jpg)
+![Two cheeses and one meat at Lait Cru Brasserie](/assets/post_images/2016-11-05/laitcru1.jpg)
 
 If you ask me, I think you should eat at [Lait Cru Brasserie](http://www.opentable.com/r/lait-cru-brasserie-buffalo). I say that because, based on a recent trip, the food is only medium-fussy and very tasty, the servers are pleasant and eager to explain the stuff you dont' recognize, and stepping inside this well-designed space with big windows is relaxing.
 
@@ -16,7 +16,7 @@ I used to write [food reviews and features for _Buffalo Spree_ magazine](https:/
 
 All that is to say, I'm still on some people's radar, as a person whom might be able to influence folks about food. So whether it was the (very nice) owner of Lait Cru Brasserie, Jill Forster, or someone helping Jill promote her relatively new restaurant, I got an email asking me to eat there, document the experience, and hopefully share it with people. A good number of items my wife and I ate and drank at Lait Cru were taken off the bill. I added a good deal back in gratuity, but I'm sure I ate some stuff for free.
 
-![Two cheeses and one meat from Lait Cru](/assets/post_images/2016-11-05/laitcru1.jpg)
+![Ze menu](/assets/post_images/2016-11-05/laitcru2.jpg)
 
 I'm rusty at food reviewing, and I don't want to overwrite this (MORE THAN I ALREADY HAVE), so just a few highlights here. Jill, who ran Nickel City Mercantile & Cheese on Elmwood for years, knows cheese, and you should absolutely order from the little sub-menu of meats and cheeses. You can get two meats and one cheese, three cheeses and zero meats, whatever you want, served with little toasts. Our server explained the options, we found a few we liked, and, do you like meats and cheeses? Cool, let's move on. The arctic char I ordered had the most crispy skin I can ever recall eating on a plate of fish. My wife's steak frites were quite good; if you've had steak frites, "quite good," you know, is just fine on a Friday night. 
 
