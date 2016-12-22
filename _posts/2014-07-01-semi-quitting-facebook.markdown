@@ -6,6 +6,8 @@ published: true
 
 _Note: I wrote this on Facebook, as a kind of closing-up-shop notice. If I do eventually delete my Facebook account, then it might make sense to have available here._
 
+_Update: I did indeed delete my account. Well, I think I did. Facebook wants me to log in to find out. Great service._
+
 Hey folks. I'm not posting much of anything here lately. I very well may delete this account. I'm posting this and leaving it up as a reminder: I'm still up for an email or text session or even phone call with you. And: [http://thepurdman.com/contact/](http://thepurdman.com/contact/)
 
 I like a significant portion of what y'all put up. I will miss out on some photos that I'm sure I would like (or Like, or both). I should still get event invitations through email until I delete my account, and sometimes I get messages. I will also need to occasionally jump in on behalf of CoworkBuffalo and TEDxBuffalo, or small jobs that cannot escape Facebook's orbit. But in the meantime: those of you with private photo blogs, Flickr accounts, [Kidpost](http://kidpost.net) accounts, I am all for those things.
