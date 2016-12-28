@@ -6,7 +6,7 @@ published: true
 
 I originally drafted this on Oct. 1, 2016, but didn't finish it for some reason or another. With some vacation time, and a little editing, here is what I am Currently Digging Now. 
 
-## Podcasts
+### Podcasts
 
 **[Hard Pass](http://acast.com/hardpass)** - Two business reporters, hating on things that seem stupid, unfair, and absolutely not worth anyone's time, or at least 10 minutes of anyone's time. Like having a very smart friend you meet for drinks in the financial district.
 
@@ -14,7 +14,7 @@ I originally drafted this on Oct. 1, 2016, but didn't finish it for some reason 
 
 **[The Adventure Zone](http://adventurezone.libsyn.com/podcast)** - [Matt Taylor](http://insertartisthere.tumblr.com) gently nudged me into this. The first episode is too long (listen to the "super cut" that shows up in your feed), but once you meet the players, and their characters, it's really easy to keep hanging out at the table. It's way better than any second-hand _Dungeons & Dragons_ podcast should be.
 
-## Books
+### Books
 
 **Beowulf: A Translation and Commentary** - [Wrote about it on GoodReads](http://www.goodreads.com/review/show/1747743112?book_show_action=false&from_review_page=1).
 
@@ -34,7 +34,7 @@ And, of course:
 
 **Super Mario 3 (Boss Fight Books)** - [Wrote about it on GoodReads](https://www.goodreads.com/review/show/1749096627?book_show_action=false&from_review_page=1)
 
-## Games
+### Games
 
 **[Fallout: New Vegas](https://en.wikipedia.org/wiki/Fallout:_New_Vegas)** - Playing through this again, but in "[hardcore mode](http://fallout.wikia.com/wiki/Hardcore_mode), where ammunition has weight, sleeping doesn't barely heal you, and you have to cook meat before you eat it, or else you'll be weak. So, you know, real life.
 
@@ -42,7 +42,7 @@ And, of course:
 
 **[XCOM: Enemy Unknown](http://www.metacritic.com/game/pc/xcom-enemy-unknown)** - I often play the original game when a well-hyped sequel or redux is released, so I can find out, cheaply, what it's all about. I dug the overall gameplay, but what I really dug was the random character generation. My all-time best character was an Israeli woman with a buzzcut who was absolutely merciless with a shotgun made with alien technology, and also developed psionic powers. Yes, I read that sentence back to myself and I know what it sounds like.
 
-## Phone and Computer Stuff
+### Phone and Computer Stuff
 
 **Terminal stuff** - I am more efficient at typing than I am at most anything (except procrastinating). I also use mostly cheap/old netbooks and Chromebooks as my portable/living room systems, which don't do well with a lot of Chrome tabs or desktop apps open. Those things, and some weird itch, led me down this rabbit hole.
 
@@ -64,7 +64,7 @@ My current setup:
 
 All my dotfiles (the stuff like .muttrc that configure and customize these applications) are [shared on Github](https://github.com/kevinpurdy/dotfiles).
 
-## TV & Such
+### TV & Such
 
 This post is already long enough, so without too much explication:
 
