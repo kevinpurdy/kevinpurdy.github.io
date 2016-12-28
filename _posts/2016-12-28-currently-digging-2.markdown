@@ -18,7 +18,11 @@ I originally drafted this on Oct. 1, 2016, but didn't finish it for some reason 
 
 **Beowulf: A Translation and Commentary** - [Wrote about it on GoodReads](http://www.goodreads.com/review/show/1747743112?book_show_action=false&from_review_page=1).
 
+![The man himself](/assets/post_images/2016-12-28/borges.png)
+
 **[Professor Borges: A Course on English Literature](https://www.amazon.com/gp/product/B00A58VGT6/ref=kinw_myk_ro_title)** - Recommended by [a coworker](https://twitter.com/tbarribeau) after he witnessed my attempt to translate "The Fate of the Furious" into Old English on Slack. It reveals more about English literature, and how it came to be, than I learned in four years of college. (_Note: This is probably more my fault than my college's. If only they had told me freshman year that there were dragons involved._)
+
+![Up in the Old Hotel](/assets/post_images/2016-12-28/old_hotel.jpg)
 
 **Up in the Old Hotel** - [Reading it now](https://www.goodreads.com/book/show/210783.Up_in_the_Old_Hotel). One of my favorite things about Mitchell's writing is the way he writes ledes. He just tells you why he is about to spend thousands of words on somebody.
 
@@ -45,6 +49,8 @@ And, of course:
 ### Phone and Computer Stuff
 
 **Terminal stuff** - I am more efficient at typing than I am at most anything (except procrastinating). I also use mostly cheap/old netbooks and Chromebooks as my portable/living room systems, which don't do well with a lot of Chrome tabs or desktop apps open. Those things, and some weird itch, led me down this rabbit hole.
+
+![A week in Gcalcli](/assets/post_images/2016-12-28/gcalcli.png)
 
 My current setup:
 
