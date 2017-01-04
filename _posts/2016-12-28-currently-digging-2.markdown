@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Currently Digging, Vol. 2
-published: true 
+published: true
 ---
 
-I originally drafted this on Oct. 1, 2016, but didn't finish it for some reason or another. With some vacation time, and a little editing, here is what I am Currently Digging Now. 
+I originally drafted this on Oct. 1, 2016, but didn't finish it for some reason or another. With some vacation time, and a little editing, here is what I am Currently Digging Now.
 
 ### Podcasts
 
@@ -34,13 +34,15 @@ I originally drafted this on Oct. 1, 2016, but didn't finish it for some reason 
 
 And, of course:
 
-+ Joe Gould is a blithe and emaciated little man who has been a notable in the cafeterias, diners, barrooms, and dumps of Greenwich Village for a quarter of a century. He sometimes brags rather wryly that he is the last of the bohemians. "All the others fell by the wayside," he says. "Some are in the grave, some are in the loony bin, and some are in the advertising business." 
++ Joe Gould is a blithe and emaciated little man who has been a notable in the cafeterias, diners, barrooms, and dumps of Greenwich Village for a quarter of a century. He sometimes brags rather wryly that he is the last of the bohemians. "All the others fell by the wayside," he says. "Some are in the grave, some are in the loony bin, and some are in the advertising business."
 
 **Super Mario 3 (Boss Fight Books)** - [Wrote about it on GoodReads](https://www.goodreads.com/review/show/1749096627?book_show_action=false&from_review_page=1)
 
 ### Games
 
 **[Fallout: New Vegas](https://en.wikipedia.org/wiki/Fallout:_New_Vegas)** - Playing through this again, but in "[hardcore mode](http://fallout.wikia.com/wiki/Hardcore_mode), where ammunition has weight, sleeping doesn't barely heal you, and you have to cook meat before you eat it, or else you'll be weak. So, you know, real life.
+
+![Beautiful screenshot of a snowy hillside in _Skyrim_](/assets/post_images/2016-12-28/skyrim_screen.jpg)
 
 **[Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim#Design)** - I can't say much more about this huge, nerdy, hour-eating game that hasn't been said better. But I will point you to the fact that they designed a written dragon language for this game that was meant to emulate dragon claw scratching. This was a great unintentional follow-up to reading two different translations of _Beowulf_.
 
@@ -80,4 +82,4 @@ This post is already long enough, so without too much explication:
 + Luke Cage (Netflix)
 + Les Revenants (Netflix) (the French version, not the cancelled US one)
 + Watching _Street Fighter V_ champions play intensely cautious tournament matches on [Twitch.tv](http://twitch.tv).
-+ Watching _Black Mirror_ as slowly as I can, giving myself weeks to prepare for each episode and nervously clutching the back of my hair during each one. 
++ Watching _Black Mirror_ as slowly as I can, giving myself weeks to prepare for each episode and nervously clutching the back of my hair during each one.
