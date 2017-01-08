@@ -4,66 +4,121 @@ title: 2016 In Review
 published: false
 ---
 
-The people we now call Vikings measured their years, their ages, in winters, 
+The people we now call Vikings measured their years, their ages, in winters,
 not years. Winters in the Netherlands, before 1000 A.D., were pretty brutal.  
 Winters were something you survived; they were a mark of distinction.
 
-Winters aren't much nicer in upstate New York. Moreso, some of the most brutal 
-realities of what happened last year are yet to pass. This review, then, is not 
-a full telling of This Winter, but it captures all the warm months.  Future 
+Winters aren't much nicer in upstate New York. Moreso, some of the most brutal
+realities of what happened last year are yet to pass. This review, then, is not
+a full telling of This Winter, but it captures all the warm months.  Future
 archaeologists, take note.  
 
-Also, archaeologists: Are you still forced to fill out Captchas? I bet not. I 
+Also, archaeologists: Are you still forced to fill out Captchas? I bet not. I
 hope you appreciate that little grace. Anyways.
+
+**Contents**
+
++ [Working for the New York Times](#times)
++ [Writing](#writing)
++ [CoworkBuffalo acquired a software service](#cowork)
++ [TEDxBuffalo](#tedxbuffalo)
++ [Lifting](#lifting)
++ [Twitter](#twitter)
++
+
+<a name="times"></a>
 
 ### Working for the New York Times
 
-The Paper of Record[^1] purchased the company I joined in 2015. The company is 
-technically Submarine Leisure Club, which was always fun to explain to loan 
-officers and TSA Pre agents. Submarine Leisure Club was the company started by 
-Brian Lam to launch [The Wirecutter](http://thewirecutter.com) and [The 
-Sweethome](http://thesweethome.com). They bought us because they respect our 
-work, and they are interested in our revenue model (affiliate revenue, with 
+The Paper of Record[^1] purchased the company I joined in 2015. The company is
+technically Submarine Leisure Club, which was always fun to explain to loan
+officers and TSA Pre agents. Submarine Leisure Club was the company started by
+Brian Lam to launch [The Wirecutter](http://thewirecutter.com) and [The
+Sweethome](http://thesweethome.com). They bought us because they respect our
+work, and they are interested in our revenue model (affiliate revenue, with
 full disclosure and editorial integrity).
 
-If those previous two links don't work when you read this, we're probably fully 
-integrated into the Times now. Or the web is broken. That's not as far-fetched 
+If those previous two links don't work when you read this, we're probably fully
+integrated into the Times now. Or the web is broken. That's not as far-fetched
 as it sounds, once you've seen what holds the web (or the country) together.  
 Ahem.
 
-So far, not much about my actual job has changed. I still use things, assesss 
-things, argue about how I used and assessed those things, and fill spreadsheets 
-with rows of product details and notes that seem lightly unhinged. But if I 
-step back, I'm working for the New York Times, and this is something that makes 
-me very proud. It would have made my old man proud, no doubt. 
+So far, not much about my actual job has changed. I still use things, assesss
+things, argue about how I used and assessed those things, and fill spreadsheets
+with rows of product details and notes that seem lightly unhinged. But if I
+step back, I'm working for the New York Times, and this is something that makes
+me very proud. It would have made my old man proud, no doubt.
 
-When I was a young reporter, every time I would visit home on a holiday, my dad 
-would ask me, "Why don't you send your articles to the New York Times?" I used 
-to think, like all children, that my dad just didn't _understand how it works 
-now_. But now I think: You know, he read the _Times_ every Sunday (before it 
-went up to $6), he lived in this world, he knew what big cities and big 
-corporations looked like. Maybe it wasn't _naïveté_ about careers. Maybe he 
-just knew that none of us are going to live as long as we like, that people get 
-hired for all kinds of dumb coincidences, and it's not worth living with regret 
+When I was a young reporter, every time I would visit home on a holiday, my dad
+would ask me, "Why don't you send your articles to the New York Times?" I used
+to think, like all children, that my dad just didn't _understand how it works
+now_. But now I think: You know, he read the _Times_ every Sunday (before it
+went up to $6), he lived in this world, he knew what big cities and big
+corporations looked like. Maybe it wasn't _naïveté_ about careers. Maybe he
+just knew that none of us are going to live as long as we like, that people get
+hired for all kinds of dumb coincidences, and it's not worth living with regret
 that you didn't take the shot you wanted to take.
 
-I did get a pretty cool tote bag, and I get a free digital subscription, which 
-is neat. And the support and backing of a company that is trying to inform 
-people of what's going on in their world, however much of it they're willing to 
-I take.
+I did get a pretty cool tote bag, and I get a free digital subscription, which
+is neat. And the support and backing of a company that is trying to inform
+people of what's going on in their world, however much of it they're willing to take.
+
+### Writing
+
+For the first year in memory, I only wrote for my employer, and a few times on this site. No freelance writing to speak of. Easy taxes, for certain, but not certain how it sits with me.
+
+What I wrote here:
+
++ [2015 In Review](http://thepurdman.com/2015-in-review/)
++ [Make the HP Stream 11 into a Linux Crapbook](http://thepurdman.com/install-galliumos-linux-on-hp-stream-11/) (I mostly wrote this post on that Crapbook! Hooray.)
++ [Lait Cru Brasserie on a Friday night](http://thepurdman.com/post-about-food/)
++ [Currently Digging, Vol. 2](http://thepurdman.com/currently-digging-2/)
 
 ### CoworkBuffalo acquired a software service
 
+2016 was the third year of CoworkBuffalo at its current Main Street location, and the fourth-and-a-half-th year of operation period. Five co-owners, dozens of members and visitors, and a decent number of poeple who drop in while they're staying with family, visiting town, or launching their thing. It's my most low-level work, and easy to forget how weird/wonderful it is to be part of a business in downtown Buffalo.
+
+We use [Desktime](http://desktimeapp.com) to manage booking, payments, and subscriptions at CoworkBuffalo. It's the best kind of software, because it's just enough, and not too much. We have tried other services, and they are (how does one say in French?) _a waking nightmare of checkboxes and upsells_. We learned from the maker of Desktime that he was looking to focus on a new venture, [Deskpass](http://deskpass.com). We talked it over, looked at the code and financials and customer situation, and decided we could make a home for it.
+
+Desktime is going to become [Mx. Desk](http://mxdesk.com) pretty soon. [I wrote a post about the naming process on the Mx. Desk Medium](https://medium.com/mx-desk/how-we-came-up-with-the-name-for-mx-desk-36a0d0b974cf). In the meantime, [Nick Q](http://twitter.com/qrush) has made the code faster, more stable, more secure, and easier to watch and manage. I've written some words and answered as many support tickets as I can. It's going ... eerily, quietly well. If you have any interest in using or partnering with Mx. Desk, you
+should [give us a shout](mailto:hello@mxdesk.com).
+
+### TEDxBuffalo
+
+This year's TEDxBuffalo felt like the most professional event yet, one that truly spoke to the effort that everyone involved puts into this weird thing. [All of the talks spoke to me](https://www.youtube.com/playlist?list=PLsRNoUx8w3rO8QwWGAI84PTE9h6soHIXz)
+, and a few of them felt like they were speaking directly to me. A lot of new volunteers took part in this event, and I think they are the future of this thing. I'm handing over the license to this thing this year, after six years of holding it, and I feel pretty great about it.
+
+### Lifting
+
+I [busted my knee in 2015](http://thepurdman.com/2015-in-review/#knee) and had surgery in January 2016. I kept running a bit, but nowhere near as in 2015 (or as much as I wanted to). I did a couple 5Ks, a bit of interval training, but on borrowed knee time. I needed something else. Something to counteract all the terrible eating and drinking I do. Something where I can see the numbers move in the right direction.
+
+I spent a bit more time learning how my road bike worked, and rode it around town whenever I could. But long-distance cycling didn't hold much appeal: Expensive, rarefied, requires a lot of gear to tote around. I still hit a spinning class once a week, but too much more and my knee acts up, or I start hearing Lana Del Rey remixes when I'm walking around. Swimming, well, I need to learn how to actually swim-swim in a lane, and it's not my favorite thing, being underwater. Anything involving coordination, with a puck or a ball or the like, is generally out of the question.
+
+I started out doing TKTKTK There's a _lot_ to doing it right, and not injuring yourself, both short-term and long. Really, though, you find a place that has heavy things, and you lift those heavy things, a little heavier each time, and then you take a day off.
+
+### One year of Twitter
+
+I posted TK tweets in 2016, breaking the most important rule of Twitter over and over again. Most were dross. A few seemed to make people smile, or think, or something like that.
+
+https://twitter.com/kevinpurdy/status/688841615960592384
+https://twitter.com/kevinpurdy/status/713856178393059328
+https://twitter.com/kevinpurdy/status/730581928311672832
+https://twitter.com/kevinpurdy/status/732991905017958400
+https://twitter.com/kevinpurdy/status/749958328349028353
+https://twitter.com/kevinpurdy/status/757555466704650240
+https://twitter.com/kevinpurdy/status/762422690753814530
+https://twitter.com/kevinpurdy/status/769355228646928384
+https://twitter.com/kevinpurdy/status/781226463450324992
+https://twitter.com/kevinpurdy/status/788185415085850624
 
 
 
-Lifting 
-In Pod Form 
-Donald Trump and the healthiest president 
-TEDxBuffalo
+
+Lifting
+In Pod Form
+Donald Trump and the healthiest president
 Steam/Xbox games
-Twitter review
 Website posts
 Steps/exercise?
 
-[1]: 
+[^1]: Paper! Ha. But you can see why this nickname/honorary has stuck around. "The news outlet of record?" "The content provider of record?" "The influencer engagement platform of record?" I'll see myself out.
