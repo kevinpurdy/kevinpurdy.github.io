@@ -100,25 +100,27 @@ I started out doing TKTKTK There's a _lot_ to doing it right, and not injuring y
 
 I posted TK tweets in 2016, breaking the most important rule of Twitter over and over again. Most were dross. A few seemed to make people smile, or think, or something like that.
 
-https://twitter.com/kevinpurdy/status/688841615960592384
-https://twitter.com/kevinpurdy/status/713856178393059328
-https://twitter.com/kevinpurdy/status/730581928311672832
-https://twitter.com/kevinpurdy/status/732991905017958400
-https://twitter.com/kevinpurdy/status/749958328349028353
-https://twitter.com/kevinpurdy/status/757555466704650240
-https://twitter.com/kevinpurdy/status/762422690753814530
-https://twitter.com/kevinpurdy/status/769355228646928384
-https://twitter.com/kevinpurdy/status/781226463450324992
-https://twitter.com/kevinpurdy/status/788185415085850624
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Attempts to persuade wife to forgo leftovers with modern literary allusions were met with silence. <a href="https://t.co/yzcu8XyPWA">pic.twitter.com/yzcu8XyPWA</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/688841615960592384">January 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New Radiohead album! New Doom game! Who knows, maybe I&#39;ll get that job at Darien Lake and mom will let me borrow the car all summer!</p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/730581928311672832">May 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just bring back Google Reader, you jackasses.</p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/732991905017958400">May 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+(_Written during a Google I/O keynote, as the company announced Yet Another Messaging Platform_)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I wish I had the same kind of never-give-up sprit for my side projects that I have for installing Linux on old laptops.</p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/762422690753814530">August 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/wirecutter">@wirecutter</a> guide to photo/slide scanning services finally got my mom to get her attic box of Kodaks digitized. <a href="https://t.co/tGFvvn3Bdn">https://t.co/tGFvvn3Bdn</a> <a href="https://t.co/Jw81jSaHJs">pic.twitter.com/Jw81jSaHJs</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/781226463450324992">September 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Lifting
 In Pod Form
 Donald Trump and the healthiest president
 Steam/Xbox games
-Website posts
 Steps/exercise?
 
 [^1]: Paper! Ha. But you can see why this nickname/honorary has stuck around. "The news outlet of record?" "The content provider of record?" "The influencer engagement platform of record?" I'll see myself out.
