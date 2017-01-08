@@ -21,7 +21,7 @@ hope you appreciate that little grace. Anyways.
 + [Working for the New York Times](#times)
 + [Writing](#writing)
 + [CoworkBuffalo acquired a software service](#cowork)
-+ [TEDxBuffalo](#tedxbuffalo)
++ [TEDxBuffalo](#tedx)
 + [Lifting](#lifting)
 + [Twitter](#twitter)
 +
@@ -63,6 +63,8 @@ I did get a pretty cool tote bag, and I get a free digital subscription, which
 is neat. And the support and backing of a company that is trying to inform
 people of what's going on in their world, however much of it they're willing to take.
 
+<a name="writing"></a>
+
 ### Writing
 
 For the first year in memory, I only wrote for my employer, and a few times on this site. No freelance writing to speak of. Easy taxes, for certain, but not certain how it sits with me.
@@ -74,6 +76,8 @@ What I wrote here:
 + [Lait Cru Brasserie on a Friday night](http://thepurdman.com/post-about-food/)
 + [Currently Digging, Vol. 2](http://thepurdman.com/currently-digging-2/)
 
+<a name="cowork"></a>
+
 ### CoworkBuffalo acquired a software service
 
 2016 was the third year of CoworkBuffalo at its current Main Street location, and the fourth-and-a-half-th year of operation period. Five co-owners, dozens of members and visitors, and a decent number of poeple who drop in while they're staying with family, visiting town, or launching their thing. It's my most low-level work, and easy to forget how weird/wonderful it is to be part of a business in downtown Buffalo.
@@ -83,18 +87,28 @@ We use [Desktime](http://desktimeapp.com) to manage booking, payments, and subsc
 Desktime is going to become [Mx. Desk](http://mxdesk.com) pretty soon. [I wrote a post about the naming process on the Mx. Desk Medium](https://medium.com/mx-desk/how-we-came-up-with-the-name-for-mx-desk-36a0d0b974cf). In the meantime, [Nick Q](http://twitter.com/qrush) has made the code faster, more stable, more secure, and easier to watch and manage. I've written some words and answered as many support tickets as I can. It's going ... eerily, quietly well. If you have any interest in using or partnering with Mx. Desk, you
 should [give us a shout](mailto:hello@mxdesk.com).
 
+<a name="tedx"></a>
+
 ### TEDxBuffalo
 
 This year's TEDxBuffalo felt like the most professional event yet, one that truly spoke to the effort that everyone involved puts into this weird thing. [All of the talks spoke to me](https://www.youtube.com/playlist?list=PLsRNoUx8w3rO8QwWGAI84PTE9h6soHIXz)
 , and a few of them felt like they were speaking directly to me. A lot of new volunteers took part in this event, and I think they are the future of this thing. I'm handing over the license to this thing this year, after six years of holding it, and I feel pretty great about it.
 
+<a name="lifting"></a>
+
 ### Lifting
 
 I [busted my knee in 2015](http://thepurdman.com/2015-in-review/#knee) and had surgery in January 2016. I kept running a bit, but nowhere near as in 2015 (or as much as I wanted to). I did a couple 5Ks, a bit of interval training, but on borrowed knee time. I needed something else. Something to counteract all the terrible eating and drinking I do. Something where I can see the numbers move in the right direction.
 
-I spent a bit more time learning how my road bike worked, and rode it around town whenever I could. But long-distance cycling didn't hold much appeal: Expensive, rarefied, requires a lot of gear to tote around. I still hit a spinning class once a week, but too much more and my knee acts up, or I start hearing Lana Del Rey remixes when I'm walking around. Swimming, well, I need to learn how to actually swim-swim in a lane, and it's not my favorite thing, being underwater. Anything involving coordination, with a puck or a ball or the like, is generally out of the question.
+I spent a bit more time learning how my road bike worked, and rode it around town whenever I could. But long-distance cycling didn't hold much appeal: Expensive, rarefied, requires a lot of gear to tote around. I still hit a spinning class once a week, but too much more and my knee acts up, or I start hearing Lana Del Rey remixes when I'm walking around. Swimming, well, I need to learn how to actually swim-swim in a lane, and it's not my favorite thing, being underwater. Anything involving coordination with a puck or a ball or the like, and having to coordinate with other people to do it, was generally out of the question.
 
-I started out doing TKTKTK There's a _lot_ to doing it right, and not injuring yourself, both short-term and long. Really, though, you find a place that has heavy things, and you lift those heavy things, a little heavier each time, and then you take a day off.
+So I started out with an Android app, [100 Pushups](https://play.google.com/store/apps/details?id=alexcrusher.just6weeks.pushups). Then I started tagging along with my wife to her mixed-martial-arts-style training class. Next was pull-ups, and then crunches. I felt better, like I had felt when I was training for a big run. Then, somehow, I started thinking I could lift weights.
+
+I didn't even know what to call the thing I wanted to do, but I quickly discovered that it was _not_ bodybuilding―oh, God, [those forums](http://forum.bodybuilding.com/showthread.php?t=107926751&pagenumber=1). One of my coworkers writes a column for The Hairpin, [Ask A Swole Woman](https://thehairpin.com/ask-a-swole-woman-getting-started-36849181c388). It's hard to understate how useful something is that's _not_ written with a shitty attitude about health and _not_ pitched toward spending money on things. I somehow came across [Scooby's Workshop](http://scoobysworkshop.com/), which, yeah, it's a dude with an odd voice and who's shirtless all the damned time while talking to a camera, but it's also really sensible about what you can expect and how to get going. I landed on doing a [StrongLifts 5x5 program](http://stronglifts.com/5x5/), with regular check-ins with a trainer and [Mark Rippetoe's _Starting Strength_](http://startingstrength.com/) to make sure I'm not endangering my back.
+
+You might say strength training is simple: Lift heavy things, a bit heavier than the last time, then take a day off. But you only get to say that if you're lucky enough to have never been injured, or just too young to care about your long-term health, or your back. Your body will do all sorts of things to get you out from under a heavy weight, and some of those things are really stupid things to do unless you're trapped under a boulder. Right now, I'm still recovering from something I did wrong during a bench press, which _seems_ like a simple exercise, unless something in your grip causes an imbalance, and then _ruh-roh_. All I can do is wait and try to be better next time. I'm good with that.
+
+<a name="twitter"></a>
 
 ### One year of Twitter
 
@@ -116,11 +130,21 @@ I posted TK tweets in 2016, breaking the most important rule of Twitter over and
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/wirecutter">@wirecutter</a> guide to photo/slide scanning services finally got my mom to get her attic box of Kodaks digitized. <a href="https://t.co/tGFvvn3Bdn">https://t.co/tGFvvn3Bdn</a> <a href="https://t.co/Jw81jSaHJs">pic.twitter.com/Jw81jSaHJs</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/781226463450324992">September 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### In Pod Form
 
-Lifting
-In Pod Form
+[Phil Dzikiy](http://twitter.com/phildzikiy) and I recorded six episodes of [In Pod Form](http://inpodform.com), a podcast that is indeed two white dudes talkin', last year, our first new episodes since early 2014. It is an excuse I need to talk to a friend who now lives far away. I'm not doing a very good job of being game for a new episode, but I intend to get to it soon.
+
+### "Video" games
+
+On PC, on my phone, and, just for the week between Christmas and New Year's, on XBOX 360, I played these games in 2016:
+
++ Skyrim
++ XCOM: Enemy Unknown
++ 
+
+
 Donald Trump and the healthiest president
 Steam/Xbox games
-Steps/exercise?
+
 
 [^1]: Paper! Ha. But you can see why this nickname/honorary has stuck around. "The news outlet of record?" "The content provider of record?" "The influencer engagement platform of record?" I'll see myself out.
