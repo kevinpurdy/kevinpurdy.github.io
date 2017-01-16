@@ -11,7 +11,7 @@ Winters were something you survived; they were a mark of distinction.
 Winters aren't much nicer in upstate New York. It's also true that some of the most brutal
 realities of what happened last year are yet to pass. This review, then, is not
 a full telling of This Winter, but it captures all the warm months.  Future
-archaeologists, take note.  
+archaeologists, take note.
 
 Also, archaeologists: Are you still forced to fill out Captchas? I bet not. I
 hope you appreciate that little grace. Anyways.
@@ -24,7 +24,10 @@ hope you appreciate that little grace. Anyways.
 + [TEDxBuffalo](#tedx)
 + [Lifting](#lifting)
 + [Twitter](#twitter)
-+
++ [In Pod Form](#inpodform)
++ [Games](#games)
++ [The next president](#president)
++ [All you can do](#allyoucando)
 
 <a name="times"></a>
 
@@ -43,7 +46,7 @@ integrated into the Times now. Or the web is broken. That's not as far-fetched
 as it sounds, once you've seen what holds the web (or the country) together.  
 Ahem.
 
-So far, not much about my actual job has changed. I still use things, assesss
+So far, not much about my actual job has changed. I still use things, assess
 things, argue about how I used and assessed those things, and fill spreadsheets
 with rows of product details and notes that seem lightly unhinged. But if I
 step back, I'm working for the New York Times, and this is something that makes
@@ -130,25 +133,54 @@ I posted TK tweets in 2016, breaking the most important rule of Twitter over and
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/wirecutter">@wirecutter</a> guide to photo/slide scanning services finally got my mom to get her attic box of Kodaks digitized. <a href="https://t.co/tGFvvn3Bdn">https://t.co/tGFvvn3Bdn</a> <a href="https://t.co/Jw81jSaHJs">pic.twitter.com/Jw81jSaHJs</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/781226463450324992">September 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a name="inpodform"></a>
+
 ### In Pod Form
 
 [Phil Dzikiy](http://twitter.com/phildzikiy) and I recorded six episodes of [In Pod Form](http://inpodform.com), a podcast that is indeed two white dudes talkin', last year, our first new episodes since early 2014. It is an excuse I need to talk to a friend who now lives far away. I'm not doing a very good job of being game for a new episode, but I intend to get to it soon.
+
+<a name="games"></a>
 
 ### "Video" games
 
 On PC, on my phone, and, just for the week between Christmas and New Year's, on XBOX 360, I played these games in 2016:
 
-+ The Elder Scrolls V: Skyrim
-+ XCOM: Enemy Unknown (_the older one, on sale when the sequel arrived_)
++ The Elder Scrolls V: Skyrim (_I have a lot to say about this game, so don't ask me at a bar if you don't want the firehose._)
++ XCOM: Enemy Unknown (_The older one, on sale when the sequel arrived. Really good._)
 + Fallout 4 (_Released in late 2015, but, yeah, definitely some 2016 in there_)
 + Hitman: Absolution (_Solid B or B- Hitman, which is still better than doing taxes_)
 + Bioshock Infinite (_Please don't ask me about this one if I've been drinking_)
-+ Dishonored
-+ Wasteland 2: Director's Cut
-_
++ Dishonored (_This was pretty cool_)
++ Wasteland 2: Director's Cut (_I fell off this one when I reached a "Where next?" moment, as often happens with RPGs. It's on my Steam Guilt List_.)
 
-Donald Trump and the healthiest president
-Steam/Xbox games
+<a name="president"></a>
 
+### The next president
+
+Maybe this is reflective of how much I think about my own health lately. Or maybe I'm just simple-minded. But I agree with Jay Rosen that our incoming president [is not a "master of media,"" he just has an absolute lack of shame](https://twitter.com/i/moments/819786803221626881). My example is pretty base, but I have to record it here, because one day I might forget what this time was like. The time when we had to deal with a user who exploited all of the bugs in our system at once.
+
+The incoming president had his doctor [write a letter in five minutes](https://www.washingtonpost.com/news/the-fix/wp/2016/08/27/the-strange-tale-of-donald-trumps-doctor-letter-just-got-stranger/?utm_term=.ca1e5d7b63cd) declaring that his patient would be "the healthiest individual ever elected to the presidency."
+
+This guy.
+
+![Donald Trump during his Dr. Oz ... whatever that was](/assets/post_images/2017-01-17/trump_suit.jpg)
+
+Healthier than everyone, including this guy.
+
+![Barack Obama playing golf](/assets/post_images/2017-01-17/obama_golf.jpg)
+
+We even have the two side by side. Quick: pick one for your relay team.
+
+![These are two men who were and will be president](/assets/post_images/2017-01-17/sidebyside.jpg)
+
+Remember when George W. Bush took some standard flack for having bruises and scrapes [after a mountain-biking accident](http://www.history.com/this-day-in-history/george-w-bush-recovers-from-bicycle-accident)?
+
+You and I, dear reader, both know we are not the healthiest people ever to do anything. We know our bodies. We have failures, moments, wishes, and pains we can't forget. And we don't say that about ourselves because we know that, if someone were to question us or admonish us for saying this later, we would feel lesser in their eyes. Were word of our actions to spread further, we might even feel lesser in our community. Neither you nor I would think, "At least they're talking about me!"
+
+I'm not going to finish that thought, because you're smart enough to get it. This example helps me. I haven't "figured it out," but it feels like a pinhole through which I might view the sun.
+
+<a name="allyoucando"></a>
+
+### All you can do
 
 [^1]: Paper! Ha. But you can see why this nickname/honorary has stuck around. "The news outlet of record?" "The content provider of record?" "The influencer engagement platform of record?" I'll see myself out.
