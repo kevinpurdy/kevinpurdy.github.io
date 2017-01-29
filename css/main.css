@@ -133,7 +133,6 @@ li p {
   margin: auto;
   max-width: 33.875em;
   padding: 0 1em;
-#  color: #111;
 }
 
 .site img.left {
@@ -151,7 +150,6 @@ li p {
 div.header {
   margin-bottom: 2em;
   word-wrap: normal;
-#  display: inline-table;
 }
 
 .site .header a {
@@ -162,7 +160,6 @@ div.header {
 }
 
 .site .header h1.title {
-#  display: inline-block;
   font-size: 300%;
 }
 
