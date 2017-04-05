@@ -4,13 +4,19 @@ layout: default
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
-
 <div class="post">
 {{ content }}
 </div>
-
-<!-- SubToMe button -->
+<!-- Save & share links via AddThis. Wish I could figure out how to modify the buttons' padding in main.css. Also: SubToMe button -->
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style" style="margin-bottom: 1.5em;">
+<a class="addthis_button_pocket style="padding-right: 5px;""></a>
+<a class="addthis_button_instapaper style="padding-right: 5px;""></a>
+<a class="addthis_button_twitter style="padding-right: 5px;""></a>
+<a class="addthis_button_facebook style="padding-right: 5px;""></a>
+<a class="addthis_button_google_plusone_share style="padding-right: 5px;""></a>
+<a class="addthis_button_compact style="padding-right: 5px;""></a>
 </div><input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="Subscribe">
-
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58e5217d0a5cbc63"></script>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-528961b169726935"></script>
+<!-- AddThis Button END -->
