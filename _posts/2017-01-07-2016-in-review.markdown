@@ -73,7 +73,7 @@ What I wrote here:
 
 ### CoworkBuffalo acquired a software service
 
-2016 was the third year of [CoworkBuffalo](http://coworkbuffalo.com) at its current Main Street location, and more than four years of operation in Buffalo. Five co-owners, dozens of members and probably 100 or more visitors. It's the most quiet work I do (thank God), and easy to forget how weird/wonderful it is to be part of a business in downtown Buffalo.
+2016 was the third year of [CoworkBuffalo](http://coworkbuffalo.com) at its current Main Street location, and the fourth year of operation in Buffalo. I'm one of the co-owners. It's the most quiet work I do (thank God), and easy to forget how weird and sometimes wonderful it is to be part of a business in downtown Buffalo.
 
 We use [Desktime](http://desktimeapp.com) to manage booking, payments, and subscriptions at CoworkBuffalo. It's the best kind of software, because it's just enough, and not too much. We have tried other services, and those we have tried are a slimy nightmare of checkboxes and upsells. We learned from the maker of Desktime that he was looking to focus on a new venture, [Deskpass](http://deskpass.com). We talked it over, looked at the code and financials and customers, and decided we would try to carry it.
 
@@ -84,20 +84,20 @@ should [give us a shout](mailto:hello@mxdesk.com).
 
 ### TEDxBuffalo
 
-The 2016 TEDxBuffalo felt like the most professional event yet. The crowd reaction spoke, including a standing ovation at the end, spoke to the effort that everyone involved puts into this weird thing. [All of the talks spoke to me](https://www.youtube.com/playlist?list=PLsRNoUx8w3rO8QwWGAI84PTE9h6soHIXz)
-, and a few of them surprised me, after 6 years of producing these events. A lot of new volunteers took part in this event, and I think they are the future of this thing. I'm handing over the license to this thing this year in 2017, and I feel pretty great about it.
+The [2016 TEDxBuffalo event](https://www.tedxbuffalo.com/2016-event/) was the smoothest-running, most consistent event yet. The crowd reaction, including a standing ovation at the end, spoke to the effort that everyone involved puts into this weird thing. [All of the talks spoke to me](https://www.youtube.com/playlist?list=PLsRNoUx8w3rO8QwWGAI84PTE9h6soHIXz)
+, and a few of them surprised me. That's not easy, after 6 years of producing these events. A lot of new volunteers took part in this event, and I think they are the future of this thing. I'm handing over the license to this thing this year in 2017, and I feel pretty great about it.
 
 <a name="lifting"></a>
 
 ### Lifting
 
-I [busted my knee in 2015](http://thepurdman.com/2015-in-review/#knee) and had [arthroscopic surgery](http://www.webmd.com/osteoarthritis/guide/arthritis-arthroscopy) in January 2016. I kept running a bit, but nowhere near as much as before. I did a couple 5Ks, and a bit of interval training, but I always knew I was on borrowed time. I needed something else. Something to counteract all the terrible eating and drinking I do. Something where I can see the numbers move in the right direction.
+I [busted my knee in 2015](http://thepurdman.com/2015-in-review/#knee) and had [arthroscopic surgery](http://www.webmd.com/osteoarthritis/guide/arthritis-arthroscopy) in January 2016. I kept running a bit, but nowhere near as much as before. I did a couple 5Ks, and a bit of interval training, but I always knew I was on borrowed time. I needed something else. Something to absorb my unnecessary impulses for efficiency and improvement. Something where I can see the numbers move in the right direction.
 
 I spent a bit more time learning how my (1984) road bike worked, and rode it whenever I could. But long-distance cycling didn't hold much appeal: Expensive, rarefied, requires a lot of gear. I still hit a spinning class every so often, but too much and my knee acts up. That, or I start hearing Lana Del Rey dance remixes when I'm walking around. Swimming would require I learn how to actually swim. And it's not my favorite thing, having my head underwater. Anything involving coordination with a puck or a ball or the like, and having to play with other people, is generally out of the question.
 
 I wanted something I could do at home, or wherever I happened to be―like running.  I read some article about doing 100 push-ups, installed an [Android app](https://play.google.com/store/apps/details?id=alexcrusher.just6weeks.pushups), and somehow stuck with it. Then I started tagging along with my wife to her mixed-martial-arts-style training class. Next was a pull-up challenge, then dips. I felt better, all-around, like I had felt when I was training for a big run. Then, despite everything I thought about such people in high school, I thought about lifting weights.
 
-I quickly discovered that it was _not_ bodybuilding―oh, God, [those forums](http://forum.bodybuilding.com/showthread.php?t=107926751&pagenumber=1). One of my coworkers writes a column for The Hairpin, [Ask A Swole Woman](https://thehairpin.com/ask-a-swole-woman-getting-started-36849181c388). It's hard to understate how useful something is that's _not_ written with a shitty attitude about health and _not_ pitched toward spending money on things. I somehow came across [Scooby's Workshop](http://scoobysworkshop.com/), which, yeah, it's a dude with an odd voice and who's shirtless all the damned time while talking to a camera, but it's also really sensible about what you can expect and how to get going. I ended up sticking to a [StrongLifts 5x5 program](http://stronglifts.com/5x5/), with regular check-ins with a trainer and [Mark Rippetoe's _Starting Strength_](http://startingstrength.com/) to make sure I'm not endangering my back.
+I quickly discovered that what I was looking for was _not_ bodybuilding―oh, God, [those forums](http://forum.bodybuilding.com/showthread.php?t=107926751&pagenumber=1). One of my coworkers writes a column for The Hairpin, [Ask A Swole Woman](https://thehairpin.com/ask-a-swole-woman-getting-started-36849181c388). It's hard to understate how useful something is that's _not_ written with a shitty attitude about health and _not_ pitched toward spending money on things. I somehow came across [Scooby's Workshop](http://scoobysworkshop.com/), which, yeah, it's a dude with an odd voice and who's shirtless all the damned time while talking to a camera, but it's also really sensible about what you can expect and how to get going. I ended up sticking to a [StrongLifts 5x5 program](http://stronglifts.com/5x5/), with regular check-ins with a trainer and [Mark Rippetoe's _Starting Strength_](http://startingstrength.com/) to make sure I'm not endangering my back.
 
 (_Update: I did totally injure my lower back in early 2017, because I had flawed squat form and didn't take off enough weight after coming back from a week away. But exercise is not about_ avoiding _injury, but how you recover from it._)
 
@@ -129,7 +129,7 @@ I posted [too many tweets](https://twitter.com/search?l=&q=from%3Akevinpurdy%20s
 
 ### In Pod Form
 
-[Phil Dzikiy](http://twitter.com/phildzikiy) and I recorded six episodes of [In Pod Form](http://inpodform.com) in 2016, our first since 2014. It is, indeed, a podcast that is indeed two white dudes talkin'. It is an excuse I need to talk to a friend who now lives far away. I'm not doing a very good job of being game for a new episode, but I intend to get back to it.
+[Phil Dzikiy](http://twitter.com/phildzikiy) and I recorded six episodes of [In Pod Form](http://inpodform.com) in 2016, our first since 2014. It is a podcast that is, indeed, two white dudes talkin'. It is an excuse I need to talk to a friend who now lives far away. I'm not doing a very good job of being game for a new episode, but I intend to get back to it.
 
 <a name="games"></a>
 
@@ -137,7 +137,7 @@ I posted [too many tweets](https://twitter.com/search?l=&q=from%3Akevinpurdy%20s
 
 On PC, on my phone, and, more recently, on XBOX 360, I played these games in 2016:
 
-+ The Elder Scrolls V: Skyrim (_I have a lot to say about this game, so don't ask me at a bar if you don't want the firehose._)
++ The Elder Scrolls V: Skyrim (_I have a lot to say about this game, so don't ask me if you don't want to hear some dude rant about The Nature of Ambition._)
 + XCOM: Enemy Unknown (_The older one, on sale when the sequel arrived. Really good._)
 + Fallout 4 (_Released in late 2015, but, yeah, definitely some 2016 in there_)
 + Hitman: Absolution (_Solid B or B- Hitman, which is still better than doing taxes_)
