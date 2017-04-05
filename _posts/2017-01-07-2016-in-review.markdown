@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 2016 In Review
-published: false
+published: true
 ---
 
 What's my excuse this time?
 
-Why is my Year in Review posted in early April?
+Why is my Year in Review for 2016 posted in early April 2017?
 
 I [wrote most of it in January](https://github.com/kevinpurdy/kevinpurdy.github.io/commits/master/_posts/2017-01-07-2016-in-review.markdown). But some of the things I wrote about changed. I injured myself in weightlifting. Things got a little more complicated at the coworking space and the coworking-space-management-software-as-a-service thingy. The president of the U.S. started doing the things he said he would do. These things happening don't affect what happened in 2016, but they changed how I view them, parse them.
 
@@ -97,15 +97,17 @@ I spent a bit more time learning how my (1984) road bike worked, and rode it whe
 
 I wanted something I could do at home, or wherever I happened to be―like running.  I read some article about doing 100 push-ups, installed an [Android app]](https://play.google.com/store/apps/details?id=alexcrusher.just6weeks.pushups), and somehow stuck with it. Then I started tagging along with my wife to her mixed-martial-arts-style training class. Next was a pull-up challenge, then dips. I felt better, all-around, like I had felt when I was training for a big run. Then, despite everything I thought about such people in high school, I thought about lifting weights.
 
-I didn't even know what to call the thing I wanted to do, but I quickly discovered that it was _not_ bodybuilding―oh, God, [those forums](http://forum.bodybuilding.com/showthread.php?t=107926751&pagenumber=1). One of my coworkers writes a column for The Hairpin, [Ask A Swole Woman](https://thehairpin.com/ask-a-swole-woman-getting-started-36849181c388). It's hard to understate how useful something is that's _not_ written with a shitty attitude about health and _not_ pitched toward spending money on things. I somehow came across [Scooby's Workshop](http://scoobysworkshop.com/), which, yeah, it's a dude with an odd voice and who's shirtless all the damned time while talking to a camera, but it's also really sensible about what you can expect and how to get going. I landed on doing a [StrongLifts 5x5 program](http://stronglifts.com/5x5/), with regular check-ins with a trainer and [Mark Rippetoe's _Starting Strength_](http://startingstrength.com/) to make sure I'm not endangering my back.
+I quickly discovered that it was _not_ bodybuilding―oh, God, [those forums](http://forum.bodybuilding.com/showthread.php?t=107926751&pagenumber=1). One of my coworkers writes a column for The Hairpin, [Ask A Swole Woman](https://thehairpin.com/ask-a-swole-woman-getting-started-36849181c388). It's hard to understate how useful something is that's _not_ written with a shitty attitude about health and _not_ pitched toward spending money on things. I somehow came across [Scooby's Workshop](http://scoobysworkshop.com/), which, yeah, it's a dude with an odd voice and who's shirtless all the damned time while talking to a camera, but it's also really sensible about what you can expect and how to get going. I ended up sticking to a [StrongLifts 5x5 program](http://stronglifts.com/5x5/), with regular check-ins with a trainer and [Mark Rippetoe's _Starting Strength_](http://startingstrength.com/) to make sure I'm not endangering my back.
 
-You might say strength training is simple: Lift heavy things, a bit heavier than the last time, then take a day off. But you only get to say that if you're lucky enough to have never been injured, or just too young to care about your long-term health, or your back. Your body will do all sorts of things to cope with a relatively heavy weight, and some of those things are really stupid things to do unless you're trapped under a boulder. Right now, I'm still recovering from something I did wrong during a bench press. Bench press _seems_ like a simple exercise, unless something in your grip causes an imbalance, and then _ruh-roh_. All I can do is wait and try to be better next time. I'm good with that.
+(_Update: I did totally injure my lower back in early 2017, because I had flawed squat form and didn't take off enough weight after coming back from a week away. But exercise is not about_ avoiding _injury, but how you recover from it._)
+
+You might say strength training is simple: Lift heavy things, a bit heavier than the last time, then take a day off. But you only get to say that if you're lucky enough to have never been injured, or just too young to care about your long-term health, or your back. Your body will do all sorts of things to cope with a relatively heavy weight, and some of those things are really stupid things to do unless you're trapped under a boulder. As I write this (_Note: In early March 2017_) I'm still recovering from something I did wrong during a bench press. Bench press _seems_ like a simple exercise, unless something in your grip causes an imbalance, and then _ruh-roh_. All I can do is wait and try to be better next time. I'm good with that.
 
 <a name="twitter"></a>
 
 ### One year of Twitter
 
-I posted TK tweets in 2016, breaking the most important rule of Twitter over and over again. Most were dross. A few seemed to make people smile, or think, or something like that.
+I posted [too many tweets](https://twitter.com/search?l=&q=from%3Akevinpurdy%20since%3A2016-01-01%20until%3A2016-12-31&src=typd) in 2016, breaking the most important rule of Twitter over and over again. Most were dross. A few seemed to make people smile, or think, or something like that.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Attempts to persuade wife to forgo leftovers with modern literary allusions were met with silence. <a href="https://t.co/yzcu8XyPWA">pic.twitter.com/yzcu8XyPWA</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/688841615960592384">January 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -127,13 +129,13 @@ I posted TK tweets in 2016, breaking the most important rule of Twitter over and
 
 ### In Pod Form
 
-[Phil Dzikiy](http://twitter.com/phildzikiy) and I recorded six episodes of [In Pod Form](http://inpodform.com), a podcast that is indeed two white dudes talkin', last year, our first new episodes since early 2014. It is an excuse I need to talk to a friend who now lives far away. I'm not doing a very good job of being game for a new episode, but I intend to get to it soon.
+[Phil Dzikiy](http://twitter.com/phildzikiy) and I recorded six episodes of [In Pod Form](http://inpodform.com) in 2016, our first since 2014. It is, indeed, a podcast that is indeed two white dudes talkin'. It is an excuse I need to talk to a friend who now lives far away. I'm not doing a very good job of being game for a new episode, but I intend to get back to it.
 
 <a name="games"></a>
 
 ### "Video" games
 
-On PC, on my phone, and, just for the week between Christmas and New Year's, on XBOX 360, I played these games in 2016:
+On PC, on my phone, and, more recently, on XBOX 360, I played these games in 2016:
 
 + The Elder Scrolls V: Skyrim (_I have a lot to say about this game, so don't ask me at a bar if you don't want the firehose._)
 + XCOM: Enemy Unknown (_The older one, on sale when the sequel arrived. Really good._)
@@ -142,14 +144,15 @@ On PC, on my phone, and, just for the week between Christmas and New Year's, on 
 + Bioshock Infinite (_Please don't ask me about this one if I've been drinking_)
 + Dishonored (_This was pretty cool_)
 + Wasteland 2: Director's Cut (_I fell off this one when I reached a "Where next?" moment, as often happens with RPGs. It's on my Steam Guilt List_.)
++ Red Dead Revolution (_Everybody was right about this game_)
 
 <a name="president"></a>
 
 ### The next president
 
-Maybe this is reflective of how much I think about my own health lately. Or maybe I'm just simple-minded. But I agree with Jay Rosen that our incoming president [is not a "master of media,"" he just has an absolute lack of shame](https://twitter.com/i/moments/819786803221626881). My example is pretty base, but I have to record it here, because one day I might forget what this time was like. The time when we had to deal with a user who exploited all of the bugs in our system at once.
+Maybe this is reflective of how much I think about my own health lately. Or maybe I'm just simple-minded. But I agree with Jay Rosen that our incoming president [is not a "master of media,"" he just has an absolute lack of shame](https://twitter.com/i/moments/819786803221626881). My example is pretty simple, maybe base. But I have to record it here, because one day I might forget what this time was like. The time when we had to deal with a user who exploited all of the bugs in our system at once.
 
-The incoming president had his doctor [write a letter in five minutes](https://www.washingtonpost.com/news/the-fix/wp/2016/08/27/the-strange-tale-of-donald-trumps-doctor-letter-just-got-stranger/?utm_term=.ca1e5d7b63cd) declaring that his patient would be "the healthiest individual ever elected to the presidency."
+The incoming president had his doctor [write a letter in five minutes](https://www.washingtonpost.com/news/the-fix/wp/2016/08/27/the-strange-tale-of-donald-trumps-doctor-letter-just-got-stranger/?utm_term=.ca1e5d7b63cd) declaring that he, the eventual nominee of the Republican party, would be "the healthiest individual ever elected to the presidency."
 
 This guy.
 
@@ -163,11 +166,11 @@ We even have the two side by side. Quick: pick one for your relay team.
 
 ![These are two men who were and will be president](/assets/post_images/2017-01-17/sidebyside.jpg)
 
-Remember when George W. Bush took some standard flack for having bruises and scrapes [after a mountain-biking accident](http://www.history.com/this-day-in-history/george-w-bush-recovers-from-bicycle-accident)?
+Remember when George W. Bush caught Hell for having bruises and scrapes [after a mountain-biking accident](http://www.history.com/this-day-in-history/george-w-bush-recovers-from-bicycle-accident)? Just asking.
 
-You and I, dear reader, both know we are not the healthiest people ever to do anything. We know our bodies. We have failures, moments, wishes, and pains we can't forget. And we don't say that about ourselves because we know that, if someone were to question us or admonish us for saying this later, we would feel lesser in their eyes. Were word of our actions to spread further, we might even feel lesser in our community. Neither you nor I would think, "At least they're talking about me!"
+You and I, dear reader, both know we are not the healthiest people ever to do anything. We know our bodies. We have failures, moments, wishes, flaws, pains we can't forget. And we don't say that we are "the healthiest ever" because we know that, if someone were to question us or admonish us for saying this later, we would feel lesser in their eyes. Were word of our claims to spread further, we might even feel lesser in the eyes of our community. Neither you nor I would think, "At least they're talking about me!"
 
-I'm not going to finish that thought, because you're smart enough to get it. This example helps me. I haven't "figured it out," but it feels like a pinhole through which I might view the sun.
+You got it from here. This is far from the most important insight into this man. I haven't "figured him out." But this one thing feels like a pinhole through which I might view the big, gaseous, pale orange sun.
 
 <a name="allyoucando"></a>
 
@@ -177,15 +180,17 @@ If 2015 was the year of the [2/5 Life Crisis](http://thepurdman.com/2015-in-revi
 
 > The fearful, reactive part of my brain was telling me, constantly, that I was not a Good Writer, based on the edits and notes I would get back (even though everybody gets edits and notes). That would be okay if I was a Serious Journalist, but I wasnât that, either, because I couldnât get started on this article Iâd had in my head for years. I was not a Good Homeowner, because, God, just look at my old house getting older, and imagine what my neighbors think of me. I was not a Fast Runner, a Responsible Money-Saver, a Decent Parent, a Social Work Hero.
 
-First, let this be a learning moment, for you and for me: Just because someone writes a blog post about something, does not mean they have worked through it. Oh, mercy, no.
+Just because someone writes a blog post about something, does not mean they have worked through it. Oh, mercy, no.
 
-One day in autumn of last year, I was riding a positive mental wave. I told my therapist that I had come to terms with my place in the world. I said that I understood that the world, the universe, are so vast that there is no way everybody can be perfectly acknowledged and fulfilled, even for 15 minutes, even for .025 seconds. Whatever I thought I should be doing, whatever I thought was fair, it didn't matter. All you can do is work on what's in front of you, and sometimes step back and consider what it's building toward. For some people, there's no time for that last part, and it would be good to be grateful for it.
+One day in autumn of last year, I was riding a positive mental wave. I told my therapist that I had come to terms with my place in the world. I said that I understood that the world, the universe, are so vast that there is no way everybody can be perfectly acknowledged and fulfilled, even for 15 minutes, even for .025 seconds. Whatever I thought I should be doing, whatever I thought was my legacy, it didn't matter. All you can do is work on what's in front of you, and sometimes step back and consider what it's building toward. For some people, there's no time for that last part, and it would be good to be grateful for it.
 
-One day last week, I was unbalanced by work and lots of negative thought. I loaded up a 5-minute guided meditation on my phone. I went into a phone-call room at my coworking space. I listened to a man with a British accent speak in my headphones. He walked me through deep breaths and centering thought. The man asked me to think about myself as a child, and to think about what that child wanted to be when he grew up. I fought very, very hard to not cry in a four-foot-square room. Not sure I succeeded. So much for building toward something.
+One day in late January 2017, I was unbalanced by work and lots of negative thought. I loaded up a 5-minute guided meditation on my phone. I went into a phone-call room at my coworking space. I listened to a man with a British accent speak in my headphones. He walked me through deep breaths and centering thought. The man asked me to think about myself as a child, and to think about what that child wanted to be when he grew up. I fought very, very hard not to cry in a phone room. I had quite a few moments like that in 2016, and again this year.
 
-The only thing that makes sense for me, in this place, at this moment―is that I'm hung up on trying to build a "body of work." I spend a great deal of effort trying to build Things. Work product, serious articles, little businesses, events, networks, even parts of my home. But all of these things will cease to exist. Before they cease to exist, they will cease to matter to hardly anyone.[^2]
+The root cause of these existential panic attacks? I think I might be hung up on trying to build a "body of work." I spend a great deal of effort trying to build Things. Work product, serious articles, little businesses, events, networks, even parts of my home. But all of these things will cease to exist some day. Before they cease to exist, they will cease to matter to hardly anyone.[^2]
 
-What will matter, and what will quietly outlast those Things, are actions. Who you are, and what you're capable of, for other people and for yourself, are your long-term project. I have to try to remember that every day is building something, even if I don't want to believe it. When the sun dies out, and everything we've done on Earth starts to freeze and crumble, this post won't matter, nor will anything I wrote or coded. On the cosmic balance sheet, it has to matter more that I helped other people when I could, was honest at many moments, walked my dog, had lunches with old friends, called my mom.  
+What will matter, and what will quietly outlast those Things, are actions. Who you are, and what you're capable of, for other people and for yourself, are your long-term project. I have to try to remember that every day is building something, even if I can't really believe it. When the sun dies out, and everything we've done on Earth starts to crumble, this post won't matter, nor will anything I wrote or coded. On the cosmic balance sheet, it has to matter more that I helped other people when I could, was honest at many moments, walked my dog, had lunches with old friends, sometimes did the thing that was hard because it was a good thing for others.  
+
+Anyways.
 
 <a name="pets"></a>
 
@@ -207,4 +212,4 @@ Apricot:
 
 [^1]: Paper! Ha. But you can see why this nickname/honorary has stuck around. "The news outlet of record?" "The content provider of record?" "The influencer engagement platform of record?" I'll see myself out.
 
-[^2]: I don't have children.
+[^2]: I don't have children. Even if I did, I know how often kids actually go into the attic to read through your things.
