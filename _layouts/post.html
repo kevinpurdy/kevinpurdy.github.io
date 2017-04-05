@@ -3,13 +3,12 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_inline_share_toolbox"></div>
+
 <div class="post">
 {{ content }}
 </div>
 <!-- Save & share links via AddThis. Wish I could figure out how to modify the buttons' padding in main.css. Also: SubToMe button -->
 <!-- AddThis Button BEGIN -->
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
-</div><input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="Subscribe">
-<!-- AddThis Button END -->
+<div class="addthis_inline_share_toolbox"></div>
+
+<input type="button" onclick="(function(){var z=document.createElement('script');z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})()" value="Subscribe">
