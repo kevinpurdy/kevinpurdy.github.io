@@ -4,17 +4,15 @@ title: 2016 In Review
 published: false
 ---
 
-The people we now call Vikings measured their years, their ages, in winters,
-not years. Winters in the Netherlands, before 1000 A.D., were brutal.  
-Winters were something you survived; they were a mark of distinction.
+What's my excuse this time?
 
-Winters aren't much nicer in upstate New York. It's also true that some of the most brutal
-realities of what happened last year are yet to pass. This review, then, is not
-a full telling of This Winter, but it captures all the warm months.  Future
-archaeologists, take note.
+Why is my Year in Review posted in early April?
 
-Also, archaeologists: Are you still forced to fill out Captchas? I bet not. I
-hope you appreciate that little grace. Anyways.
+I [wrote most of it in January](https://github.com/kevinpurdy/kevinpurdy.github.io/commits/master/_posts/2017-01-07-2016-in-review.markdown). But some of the things I wrote about changed. I injured myself in weightlifting. Things got a little more complicated at the coworking space and the coworking-space-management-software-as-a-service thingy. The president of the U.S. started doing the things he said he would do. These things happening don't affect what happened in 2016, but they changed how I view them, parse them.
+
+That, and, after printing out this thing and reading it with a red pen in hand, I wanted to chuck it.
+
+Well, here it is. A condensed, yet strangely verbose, collection of takes on Kevin Purdy's 2016. Off we go.
 
 **Contents**
 
@@ -34,44 +32,35 @@ hope you appreciate that little grace. Anyways.
 
 ### Working for the New York Times
 
-The Paper of Record[^1] purchased the company I joined in 2015. The company is
-technically Submarine Leisure Club, which was always fun to explain to loan
-officers and TSA Pre agents. Submarine Leisure Club was the company started by
-Brian Lam to launch [The Wirecutter](http://thewirecutter.com) and [The
+The Paper of Record[^1] purchased the company I work for in late 2016. That company was
+technically Submarine Leisure Club, which was always fun to explain to bank officers. Submarine Leisure Club was started by [Brian Lam](https://en.wikipedia.org/wiki/Brian_Lam) to launch [The Wirecutter](http://thewirecutter.com) and [The
 Sweethome](http://thesweethome.com). They bought us because they respect our
 work, and they are interested in our revenue model (affiliate revenue, with
 full disclosure and editorial integrity).
 
-If those previous two links don't work when you read this, we're probably fully
-integrated into the Times now. Or the web is broken. That's not as far-fetched
-as it sounds, once you've seen what holds the web (or the country) together.  
-Ahem.
-
-So far, not much about my actual job has changed. I still use things, assess
-things, argue about how I used and assessed those things, and fill spreadsheets
-with rows of product details and notes that seem lightly unhinged. But if I
+So far, not much about my actual job has changed. I still use things, rank
+things, argue about how I used and ranked those things, and make spreadsheets that seem unhinged. But if I
 step back, I'm working for the New York Times, and this is something that makes
 me very proud. It would have made my old man proud, no doubt.
 
-When I was a young reporter, every time I would visit home on a holiday, my dad
-would ask me, "Why don't you send your articles to the New York Times?" I used
-to think, like all children, that my dad just didn't _understand how it works
-now_. But now I think: You know, he read the _Times_ every Sunday (before it
-went up to $6), he lived in this world, he knew what big cities and big
-corporations looked like. Maybe it wasn't _naïveté_ about careers. Maybe he
+When I was a fresh young reporter, every time I would visit home on, my dad
+would ask, "Why don't you send your articles to the New York Times?" I used
+to think, like all children, that my dad just didn't _understand_ how it _works
+now_.
+
+But now I think: You know, he read the _Times_ every Sunday. He lived in this world. He knew what big cities and big
+corporations looked like. Maybe it wasn't _naïveté_ about careers. Maybe my dad
 just knew that none of us are going to live as long as we like, that people get
-hired for all kinds of dumb coincidences, and it's not worth living with regret
+hired because of all kinds of dumb coincidences, and it's not worth living with that regret,
 that you didn't take the shot you wanted to take.
 
-I did get a pretty cool tote bag, and I get a free digital subscription, which
-is neat. And the support and backing of a company that is trying to inform
-people of what's going on in their world, however much of it they're willing to take.
+I now have a pretty cool tote bag, and I get a free digital subscription. And I support, and have the backing of, a company trying to inform people of what's going on in their world, however much of that information they're willing to take.
 
 <a name="writing"></a>
 
 ### Writing
 
-For the first year in memory, I only wrote for my employer, and a few times on this site. No freelance writing to speak of. Easy taxes, for certain, but not certain how it sits with me.
+Last year, I only wrote for a full-time employer, and a few times on this site. No freelance writing to speak of. Easy taxes, for certain. But maybe it's now time to think about some side projects, since I'm scaling back other stuff (more on that in a bit).
 
 What I wrote here:
 
@@ -84,29 +73,29 @@ What I wrote here:
 
 ### CoworkBuffalo acquired a software service
 
-2016 was the third year of CoworkBuffalo at its current Main Street location, and the fourth-and-a-half-th year of operation period. Five co-owners, dozens of members and visitors, and a decent number of poeple who drop in while they're staying with family, visiting town, or launching their thing. It's my most low-level work, and easy to forget how weird/wonderful it is to be part of a business in downtown Buffalo.
+2016 was the third year of [CoworkBuffalo](http://coworkbuffalo.com) at its current Main Street location, and more than four years of operation in Buffalo. Five co-owners, dozens of members and probably 100 or more visitors. It's the most quiet work I do (thank God), and easy to forget how weird/wonderful it is to be part of a business in downtown Buffalo.
 
-We use [Desktime](http://desktimeapp.com) to manage booking, payments, and subscriptions at CoworkBuffalo. It's the best kind of software, because it's just enough, and not too much. We have tried other services, and they are (how does one say in French?) _a waking nightmare of checkboxes and upsells_. We learned from the maker of Desktime that he was looking to focus on a new venture, [Deskpass](http://deskpass.com). We talked it over, looked at the code and financials and customer situation, and decided we could make a home for it.
+We use [Desktime](http://desktimeapp.com) to manage booking, payments, and subscriptions at CoworkBuffalo. It's the best kind of software, because it's just enough, and not too much. We have tried other services, and those we have tried are a slimy nightmare of checkboxes and upsells. We learned from the maker of Desktime that he was looking to focus on a new venture, [Deskpass](http://deskpass.com). We talked it over, looked at the code and financials and customers, and decided we would try to carry it.
 
-Desktime is going to become [Mx. Desk](http://mxdesk.com) pretty soon. [I wrote a post about the naming process on the Mx. Desk Medium](https://medium.com/mx-desk/how-we-came-up-with-the-name-for-mx-desk-36a0d0b974cf). In the meantime, [Nick Q](http://twitter.com/qrush) has made the code faster, more stable, more secure, and easier to watch and manage. I've written some words and answered as many support tickets as I can. It's going ... eerily, quietly well. If you have any interest in using or partnering with Mx. Desk, you
+Desktime will become [Mx. Desk](http://mxdesk.com). [I wrote a post about the naming process on the Mx. Desk Medium](https://medium.com/mx-desk/how-we-came-up-with-the-name-for-mx-desk-36a0d0b974cf). In the meantime, [Nick Q](http://twitter.com/qrush) has made the code faster, more stable, more secure, and easier to watch and manage. I've written some words and answered as many support tickets as I can. It's going ... eerily, quietly well. If you have any interest in using or partnering with Mx. Desk, you
 should [give us a shout](mailto:hello@mxdesk.com).
 
 <a name="tedx"></a>
 
 ### TEDxBuffalo
 
-This year's TEDxBuffalo felt like the most professional event yet, one that truly spoke to the effort that everyone involved puts into this weird thing. [All of the talks spoke to me](https://www.youtube.com/playlist?list=PLsRNoUx8w3rO8QwWGAI84PTE9h6soHIXz)
-, and a few of them felt like they were speaking directly to me. A lot of new volunteers took part in this event, and I think they are the future of this thing. I'm handing over the license to this thing this year, after six years of holding it, and I feel pretty great about it.
+The 2016 TEDxBuffalo felt like the most professional event yet. The crowd reaction spoke, including a standing ovation at the end, spoke to the effort that everyone involved puts into this weird thing. [All of the talks spoke to me](https://www.youtube.com/playlist?list=PLsRNoUx8w3rO8QwWGAI84PTE9h6soHIXz)
+, and a few of them surprised me, after 6 years of producing these events. A lot of new volunteers took part in this event, and I think they are the future of this thing. I'm handing over the license to this thing this year in 2017, and I feel pretty great about it.
 
 <a name="lifting"></a>
 
 ### Lifting
 
-I [busted my knee in 2015](http://thepurdman.com/2015-in-review/#knee) and had surgery in January 2016. I kept running a bit, but nowhere near as much as before. I did a couple 5Ks, a bit of interval training, but on borrowed knee time. I needed something else. Something to counteract all the terrible eating and drinking I do. Something where I can see the numbers move in the right direction.
+I [busted my knee in 2015](http://thepurdman.com/2015-in-review/#knee) and had [arthroscopic surgery](http://www.webmd.com/osteoarthritis/guide/arthritis-arthroscopy) in January 2016. I kept running a bit, but nowhere near as much as before. I did a couple 5Ks, and a bit of interval training, but I always knew I was on borrowed time. I needed something else. Something to counteract all the terrible eating and drinking I do. Something where I can see the numbers move in the right direction.
 
-I spent a bit more time learning how my (1984) road bike worked, and rode it around town whenever I could. But long-distance cycling didn't hold much appeal: Expensive, rarefied, requires a lot of gear to tote around. I still hit a spinning class once a week, but too much more and my knee acts up, or I start hearing Lana Del Rey remixes when I'm walking around. Swimming would require I learn how to actually Swim-swim in a lane. And it's not my favorite thing, being underwater. Anything involving coordination with a puck or a ball or the like, and having to coordinate with other people to do it, was generally out of the question.
+I spent a bit more time learning how my (1984) road bike worked, and rode it whenever I could. But long-distance cycling didn't hold much appeal: Expensive, rarefied, requires a lot of gear. I still hit a spinning class every so often, but too much and my knee acts up. That, or I start hearing Lana Del Rey dance remixes when I'm walking around. Swimming would require I learn how to actually swim. And it's not my favorite thing, having my head underwater. Anything involving coordination with a puck or a ball or the like, and having to play with other people, is generally out of the question.
 
-I wanrted something I could do at home, or wherever I happened to be, like running.  So I started out with an Android app, [100 Pushups](https://play.google.com/store/apps/details?id=alexcrusher.just6weeks.pushups). Then I started tagging along with my wife to her mixed-martial-arts-style training class. Next was pull-ups, and then crunches. I felt better, like I had felt when I was training for a big run. Then, despite a lot of negative experiences in high school, I thought to try lifting weights.
+I wanted something I could do at home, or wherever I happened to be―like running.  I read some article about doing 100 push-ups, installed an [Android app]](https://play.google.com/store/apps/details?id=alexcrusher.just6weeks.pushups), and somehow stuck with it. Then I started tagging along with my wife to her mixed-martial-arts-style training class. Next was a pull-up challenge, then dips. I felt better, all-around, like I had felt when I was training for a big run. Then, despite everything I thought about such people in high school, I thought about lifting weights.
 
 I didn't even know what to call the thing I wanted to do, but I quickly discovered that it was _not_ bodybuilding―oh, God, [those forums](http://forum.bodybuilding.com/showthread.php?t=107926751&pagenumber=1). One of my coworkers writes a column for The Hairpin, [Ask A Swole Woman](https://thehairpin.com/ask-a-swole-woman-getting-started-36849181c388). It's hard to understate how useful something is that's _not_ written with a shitty attitude about health and _not_ pitched toward spending money on things. I somehow came across [Scooby's Workshop](http://scoobysworkshop.com/), which, yeah, it's a dude with an odd voice and who's shirtless all the damned time while talking to a camera, but it's also really sensible about what you can expect and how to get going. I landed on doing a [StrongLifts 5x5 program](http://stronglifts.com/5x5/), with regular check-ins with a trainer and [Mark Rippetoe's _Starting Strength_](http://startingstrength.com/) to make sure I'm not endangering my back.
 
