@@ -1,7 +1,156 @@
 ---
 layout: post
 title: 2017 In Review
-published: false
+published: true
 ---
 
-Hello.
+2017, as lived in and around the United States of America, kept asking us if we believed there were winners and losers. If we did, we then had to ask if the competitions that made them win or lose were fair. And then, ultimately, how much we were willing to do to change the competition, and aide or work with the people on the other side from us.
+
+That's about as clear and calm as I can write it, after quite a few tries. 2017 felt like a shift toward entire sets of U.S. people being ignored by the institutions that are supposedly meant to provide for them: governments, small and national, employers, healthcare, schools, news publishers, environmental and safety watchdogs, to name a few. Some of it is political, although we're the people who vote. Some of it is economic, although we're the people who buy things where we do, if we have a choice. It's a lot of "it depends" and "not everyone" stuff, hard to think about in clear lines and anecdotal narratives.
+
+I'm a liberal, I was born in 1981, and I'm doing fine, by a number of common measures. I certainly intend to get more people registered to vote in 2018, in the big and the microscopic elections. If you're a friend of mine, you're going to hear about it. It's the one thing I am absolutely certain will change how broad changes are made, if representatives feel like the people watching are more than just a few demographic slices. The other stuff? I don't have a plan, beyond helping, donating, volunteering, as much as I can as a deeply imperfect agent of my own beliefs.
+
+I'm sorry, your question was, "Hey, how was your year?" Yes, I have some sub-heds about that.
+
++ [Creative Mornings Talk](#cmtalk)
++ [Bikes](#bikes)
++ [Other Projects](#projects)
++ [Writing](#writing)
++ [Lifting](#lifting)
++ [The Knee](#theknee)
++ [TEDxBuffalo](#tedxbuffalo)
++ [CoworkBuffalo](#coworkbuffalo)
++ [Ugh, Twitter](#twitter)
++ [Games](#games)
++ [Pictures of Pets](#pets)
+
+<a name="cmtalk"></a>
+### Creative Mornings Talk
+
+I can skip the usual tortured prose ([2016](http://thepurdman.com/2016-in-review/#allyoucando), [2015](http://thepurdman.com/2015-in-review/#two-fifths)) about my rolling mid-life crisis. I covered it in a talk at Creative Mornings, [a talk about death, legacies, and fictional story structure](https://creativemornings.com/talks/kevin-purdy/1).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UWNMqvZQ6fk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Thank you to the Creative Mornings team for taking a chance on a guy who usually talks about search engines or journalism. It's not a perfect talk, but there's a lot of me in there.
+
+<a name="bikes"></a>
+### Bike Repair
+
+Nearly 10 years ago, I bought a 1988 Schwinn World Sport road bike from Rick's Cycle Shop in Buffalo. At first I rode it when it was warm, and generally on weekends, during the day. Slowly, I started riding in regular road traffic, at night, and even when a car was available. I did a few [Ride for Roswell](http://rideforroswell.org) and [SkyRide](https://gobikebuffalo.org/events/skyride/) events. I got into biking, and learned how to do some basic maintenance: fix a flat, run a cable, wrap a handlebar.
+
+One day, the local bike organization, [GoBike Buffalo](http://gobikebuffalo.org), announced that members could get their bike frames and wheels sandblasted and powdercoated. Having just done a guide to dog crates, I knew what that was! It was cool. While a 1988 World Tour _could_ be a [great-looking bike](https://www.flickr.com/photos/individualimage/albums/72157626671547959), mine was, uh, [showing signs of wear](https://photos.app.goo.gl/13IwaxY7nJB9j2AJ2).
+
+![Ye Olde 1988 Schwinn bike](https://lh3.googleusercontent.com/kXb4mazhunLhZ1U5t7maIT40hk6jGBIM0iAKSVGP8ZfoK63bvmlCRPkwINcwolv4ULG0Idb0F8f5fhDW6a2gq2nrMPopFKGYOz4ScUcNVD757VckxaGP2WdcyX0VE4xLhv0Hf7bNJkSdoNOELiEqtX5JbnDu7JdDrPC8B7lB7NTvrsRObDcIJzg6jX7eZIg50i3PRnOLl0DGhTNl5g5T7T0sKttqy-rlfaupwJ8Bd5QUCC9J3Tmg_Zfp3M5iKAO-Gk09an2d-8y3R7mrT5tH_UgocP5LRg2JUofuPbtbHGvZR6AP-gMl7b4cY-5u1C-EoZCaH01_RRW-KeswSA2GLqYJI_VcQAt5oJDN2fg-l8rRCffA7tBQxnSlJLP8Uoa2kbJC6wRyQIYaPWDRSdRhXYpytKa6lbWoykZZQqSOziVH56uz2hg3JT8jV2C1TsVG8U2zc0XETQPr-SgtQ5ilvyD6xy0hzhTiavvPQAR42z_dup9xMQItXie4eku61VLbYZ_Fk5riotL0ks-TdwJfFdEmyL1S7kU4U3aOFnOdRp_oU35gFP679G08UkdYS6jzdATmGSsz-r5oVrv4MBmqXM_ycV9h7f_toFJif3n8I046n6t56JhAPEq1kV9nn0Ebl-d82bcsxWriP7KvrXlkFvSDu8-if9RzOw=w1210-h908-no)
+
+So I took the bike apart, with help from coworker Mike Mac.
+
+![All but entirely disassembled 1988 Schwinn World Sport](https://lh3.googleusercontent.com/50n6M_GzcKi3njRMhuiWg-n6sncb5Sc4gqmi4ZiV63LR-5Kqwsn63DFLVVIvfRxGKFYH6YirlVffcwU6wkzUszuvXYlnR_-RE5vZfGnntpEQqDen0tNCJs9u5KwgPksUweo93HhlJuUuQS3IOmw6Mq0zSUqoakVbeDKEDL8eE36vnkvM_INGk12vYpj7go0t42qIwlvkwlF_tkOTs3HhDMznjbtLtOBUCxiqgmAP2beDkI8RXbk8-HsuH46VMIn4zIq6aVY3d6oeXTSqBhEhWewRQF122YzLLJUd-j7N13DEUUZ5Pjlq5-mYbK0vYavD0sllte4MxHg0ObddyYqDRTm2v7Nmz-EAaKDEtDI89RnTN8qenNL40KHvUdw1AY09wj7XwY3FhwxfMv2j_0enjVEkcseHhUlloQELnzdNiv4Lh9IHdz4h3i_KyQYBxOhp14f4eyepnqKt_iJ9KnPdHf9JDhDvp921IwD92F2o-j9kSoKIWpvrYyDLsk92jIlqKH5gP4OVWYleSypgyOt1thmQsJ2M98NKvDs9Kp889NLtO34oga-JZ1nkxErqjLJarwmF1cM3X87Hf8UeacvrdEUH_NIDoEuJIx8q2RMB=w1614-h908-no)
+
+I took it to GoBikeBuffalo, and they informed me that, actually, an _entirely_ disassembled bike has the bottom bracket removed, the fork is separated from the frame, and, you know, take off that reflector. Okay, I did that, but the, too, you can't sandblast _wheels_, only _rims_. So I went home, pulled all the spokes out of my wheels, pulled off the rim tape, and told myself it wouldn't be that hard to redo it all.
+
+I disassembled the bike the last week of July. I spent nearly every Sunday, and a few Tuesday or Thursday nights, from then until late-late fall, at the GoBike Community Workshop, learning how to build a bike from scratch. I rebuilt the wheels and trued them, and retrued them, and trued them again. I learned that you should measure everything before your remove it. I got intimately familiar with how ball bearings should feel, spun by an axle, packed with grease.
+
+In the end, I got [this guy](https://photos.app.goo.gl/yGQ1QTZi95H1jnoz2) all but finished, and ready for spring:
+
+![finished and rebuilt Franken-Schwinn](https://lh3.googleusercontent.com/VmVzLLpzp3Lhl8eDm3Iz8YBhSVCoWAaHxFXefUr4QvVHAJLqInRqRkZvK9ivdYSE1JeINfO3eSC455QRCnQuJ4rI414FO2ADhjQ-vP-sbhcrWFRiJKV5HaZDLB3PleYvEGJ9lPYXpV98oYBWS8vHlDmjh-boCvCfwWUTaKrhWBBkvtcQIkKohKrms4yl1-ALNFaBOQwybWo0Gwt-8RuLxB7FUOWZ0ojeRFDD7LQJ-5cKrRru8KYI_FOS7i5F8T4CZ-k8KI2U2GTm-lW55NPwW0W8t3cLtQcLn8d_TWQfIUjTJO6KFASVRN4QVYgNztocx3pVZ2SQXehIYzx7y25wrUNyXjwRqW1yVOHUCCwCYhD6BRO74pUz9IurOX6m0JPhiHi_Y1ZDHHp8a5hWWicAyjodNCjAbBYFy60MIduf4-5CalycQ9xPuQ_7uBa5iipQdR7aCSO9iTTMdePI_qpcPfuQvLIU9azKx4hJSeFZ8CxYoHAmckdrqLFmPS4-2cxtUmdHOp05b_zFK-ynFbGnJNlhO0Zq2lVVZcA-7wcwaVueaZN2CtSNo8FlyQAoAIEV5t6UHqB9jHBfDO0jwVeko_8hoWr_FUJbxpEBGEKer659StTqnUAbGnvT5jOwi9wLTxxu6k6dErVahcpBaWUAnw7LG2mQZLYqVg=w1210-h908-no)
+
+I could not have done it without the help of the people who run and frequent GoBike's workshop, the encouragement of Mike Mac and my bike-savvy coworkers, [WBNY for the Sunday tunes](http://wbny.buffalostate.edu/) and, above all, [Sheldon God-damned Brown](http://sheldonbrown.com/).
+
+But that was not the end of the dive into biking―oh no, a few more levels deep, here. My wife and I decided to sell a car and go down to one. It helped that ride sharing had come to upstate NY. But it meant that, should I want to get somewhere while the wife had the car, I was either going to pay out of pocket, catch the bus, or ride a bike. Buffalo's roads in winter do not accomodate thin, shallow race tires. I was saving up for a fatbike, but then some folks at CoworkBuffalo all but married me to [a Peugeot mountain bike with nearly 3-inch tires](https://photos.app.goo.gl/bKkLircZK6vx0inn1).
+
+![Peugot mountain bike with big ol tires](https://lh3.googleusercontent.com/c8MLDHTPmEKXzexPRtU4I9t6aItvXUoJY1eNPouLEvqEy3tmP1CVQY6Q5cesnqEfYnucJThcymxblVX9Nb5rUhngeISKfUeABed8c4ukb64rHZyjgXUKD3v0szh9IMTK6tbrQnqwLjni8BueOq39gxCfwFr1P_c52I7PsePL6hni9tp0scAfcka2Hzwl5N6K9tyJXJ6zk8W9UCi7KL4n_U6GetY7WABPAqJXIXQF-YPwa852gmS7rWhCzdSqg9qTkdgTKVgXl-ORLUI1gxqZOEKZIVPWXANWle_XXBGs-uP3-tRLhThr2dzA7phvodULaGi9DZW2RIaRXPw15CF6krJoZdfW_yR7X13a06c-Q_ZkpoGS1jkgHJSL_63x8nJlI3KiUnefhiNJIt1jvROUNsiHnImYzXnH-BKO7JkKGYs5egqX6Q_PQQxJUCTCATACCNxp-aBtl1ojzJbYhmZitS4UaTCjzUFPp2xTXgsfNtLSLr1dbUeJ-g4WRVAUmoeHrdwzFeFXjWYudOHgMR-ML3Nc57TjySMCF0TTzaaVkndaF1hUfVPS7BviPumLTBygTxRzKIScU4qCV1wk7vU5zNIh_r_SJ8znwOdVpeWI=w1210-h908-no)
+
+Some more reasearch, some trial and error, and now I sometimes [ride around looking like this](https://photos.app.goo.gl/PhJbXnzuQcZUd3nh1). Layers, my friends, layers.
+
+![the author, dressed up for winter biking](https://lh3.googleusercontent.com/GA2BP6svZ5kjTmACWwvazcP0OdK9iIMtNz6wcc_iCgaYBmtTjhbq37ItV6oXcVpklfV7GtWQxNCEhsVAGnDFpyx0vVUfuxgqotqpKxL6KjxvmC6LzyzG304Cc_YI5574D_9P5-lTRWIzhc2gACxwuBN6JoF_t5zE35bsD3WKtrITVIkbMh8R4pjOjrb4Xf-DXI3KWk0korcLQMLHsGgUj97drhB021fLAR0eGNmYVUCNT0kpz3gunaATxQObDBK7YIzjMmWoGR3ONp1dvUt1T0TnPR09Wxbv83NS2UNtiMU1Zirhaml_nBMtpMOsFhMx6btWulGrOiSxBQqc77X_RhAtZdjTQ6t-SZ_02Lkulh9VLtDxsq_MiBwvSKf2gt7PFahlzSq01RisUeWVznPFgAWwNi8I4uxEqWRgERJXoJLciAgjOu8NdanKTqvQy9bPkISkF8YQgNUcf2Q0kKGz6UKOXmHGU0OT29UztL6Pm3pYrgCyS_h_KCU1YeaxwmdOSHaG0952qF6kM5wNHxi9MC7itDp8GjwIew-PkRyhobxa_4B5KYqhkNA12Ch2sNonB23F9oZXmY3VqPwbGM80WtlsQl8nWBNAgc9JiSET=w1210-h908-no)
+
+I aim to [keep fixing up bikes](https://photos.app.goo.gl/Cbjq9Hszj1mdQ1Lb2), but more for other people, through the workshop at GoBike. I've never been mechanically inclined, but bikes, old bikes that need care, click with me. It feels good to rescue old bikes with work, with franken-pieces from junkers, or with the cheapest off-the-shelf parts of today that would astonish the original bike builder.
+
+<a name="projects"></a>
+### Other Projects
+
+This past year, I:
+
+Went nutty and **reorganized my home network,** so that I could:
++ Stream over-the-air HDTV from an antenna in my office (better reception) to the living room TV, or any deivce with a screen. ([https://www.silicondust.com/](HDHomeRun)), [cheap AmazonBasics powered antenna](https://www.amazon.com/AmazonBasics-Ultra-Thin-Indoor-Antenna/dp/B00X4RA74A))
++ Play video games that are on my PC on the television with a controller ([NVIDIA Shield](https://www.nvidia.com/en-us/shield/), NVIDIA 1070 graphics card (back when you could buy one for a normal price).
++ Plex, on the Shield, that can actually stream anything, from any device ([Wirecutter router pick](https://thewirecutter.com/reviews/best-wi-fi-router/), [Wirecutter external hard drive pick](https://thewirecutter.com/reviews/the-best-external-desktop-hard-drive/)).
+
+**Baked a lot of desserts.** I baked my way through most of the regular cookies, nearly all the pies, and a few cakes in the [America's Test Kitchen cookbook](https://www.amazon.com/Americas-Test-Kitchen-Cookbook/dp/093618454X) and its T-shirt-and-jeans cousin,[Cook's Country Blue Ribbon Desserts](https://www.amazon.com/Cooks-Country-Blue-Ribbon-Desserts/dp/1933615796). ATK/Cook's recipes are very specific, have the ingredients by weight rather than volume, and you learn some basic tenets of baking by moving through them.
+
+Here's [a whole bunch of photos of 2017's desserts](https://photos.app.goo.gl/TRptsZbraJamvf0p1), if you can take that right now. I stopped taking pictures of chocolate chip cookies; there were probably a dozen batches last year.
+
+<a name="writing"></a>
+### Writing
+
+I only wrote for my employer, [Wirecutter](https://wirecutter.com), in 2017. I wrote guides to [personal budgeting apps](https://thewirecutter.com/reviews/best-budgeting-apps-and-tools/),[dog crates](https://thewirecutter.com/reviews/best-dog-crate/), [heating pads](https://encrypted.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=20&cad=rja&uact=8&ved=0ahUKEwi3pciyp4bZAhVBKqwKHTSkAqc4ChAWCGMwCQ&url=https%3A%2F%2Fthewirecutter.com%2Freviews%2Fbest-heating-pad%2F&usg=AOvVaw0KTrhIHrjrupUD55vDD6z4), and [platform bed frames](https://encrypted.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=46&cad=rja&uact=8&ved=0ahUKEwiK_cXGp4bZAhVMKqwKHQUeASE4KBAWCEcwBQ&url=https%3A%2F%2Fthewirecutter.com%2Freviews%2Fbest-platform-bed-frames-under-300%2F&usg=AOvVaw04RKHW0WdYJSwKtLeNT_xH). I also rewrote and updated a lot of guides on the site. Good year.
+
+I also spent a good bit of time reading about writing fiction, and reading books with a notebook near at hand, as [covered in that Creative Mornings talk](https://www.youtube.com/embed/UWNMqvZQ6fk). More to come on that.
+
+The last post I wrote on this site was the [2016 year in review](http://thepurdman.com/2016-in-review/). Well, okay.
+
+<a name="lifting"></a>
+### Lifting
+
+I kept at it. Still doing [Stronglifts/5x5](https://stronglifts.com/). I worked through the year to recover from a back injury that I got from ... [I can't believe it's called "butt wink"](https://www.menshealth.com/fitness/what-in-the-world-is-a-butt-wink). I got back to my nearly top weight again, and then my knee started hurting (see _just_ below). I recovered, and now my squat form is such that my trainer said, on an off day at the gym, "Look at that form!"
+
+Then again, he also told me I had been doing overhead press wrong for about a year, and now need to start over.
+
+<a name="theknee"></a>
+### The Knee
+
+My right knee started hurting again in late 2017. With two surgeries in its past, sometimes it just can't take what I want it to do: squats, deadlifts, biking, walking, and the like. I went back to physical therapy after it started bothering me something bad, and we worked on a range of flexibility, walking stride extension, and stuff that might be keeping the muscles around my knee from fully doing their job.
+
+Weeks of sessions and at-home work later, and my squat form and balance are real good, y'all. But my knee still hurt. The likely truth is, it's a minor, early arthritis, because there's just not enough cartilege there. But, there is stuff called [Synvisc](http://synviscone.com/), it is made out of chicken combs, and they can inject it into your kneecap. A little over a month later? I can deal. This is now my third favorite use of chickens, besides frying and curry.
+
+<a name="tedxbuffalo"></a>
+### TEDxBuffalo
+
+The seventh annual event was run by a talented, hardworking crew, and I helped less than ever, intentionally. It was another sold-out show at Babeville, my favorite performance space in Buffalo. [The talks from 2017 are good](http://tedxbuffalo.com/tedx-buffalo-2017-speaker-videos/).
+
+<a name="coworkbuffalo"></a>
+### CoworkBuffalo
+
+The [coworking space](http://coworkbuffalo.com), of which I am a co-owner, is in its fifth year of operation at its Main Street/Theatre Place location. We are quietly working together and inviting other people to join whenever they want. Oh, and I hear there's a makeshift bike shop in the basement, if you know who to ask about it.
+
+<a name="twitter"></a>
+## Ugh, Twitter
+
+Why did I keep tweeting this year? This was some of the least-bad stuff the people enjoyed.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pictured: A man who took an hour to fix the brakes on a kids&#39; bike he couldn&#39;t stop himself from messing with. But for a good cause! <a href="https://t.co/ZgaXKJ0rOv">https://t.co/ZgaXKJ0rOv</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/942086315163684866?ref_src=twsrc%5Etfw">December 16, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Shooting photos for work, then my dog posed for a front page story about how he&#39;s still looking for the killers, ALL THESE YEARS LATER <a href="https://t.co/WaBKgGs6Cd">pic.twitter.com/WaBKgGs6Cd</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/861995430476959745?ref_src=twsrc%5Etfw">May 9, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/ginatrapani?ref_src=twsrc%5Etfw">@ginatrapani</a> took an email from me when I was assistant editor of the weekend insert of a tiny newspaper, and listened to me ramble about Linux on a phone call while I kicked stones around the parking lot. Owe her a whole lot. <a href="https://t.co/G0z5DeFsaT">https://t.co/G0z5DeFsaT</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/939167775720960003?ref_src=twsrc%5Etfw">December 8, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Via Buffalo subreddit (<a href="https://t.co/x3Hy8ZTS3V">https://t.co/x3Hy8ZTS3V</a>) old BN article, and <a href="https://twitter.com/sparklebombbb?ref_src=twsrc%5Etfw">@sparklebombbb</a>, the short explanation of the cereal smells in Buffalo: <a href="https://t.co/j7JAw8wW8j">pic.twitter.com/j7JAw8wW8j</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/922554631372361729?ref_src=twsrc%5Etfw">October 23, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a name="games"></a>
+### Games
+
+Here's what I played in 2017, more or less. I'm almost done with this post, so I'm too lazy to link them, but you probably can find them.
+
++ The Witcher 3: Wild Hunt (_My favorite game of the year, maybe of this decade. Definitely my personal all-time favorite RPG._)
++ XCOM 2 & XCOM 2: War of the Chosen (_This game is an illegal drug that rewards tenacity and attention to detail, and makes you grow attached to people who will be murdered by aliens, please outlaw it_)
++ Hitman (_The one that's just "Hitman," sold as a "season." Some of the levels in this game, particularly Italy, are so immersive and alive, I honestly forgot who I was supposed to silently kill_)
++ Wasteland 2: Director's Cut (_Hey! I said I was going to finish this game in last year's post, and then I did! A bit wonky, a bit fetch-quest-y, and the ending was, it was okay. But I dig this environment and combat style very much._)
++ Grand Theft Auto V (_I hope this is the last one of these I play. I'm really sick of the vibe of these games, that South-Park-ian "It's okay, we make fun of everybody!" feel. It helps to have played Witcher 3 in the same year: both games had obsessive attention to detail, but you can see where the Witcher makers put their efforts, versus GTA._)
++ Rocket League (_Playing soccer with jet-cars is real fun, and they keep making it better without messing it up._)
++ Thimbleweed Park (_I am 37 and so, yeah, I treasure the LucasArts classic SCUMM games. I liked this game, it reminded me of those games in ways both subtle and building-dropped-on-the-head. Delores is one of the best characters in any game I've played._)
++ Red Dead Redemption (_Very, very good._)
++ Minecraft (_I had a week off after last Christmas, and friend Chaz left me his XBOX 360, because he thought it sad I lacked for any console. So I SHOWED HIM and played the most PC-ish game on the system for most of the week. I get why it's such a revolutionary thing, but I'm glad I got away from it, too_.)
++ Hyper Light Drifter (_I am not good enough with a controller, or don't have the same replay-forever stamina, that I once did. I am going to try again in 2018._)
+
+<a name="pets"></a>
+### Pictures of Pets
+
+![Howard](https://lh3.googleusercontent.com/7xCNeD58ng7m1STbVUKJEF4qHWk6n-iHqyXeG0Jy3XWcFxHCx2AmeXOsYyD66Ikn-lagsyqYn5X5gpXBn44ShvQJgFOiUtt7j_4aZ7mIGNaWjYfbVcpTvP3R9g2KajnRABEdYDEFbeLsVb7hujIXweCYXWydA9VKeCA6WkcEp5jiVDLq9HfVRMvXFyMOlXOtWTyvXS55ThAIk78-5iQKHH68a_uNPROu3eCRk0iqXTlRC7YurWEubTwOo1iZVAVEfQEag7Eul_s3Y2LDyq0N4mgzW6o5CJvCiU4u0nVQNgKxTSst-QtdM6NLCrAq4Udz-Y7ezKEcAy1fPtaopgITr2JglYOWy_qIwo5fiCSYDw_mLWJnNPXzq2rF13tev0UVmGfbZBrO5npbbTQfaE0tIwMr5AfPOUHvnMh2VZt-2ueB_dSf_quRAgJ9P8OUKjUiY6UeKY7Ee9_ukdnkaHo29dBzKqTMmU6z6VKEaFHCKE33MnxXI59jV3Q2pMGMmEduiaTyA6e3c45wgGzcQHhGiJqk8aNHI6dIU4W0p8GvLcKP-Crx-ZNlA1PSmciZN1WoYTEDY1ftWCmUC1SBqXsmn5X50BefdUN9-xgqB9j6=w1210-h908-no
+
+![Cork](https://lh3.googleusercontent.com/9JPeT95igKydBsX6idWDKVRh72c7tICIh7_VcVhd8xJxC1mZTUX8D8yIOCD4GIPocZIC6ZoCMFpZ8liMRY1MO6476Eg2zL1t4AFqGMXfnPkQ3_yih4n5z6qAMJOtVgGt1ccrDW0X7iFEfhvSJNyETIC2Rd2ujTAz68bEl2b5GlDB_Cht5OFSDXPO_s0Dj4jPQwy0SrlQGvgS3p1HsYgS-TXTzYncTiqf-siG2qNzth9cZjV6dH9Xlu45F0w8yOx4bSpHBuesEQJTwOjOL3ix4g_9zC_svp_ogZUBEYzVoM_7JPQFBxHHL39A8uoycuAY9Z2ne9f6jkGIXuynmWWlU3Q0GMcFM6isvBbTO8XKZpiCAqy0hEg3FgmeI-7QipqrCwKuE3pT-lOdnhl9B46Fa7O3wRO4WwAmQ5A49R1Qc2ANScK1fdawOejs4tl9FW3OgZnkabAIKhtzL6eGAkFqHJbGjFj5Vnojy3CoECWg1gPixooCPy-mwznqUb4iRk0ufts8db6svDeg8qjOabjNa27urTkk9C_9Qg1UxvcjCiHROKBslDeO8iK5YZgLkqx1kmL_wpBp6JuXzH9eJ4r28BBkhrB7eSkRyLtIcTUd=w682-h908-no)
+
+![Apricot](https://lh3.googleusercontent.com/2JSibJ9ZTxZKP9nDCq0xTvjGrpRbYgnHQJuBEQxymo2xDwBX_f-8dQhw7-1cAZlKQ9FPdJnNmgbLTNMXXzORj8LtGwXSiiFHNdqf40o6z61kinVofVFgE44wsr5ZkKdRLhQEWQl83y4FfFWv2GQ1FqCr6xLn8_-BpVayMjDEBTerboL6-O6L3-7uEe4MiYDuf2QXXNwNFD3oy51oK76t7t1VdBod2t0JfE4Inlnx7qJjltX5vkeUouMV7wT1Ak9imDnxONKZWno3_iMHlR5jkuaBvzL_1TR4Te8ATVIl6QNaV-8ugrfSakiQm4KXNlgKJJbb6UVGiMGUAPAf4GqH0L9njpjmA-BwEN0CI4kulgEvw9AHafgc5HJgJVY72efmZV6C777kX-t9Zek-3o_CiJEUROi7QYpK365b98hlbSW6RNqTcR4e8GUQ178lggKSwk8mzqsANGkgZs8KeFaccp0mi8N66esm5cIRE1WbJlcjNbh8nnjFZQ8Jx84-_vZO1ScMlb2maflLLp6VbDhNqFFnCg-OMDklN64zY2rsOuc2wdZe-E3q39QjC0W6wx4S4G_NaItKEbV6ZjqUTyijrinMgsxbtvnFLDOvZeDw=w682-h908-no)
