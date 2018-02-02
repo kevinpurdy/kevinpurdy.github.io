@@ -117,7 +117,7 @@ The [coworking space](http://coworkbuffalo.com), of which I am a co-owner, is in
 ## Ugh, Twitter
 
 Why did I keep tweeting this year? This was some of the least-bad stuff the people enjoyed.
-<pre>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pictured: A man who took an hour to fix the brakes on a kids&#39; bike he couldn&#39;t stop himself from messing with. But for a good cause! <a href="https://t.co/ZgaXKJ0rOv">https://t.co/ZgaXKJ0rOv</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/942086315163684866?ref_src=twsrc%5Etfw">December 16, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -129,7 +129,6 @@ Why did I keep tweeting this year? This was some of the least-bad stuff the peop
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Via Buffalo subreddit (<a href="https://t.co/x3Hy8ZTS3V">https://t.co/x3Hy8ZTS3V</a>) old BN article, and <a href="https://twitter.com/sparklebombbb?ref_src=twsrc%5Etfw">@sparklebombbb</a>, the short explanation of the cereal smells in Buffalo: <a href="https://t.co/j7JAw8wW8j">pic.twitter.com/j7JAw8wW8j</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/922554631372361729?ref_src=twsrc%5Etfw">October 23, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</pre>
 
 <a name="games"></a>
 ### Games
