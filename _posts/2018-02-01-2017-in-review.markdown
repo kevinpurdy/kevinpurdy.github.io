@@ -34,7 +34,7 @@ I can skip the usual tortured prose ([2016](http://thepurdman.com/2016-in-review
 Thank you to the Creative Mornings team for taking a chance on a guy who usually talks about search engines or journalism. It's not a perfect talk, but there's a lot of me in there.
 
 <a name="bikes"></a>
-### Bike Repair
+### Bikes
 
 Nearly 10 years ago, I bought a 1988 Schwinn World Sport road bike from Rick's Cycle Shop in Buffalo. At first I rode it when it was warm, and generally on weekends, during the day. Slowly, I started riding in regular road traffic, at night, and even when a car was available. I did a few [Ride for Roswell](http://rideforroswell.org) and [SkyRide](https://gobikebuffalo.org/events/skyride/) events. I got into biking, and learned how to do some basic maintenance: fix a flat, run a cable, wrap a handlebar.
 
@@ -56,7 +56,7 @@ In the end, I got [this guy](https://photos.app.goo.gl/yGQ1QTZi95H1jnoz2) all bu
 
 I could not have done it without the help of the people who run and frequent GoBike's workshop, the encouragement of Mike Mac and my bike-savvy coworkers, [WBNY for the Sunday tunes](http://wbny.buffalostate.edu/) and, above all, [Sheldon God-damned Brown](http://sheldonbrown.com/).
 
-But that was not the end of the dive into biking―oh no, a few more levels deep, here. My wife and I decided to sell a car and go down to one. It helped that ride sharing had come to upstate NY. But it meant that, should I want to get somewhere while the wife had the car, I was either going to pay out of pocket, catch the bus, or ride a bike. Buffalo's roads in winter do not accomodate thin, shallow race tires. I was saving up for a fatbike, but then some folks at CoworkBuffalo all but married me to [a Peugeot mountain bike with nearly 3-inch tires](https://photos.app.goo.gl/bKkLircZK6vx0inn1).
+But that was not the end of the dive into biking―oh no, a few more levels deep, here. My wife and I decided to sell a car and go down to one. It helped that ride sharing had come to upstate NY. But it meant that, should I want to get somewhere while the wife had the car, I was either going to pay out of pocket, catch the bus, or ride a bike. Buffalo's roads in winter do not accomodate thin, shallow race tires. I was saving up for a fatbike, but then some folks at CoworkBuffalo all but married me to [a mid-1980's Peugeot mountain bike with nearly 3-inch tires](https://photos.app.goo.gl/bKkLircZK6vx0inn1).
 
 ![Peugot mountain bike with big ol tires](/assets/post_images/2018-02-01/gustave.jpg)
 
@@ -73,7 +73,7 @@ This past year, I:
 
 Went nutty and **reorganized my home network,** so that I could:
 
-+ Stream over-the-air HDTV from an antenna in my office (better reception) to the living room TV, or any deivce with a screen. ((HDHomeRun)[https://www.silicondust.com/]), [cheap AmazonBasics powered antenna](https://www.amazon.com/AmazonBasics-Ultra-Thin-Indoor-Antenna/dp/B00X4RA74A))
++ Stream over-the-air HDTV from an antenna in my office (better reception) to the living room TV, or any deivce with a screen. ([HDHomeRun](https://www.silicondust.com/), [cheap AmazonBasics powered antenna](https://www.amazon.com/AmazonBasics-Ultra-Thin-Indoor-Antenna/dp/B00X4RA74A))
 + Play video games that are on my PC on the television with a controller ([NVIDIA Shield](https://www.nvidia.com/en-us/shield/), NVIDIA 1070 graphics card (back when you could buy one for a normal price).
 + Plex, on the Shield, that can actually stream anything, from any device ([Wirecutter router pick](https://thewirecutter.com/reviews/best-wi-fi-router/), [Wirecutter external hard drive pick](https://thewirecutter.com/reviews/the-best-external-desktop-hard-drive/)).
 
