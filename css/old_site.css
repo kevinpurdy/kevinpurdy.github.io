@@ -23,13 +23,18 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
-html, body { height: 100%; }
+html, body { 
+  height: 100%;
+  margin: auto;
+  max-width: 33.875em;
+  }
 
 body {
 
   font-size: 100%;
   font-family: verdana, helvetica;
   line-height: 1.6;
+  text-align: justify
   padding: 0 2em;
   text-rendering: optimizeLegibility;
   -webkit-hyphens: auto;
