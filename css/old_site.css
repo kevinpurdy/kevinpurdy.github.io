@@ -46,11 +46,6 @@ body {
 }
 }
 
-center table tbody tr td table tbody tr td p { 
-  margin-bottom: 1.5em;
-  max-width: 66%;
-}
-
 ul {
   list-style-position: inside;
 }
