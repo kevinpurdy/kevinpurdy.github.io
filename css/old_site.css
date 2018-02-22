@@ -48,7 +48,7 @@ body {
 
 p { 
   margin-bottom: 1.5em;
-  max-width: fill-available;
+  max-width: 66%;
 }
 
 ul {
