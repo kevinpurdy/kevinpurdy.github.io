@@ -68,10 +68,10 @@ li p {
 
 
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 1000px) {
   body {
     font-size: 110%;
-    padding: 0 4em;
+    padding: 2em;
 	max-width: 66%;
   }
   .post code {
@@ -82,7 +82,7 @@ li p {
 @media screen and (max-width: 800px) {
   body {
     font-size: 100%;
-    padding: 0 1.5em;
+    padding: 1em;
   }
 }
 
@@ -90,7 +90,7 @@ li p {
 @media screen and (max-width: 500px) {
   body {
     font-size: 100%;
-    padding: 0 0.5em;
+    padding: 1em;
   }
 
   .footer {
