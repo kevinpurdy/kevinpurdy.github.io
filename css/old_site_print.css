@@ -27,7 +27,6 @@ THE SOFTWARE.
 html, body { 
   height: 100%;
   margin: auto;
-  max-width: 66%;
   padding: 2em;
   }
 
@@ -73,6 +72,7 @@ li p {
   body {
     font-size: 110%;
     padding: 0 4em;
+	max-width: 66%;
   }
   .post code {
     font-size: 80%;
