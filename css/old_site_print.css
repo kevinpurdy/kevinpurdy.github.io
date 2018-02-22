@@ -1,0 +1,110 @@
+/* A hasty attempt to put some modern formatting on my ugly old site
+
+The MIT License (MIT)
+
+Copyright (c) 2013 Kashyap
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*/
+
+html, body { 
+  height: 100%;
+  margin: auto;
+  max-width: 66%;
+  padding: 2em;
+  }
+
+body {
+
+  font-size: 100%;
+  font-family: verdana, helvetica;
+  line-height: 1.6;
+  text-align: justify
+  padding: 0 2em;
+  text-rendering: optimizeLegibility;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -o-hyphens: auto;
+  hyphens: auto;
+  word-wrap: break-word;
+  color: #38313b;
+}
+}
+
+ul {
+  list-style-position: inside;
+}
+
+li {
+  margin-bottom: 0.6em;
+}
+
+li p {
+   display: inline;
+}
+
+/************************************************************************/
+/*    Media Queries
+/*
+/************************************************************************/
+
+
+
+
+@media screen and (max-width: 1000px) {
+  body {
+    font-size: 110%;
+    padding: 0 4em;
+  }
+  .post code {
+    font-size: 80%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 100%;
+    padding: 0 1.5em;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  body {
+    font-size: 100%;
+    padding: 0 0.5em;
+  }
+
+  .footer {
+    text-align: center;
+    padding: 1em;
+  }
+
+  .contact {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  body {
+    font-size: 100%;
+    padding: 0;
+  }
+}
