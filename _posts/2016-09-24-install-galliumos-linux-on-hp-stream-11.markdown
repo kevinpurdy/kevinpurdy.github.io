@@ -6,6 +6,10 @@ published: true
 
 ### Or, how to install GalliumOS, a very lightweight Ubuntu-ish Linux OS, on the HP Stream 11 and make it useful again
 
+_**Note:** I no longer have access to an HP Stream 11 laptop, as mine suffered an unfortunate fate at the hands of folding furniture. I can't answer any questions, beyond what I've posted here, about the process of installing a Linux OS or troubleshooting it on this device._
+
+_But! I do recommend trying a more up-to-date distro, like [Ubuntu Budgie](https://ubuntubudgie.org/) or [Xubuntu](https://xubuntu.org/), because it seems they have a wider base of drivers to accomodate the Stream's somewhat esoteric hardware. Good luck, whatever way you go!_
+
 _If you want to skip all the prose and get right to installing GalliumOS on the Stream 11, <a href="#howto">you can do so</a>._
 
 ![Hey, look, it's the HP Stream 11, running Linux!](/assets/post_images/2016-09-24/top_image2.jpg)
@@ -115,32 +119,7 @@ For $9, you're not getting instant gratification with this Wi-Fi adapter. But it
 
 Reboot the system (click the Start-type button in the lower-left corner, then choose the button in the upper-right corner).
 
-**If you don't have an adaptor:** [This blog post covers the process](https://kisdigital.wordpress.com/2010/12/28/setup-edimax-usb-wireless-adaptor-in-ubuntu/) (thanks, Robert Zehnder!). But a few of the links are out of date: [here's the page with the drivers](http://us.edimax.com/edimax/download/download/data/edimax/us/download/for_home/wireless_adapters/wireless_adapters_n150/ew-7811un)―you're looking for the latest version of "EW-7811Un_Linux_driver" under the "Driver" list. [Here's the direct link to the driver when I wrote this](http://us.edimax.com/edimax/mw/cufiles/files/download/Driver_Utility/transfer/Wireless/NIC/EW-7811Un/EW-7811Un_Linux_driver_v1.0.0.5.zip).
-
-### Getting native Wi-Fi working 
-
-I'm not sure if the Wi-Fi was ever very strong on the HP Stream 11, running Windows; maybe so, with the right magical drivers. On any other OS, it seems to have a range of 30 feet, and regularly drop out for a few seconds at a time. I think a USB adaptor is worth the price, if you're already this far down the Linux path.
-
-Still, you might have better luck than I. And you might want to have a backup Wi-Fi, or save yourself a USB slot. If you need to, [this blog post has the single terminal line that should do the trick](http://kb.openstudioproject.com/content/ubuntu/install-broadcom-bcm43142-driver-ubuntu) (Thanks, Edwin van de ven!). The line is:
-
-<code>sudo apt-get install linux-headers-`uname -r` dkms build-essential bcmwl-kernel-source</code>
-
-If this doesn't work for you, well, believe me, I've been there. One suggestion: you might try getting the Bluetooth working, as described just below, then uninstall and reinstall `bcmwl-kernel-source`. To do that:
-
-`sudo apt-get purge bcmwl-kernel-source && sudo apt-get install bcmwl-kernel-source`
-
-### Getting Bluetooth working
-
-If you need Bluetooth on your newly reborn HP Stream 11, [it's not an easy process](http://askubuntu.com/a/632348). But, since you and I have the same laptop, I can spare you a lot of the trouble. [Here's the hex file](/assets/files/BCM.hcd). Download the file into your home folder (or copy it there using the file manager). Now follow the instructions from near the end:
-
-`sudo cp ~/BCM.hcd /lib/firmware/brcm`
-`Turn your computer off and on again. Not just reboot!`
-
-<h3 id="tweaks">Useful tweaks</h3>
-
-#### Keyboard tweaks
-
-GalliumOS assumes you're using a [Chromebook keyboard](http://cdn6.bigcommerce.com/s-blhknq8/product_images/uploaded_images/hp-chromebook-14-keyboard-key-replacement.png?t=1424574830), with its search key instead of Caps Lock, and some specialty top-row key functions. It works pretty well overall with the Stream 11. Volume and brightness keys work, and pressing the Windows key brings up a handy application finder.
+**If you have a smartphone you can tether:** And your phone is connected to strong Wi-Fi, or you have a great data plan, you can try using that to connect and download the necessary updates and drivers. _Thanks for the tip, Ramesh!_And 
 
 If you want to have a more traditional Windows-style keyboard, or make your own shortcuts to functions like screenshots, bring up the application finder (or click the Gallium button in the lower-left-most corner) and search for "keyboard." In the "Layout" tab, you can change to "Generic 101-key PC" to get back to a standard keyboard, or change to a different style of Chromebook keyboard.
 
