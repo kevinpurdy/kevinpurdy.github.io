@@ -57,7 +57,7 @@ But also:
 
 **[Stardew Valley](https://stardewvalley.net/)**. Every 10-hour increment or so, it will occur to me, once again, that this ambitious, kind-hearted, nearly perfect game was made by one person. One.
 
-I believe 16-bit/SNES-style graphics (and, to a certain extent, sound and sound effects) represent some perfect level of Just Enough for independent games. You can get just enough depth from a terrain, just enough characterization out of your characters (sprites), and the actions an feel visceral enough that people cane fall easily into the game. There's definitely some more modern-day things happening in Stardew Valley's engine than what was available to a Super Nintendo, but not by much.
+I believe 16-bit/SNES-style graphics (and, to a certain extent, sound and sound effects) are better able to hit a perfect Just Enough level of immersion for small and independent games. You can get just enough depth from a terrain, just enough characterization out of your characters (sprites), and the actions can feel visceral enough that people fall easily into the game. There's definitely some more modern-day things happening in Stardew Valley's engine than what was available to a Super Nintendo, but not by much.
 
 Younger friends of mine tell me that they feel a kind of fondness for the potato-block games of the N64 and that generation. But I think very few people today would make the choice to use those kinds of graphics, intentionally (I imagine the developers of Steam Early Access games that look like unlicensed N64 games _wish_ they could look better).
 
@@ -69,7 +69,7 @@ It's hard not to fall into the trap of believing that the things of your adolesc
 
 But now Linux apps, especially little terminal tools, [can be installed in a Regular Non-Beeping Chromebook](https://www.theverge.com/circuitbreaker/2018/6/28/17514390/chromebooks-intel-apollo-lake-linux-support). No "developer mode" unlocking, no finger-twisting keyboard shortcuts to switch between sessions, just a little toggle in the settings. It may not seem like a huge difference, but three things make this oh so wonderful:
 
-+ The rest of your system still works like a Chromebook, in a non-precarious state. You will still be able to take a video call, or answer an email, even if you have deeply, tragically bollocksed your nerdy Linux setup (which you can undo by simply toggling a setting off and then on again).
++ The rest of your system still works like a Chromebook, in a non-precarious state. You will still be able to take a video call, or answer an email, even if you have deeply bollixed your nerdy Linux setup (which you can undo by simply toggling a setting off and then on again).
 + The apps you install show up as app icons in your Chromebook launcher, so you can launch them even if you can't remember their command-line name (this happens more than it should).
 + You can get at your Linux-land files from the Chrome file explorer. There's even a little penguin icon to mark their location in the sidebar. No more having to `mv draft_of_this_post.markdown` to a location I can't remember in `/home`.
 
