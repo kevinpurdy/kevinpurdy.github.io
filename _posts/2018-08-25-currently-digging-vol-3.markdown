@@ -18,11 +18,11 @@ If you have any friends who grew up in somewhat sheltered Veggie Tales homes, ti
 
 **[The Great God of Depression](https://www.stitcher.com/podcast/prx/showcase-from-radiotopia/e/55621278)**. I've only just begun, but this podcast feels like I need to give it more space than just washing the dishes or walking the dog. [You can read this excerpt if you're not the podcast type](https://www.nytimes.com/2018/08/03/opinion/sunday/depression-william-styron.html).
 
-**[Cults](https://www.parcast.com/cults)**. This is a confession as much as a recommendation. This show is not remarkably insightful, packed with modern storytelling techniques, or produced with innovative audio immersion. It is two people with professional voices, reading what feels like lightly expanded versions of Wikipedia pages about cult after cult after cult.
+**[Cults](https://www.parcast.com/cults)**. This is a confession as much as a recommendation. This show is not remarkably insightful, nor packed with clever storytelling or immersive audio. It is two people with professional voices, reading what feels like lightly expanded versions of Wikipedia pages about cult after cult after cult.
 
-I have listened to all 49 of them to date. I keep waiting to learn the one lesson you can learn from all cults, or for them to announce that, actually, people have stopped joining cults. But, no.
+I have listened to every episode to date, more than 50. I keep waiting to learn the one lesson you can learn from all cults, or for them to announce that, actually, people have stopped joining cults. But, no.
 
-**[Droughtcast](http://www.thegoosesroost.com/the-droughtcast/)** Ryan Nagelhout and The Defenseman have made it through _FIFTEEN YEARS_ of the Buffalo Bills' no-playoff journey, game by game. Unlike the Bills, it sounds and feels like they're hitting a stride right now, during the Rex Ryan coaching years. Normally,
+**[Droughtcast](http://www.thegoosesroost.com/the-droughtcast/)** Speaking of lessons we never learn! Ryan Nagelhout and The Defenseman have made it through _FIFTEEN YEARS_ of the Buffalo Bills' record-setting no-playoff journey, game by game. Unlike the Bills, it sounds and feels like they're hitting a stride right now, during the Rex Ryan coaching years. Some good misery explication here, folks.
 
 ### Books
 
