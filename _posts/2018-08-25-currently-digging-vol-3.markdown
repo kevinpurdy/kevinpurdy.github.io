@@ -89,6 +89,6 @@ Feeling like I _can_ manage my stuff makes me actually _manage_ my stuff and be 
 
 **Altered Carbon.** It's taking me more time to get through this one first season. I think it's good, when I'm enjoying it? Good cyberpunk seems hard to pull off―making the character just hard enough, the setting hopeless enough, but expecting the reader/viewer/player to want to carry on with it.
 
-**Bojack Horseman.** Every time I forget this show is availble to me, I watch a new episode and enjoy it. And immediately forget it exists again. Probably a _good_ thing not to binge this one anymore, like I did the first season.
+**Bojack Horseman.** Every time I forget this show is available to me, I watch a new episode and enjoy it. And immediately forget it exists again. Probably a _good_ thing not to binge this one anymore, like I did the first season.
 
 **[Vietnam](http://www.pbs.org/kenburns/the-vietnam-war/home/).** Imagine a challenge more daunting than "Tell the story of America's involvement in Vietnam." How do they do it? Chronologically, with interviews and research. Bird by bird, as the great woman put it. Two episodes in, and most of what I thought about Vietnam is already discarded. Well, the stuff I read, anyways.
