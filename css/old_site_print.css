@@ -106,6 +106,6 @@ li p {
 @media screen and (max-width: 320px) {
   body {
     font-size: 100%;
-    padding: 0;
+    padding: 1em;
   }
 }
