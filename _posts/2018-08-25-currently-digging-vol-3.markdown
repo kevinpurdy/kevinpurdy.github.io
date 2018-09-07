@@ -73,7 +73,9 @@ But now Linux apps, especially little terminal tools, [can be installed in a Reg
 + The apps you install show up as app icons in your Chromebook launcher, so you can launch them even if you can't remember their command-line name (this happens more than it should).
 + You can get at your Linux-land files from the Chrome file explorer. There's even a little penguin icon to mark their location in the sidebar. No more having to `mv draft_of_this_post.markdown` to a location I can't remember in `/home`.
 
-So now I've got this little [Solarized-blue](https://ethanschoonover.com/solarized/) side window on my Chromebook, where I can manage my calendar appointments and to-do lists. Sometimes I feel weird and want to write something in SublimeText. It's all pretty wonderful.
+So now I've got this little [Solarized-blue](https://ethanschoonover.com/solarized/) side window on my Chromebook, where I can manage my [calendar appointments](https://github.com/insanum/gcalcli) and [to-do lists](https://www.davidwaring.net/projects/rtm.html). Sometimes I feel weird and want to write something in SublimeText.
+
+Feeling like I _can_ manage my stuff makes me actually _manage_ my stuff and be a bit more productive and focused. Well, except when I'm researching new bash scripts for improving them. Ahem.
 
 ### "TV" and Such
 
