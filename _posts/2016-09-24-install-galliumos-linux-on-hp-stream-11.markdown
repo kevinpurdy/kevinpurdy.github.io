@@ -119,9 +119,7 @@ For $9, you're not getting instant gratification with this Wi-Fi adapter. But it
 
 Reboot the system (click the Start-type button in the lower-left corner, then choose the button in the upper-right corner).
 
-**If you have a smartphone you can tether:** And your phone is connected to strong Wi-Fi, or you have a great data plan, you can try using that to connect and download the necessary updates and drivers. _Thanks for the tip, Ramesh!_And 
-
-If you want to have a more traditional Windows-style keyboard, or make your own shortcuts to functions like screenshots, bring up the application finder (or click the Gallium button in the lower-left-most corner) and search for "keyboard." In the "Layout" tab, you can change to "Generic 101-key PC" to get back to a standard keyboard, or change to a different style of Chromebook keyboard.
+**If you have a smartphone you can tether:** And your phone is connected to strong Wi-Fi, or you have a great data plan, you can try using that to connect and download the necessary updates and drivers. _Thanks for the tip, Ramesh!_ 
 
 #### A few tips on using your crapbook
 
@@ -130,6 +128,8 @@ So, you should now have a Stream 11 running Gallium OS. It's a neat, snappy litt
 With that in mind, some tips on keeping the Stream 11 nimble:
 
 + Go ahead and use Chromium (the more-open-source version of Chrome, don't ask, long story), but don't use it the way you would on a full desktop or laptop. If you use a lot of extensions on Chrome on another computer, then don't let them sync over eat up your memory. Click the menu button, choose Settings, then at the very top, click the "Advanced sync settings" button. Switch the radio button at top from "Sync everything" to "Choose what to sync," and un-check Extensions (and Apps, while you're at it). Try to run Chromium on this Crapbook with as few extensions as possible. A few won't kill it, but you'll feel a dozen of them.
+
++ If you want to have a more traditional Windows-style keyboard, or make your own shortcuts to functions like screenshots, bring up the application finder (or click the Gallium button in the lower-left-most corner) and search for "keyboard." In the "Layout" tab, you can change to "Generic 101-key PC" to get back to a standard keyboard, or change to a different style of Chromebook keyboard.
 
 + If youre the type to open a lot of tabs, one extension that is worth installing: [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg). It automatically suspends tabs when you haven't looked at them in a while, so they don't eat as much memory, just sitting there. Head into the extension's settings (right-click on the button in Chrome and choose "Options," or head to Settings->Extensions) and change the default suspend time to something lower than the 60-minute default.
 
