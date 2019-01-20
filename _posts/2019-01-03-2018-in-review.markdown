@@ -241,11 +241,11 @@ I never read enough books, and I read a ton of articles.
 
 ### Articles/posts
 
-I like [Pocket](http://getpocket.com) a lot for saving and reading articles. But its search and sorting make it hard to understand what you read in the last year. And I often read articles or posts that were not from the year I'm in. So here are five articles I believe I read in 2018.
+I like [Pocket](http://getpocket.com) a lot for saving and reading articles. But its search and sorting make it hard to understand what you read in the last year. And I often read articles or posts that were not from the year I'm in. So here are five articles I _kinda_ remember reading in 2018.
 
 + [Everythong on Amazon is Amazon!](https://www.nytimes.com/2018/11/15/style/this-is-also-amazon.html)
 + [How I Infiltrated One of L.A.’s Most Vicious Motorcycle Gangs—and Lived to Talk About It](https://www.lamag.com/citythinkblog/vagos-motorcycle-gang/)
-+ [How an Ex-Cop Rigged McDonald’s Monopoly Game and Stole Millions](https://www.thedailybeast.com/how-an-ex-cop-rigged-mcdonalds-monopoly-game-and-stole-millions) (_Talk about an article that seemed almost algorithmically generated to eat up my entire Sunday morning_)
++ [How an Ex-Cop Rigged McDonald’s Monopoly Game and Stole Millions](https://www.thedailybeast.com/how-an-ex-cop-rigged-mcdonalds-monopoly-game-and-stole-millions) (_This article was algorithmically generated to eat up my entire Sunday morning_)
 + [Fatal accidents, off-the-books workers, a union once run by a mobster. The rogue world of one of New York’s major trash haulers.](https://features.propublica.org/sanitation-salvage/sanitation-salvage-accidents-new-york-city-commercial-carting-garbage/)
 + [Made in Taiwan](http://www.bikepacking.com/plog/made-in-taiwan/) (_This one is about bikes, but it's also about the American perception of how everything made in certain Asian countries is "cheaply made." It doesn't hurt that my dearly departed Seymour Schwinn had its frame welded in Taiwan, right after Schwinn moved production there_).
 + [How a Sneaky Furniture Expert Ripped Off the Rich and Tricked Versailles](https://www.vanityfair.com/style/2018/07/how-a-sneaky-furniture-expert-tricked-versailles)
@@ -255,8 +255,8 @@ I like [Pocket](http://getpocket.com) a lot for saving and reading articles. But
 + [_Blood of Elves: The Witcher #3_](https://www.goodreads.com/book/show/35673872-blood-of-elves) - Actually, I'm good with the video game. A rare moment where I see that there's a lot more lore available, and I pass.
 + [_Hyperion_](https://www.goodreads.com/book/show/77566.Hyperion?from_search=true) and [_The Fall of Hyperion_](https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion?from_search=true) - They show their age, they've got a lot of male gaze, and boy, if you like clean resolutions, these ain't it. But some sections are absolutely spell-binding, some characters heart-rending, and each person is going to relate a bit differently.
 + [_The Long Way to a Small, Angry Planet_](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) - The perfect salve to Hyperion's rougher edges. A whole book of people looking out for each other, eager to learn about one another, and imagine a greater good. Sounds boring! Is not.
-+ [_Killings_](https://www.goodreads.com/book/show/33016095-killings) - Only complaint is that there isn't more.
-+ [_Bible Adventures_](https://www.goodreads.com/book/show/25243630-bible-adventures) - Good interviews about a long-ago thing that happened, and a lot of good context about what it was like to make games in the early days, when nobody really regulated what was published.
++ [_Killings_](https://www.goodreads.com/book/show/33016095-killings) - My only complaint is that there is not more. Chapters of this book, I mean! Not killings, themselves. Geez.
++ [_Bible Adventures_](https://www.goodreads.com/book/show/25243630-bible-adventures) - Good interviews, especially for such a long-ago thing. Also, great context about what it was like to make games in the early days, when nobody really regulated what was published.
 + [_Vacationland_](https://www.goodreads.com/book/show/34347433-vacationland?) - The only thing that impresses me more than Hodgman's ability to entertain with words is his brave decision to have the kind of career he wants to have, speaking to an intelligent audience he refuses to condescend to.
 
 I feel like I read more books than this, but perhaps not! I will update this list post-publish if I recall more.
@@ -266,7 +266,7 @@ I feel like I read more books than this, but perhaps not! I will update this lis
 
 According to [Remember the Milk](https://rememberthemilk.com):
 
-![Completed 845 tasks in 2018](/assets/post_images/2019-01-03/rtm_tasks.png)
+![I completed 845 tasks in 2018](/assets/post_images/2019-01-03/rtm_tasks.png)
 
 I re-committed to using my task manager in 2018. I use a very light kind of Getting Things Done methodology, and I cheat a little by setting priorities. You'd have to read about GTD to understand why priority-setting is a controversial move.
 
@@ -278,7 +278,7 @@ The hardest part of using a to-do app is realizing that you're not doing some th
 ## Games
 
 ### Switch
-I bought a Switch in 2018, and it's been great. The portability, the indie games available, the Nintendo games—I was afraid I'd never play it and stick to my PC, but oh, ho, just the opposite. In no particular order:
+I bought a Switch in 2018, and it's been great. The portability, the indie games available, the Nintendo games—I was afraid I'd never play it and mostly stick to my PC, but oh, ho, just the opposite.
 
 ![Into the Breach](/assets/post_images/2019-01-03/intothebreach.jpg)
 _This is the only screenshot I have of this game, taken right at the moment I first "beat it." It says something about this game that I'm usually so involved in it, I never think to take screenshots of the crazy tactical challenges you end up in._
@@ -291,7 +291,7 @@ _This is the only screenshot I have of this game, taken right at the moment I fi
 
 **Mario Kart 8:** A great game made better by becoming more friendly to newcomers. For a different way of iterating on a beloved franchise, see Super Smash Bros. Ultimate.
 
-**Zelda: Breath of the Wild:** The best Zelda game. Probably. Yeah. I think so.
+**Zelda: Breath of the Wild:** My favorite Zelda game so far. Including _Link to the Past_! It feels like the technology has finally caught up to the promise of what a Zelda game was always supposed to be about: exploration.
 
 **Stardew Valley:** I wrote a bunch about this in [Currently Digging Vol. 3](http://thepurdman.com/currently-digging-vol-3/).
 
@@ -313,11 +313,11 @@ _This is the only screenshot I have of this game, taken right at the moment I fi
 
 ### PC
 
-**DOOM:** The great human [ZODIAC MOTHERF***ER had it right](https://www.giantbomb.com/articles/zodiac-motherfuckers-top-10-games-of-2016/1100-5537/): Metal. Satan. Ownage. This is a game where the "strategy" is whether you knock over the Revenant and stomp his head to mush for a health bonus, or tear off his left flank with a chainsaw. Every time I was stuck in this game, not able to get past an arena full of demons, the solution was usually to move faster and use a bigger gun.
+**DOOM:** The great human [ZODIAC MOTHERF***ER put it best](https://www.giantbomb.com/articles/zodiac-motherfuckers-top-10-games-of-2016/1100-5537/): Metal. Satan. Ownage. This is a game where a strategic decision is whether you knock over the Revenant and stomp his head to mush for a health bonus, or tear off his left flank with a chainsaw for the ammo. Every time I was stuck in this game, not able to get past an arena full of demons, the solution was usually to move faster and use a bigger gun. I haven't felt this teenaged in forever.
 
 **XCOM 2: Tactical Legacy Pack:** More XCOM missions, for free, yes please.
 
-**Bastion:** I intend to make it through every one of this company's games someday, and this was my starting point. The soundtrack, the voice acting are notably better than you'd ever expect.
+**Bastion:** I intend to make it through every one of this company's games someday, and this was my starting point. The soundtrack, the voice acting are so danged good.
 
 <a name="pets"></a>
 ## Pictures of pets
