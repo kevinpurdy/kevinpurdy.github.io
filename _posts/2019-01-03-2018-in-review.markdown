@@ -42,7 +42,7 @@ Mostly, it was just partners needing to move on in their lives that caused us to
 
 ![Nick Q, removing the last Borncampian fork](/assets/post_images/2019-01-03/cowork_nick.jpg)
 
-A surprising number of people said or wrote nice things to us after we announced our closure. Matt Glynn and Dan Miner, whom I respect immensely, wrote about our closing for [The Buffalo News](https://buffalonews.com/2018/09/27/cowork-buffalo-to-close-in-november/) and [Business First](https://www.bizjournals.com/buffalo/news/2018/09/27/coworkbuffalo-closing-in-november.html).
+A surprising number of people said or wrote nice things to us after we announced our closure. Matt Glynn and Dan Miner, whom I respect immensely, wrote about our closing for [The Buffalo News](https://buffalonews.com/2018/09/27/cowork-buffalo-to-close-in-november/) and [Business First](https://www.bizjournals.com/buffalo/news/2018/09/27/coworkbuffalo-closing-in-november.html).On the last day, we donated as much stuff as we could, hit the lights, and that was it.
 
 ![Norman, astride the detritus](/assets/post_images/2019-01-03/cowork_norman.jpg)
 
@@ -51,35 +51,33 @@ A surprising number of people said or wrote nice things to us after we announced
 
 I lost a bike, I gained a bike, I replaced that first bike, I need to finish repairing another bike. I took two really long bike rides. This section is long.
 
-As detailed in [last year's bike section](http://thepurdman.com/2017-in-review/#bikes), I finished a big refurb of a 1988 Schwinn World Tour, and I had obtained a Peugeot mountain bike from the mid-80's with wide tires to serve as my winter bike. I bought studded tires for the winter bike, wore a lot of layers, and declared myself a Winter Biker.
+As detailed in [last year's bike section](http://thepurdman.com/2017-in-review/#bikes), I finished a big refurb of my 1988 Schwinn World Tour, and obtained a Peugeot mountain bike from the mid-80's with wide tires for my winter bike. I bought studded tires for the winter bike, wore a lot of layers, and declared myself a Winter Biker.
 
-That winter was rough. Studs only really help with ice, and they add a lot of drag. I wore simple googles or sunglasses that fogged up constantly. Sometimes I pulled my rim brakes as hard as I could, and the ice-slicked rims just kept turning. Worst of all, I didn't really know to wash or even wipe down my bike's drivetrain after slushy rides, and ... this was my cassette, after one week.
+That was a rough winter. Studs only really help with ice, and they add a lot of drag. I wore simple googles or sunglasses that fogged up constantly. Sometimes I pulled my rim brakes as hard as I could, and the ice-slicked rims just kept turning. Worst of all, I didn't really know to wash or even wipe down my bike's drivetrain after slushy rides, and ... this was my cassette, after a week or two.
 
 ![Cassette from bike after one week in Buffalo](/assets/post_images/2019-01-03/one_week_cassette.jpg)
 
-But spring eventually came. I raised more than $2,500 for the [Ride for Roswell](https://rideforroswell.org). I took Seymour out for one of the 60-plus mile routes. I got a flat halfway through, but fixed it in 10 minutes. Later on, maybe 10 miles from the finish, I hit a rough pothole. Then, the sound of rubber scraping. I got off the bike, spun the wheel, checked the brakes: nothing weird. Walked the bike a bit, nothing. Get back on the bike, ride it, and I can feel the whole bike slowing down under the friction.
+But spring eventually came. I raised more than $2,500 for the [Ride for Roswell](https://rideforroswell.org). I took Seymour on a 60-plus mile route. I got a flat halfway through, but fixed it in 10 minutes. Later on, maybe 10 miles from the finish, I hit a rough pothole. Then, the sound of rubber friction. I spent 20 minutes riding a few feet, hopping off and checking, doing that a dozen times. When I gave up trying to figure it out and put the bike in the grass at a rest stop, that's when I saw it.
 
-Okay, I'll cut it short: the frame snapped, in the back, near the gears (the drive-side chainstay). Every time I put weight on the frame, it dropped onto the tire.
+The frame had snapped, in the back, near the gears (the drive-side chainstay). Every time I put weight on the frame, it dropped onto the tire.
 
 ![Up-close photo of snapped Schwinn frame](/assets/post_images/2019-01-03/poor_seymour2.jpg)
 
-I sat on the grass of a rest stop on a farm in Clarence for more than an hour, waiting for a pickup truck to come get me and my bike. One of the volunteers told me that the rest stop, new that year to the Ride, was set up by the farmer's family. The farmer was fighting stage four cancer. After an hour, a pickup truck hauled me and Seymour to the finish line.
+I sat on that grass for more than an hour, waiting for a pickup truck to get me and my bike. One of the volunteers told me that the rest stop, new that year to the Ride, was set up by a farmer's family. The farmer was battling stage four cancer. After an hour, a pickup truck hauled me and Seymour to the finish line.
 
-Seymour Schwinn rode on this earth for nearly 30 years, and it was his time, and I just happened to be the rider when the time came.
+Seymour Schwinn rode this earth for nearly 30 years, and it was his time, and I just happened to be the rider when the time came.
 
 ![Seymour Schwinn on the grass](/assets/post_images/2019-01-03/poor_seymour1.jpg)
 
-A few months before the Ride, I thought about the next winter, and how I was going to ride through it. My wife and I share one car now. I knew I'd be working from home after (spoiler) CoworkBuffalo closed. Sure, I could take better care of my bike after it gets wet. But biking in the cold is enough of a challenge, without having to clean out exposed gears, cables, and chain. Or wonder which intersections your brakes will or won't work through.
+A few months before the Ride, I thought about next winter. My wife and I share one car now. I knew I'd be working from home after CoworkBuffalo closed. Sure, I could take better care of my bike after it gets wet. But biking in the cold is enough of a challenge, without having to clean out exposed gears, cables, and chain. Or wonder at which intersections your brakes will surprise you.
 
 I kicked around the idea of converting my mountain bike with 26-inch wheels to a [fixie](https://en.wikipedia.org/wiki/Fixed-gear_bicycle) or [single-speed](https://en.wikipedia.org/wiki/Single-speed_bicycle) to reduce maintenance. But I had just finished one big bike rebuild. And after riding a few fixies and reading up on them, I ... declined. Plus, I also wanted something I could ride in a few other situations, where a thin-wheel road bike wouldn't quite do.
 
-I let myself think about a new bike. Or at least "new," as in, welded and assembled this century.
-
-My ideal bike had disc brakes (preferably hydraulic), flat handlebars,decently wide tire clearance, mounts/eyelets for fenders and a rack, and, fingers crossed, some way of mitigating the impact of snow and salt on gears and chains. I ran down a lot of possibilities.
+I started looking for a new bike. Or at least welded and assembled this century. My ideal bike had disc brakes (preferably hydraulic), flat handlebars,decently wide tire clearance, mounts/eyelets for fenders and a rack, and, fingers crossed, some way of mitigating the impact of snow and salt on gears and chains. I ran down a lot of possibilities.
 
 ![Spreadsheet of winter bike search](/assets/post_images/2019-01-03/winter_bike_table.png)
 
-I ended up with the [2018 version of the Norco Indie IGH A11 Belt](https://www.norco.com/bikes/pavement/urban/indie-aluminum/indie-igh-11-alfine-belt/). IGH stands for "internal-gear hub." If you've ridden a bikeshare bike in a city, you've used one. All the gear-shifting takes place inside a mostly weatherproof hub in the middle of the rear wheel. I still don't quite understand [how they work](https://www.sheldonbrown.com/alfine-11.html); with luck, I may never have to! "Belt" means [carbon belt drive](https://www.gatescarbondrive.com/), instead of a chain. Wide enough tires for commuting, most of the cables routed internally, eyelets and braze-ons for gear.
+I ended up with the [2018 version of the Norco Indie IGH A11 Belt](https://www.norco.com/bikes/pavement/urban/indie-aluminum/indie-igh-11-alfine-belt/). IGH stands for "internal-gear hub." If you've ridden a bikeshare bike in a city, you've used one. All the gear-shifting takes place inside a mostly weatherproof hub in the middle of the rear wheel. I still don't quite understand [how they work](https://www.sheldonbrown.com/alfine-11.html); with luck, I may never have to! "Belt" means [carbon belt drive](https://www.gatescarbondrive.com/), instead of a chain. It had wide enough tires, most of the cables ran inside the frame, and lots of accessory attachment points.
 
 ![Norbert the Norco, ready for pickup](/assets/post_images/2019-01-03/norco_born.jpg)
 
@@ -210,21 +208,13 @@ I'm using screencaps, with links to the original tweets, rather than embeds, bec
 
 <a href="https://twitter.com/kevinpurdy/status/1058318446893694976?s=17"><img src="/assets/post_images/2019-01-03/tweet1.png" alt="Last public day of @coworkbuffalo today. I hope this project helped some people live a better life in Buffalo. We ran it because we thought the city could use it."/></a>
 
-<a href="https://twitter.com/kevinpurdy/status/993466991498407936?s=17"><img src="/assets/post_images/2019-01-03/tweet2.png" alt="Financial app Mint needed access to all my accounts and debt information so it could algorithmically warn me about \"Unusual Spending on Federal Taxes.\" In April."/></a>
+<a href="https://twitter.com/kevinpurdy/status/993466991498407936?s=17"><img src="/assets/post_images/2019-01-03/tweet2.png" alt="Financial app Mint needed access to all my accounts and debt information so it could algorithmically warn me about &quot;Unusual Spending on Federal Taxes.&quot; In April."/></a>
 
-<a href="https://twitter.com/kevinpurdy/status/1068890351677698049?s=17"><img src="/assets/post_images/2019-01-03/tweet3.png" alt="I haven't worked from home regularly for nearly 7 years. If I remember right, it's like:
-* Lots of healthy food available
-* Starting work right on time
-* Friends and relatives respect your boundaries
-* UPS rings the doorbell and respects signature-required packages."/></a>
+<a href="https://twitter.com/kevinpurdy/status/1068890351677698049?s=17"><img src="/assets/post_images/2019-01-03/tweet3.png" alt="I haven't worked from home regularly for nearly 7 years. If I remember right, it's like: * Lots of healthy food available * Starting work right on time * Friends and relatives respect your boundaries * UPS rings the doorbell and respects signature-required packages."/></a>
 
 <a href="https://twitter.com/kevinpurdy/status/948210315929575424"><img src="/assets/post_images/2019-01-03/tweet4.png" alt="It's very pretty, the way the snow outside is falling, drifting, twirling, glittering, inundating roofs, making cars kill people, trying to kill the elderly, endangering pets, rotting roads, freezing pipes, creating spine-straining work for everyone."/></a>
 
-<a href="https://twitter.com/kevinpurdy/status/997867263318544384?s=17"><img src="/assets/post_images/2019-01-03/tweet5.png" alt="\"Alexa, when does Porchfest start in Buffalo?\"
-
-\"William McKinley was the 25th president ...\"
-
-THAT WAS 117 YEARS AGO AMAZON,  LET IT GO ALREADY."/></a>
+<a href="https://twitter.com/kevinpurdy/status/997867263318544384?s=17"><img src="/assets/post_images/2019-01-03/tweet5.png" alt="&quot;Alexa, when does Porchfest start in Buffalo?&quot; &quot;William McKinley was the 25th president ...&quot; THAT WAS 117 YEARS AGO AMAZON,  LET IT GO ALREADY."/></a>
 
 My favorite Twitter moment from this year happened the day after I went with some friends to Jay's Artisan Pizza on a Wednesday night in summer. Right outside, in a pocket park, a band of middle-aged guys was ripping through some classic rock tracks. I said something offhand about the band being named "Dad Halen." The next day, it popped back into my head: what if a group of dads was self-aware enough to put "Dad" in their punny cover-band name?
 
