@@ -30,7 +30,7 @@ If you spot a typo or formatting quirk, let me know by [quick tweet](https://mob
 + [Pictures of Pets](#pets)
 
 <a name="coworkbuffalo"></a>
-### CoworkBuffalo is closed
+## CoworkBuffalo is closed
 
 ![Empty shot of CoworkBuffalo](/assets/post_images/2019-01-03/cowork_closed.jpg)
 
@@ -47,7 +47,7 @@ A surprising number of people said or wrote nice things to us after we announced
 ![Norman, astride the detritus](/assets/post_images/2019-01-03/cowork_norman.jpg)
 
 <a name="bikes"></a>
-### Bikes
+## Bikes
 
 I lost a bike, I gained a bike, I replaced that first bike, I need to finish repairing another bike. I took two really long bike rides. This section is long.
 
@@ -115,7 +115,7 @@ I also rode a rental Lime bike from Cambridge to Quincy, through Boston. With ev
 
 ![Map of bike ride through Boston](/assets/post_images/2019-01-03/bike_boston_map.png)
 
-### Baking
+## Baking
 
 I continued my journey into baking this year. The most notable projects were [Momofuku Milk Bar's Birthday Layer Cake](https://www.bonappetit.com/recipe/momofuku-milk-bars-birthday-layer-cake) for my wife's birthday, and a decent shot at a [Sacher/Satcher torte](https://www.cooksillustrated.com/recipes/3437-sacher-torte). And a Genoise sponge layer cake for New Year's Eve. So, more cakes than 2017—maybe even more cakes than pies, last year. Also, more Thick & Chewy cookies than ever before.
 
@@ -126,7 +126,7 @@ Here's a [photo album](https://photos.app.goo.gl/gUszZ8N5Z2dvGAEL7). Google Phot
 ![Collage of the most notable stuff I baked in 2018](/assets/post_images/2019-01-03/2018_baking_600.jpg)
 
 <a name="writing"></a>
-### Writing
+## Writing
 
 Once again, I only wrote for my employer, Wirecutter, last year. I researched and wrote:
 
@@ -137,14 +137,14 @@ Once again, I only wrote for my employer, Wirecutter, last year. I researched an
 + A two-part guide to [antivirus apps but not really](https://thewirecutter.com/blog/best-antivirus/) and, uh, how you actually don't need antivirus, you need [layers of security](https://thewirecutter.com/blog/internet-security-layers/)
 + [Cheap gaming chairs](https://thewirecutter.com/reviews/best-cheap-gaming-chair/), [dog gates](https://thewirecutter.com/reviews/best-dog-gates/), a list of [foul-weather bike gear](https://thewirecutter.com/reviews/gear-for-foul-weather-bike-commuting/), [external optical drives](https://thewirecutter.com/reviews/the-best-external-blu-ray-drive/), and others.
 
-### Lifting
+## Lifting
 
-I think I only injured myself once or maybe twice in 2018 lifting weights and putting them back down again. That's progress! I hit new records in overhead press and bench press and barbell rows, whereas lower-body stuf has slid. That's mostly because I'm completely uncertain of my ability to squat without hurting myself, or agitating my knee quite a bit. This year, I'm looking into knee wraps and going to work with a trainer on safe squatting.
+I think I only truly injured myself once or maybe twice in 2018 lifting weights and putting them back down again. That's progress! I hit new records in overhead press and bench press and barbell rows, whereas lower-body work has slid. That's mostly because I'm completely uncertain of my ability to squat without hurting myself, or agitating my knee quite a bit. This year, I'm looking into knee wraps and going to work with a trainer on safe squatting.
 
 That was a long graf, but I wanted to compress it all into one chunk, so people who don't care can scroll past more easily.
 
 <a name="tedxbuffalo"></a>
-### TEDxBuffalo
+## TEDxBuffalo
 
 This was the first year I actually _attended_ TEDxBuffalo, the event I helped launch in 2011. I had a ticket, a seat, and had only glanced at the speaker roster before attending. Alex Opiel, the latest organizer, once again made me feel comletely unnecessary, and for that I cannot thank her enough.
 
@@ -153,14 +153,14 @@ The [2018 TEDxBuffalo talks](https://www.youtube.com/watch?v=OxSHFpQ3ny0&list=PL
 [Annie Brady's "Blind, not broken"](https://www.youtube.com/watch?v=yfOumCp_0Ww&list=PLsRNoUx8w3rNKfFyVyyZWWdYGrVRpdWi2&index=5) utterly shook me. I have rarely felt so moved to look anew at something I thought I'd undersood. Annie Brady took me into her life and asked me what I would do if I were in it. I can't recommend it enough. It's the reason I started TEDxBuffalo: capturing a spark of magic that exists in this area and giving it a chance to be seen by the world.
 
 <a name="awesome"></a>
-### Awesome Buffalo
+## Awesome Buffalo
 
 [Awesome Buffalo](https://www.awesomefoundation.org/en/chapters/buffalo) is a small group of people who put in their own money to fund helpful, interesting, or simply good projects in and around Buffalo. Some of the projects we funded in 2018: [a solar sprout garden at a rehab center](https://www.awesomefoundation.org/en/projects/97185-solar-sprouts),[Small food pantries](https://www.awesomefoundation.org/en/projects/102202-feed-buffalo-little-pantries), [much nicer trash cans](https://www.awesomefoundation.org/en/projects/105586-trash-can-be-beautiful-project), and other things.
 
 If you want to apply for a grant, or joint the team, [get in touch](https://www.awesomefoundation.org/en/about_us).
 
 <a name="smarthome"></a>
-### Smart home nonsense
+## Smart home nonsense
 
 I escalated my connected home quite a bit this year. If you believe that Wi-Fi signals are slowly causing cancer inside us, you should not step inside my domicile.
 
@@ -173,34 +173,42 @@ I'm not here to brag about specific equipment. But here are the quirkiest things
 + Hit a button in the kitchen and have every Echo device in the house announce, "Ding ding, dinner is ready"
 
 <a name="friends"></a>
-### Friends, beer, and making an effort
+## Friends, beer, and making an effort
 
 _Note: This whole section could just be whining about two very common phenomenae of aging: drinking hits you harder, and making friends gets tougher. Maybe! But I wanted to put down how it felt at this moment, and how the two felt connected. If you feel like I should Just Get Over Myself, that's fine, you're probably not wrong. But I question how you made it all the way through that Bikes section!_
 
-I don't live near most of my friends anymore. Once I did, but over time, they've moved away, either a long way to Boston or New York, or they live in a suburb, have kids, and don't have a lot of time to spare on nights and weekends. It feels like a real trend now, after years of isolated incidents that could be written off as circumstance.
+I don't live near most of my friends anymore. They've moved away over time, over 18 years of living in Buffalo. They've moved either a long way to Boston or New York, or they live in a suburb, have kids, and don't have a lot of time on nights and weekends. It feels like a real trend now, after years of isolated incidents that could be written off as circumstance.
 
-I am still friends with those who moved away, of course. And I still have friends here, good ones. And I have friends I have neglected to keep up with. That was always the case, but now it feels like something that needs fixing. Maybe that's now how one should look at it, but hey, if you were one of my friends? You'd know that's how I'd look at it. I have things I can definitely fix, and then things I will feel guilty about not fixing and then apologize to you constantly about it. "Ah, no, really, thanks for saying that, but I really should ... it's just ... one day ... anyways."
+I am still friends with those who moved away, of course. And I still have friends here, good ones. And I have friends I have neglected to keep up with. That was always the case, but now it feels like something that needs fixing. Maybe that's now how one should look at it, but hey, if you were one of my friends? You'd know that's how I'd look at it. I have things I can definitely fix, and things I feel guilty about not fixing, and I will apologize to you constantly about it. "Ah, no, really, thanks for saying that, but I really should ... it's just ... one day ... anyways."
 
-Leaving behind TEDxBuffalo and CoworkBuffalo were necessary moves for me, but doing so also reduced my chances to meet people and show up to things. Like a lot of men, I act as though I need a bona fide Reason or Project to get together with people. The loosest excuse I once had, one that I leaned on, was that "we should grab drinks sometime." When this wasn't just something I said, it's one thing I usually followed up on. With gusto. Now I'm not so sure I want to keep being good at grabbing drinks.
+Leaving behind TEDxBuffalo and CoworkBuffalo were necessary moves for me, but doing so also reduced my chances to meet people and show up to things. Like some men I know, I assume I need a bona fide Reason or Project to get together with people. Without those ever-present projects, the other loose reason I have to get together with someone is that "we should grab drinks sometime." When this wasn't just something I said as a polite goodbye, it was something I could reliably follow up on. With gusto.
 
-I've been drinking beer since I was 15 or 16. I drink beer way too fast. Cocktails, too. I drink everything too fast, really, but if you put down Diet Coke too fast, you're not a risk to anybody except those who have to experience your burps. It doesn't matter if it's a 10% ABV double IPA or a super-light macro pilsner, it's gone before I even realize I've drank it. I'm not sure if it's wanting something to do with my hands while talking, or having killed my senses of bitter or sweet, or some childhood thing. I've tried telling myself to take small sips, ordering heavier stouts or lighter beers, alternating water with drinks, and the toll is about the same.
+Now I'm not so sure I want to keep being good at grabbing drinks. Not the way I do it, anyways.
 
-I weigh nearly 200 pounds, so beer doesn't hit me very fast. Often that means that, meeting a friend for drinks, or going out to dinner, it's easy for me to have two or three beers, when one would have been just fine. I'm definitely capable of drinking more, and there are more mornings where I'm counting on two hands than I feel good about. But let's say that, if I was drinking, my average had long been three beers.
+I've been drinking beer since I was 15 or 16. I drink beer way too fast. Cocktails and wine, too. I drink everything too fast, really. My wife and friends all notice. If you put down Diet Coke too fast, you're not a real bother to anybody except those who have to experience your burps. Beer is different, though, and it's what I drink the most. It doesn't matter if it's a 10% ABV double IPA or a super-light macro pilsner, it's gone before I even realize I've drank it. I'm not sure if it's wanting something to do with my hands while talking, or having killed my senses of bitter or sweet, or some childhood thing. I've tried telling myself to take small sips, or ordering heavier stouts or lighter beers, alternating water with drinks—the end result is usually the same.
 
-It's not always a big problem, but it sometimes means my wife drives home when she had not planned to. It always adds a lot of money to the bill, and leads to some bad food choices. I think that I'm usually in control of myself, that my inhibitions are just a bit looser, but I can't hear what I sound like, or notice that I'm dominating the conversation. Part of the whole trick is that you don't remember things or notice yourself that well.
+I weigh nearly 200 pounds, so beer doesn't hit me very fast. Maybe that's another reason I drink so fast. It's easy for me to have two or three beers, when the time span or the company suggest one would have been just fine. I'm definitely capable of drinking more, and there have been many mornings where I realize I need two hands to count last night's tally. But let's say that my average had long been about three beers.
 
-If it sounds like I'm worried, I am, at least a bit. Alcoholism is prevalent on one side of my family. I'm not great at self-control with sugary stuff, either, and the internal reasoning sounds remarkably similar. You tell yourself you indulge only on "special occasions," and very quickly "It's Sunday afternoon and I'm preparing dinner" counts as a special occasion. You biked or worked out or walked a whole bunch today, so you can afford the calories. Occasionally the news will drop the newest study into rotation that says something like "These 14 Europeans drink once a day and they are very definitely healthy," and you get a little enforcement from that.
+It's not always a big problem, but it sometimes means my wife drives home when she had not planned to. It always adds a lot of money to the bill, and leads to some bad food choices. I think that I'm usually in control of myself, that my inhibitions are only  a little bit looser. But I can't hear what I sound like, or notice that I'm dominating the conversation. That's one key trick to drinking, you don't remember subtle cues or notice yourself that well.
 
-So. What I liked most about this slightly problematic habit is "going drinking" or "having drinks" with friends. I liked the mild irresponsibility of meeting a friend or friends and planning to be completely useless. Nothing else feels so like the opposite of being focused, productive, and earning money than talking about nonsense, being utterly ridiculous, and handing money to someone at the bar. In the moment, you feel like you're experiencing something with somebody. If it goes a bit too far, it's something you both lived through, it's a badge.
+If it sounds like I'm worried, I am, at least a bit. Alcoholism is prevalent on one side of my family. I'm not great at self-control with sugary stuff, either, and the internal reasoning sounds remarkably similar. You tell yourself you indulge only on "special occasions," and very quickly "It's Sunday afternoon and I'm preparing dinner" counts as a special occasion. You biked or worked out or walked a whole bunch today, you think, so you can afford the calories. Occasionally the news will drop the newest study into rotation that says something like "These 14 Europeans drink once a day and they are very definitely healthy," and you can pull a little enforcement from that, too.
 
-But I own this nearly 38-year-old body, you see, and also this scale. Hangovers are lasting longer, beers are not evaporating just by hitting 10,000 steps. After a particularly heavy couple holiday months, I decided to try the Dry January thing, with exceptions for Actual Special Occasions. The one special occasion I've had, I went to a downtown bar for a going-away party. I had three drinks in an hour and a half, and I left the moment I felt the bar was too crowded to talk, or just stand in place comfortably.
+Those are temporary excuses against a long-term reality. I carry this nearly 38-year-old body everywhere, and I also have a budget to maintain. Hangovers are lasting longer. The empty calories are not disappearing just from hitting 10,000 steps. And the beers I like are not that cheap, especially outside the house.
 
-I think it's best that I stop making drinking the main verb of my friendships, new or old. I don't mean to imply this is how one beats alcoholism, for that is a separate thing. This is just me going on a long time about something about which I still have choice. I will probably still have drinks, and occasionally mess up. It will probably take time to get good at it.
+My first attempt at addressing this was, after a particularly heavy couple holiday months, I decided to try a mostly Dry January, with exceptions for Actual Special Occasions. The one Special Occasion I've had, I went to a downtown bar for a going-away party, for someone I only knew a bit from my gym. I nervously put down three drinks in an hour and a half, while talking with a couple folks I had just met. I left the moment I felt unattached to any conversations, while the bar had gotten too crowded to talk, or just stand. It cost more than $50, including the Lyft rides both ways, and I woke up in the night with a dry mouth.
 
-The thing I have to work on, then, is staying friends with people I can't easily meet at a bar anymore, and making friends without the easy excuse of "We'll be at X if you want to join." Maybe it's more difficult when you don't have kids to bond over; maybe everything is easier without kids, could go either way, really. I already have some friends who don't drink, which is encouraging. Off we go.
+Other times, the challenge is pure habit. I'll be working on a project, or finishing up work, or somehow letting my mind drift. If it's early evening, or a weekend afternoon, I'll think that now would be a great time for a beer. I have so, so much memory evidence that this will not actually "take the edge off" or "help me relax." I'll just get tired, maybe a bit irritable, and then hungry for bad food. But my brain, which can so often be found picking apart consumerism, believes in these singular instances that beer commercials are right: this _is_ how you relax.
+
+Back to friends. What I really liked most about this beer habit is "going drinking" or "having drinks" with friends. I liked the mild irresponsibility of meeting a friend or friends and planning to be completely useless together. Nothing else feels so like the opposite of being focused, productive, and earning money, the Puritan standard, than talking about nonsense, being utterly ridiculous, and handing money to someone for something so disposable. In the moment, you feel like you're experiencing something with somebody. If it goes a bit too far, it's something you both lived through, it's a badge.
+
+And yet. I think it's best that I stop making drinking the main verb of my friendships and social opportunities, new or old. It feels weird to make a point of this, because I don't think this is alcoholism, and I know that is a separate, much harder thing. I just think that I've been stuck in an immature relationship with beer for too long now. I want to do better at managing it. I'll probably fail at it sometimes, or give into pressure to "let loose." But hopefully less over time.
+
+The thing I really have to work on, then, is staying friends with people I can't easily meet at a bar anymore. Also, making new friends, without drinking a bunch to try and shortcut the bonding. I already have some friends who don't drink, and we've covered a lot of ground together. It would be nice to save some money, lose some weight, and have fewer regrettable moments in 2019. Off we go.
 
 <a name="twitter"></a>
-### Ugh, Twitter
+## Ugh, Twitter
+
+Time for a big change in tone!
 
 I continued to break the cardinal rule of Twitter in 2018. Here were the five best-received tweets, my favorite Twitter moment, and a bonus bit of character insight.
 
@@ -227,11 +235,11 @@ And this tweet, from former Wirecutter Editor in Chief Jacqui Cheng, really spea
 <a href="https://twitter.com/ejacqui/status/1007042147948859392?s=17"><img src="/assets/post_images/2019-01-03/tweet_jacqui.png" alt="I’ve known @kevinpurdy for 10 years but he told me this week that he still wouldn’t lick a yogurt lid in my presence."/></a>
 
 <a name="reading"></a>
-### Reading
+## Reading
 
 I never read enough books, and I read a ton of articles.
 
-#### Articles/posts
+### Articles/posts
 
 I like [Pocket](http://getpocket.com) a lot for saving and reading articles. But its search and sorting make it hard to understand what you read in the last year. And I often read articles or posts that were not from the year I'm in. So here are five articles I believe I read in 2018.
 
@@ -242,7 +250,7 @@ I like [Pocket](http://getpocket.com) a lot for saving and reading articles. But
 + [Made in Taiwan](http://www.bikepacking.com/plog/made-in-taiwan/) (_This one is about bikes, but it's also about the American perception of how everything made in certain Asian countries is "cheaply made." It doesn't hurt that my dearly departed Seymour Schwinn had its frame welded in Taiwan, right after Schwinn moved production there_).
 + [How a Sneaky Furniture Expert Ripped Off the Rich and Tricked Versailles](https://www.vanityfair.com/style/2018/07/how-a-sneaky-furniture-expert-tricked-versailles)
 
-#### Books
+### Books
 
 + [_Blood of Elves: The Witcher #3_](https://www.goodreads.com/book/show/35673872-blood-of-elves) - Actually, I'm good with the video game. A rare moment where I see that there's a lot more lore available, and I pass.
 + [_Hyperion_](https://www.goodreads.com/book/show/77566.Hyperion?from_search=true) and [_The Fall of Hyperion_](https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion?from_search=true) - They show their age, they've got a lot of male gaze, and boy, if you like clean resolutions, these ain't it. But some sections are absolutely spell-binding, some characters heart-rending, and each person is going to relate a bit differently.
@@ -254,7 +262,7 @@ I like [Pocket](http://getpocket.com) a lot for saving and reading articles. But
 I feel like I read more books than this, but perhaps not! I will update this list post-publish if I recall more.
 
 <a name="tasks"></a>
-### Tasks
+## Tasks
 
 According to [Remember the Milk](https://rememberthemilk.com):
 
@@ -267,9 +275,9 @@ Anyways! I can add tasks to RTM through the Android app or webapp, by asking Goo
 The hardest part of using a to-do app is realizing that you're not doing some thing because you don't want to do them. Some things are written down too broadly, without enough granular actions. Sometimes you haven't given something the right context, or you can't sort by the things you can or want to do right now. But sometimes, you're just avoiding something you are afraid to try. That's hard, and no app exists for it.
 
 <a name="games"></a>
-### Games
+## Games
 
-#### Switch
+### Switch
 I bought a Switch in 2018, and it's been great. The portability, the indie games available, the Nintendo games—I was afraid I'd never play it and stick to my PC, but oh, ho, just the opposite. In no particular order:
 
 ![Into the Breach](/assets/post_images/2019-01-03/intothebreach.jpg)
@@ -279,7 +287,7 @@ _This is the only screenshot I have of this game, taken right at the moment I fi
 
 ![West of Loathing](/assets/post_images/2019-01-03/westofloathing.jpg)
 
-**West of Loathing:** I think it is quite hard to make a game that has solid mechanics and is also funny, this is probably my second favorite game of the year, and I hope to tell you more about that sometime this year or maybe next.
+**West of Loathing:** I think it is quite hard to make a game that has solid mechanics and is also funny. This is probably my second favorite game of the year, and I hope to tell you more about that sometime this year or maybe next.
 
 **Mario Kart 8:** A great game made better by becoming more friendly to newcomers. For a different way of iterating on a beloved franchise, see Super Smash Bros. Ultimate.
 
@@ -303,16 +311,16 @@ _This is the only screenshot I have of this game, taken right at the moment I fi
 
 **Death Road to Canada:** A goofy, challenging shoot-em-up with permadeath and lots of weird humor. Cheap, fun, great airplane/15-minutes-free game.
 
-#### PC
+### PC
 
 **DOOM:** The great human [ZODIAC MOTHERF***ER had it right](https://www.giantbomb.com/articles/zodiac-motherfuckers-top-10-games-of-2016/1100-5537/): Metal. Satan. Ownage. This is a game where the "strategy" is whether you knock over the Revenant and stomp his head to mush for a health bonus, or tear off his left flank with a chainsaw. Every time I was stuck in this game, not able to get past an arena full of demons, the solution was usually to move faster and use a bigger gun.
 
-**XCOM 2: Tactical Legacy Pack:** More missions, for free, yes please.
+**XCOM 2: Tactical Legacy Pack:** More XCOM missions, for free, yes please.
 
 **Bastion:** I intend to make it through every one of this company's games someday, and this was my starting point. The soundtrack, the voice acting are notably better than you'd ever expect.
 
 <a name="pets"></a>
-### Pictures of pets
+## Pictures of pets
 
 **Howard**
 ![Howard](/assets/post_images/2019-01-03/howard_2018.jpg)
