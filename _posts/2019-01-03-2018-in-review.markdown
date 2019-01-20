@@ -1,0 +1,313 @@
+---
+layout: post
+title: 2018 In Review
+published: false
+---
+
+I started last year's review with this, THIS:
+
+> 2017, as lived in and around the United States of America,
+
+But I can forgive myself. It was hard to believe 2017 happened, and at the end, I wanted to record and confirm that it really did, and how it felt.
+
+2018, I know that year happened. It feels like it happened twice. I'm gonna list and detail some things about it, that were important to me, to varying degrees. Here are those things.
+
+Hey, if you spot a typo or formatting quirk, let me know by [quick tweet](https://mobile.twitter.com/home?status=@kevinpurdy%20Typo%20in%202018%20review%20post:) or [email](mailto:kspurdy@gmail.com).
+
++ [CoworkBuffalo](#coworkbuffalo)
++ [Bikes](#bikes)
++ [Baking](#baking)
++ [Writing](#writing)
++ [Lifting](#lifting)
++ [TEDxBuffalo](#tedxbuffalo)
++ [Awesome Buffalo](#awesome)
++ [Smart home nonsense](#smarthome)
++ [Friends, beer, and making an effort](#friends)
++ [Ugh, Twitter](#twitter)
++ [Reading](#reading)
++ [Tasks](#tasks)
++ [Games](#games)
++ [Pictures of Pets](#pets)
+
+<a name="coworkbuffalo"></a>
+### CoworkBuffalo is closed
+
+I wrote the [newest and probably last homepage](https://coworkbuffalo.com/) that announced the closure of the coworking space I co-founded more than 7 years ago. The whats and whys are mostly on that page. I need to, and want to, write more about what we learned, what it was like, things that could have been.
+
+Mostly, it was just humans needing to look after themselves that caused us to close. All of the co-founders and partners have different lives and demands now, and when our lease was up, there wasn't enough energy to renew it. But we kept open for many years a thing that was kind of convenient, sometimes fun, and occasionally and inadvertently business-minded. We did it mostly for the sake of the city we lived in, and because we didn't want people, including ourselves, to sub-let sad 10-by-10 offices.
+
+A surprising number of people said nice things about our space after we announced our closure. Matt Glynn and Dan Miner, whom I respect immensely, wrote about our closing for [The Buffalo News](https://buffalonews.com/2018/09/27/cowork-buffalo-to-close-in-november/) and [Business First](https://www.bizjournals.com/buffalo/news/2018/09/27/coworkbuffalo-closing-in-november.html).
+
+<a name="bikes"></a>
+### Bikes
+
+I lost a bike, I gained a bike, I replaced that first bike, I need to finish repairing another bike. I took two really long bike rides. This section is long.
+
+As detailed in [last year's bike section](http://thepurdman.com/2017-in-review/#bikes), I finished a big refurb of a 1988 Schwinn World Tour, and I had obtained a Peugeot mountain bike from the mid-80's with wide tires to serve as my winter bike. I bought studded tires for the winter bike, wore a lot of layers, and declared myself a Winter Biker.
+
+That winter was rough. Studs only really help with ice, and they add a lot of drag. I wore simple googles or sunglasses that fogged up constantly. Sometimes I pulled my rim brakes as hard as I could, and the ice-slicked rims just kept turning. Worst of all, I didn't really know to wash or even wipe down my bike's drivetrain after slushy rides, and ... this was my cassette, after one week.
+
+![Cassette from bike after one week in Buffalo](/assets/post_images/2019-01-03/one_week_cassette.jpg)
+
+But spring eventually came. I raised more than $2,500 for the [Ride for Roswell](https://rideforroswell.org). I took Seymour out for one of the 60-plus mile routes. I got a flat halfway through, but fixed it in 10 minutes. Later on, maybe 10 miles from the finish, I hit a rough pothole. Then, the sound of rubber scraping. I got off the bike, spun the wheel, checked the brakes: nothing weird. Walked the bike a bit, nothing. Get back on the bike, ride it, and I can feel the whole bike slowing down under the friction.
+
+Okay, I'll cut it short: the frame snapped, in the back, near the gears (the drive-side chainstay). Every time I put weight on the frame, it dropped onto the tire.
+
+![Up-close photo of snapped Schwinn frame](/assets/post_images/2019-01-03/poor_seymour2.jpg)
+
+I sat on the grass of a rest stop on a farm in Clarence for more than an hour, waiting for a pickup truck to come get me and my bike. One of the volunteers told me that the rest stop, new that year to the Ride, was set up by the farmer's family. The farmer was fighting stage four cancer. After an hour, a pickup truck hauled me and Seymour to the finish line.
+
+Seymour Schwinn rode on this earth for nearly 30 years, and it was his time, and I just happened to be the rider when the time came.
+
+![Seymour Schwinn on the grass](/assets/post_images/2019-01-03/poor_seymour1.jpg)
+
+A few months before the Ride, I thought about the next winter, and how I was going to ride through it. My wife and I share one car now. I knew I'd be working from home after (spoiler) CoworkBuffalo closed. Sure, I could take better care of my bike after it gets wet. But biking in the cold is enough of a challenge, without having to clean out exposed gears, cables, and chain. Or wonder which intersections your brakes will or won't work through.
+
+I kicked around the idea of converting my mountain bike with 26-inch wheels to a [fixie](https://en.wikipedia.org/wiki/Fixed-gear_bicycle) or [single-speed](https://en.wikipedia.org/wiki/Single-speed_bicycle) to reduce maintenance. But I had just finished one big bike rebuild. And after riding a few fixies and reading up on them, I ... declined. Plus, I also wanted something I could ride in a few other situations, where a thin-wheel road bike wouldn't quite do.
+
+I let myself think about a new bike. Or at least "new," as in, welded and assembled this century.
+
+My ideal bike had disc brakes (preferably hydraulic), flat handlebars,decently wide tire clearance, mounts/eyelets for fenders and a rack, and, fingers crossed, some way of mitigating the impact of snow and salt on gears and chains. I ran down a lot of possibilities.
+
+![Spreadsheet of winter bike search](/assets/post_images/2019-01-03/winter_bike_table.png)
+
+I ended up with the [2018 version of the Norco Indie IGH A11 Belt](https://www.norco.com/bikes/pavement/urban/indie-aluminum/indie-igh-11-alfine-belt/). IGH stands for "internal-gear hub." If you've ridden a bikeshare bike in a city, you've used one. All the gear-shifting takes place inside a mostly weatherproof hub in the middle of the rear wheel. I still don't quite understand [how they work](https://www.sheldonbrown.com/alfine-11.html); with luck, I may never have to! "Belt" means [carbon belt drive](https://www.gatescarbondrive.com/), instead of a chain. Wide enough tires for commuting, most of the cables routed internally, eyelets and braze-ons for gear.
+
+![Norbert the Norco, ready for pickup](/assets/post_images/2019-01-03/norco_born.jpg)
+
+I had to order this bike over the phone from a dealer in Beamsville, Ont., who then called it in from Vancouver. I drove there one weeknight and met the owner of [Moutainview Cycle](https://www.facebook.com/moutainviewcycle). He was initially skeptical that I knew exactly I was ordering. After hearing my story (or maybe just to stop me from showing him the spreadsheet), he got into it, and was showing it off. He showed me some tricks to disc brake maintenance, helped me fit the seat and bar positions, and showed me his [in-progress electric cruiser hot rod thingy](https://photos.app.goo.gl/xojSW47D4pgxannK7).
+
+Norbert is cool as Hell. Sturdy, stable, easy to clean off after a slushy ride, and weirdly quiet without a chain or external gears. I threw a rack and fenders on him. I attached these [mounted elastic straps](https://www.amazon.com/gp/product/B00LXK9TI0) to him, a knock-off of my friends' fenders that had them built-in. Tied one more bungee the long way around the fender for stability.
+
+You can haul a lot of things around with a fender and enough straps. Picture frames, 58 pounds of prescription dog food,a folding chair, two ramens and a sushi roll from Sato on Elmwood.
+
+![Norbert haulin' stuff](/assets/post_images/2019-01-03/bike_haulin.jpg)
+
+And yet: how many bikes do you need? N+1, where N is the number you have.
+
+I wanted to replace my ligher, faster, and less expensive/theft-attractive road bike. I went back to the place where I'd gotten Seymour, the basement of Rick's Cycle Shop. I spent a lot of time looking at old road bikes. It felt like going to the shelter way too soon after losing your dog. But I wanted to give this 1983 Trek 500 series a shot at being the next bike I tear apart and then ride to death:
+
+![Theodore Trek, a road bike](/assets/post_images/2019-01-03/trek.jpg)
+
+Coming this year: new wheels (the original [helicomatic hubs](http://www.borgercompagnie.com/helicomatic/history.html) are historic but terrible to work on), transplanted brifters and cassette from Seymour, red cables instead of yellow, and probably a new chainring and sealed cartridge bracket.
+
+Oh, and I need to de-rust and restore the Peugeot mountain bike I rode last winter, so someone else can do a better job with it.
+
+I took two notable bike rides in 2018. That is, besides the officially sanctioned rides, like the Ride for Roswell, Skyride, and such.
+
+In late September, I rode to and from Ralph Wilson Stadium to watch the Buffalo Bills get soundly beaten by the Chargers. This was partly a one-car-family scenario, but mostly a dare to myself that it could be done. There were some truly inspiring views in the morning light, at sunset, and when I whipped past a bunch of stalled cars on Southwestern Boulevard on the way back.
+
+I shot photos as an Instagram story, which means too many of the photos have stupid text over them. Lesson learned: if it's important, don't use Facebook's app to capture it.
+
+![Instagram capture from bike ride to Bills stadium](/assets/post_images/2019-01-03/bike_bills.jpg)
+
+![Map of bike ride to Bills stadium](/assets/post_images/2019-01-03/bike_bills_map.png)
+
+I also ride a rental Lime bike from Cambridge to Quincy, through Boston. With everything I had packed for a 3-day weekend strapped to my back. It was not the most comfortable ride, but it was really fun. Chaz joined me, on a bike that was actually built for a long weekend ride.
+
+![The author and his giant backpack biking through South Boston](/assets/post_images/2019-01-03/bike_boston.jpg)
+
+![Map of bike ride through Boston](/assets/post_images/2019-01-03/bike_boston_map.png)
+
+### Baking
+
+I continued my journey into baking this year. The most notable projects were [Momofuku Milk Bar's Birthday Layer Cake](https://www.bonappetit.com/recipe/momofuku-milk-bars-birthday-layer-cake) for my wife's birthday, and a decent shot at a [Sacher/Satcher torte](https://www.cooksillustrated.com/recipes/3437-sacher-torte). And a Genoise sponge layer cake for New Year's Eve. So, more cakes than 2017—maybe even more cakes than pies, last year. Also, more Thick & Chewy cookies than ever before.
+
+This year, I want to get better at chocolate work, and maybe try some fondant.
+
+Here's a [photo album](https://photos.app.goo.gl/gUszZ8N5Z2dvGAEL7). Google Photos is so creepy amazing; you can type in `baking 2018` and by God you get everything you took a photo of in that year that contained flour and encountered heat.
+
+![Collage of the most notable stuff I baked in 2018](/assets/post_images/2019-01-03/2018_baking_600.jpg)
+
+<a name="writing"></a>
+### Writing
+
+Once again, I only wrote for my employer, Wirecutter, last year. I researched and wrote:
+
++ Major updates to [notebooks](https://thewirecutter.com/reviews/best-notebooks/), [pens](https://thewirecutter.com/reviews/the-best-pen/), and [mechanical pencils](https://thewirecutter.com/reviews/best-mechanical-pencils/)
++ Blog posts on [how hard it is to recycle a mattress](https://thewirecutter.com/blog/get-rid-of-used-mattresses/), why [the Blue Yeti is the go-to starter mic for ASMR](https://thewirecutter.com/blog/why-the-asmr-community-loves-the-blue-yeti-microphone/), and setting up a [good space for video calls at home](https://thewirecutter.com/blog/professional-video-call-from-home/).
++ A semi-guide to [silicone wedding bands](https://thewirecutter.com/blog/what-are-silicone-rings/?utm_source=twitter&utm_medium=social&utm_campaign=social-promo)
++ Another [epic update to standing desks](https://thewirecutter.com/reviews/best-standing-desk/)
++ A two-part guide to [antivirus apps but not really](https://thewirecutter.com/blog/best-antivirus/) and, uh, how you actually don't need antivirus, you need [layers of security](https://thewirecutter.com/blog/internet-security-layers/)
++ [Cheap gaming chairs](https://thewirecutter.com/reviews/best-cheap-gaming-chair/), [dog gates](https://thewirecutter.com/reviews/best-dog-gates/), a list of [foul-weather bike gear](https://thewirecutter.com/reviews/gear-for-foul-weather-bike-commuting/), [external optical drives](https://thewirecutter.com/reviews/the-best-external-blu-ray-drive/), and others.
+
+### Lifting
+
+I think I only injured myself once or maybe twice in 2018 lifting weights and putting them back down again. That's progress! I hit new records in overhead press and bench press and barbell rows, whereas lower-body stuf has slid. That's mostly because I'm completely uncertain of my ability to squat without hurting myself, or agitating my knee quite a bit. This year, I'm looking into knee wraps and going to work with a trainer on safe squatting.
+
+That was a long graf, but I wanted to compress it all into one chunk, so people who don't care can scroll past more easily.
+
+<a name="tedxbuffalo"></a>
+### TEDxBuffalo
+
+This was the first year I actually _attended_ TEDxBuffalo, the event I helped launch in 2011. I had a ticket, a seat, and had only glanced at the speaker roster before attending. Alex Opiel, the latest organizer, once again made me feel comletely unnecessary, and for that I cannot thank her enough.
+
+The [2018 TEDxBuffalo talks](https://www.youtube.com/watch?v=OxSHFpQ3ny0&list=PLsRNoUx8w3rNKfFyVyyZWWdYGrVRpdWi2) were good. I particularly liked [Dr. Ines Stuckert's "How to deal with a populist president"](https://www.youtube.com/watch?v=QR4T5fOYDdc&list=PLsRNoUx8w3rNKfFyVyyZWWdYGrVRpdWi2&index=4).
+
+[Annie Brady's "Blind, not broken"](https://www.youtube.com/watch?v=yfOumCp_0Ww&list=PLsRNoUx8w3rNKfFyVyyZWWdYGrVRpdWi2&index=5) utterly shook me. I have rarely felt so moved to look anew at something I thought I'd undersood. Annie Brady took me into her life and asked me what I would do if I were in it. I can't recommend it enough. It's the reason I started TEDxBuffalo: capturing a spark of magic that exists in this area and giving it a chance to be seen by the world.
+
+<a name="awesome"></a>
+### Awesome Buffalo
+
+[Awesome Buffalo](https://www.awesomefoundation.org/en/chapters/buffalo) is a small group of people who put in their own money to fund helpful, interesting, or simply good projects in and around Buffalo. Some of the projects we funded in 2018: [a solar sprout garden at a rehab center](https://www.awesomefoundation.org/en/projects/97185-solar-sprouts),[Small food pantries](https://www.awesomefoundation.org/en/projects/102202-feed-buffalo-little-pantries), [much nicer trash cans](https://www.awesomefoundation.org/en/projects/105586-trash-can-be-beautiful-project), and other things.
+
+If you want to apply for a grant, or joint the team, [get in touch](https://www.awesomefoundation.org/en/about_us).
+
+<a name="smarthome"></a>
+### Smart home nonsense
+
+I escalated my connected home quite a bit this year. If you believe that Wi-Fi signals are slowly causing cancer inside us, you should not step inside my domicile.
+
+I'm not here to brag about specific equipment. But here are the quirkiest things I can do now:
+
++ Open my garage door from my phone (or my Pebble watch)
++ Get an alert if my garage door stays open for more than 10 minutes, or opens at all between 10pm and 5am.
++ Know when a Kitchen timer (set on an Echo) goes off, because the lights in the living room and home office blink.
++ Change the lighting temperature in my home office with a voice command (or terminal command)
++ Hit a button in the kitchen and have every Echo device in the house announce, "Ding ding, dinner is ready"
+
+<a name="friends"></a>
+### Friends, beer, and making an effort
+
+_Note: This whole section could just be whining about two very common phenomenae of aging, that drinking hits you harder, and making friends gets tougher. Maybe! But I wanted to put down how it felt at this moment, with my own situation and experiences. If you feel like I should Just Get Over Myself, I question how you made it all the way through that Bikes section!_
+
+I don't live near most of my friends anymore. Once I did, but over time, they've moved away, either a long way to Boston or New York, or they live in a suburb, have kids, and don't have a lot of time to spare on nights and weekends. It feels like a real trend now, after years of isolated incidents that could be written off as circumstance.
+
+I am still friends with those who moved away, of course. And I still have friends here, good ones. And I have friends I have neglected to keep up with. That was always the case, but now it feels like something that needs fixing. Maybe that's now how one should look at it, but hey, if you were one of my friends? You'd know that's how I'd look at it. I have things I can definitely fix, and then things I will feel guilty about not fixing and then apologize to you constantly about it. "Ah, no, really, thanks for saying that, but I really should ... it's just ... one day ... anyways."
+
+Leaving behind TEDxBuffalo and CoworkBuffalo were necessary moves for me, but doing so also reduced my chances to meet people and show up to things. Like a lot of men, I act as though I need a bona fide Reason or Project to get together with people. The loosest excuse I once had, one that I leaned on, was that "we should grab drinks sometime." When this wasn't just something I said, it's one thing I usually followed up on. With gusto. Now I'm not so sure I want to keep being good at grabbing drinks.
+
+I've been drinking beer since I was 15 or 16. I drink beer way too fast. Cocktails, too. I drink everything too fast, really, but if you put down Diet Coke too fast, you're not a risk to anybody except those who have to experience your burps. It doesn't matter if it's a 10% ABV double IPA or a super-light macro pilsner, it's gone before I even realize I've drank it. I'm not sure if it's wanting something to do with my hands while talking, or having killed my senses of bitter or sweet, or some childhood thing. I've tried telling myself to take small sips, ordering heavier stouts or lighter beers, alternating water with drinks, and the toll is about the same.
+
+I weigh nearly 200 pounds, so beer doesn't hit me very fast. Often that means that, meeting a friend for drinks, or going out to dinner, it's easy for me to have two or three beers, when one would have been just fine. I'm definitely capable of drinking more, and there are more mornings where I'm counting on two hands than I feel good about. But let's say that, if I was drinking, my average had long been three beers.
+
+It's not always a big problem, but it sometimes means my wife drives home when she had not planned to. It always adds a lot of money to the bill, and leads to some bad food choices. I think that I'm usually in control of myself, that my inhibitions are just a bit looser, but I can't hear what I sound like, or notice that I'm dominating the conversation. Part of the whole trick is that you don't remember things or notice yourself that well.
+
+If it sounds like I'm worried, I am, at least a bit. Alcoholism is prevalent on one side of my family. I'm not great at self-control with sugary stuff, either, and the internal reasoning sounds remarkably similar. You tell yourself you indulge only on "special occasions," and very quickly "It's Sunday afternoon and I'm preparing dinner" counts as a special occasion. You biked or worked out or walked a whole bunch today, so you can afford the calories. Occasionally the news will drop the newest study into rotation that says something like "These 14 Europeans drink once a day and they are very definitely healthy," and you get a little enforcement from that.
+
+So. What I liked most about this slightly problematic habit is "going drinking" or "having drinks" with friends. I liked the mild irresponsibility of meeting a friend or friends and planning to be completely useless. Nothing else feels so like the opposite of being focused, productive, and earning money than talking about nonsense, being utterly ridiculous, and handing money to someone at the bar. In the moment, you feel like you're experiencing something with somebody. If it goes a bit too far, it's something you both lived through, it's a badge.
+
+But I own this nearly 38-year-old body, you see, and also this scale. Hangovers are lasting longer, beers are not evaporating just by hitting 10,000 steps. After a particularly heavy couple holiday months, I decided to try the Dry January thing, with exceptions for Actual Special Occasions. The one special occasion I've had, I went to a downtown bar for a going-away party. I had three drinks in an hour and a half, and I left the moment I felt the bar was too crowded to talk, or just stand in place comfortably.
+
+I think it's best that I stop making drinking the main verb of my friendships, new or old. I don't mean to imply this is how one beats alcoholism, for that is a separate thing. This is just me going on a long time about something about which I still have choice. I will probably still have drinks, and occasionally mess up. It will probably take time to get good at it.
+
+The thing I have to work on, then, is staying friends with people I can't easily meet at a bar anymore, and making friends without the easy excuse of "We'll be at X if you want to join." Maybe it's more difficult when you don't have kids to bond over; maybe everything is easier without kids, could go either way, really. I already have some friends who don't drink, which is encouraging. Off we go.
+
+<a name="twitter"></a>
+### Ugh, Twitter
+
+I continued to break the cardinal rule of Twitter in 2018. Here were the five best-received tweets, my favorite Twitter moment, and a bonus bit of character insight.
+
+I'm using screencaps, with links to the original tweets, rather than embeds, because no way will Twitter outlast this website.
+
+<a href="https://twitter.com/kevinpurdy/status/1058318446893694976?s=17"><img src="/assets/post_images/2019-01-03/tweet1.png" alt="Last public day of @coworkbuffalo today. I hope this project helped some people live a better life in Buffalo. We ran it because we thought the city could use it."/></a>
+
+<a href="https://twitter.com/kevinpurdy/status/993466991498407936?s=17"><img src="/assets/post_images/2019-01-03/tweet2.png" alt="Financial app Mint needed access to all my accounts and debt information so it could algorithmically warn me about \"Unusual Spending on Federal Taxes.\" In April."/></a>
+
+<a href="https://twitter.com/kevinpurdy/status/1068890351677698049?s=17"><img src="/assets/post_images/2019-01-03/tweet3.png" alt="I haven't worked from home regularly for nearly 7 years. If I remember right, it's like:
+* Lots of healthy food available
+* Starting work right on time
+* Friends and relatives respect your boundaries
+* UPS rings the doorbell and respects signature-required packages."/></a>
+
+<a href="https://twitter.com/kevinpurdy/status/948210315929575424"><img src="/assets/post_images/2019-01-03/tweet4.png" alt="It's very pretty, the way the snow outside is falling, drifting, twirling, glittering, inundating roofs, making cars kill people, trying to kill the elderly, endangering pets, rotting roads, freezing pipes, creating spine-straining work for everyone."/></a>
+
+<a href="https://twitter.com/kevinpurdy/status/997867263318544384?s=17"><img src="/assets/post_images/2019-01-03/tweet5.png" alt="\"Alexa, when does Porchfest start in Buffalo?\"
+
+\"William McKinley was the 25th president ...\"
+
+THAT WAS 117 YEARS AGO AMAZON,  LET IT GO ALREADY."/></a>
+
+My favorite Twitter moment from this year happened the day after I went with some friends to Jay's Artisan Pizza on a Wednesday night in summer. Right outside, in a pocket park, a band of middle-aged guys was ripping through some classic rock tracks. I said something offhand about the band being named "Dad Halen." The next day, it popped back into my head: what if a group of dads was self-aware enough to put "Dad" in their punny cover-band name?
+
+Click the link to see many, many more suggested band names. They are pun-tacular.
+
+<a href="https://mobile.twitter.com/kevinpurdy/status/1009848010115895296"><img src="/assets/post_images/2019-01-03/tweet_favorite.png" alt="Twitter help me name my future classic rock cover band of weird dads who play at free parks shows on weekday nights. Stop me before I dad another."/></a>
+
+And this tweet, from former Wirecutter Editor in Chief Jacqui Cheng, really speaks to the experience of transitioning from knowing people online to meeting in real life. For breakfast.
+
+<a href="https://twitter.com/ejacqui/status/1007042147948859392?s=17"><img src="/assets/post_images/2019-01-03/tweet_jacqui.png" alt="I’ve known @kevinpurdy for 10 years but he told me this week that he still wouldn’t lick a yogurt lid in my presence."/></a>
+
+<a name="reading"></a>
+### Reading
+
+I never read enough books, and I read a ton of articles.
+
+#### Articles/posts
+
+I like [Pocket](http://getpocket.com) a lot for saving and reading articles. But its search and sorting make it hard to understand what you read in the last year. And I often read articles or posts that were not from the year I'm in. So here are five articles I believe I read in 2018.
+
++ [Everythong on Amazon is Amazon!](https://www.nytimes.com/2018/11/15/style/this-is-also-amazon.html)
++ [How I Infiltrated One of L.A.’s Most Vicious Motorcycle Gangs—and Lived to Talk About It](https://www.lamag.com/citythinkblog/vagos-motorcycle-gang/)
++ [How an Ex-Cop Rigged McDonald’s Monopoly Game and Stole Millions](https://www.thedailybeast.com/how-an-ex-cop-rigged-mcdonalds-monopoly-game-and-stole-millions) (_Talk about an article that seemed almost algorithmically generated to eat up my entire Sunday morning_)
++ [Fatal accidents, off-the-books workers, a union once run by a mobster. The rogue world of one of New York’s major trash haulers.](https://features.propublica.org/sanitation-salvage/sanitation-salvage-accidents-new-york-city-commercial-carting-garbage/)
++ [Made in Taiwan](http://www.bikepacking.com/plog/made-in-taiwan/) (_This one is about bikes, but it's also about the American perception of how everything made in certain Asian countries is "cheaply made." It doesn't hurt that my dearly departed Seymour Schwinn had its frame welded in Taiwan, right after Schwinn moved production there_).
++ [How a Sneaky Furniture Expert Ripped Off the Rich and Tricked Versailles](https://www.vanityfair.com/style/2018/07/how-a-sneaky-furniture-expert-tricked-versailles)
+
+#### Books
+
++ [_Blood of Elves: The Witcher #3_](https://www.goodreads.com/book/show/35673872-blood-of-elves) - Actually, I'm good with the video game. A rare moment where I see that there's a lot more lore available, and I pass.
++ [_Hyperion_](https://www.goodreads.com/book/show/77566.Hyperion?from_search=true) and [_The Fall of Hyperion_](https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion?from_search=true) - They show their age, they've got a lot of male gaze, and boy, if you like clean resolutions, these ain't it. But some sections are absolutely spell-binding, some characters heart-rending, and each person is going to relate a bit differently.
++ [_The Long Way to a Small, Angry Planet_](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) - The perfect salve to Hyperion's rougher edges. A whole book of people looking out for each other, eager to learn about one another, and imagine a greater good. Sounds boring! Is not.
++ [_Killings_](https://www.goodreads.com/book/show/33016095-killings) - Only complaint is that there isn't more.
++ [_Bible Adventures_](https://www.goodreads.com/book/show/25243630-bible-adventures) - Good interviews about a long-ago thing that happened, and a lot of good context about what it was like to make games in the early days, when nobody really regulated what was published.
++ [_Vacationland_](https://www.goodreads.com/book/show/34347433-vacationland?) - The only thing that impresses me more than Hodgman's ability to entertain with words is his brave decision to have the kind of career he wants to have, speaking to an intelligent audience he refuses to condescend to.
+
+I feel like I read more books than this, but perhaps not! I will update this list post-publish if I recall more.
+
+<a name="tasks"></a>
+### Tasks
+
+According to [Remember the Milk](https://rememberthemilk.com):
+
+![Completed 845 tasks in 2018](/assets/post_images/2019-01-03/rtm_tasks.png)
+
+I re-committed to using my task manager in 2018. I use a very light kind of Getting Things Done methodology, and I cheat a little by setting priorities. You'd have to read about GTD to understand why priority-setting is a controversial move.
+
+Anyways! I can add tasks to RTM through the Android app or webapp, by asking Google Assistant to add something to my task list (through an IFTTT hook-up), by asking Alexa to add to my to-do list (another IFTTT thing), or, my favorite way, through a [terminal app](https://github.com/dwaring87/rtm-cli), on either my work MacBook or this Chromebook. I can also add tasks by sending a text from my Pebble watch, but ... anyways.
+
+The hardest part of using a to-do app is realizing that you're not doing some thing because you don't want to do them. Some things are written down too broadly, without enough granular actions. Sometimes you haven't given something the right context, or you can't sort by the things you can or want to do right now. But sometimes, you're just avoiding something you are afraid to try. That's hard, and no app exists for it.
+
+<a name="games"></a>
+### Games
+
+#### Switch
+I bought a Switch in 2018, and it's been great. The portability, the indie games available, the Nintendo games—I was afraid I'd never play it and stick to my PC, but oh, ho, just the opposite. In no particular order:
+
+**Into the Breach:** My favorite game of the year. I will be playing this into 2018. It's so freaking good. If you said, "How would you like to play a kind of chess, where there's no re-loading, and you sometimes have to think of 12 possible outcomes of each move?" Well first I would say, "That is quite a hypothetical!" and then I would say "No, that is not my game" but then you'd say "Actually, though, I'm from a post you wrote in the future and you really, really like this game" and I say "Wait, what?" and then you say "You spent like a week in Florida playing this game instead of going to the beach" and I say "Oh, right." But I don't really love the beach, anyways.
+
+**Mario Kart 8:** A great game made better by becoming more friendly to newcomers. For a different way of iterating on a beloved franchise, see Super Smash Bros. Ultimate.
+
+**Stardew Valley:** I wrote a bunch about this in [Currently Digging Vol. 3](http://thepurdman.com/currently-digging-vol-3/).
+
+**Mario + Rabbids: Kingdom Battle:** It's XCOM, but fun, forgiving, and with inventive, different mechanics! Even [the creative director of XCOM digs it](https://www.polygon.com/2018/1/11/16869202/mario-rabbids-best-games-2017-year-in-review).
+
+**Overcooked & Overcooked 2:** My wife and I really enjoy stressing each other out by worrying about orders, critiquing strategies, and telling each other to stick to our sides. This doesn't sound like fun, but it is the _most_ fun.
+
+**West of Loathing:** I think it is quite hard to make a game that has solid mechanics and is also funny, and I hope to tell you more about that sometime this year or maybe next.
+
+**Death Squared:** Fun multiplayer puzzle game. That's harder than it sounds!
+
+**Hollow Knight:** It took about an hour and change for this game to finally click with me, and at first it seems just unnecessarily hard and obtuse. But then you get it, and then you like it, and then you feel mastery over it.
+
+**Super Smash Bros. Ultimate:** I think it's weird that Nintendo, of all companies, would make a game that's so obtusely hard to get into for newcomers. The tutorial video is so deeply buried that [Nintendo had to post a tutorial on how to find it](https://kotaku.com/nintendo-posts-tutorial-on-how-to-find-smash-ultimates-1831323868). You have to grind for hours and hours to unlock all the fighters you might play. The menu and interface actively fight your attempts to get to the kind of game you want. I really want to like this game, and get better at it, but along with the lag-laden online matches, it's hard to get into. (See also: section about how a large number of my friends no longer live near me)
+
+#### PC
+
+**DOOM:** The great human [ZODIAC MOTHERF***ER had it right](https://www.giantbomb.com/articles/zodiac-motherfuckers-top-10-games-of-2016/1100-5537/): Metal. Satan. Ownage. This is a game where the "strategy" is whether you knock over the Revenant and stomp his head to mush for a health bonus, or tear off his left flank with a chainsaw. Every time I was stuck in this game, not able to get past an arena full of demons, the solution was usually to move faster and use a bigger gun.
+
+**XCOM 2: Tactical Legacy Pack:** More missions, for free, yes please.
+
+**Bastion:** I intend to make it through every one of this company's games someday, and this was my starting point. The soundtrack, the voice acting are notably better than you'd ever expect.
+
+<a name="pets"/></a>
+### Pictures of pets
+
+**Howard**
+![Howard](/assets/post_images/2019-01-03/howard_2018.jpg)
+
+**Cork**
+![Cork](/assets/post_images/2019-01-03/cork_2018.jpg)
+
+**Apricot**
+![Apricot](/assets/post_images/2019-01-03/apricot_2018.jpg)
