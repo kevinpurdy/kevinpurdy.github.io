@@ -272,23 +272,33 @@ The hardest part of using a to-do app is realizing that you're not doing some th
 #### Switch
 I bought a Switch in 2018, and it's been great. The portability, the indie games available, the Nintendo games—I was afraid I'd never play it and stick to my PC, but oh, ho, just the opposite. In no particular order:
 
-**Into the Breach:** My favorite game of the year. I will be playing this into 2018. It's so freaking good. If you said, "How would you like to play a kind of chess, where there's no re-loading, and you sometimes have to think of 12 possible outcomes of each move?" Well first I would say, "That is quite a hypothetical!" and then I would say "No, that is not my game" but then you'd say "Actually, though, I'm from a post you wrote in the future and you really, really like this game" and I say "Wait, what?" and then you say "You spent like a week in Florida playing this game instead of going to the beach" and I say "Oh, right." But I don't really love the beach, anyways.
+**Into the Breach:** My favorite game of the year. I will be playing this into 2019. It's so freaking good. If you said, "How would you like to play a kind of chess, where there's no re-loading, and you sometimes have to think of 12 possible outcomes of each move?" Well first I would say, "That is quite a hypothetical!" and then I would say "No, that is not my game" but then you'd say "Actually, though, I'm from a post you wrote in the future and you really, really like this game" and I say "Wait, what?" and then you say "You spent like a week in Florida playing this game instead of going to the beach" and I say "Oh, right." But I don't really love the beach, anyways.
+
+![West of Loathing](/assets/post_images/2019-01-03/westofloathing.jpg)
+
+**West of Loathing:** I think it is quite hard to make a game that has solid mechanics and is also funny, this is probably my second favorite game of the year, and I hope to tell you more about that sometime this year or maybe next.
 
 **Mario Kart 8:** A great game made better by becoming more friendly to newcomers. For a different way of iterating on a beloved franchise, see Super Smash Bros. Ultimate.
+
+**Zelda: Breath of the Wild:** The best Zelda game. Probably. Yeah. I think so.
 
 **Stardew Valley:** I wrote a bunch about this in [Currently Digging Vol. 3](http://thepurdman.com/currently-digging-vol-3/).
 
 **Mario + Rabbids: Kingdom Battle:** It's XCOM, but fun, forgiving, and with inventive, different mechanics! Even [the creative director of XCOM digs it](https://www.polygon.com/2018/1/11/16869202/mario-rabbids-best-games-2017-year-in-review).
 
-**Overcooked & Overcooked 2:** My wife and I really enjoy stressing each other out by worrying about orders, critiquing strategies, and telling each other to stick to our sides. This doesn't sound like fun, but it is the _most_ fun.
+![Overcooked](/assets/post_images/2019-01-03/overcooked.jpg)
 
-**West of Loathing:** I think it is quite hard to make a game that has solid mechanics and is also funny, and I hope to tell you more about that sometime this year or maybe next.
+**Overcooked & Overcooked 2:** My wife and I really enjoy stressing each other out by worrying about orders, critiquing strategies, and telling each other to stick to our sides. This doesn't sound like fun, but it is the _most_ fun.
 
 **Death Squared:** Fun multiplayer puzzle game. That's harder than it sounds!
 
 **Hollow Knight:** It took about an hour and change for this game to finally click with me, and at first it seems just unnecessarily hard and obtuse. But then you get it, and then you like it, and then you feel mastery over it.
 
 **Super Smash Bros. Ultimate:** I think it's weird that Nintendo, of all companies, would make a game that's so obtusely hard to get into for newcomers. The tutorial video is so deeply buried that [Nintendo had to post a tutorial on how to find it](https://kotaku.com/nintendo-posts-tutorial-on-how-to-find-smash-ultimates-1831323868). You have to grind for hours and hours to unlock all the fighters you might play. The menu and interface actively fight your attempts to get to the kind of game you want. I really want to like this game, and get better at it, but along with the lag-laden online matches, it's hard to get into. (See also: section about how a large number of my friends no longer live near me)
+
+![Death Road to Canada](/assets/post_images/2019-01-03/deathroadtocanada.jpg)
+
+**Death Road to Canada:** A goofy, challenging shoot-em-up with permadeath and lots of weird humor. Cheap, fun, great airplane/15-minutes-free game.
 
 #### PC
 
@@ -298,7 +308,7 @@ I bought a Switch in 2018, and it's been great. The portability, the indie games
 
 **Bastion:** I intend to make it through every one of this company's games someday, and this was my starting point. The soundtrack, the voice acting are notably better than you'd ever expect.
 
-<a name="pets"/></a>
+<a name="pets"></a>
 ### Pictures of pets
 
 **Howard**
