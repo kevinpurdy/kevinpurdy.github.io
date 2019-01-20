@@ -1,18 +1,18 @@
 ---
 layout: post
 title: 2018 In Review
-published: false
+published: true
 ---
 
 I started last year's review with this, THIS:
 
 > 2017, as lived in and around the United States of America,
 
-But I can forgive myself. It was hard to believe 2017 happened, and at the end, I wanted to record and confirm that it really did, and how it felt.
+Wow, buddy. But, also, I can forgive myself. It was hard to believe 2017 happened, and at the end, I wanted to record and confirm that it really did, and how it felt.
 
-2018, I know that year happened. It feels like it happened twice. I'm gonna list and detail some things about it, that were important to me, to varying degrees. Here are those things.
+2018, I know that year happened. It felt like it happened twice. I'm gonna list and detail some things about it, that were important to me, to varying degrees. Here are those things.
 
-Hey, if you spot a typo or formatting quirk, let me know by [quick tweet](https://mobile.twitter.com/home?status=@kevinpurdy%20Typo%20in%202018%20review%20post:) or [email](mailto:kspurdy@gmail.com).
+If you spot a typo or formatting quirk, let me know by [quick tweet](https://mobile.twitter.com/home?status=@kevinpurdy%20Typo%20in%202018%20review%20post:) or [email](mailto:kspurdy@gmail.com).
 
 + [CoworkBuffalo](#coworkbuffalo)
 + [Bikes](#bikes)
