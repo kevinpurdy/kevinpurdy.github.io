@@ -38,7 +38,7 @@ My biggest regret is that my dad never knew his son worked for the New York Time
 
 Onward.
 
-***
+---
 
 [^1]: Jacqui, incidentally, kindly taught me not to answer when a prospective employer asks you for a salary "range."" Sorry, new bosses, but it's a no-win question!
 
