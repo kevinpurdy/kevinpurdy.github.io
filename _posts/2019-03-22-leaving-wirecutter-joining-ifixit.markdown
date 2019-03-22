@@ -6,7 +6,7 @@ published: true
 
 Today is my last day at [Wirecutter](https://wirecutter.com).
 
-I started writing for the home-goods side of Wirecutter in early 2013. I [joined the staff full-time in early 2015](http://thepurdman.com/full-time/). We were [bought by the New York Times in late 2016](https://www.nytimes.com/2016/10/25/business/media/new-york-times-company-buys-the-wirecutter.html). It never quite felt like I truly settled in, and yet it is the longest-held job in my career. This is a compliment; it is not a site or publication that rests on its heels.
+I started writing for the home-goods side of Wirecutter in early 2013. I [joined the staff full-time in early 2015](http://thepurdman.com/full-time/). We were [bought by the New York Times in late 2016](https://www.nytimes.com/2016/10/25/business/media/new-york-times-company-buys-the-wirecutter.html). It never felt like I truly settled in, and yet it is the longest-held job in my career. This is a compliment; it is not a site or publication that rests on its heels.
 
 I'm heading to [iFixit](https://www.ifixit.com/), which is a few different things: an online wiki-style repair guide, a shop for tools and parts for electronics and other gear, an advocate for the societal and ecological good of [fixing things instead of throwing them away](https://ifixit.org), and a partner in the [Right to Repair movement](https://repair.org/). I'm going to write about people repairing things, people forcing companies to think beyond the next sales cycle, and people who are helping all of us rethink our relationship to our stuff.
 
