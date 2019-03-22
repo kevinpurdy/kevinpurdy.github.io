@@ -32,7 +32,7 @@ I can't remember everything about being a 32-year-old freelancer, but I remember
 
 > That'll be the best way to make sure we're hitting these things in such a way that someone who doesn't know us or have any reason at all to believe us has no room to not believe us. they'll have to believe us. ... the piece is fine without this stuff, but I think it'll be good to aim for best and most comprehensive piece on dutch ovens in the world ...
 
-I also owe Jacqui Cheng many thanks, for keeping after me to sign on full-time, and many other gracious things along our shared path.[^1] The same goes for everyone who helped me make torturous pick decisions. To those who had to prune my verbiage and make me commit to declarative statements: I shall strive to torture fewer people in the future.
+I also owe Jacqui Cheng many thanks, for keeping after me to sign on full-time, and many other gracious things along our shared path.[^1] The same goes for everyone who helped me make overwrought pick decisions. To those who had to prune my verbiage and make me commit to declarative statements: I shall strive to torture fewer people in the future.
 
 My biggest regret is that my dad never knew his son worked for the New York Times[^2]. I think he would have liked the risk I'm taking now, though.
 
