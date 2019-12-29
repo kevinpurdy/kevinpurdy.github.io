@@ -1,0 +1,48 @@
+---
+layout: post
+title: 2019 In Review
+published: false
+---
+
++ [Bikes](#bikes)
++ [Baking](#baking)
++ [Writing](#writing)
++ [Lifting](#lifting)
++ [TEDxBuffalo](#tedxbuffalo)
++ [Awesome Buffalo](#awesome)
++ [Raspberry Pi](#pi)
++ [Ugh, Twitter](#twitter)
++ [Reading](#reading)
++ [Tasks](#tasks)
++ [Games](#games)
++ [Pictures of Pets](#pets)
+
+
+<a name="games"></a>
+## Games
+
+### Switch
+
+**Stardew Valley**
+
+**Into the Breach**
+
+**Slay the Spire**
+
+### PC
+
+
+
+
+
+<a name="pets"></a>
+## Pictures of pets
+
+**Howard**
+![Howard](/assets/post_images/2019-12-19/howard.jpg)
+
+**Cork**
+![Cork](/assets/post_images/2019-12-19/cork.jpg)
+
+**Apricot**
+![Apricot](/assets/post_images/2019-12-19/apricot.jpg)
