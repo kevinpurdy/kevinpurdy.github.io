@@ -13,7 +13,6 @@ published: false
 + [Raspberry Pi](#pi)
 + [Ugh, Twitter](#twitter)
 + [Reading](#reading)
-+ [Tasks](#tasks)
 + [Games](#games)
 + [Pictures of Pets](#pets)
 
@@ -31,37 +30,45 @@ Nearly 30 hours later, I am a happy tenant on my wife's farm. I'm learning how t
 
 **Tetris 99:** I'm not all that good at battle-royale tetris, but my wife is brutally efficient. She usually places in the top 10, often in the top five. It's a big part of why she got her own Switch Lite—I didn't want to deprive her of dunking on other people's weak lines while I was away or playing ...
 
-**The Witcher 3: Wild Hunt:** I'd already [played through once on PC](http://thepurdman.com/2017-in-review/#games). The graphics on the Switch are a far cry from that. Sometimes you can nearly feel the Switch trudging like it's on mile 18 of a marathon. I don't care; I don't think tri-linear filtering or water ripple effects are why this game is one of my all-time favorites. I'm trying out different decisions, a new character build and strategies, reliving old favorite moments, and I can do it in anairport terminal or on the couch while the rice is cooking.
+![Image from Witcher 3 on Switch: Geralt looks at his vineyard and says, "Pretty vast..."](/assets/post_images/witcher_3.jpg)
 
-**Wargroove:**
+**The Witcher 3: Wild Hunt:** I'd already [played through once on PC](http://thepurdman.com/2017-in-review/#games). The graphics on the Switch are a far cry from that. Sometimes you can nearly feel the Switch trudging like it's on mile 18 of a marathon. I don't care; I don't think tri-linear filtering or water ripple effects are why this game is one of my all-time favorites. I'm trying out different decisions, new character builds and strategies, reliving old favorite moments, and doing it in an airport terminal, or while rice is cooking for dinner.
 
-**My Friend Pedro:**
+**Wargroove:** Dug it, well worth the tiny price. I really like the idea of asynchronous games you can play turn by turn with friends, remotely.
 
-**Untitled Goose Game:**
+**My Friend Pedro:** Neat core mechanics, but I didn't love the vibe or plot, however thin a layer they were supposed to be. Games that mock you to redo levels for a better score? Not my favorite, but then, they also make it easier to realize you don't care enough to do better.
 
-**The Legend of Zelda: Link's Awakening:**
+**Untitled Goose Game:** I bought it before a 5-hour flight, and it was just perfect for it. Like the good person tweeted:
 
-**Super Metroid:**
+[<img src="/assets/post_images/goosegame_tweet.jpg">](https://twitter.com/p01arst0rm/status/1177717337845374976)
 
-**DragonQuest Builders 1/2:**
+![Image from Link's Awakening on Switch](/assets/post_images/links_awakening.jpg)
 
-**Into the Breach:** I have never really stopped playing this game. It's installed on every computer I own (even this Pixelbook, via Linux/Steam), it's on my Switch. I almost hope they never release DLC for it. I don't want to know what's beyond 100%-ing this game.
+**The Legend of Zelda: Link's Awakening:** The art style is really neat, the music is top-notch, and the nostalgia kicks were fun. But this is one of a growing number of Nintendo first-party games that I've bought, played immediately, then re-sold to recoup about 2/3 the cost. Not a ton of replay value, but glad to hang with an old friend for a while. Speaking of old friends!
 
-**Super Smash Bros. Ultimate:** I ended up selling this. Too demanding of my time to learn, advance, or just enjoy. I did enjoy playing against friends online, when it worked.
+![Super Metroid screnshot](/assets/post_images/super_metroid.jpg)
+
+**Super Metroid:** The minute I saw that Super Metroid was coming to the Switch's free NES/SNES game library, I knew I would be playing through it, yet again. And I did. With maybe 10 years distance since my last play-through (maybe?), I notice how some of the puzzles and secrets are seemingly impossible to intuit without a quick Google search, or the kind of time kids have. Or maybe the web has made me lazy. Or both!
+
+![Dragon Quest Builders screenshot](/assets/post_images/dragonquest_builders.jpg)
+
+**Dragon Quest Builders 1/2:** Based entirely on [Jason Schreier's review](https://kotaku.com/dragon-quest-builders-the-kotaku-review-1822880632), I tried out a demo of "_Minecraft_ with actual tasks." One week later, I had bought a used copy on eBay and was well into building something way too elaborate for what was required. Weird humor that feels like all the mistranslated humor of my JRPG youth (but intentional?), interesting tasks, and really good performance on the Switch.
+
+2 contained lots of fixes and upgrades for the systems, controls, and gameplay loops. I'm maybe halfway through it, but I dropped it for other games. I'll probably get back in, but it might be easier to OD on blocks and tasks than, say, endlessly varied strategy games. LIKE ...
+
+**Into the Breach:** I have never really stopped playing this game. It's installed on every computer I own (even this Pixelbook, via Linux/Steam), it's on my Switch. I almost hope they never release DLC for it. I've never been so driven to 100% a game. UNLIKE ...
+
+**Super Smash Bros. Ultimate:** I ended up selling this. Too demanding of my time to learn, advance, or just enjoy. I did enjoy playing against friends online, when it worked. Footnote: I went to a local Smash tournament, big-screened inside a historic theater, and watching that and feeling the cohesion and camaraderie of the competitors and crowd was honestly thrilling. And way more fun than endlessly changing controller settings or fighting AI opponents to unlock characters.
 
 ### PC
 
-**Slay the Spire:**
+**Slay the Spire:** _Magic: The Gathering_ is off-putting, both in card and computer form, because it feels like I could never catch up, or stop spending money. Ditto _Hearthstone_. But a contained, single-player deckbuilding game with rogue-ish progression? Oh heck yes. I have installed this on a PC, a Mac, and a Chromebook, have different progress on each of them, don't even care that it's inefficient.
 
-**Baldur's Gate II / Knights of the Old Republic I/II:**
+**Baldur's Gate II / Knights of the Old Republic I/II:** Maybe it was the Switch release of BioWare's classic CRPGs, or the endless _Star Wars_ discussions, but it felt like every game critic personally emailed me this year to remind me that these are among the most well-regarded RPGs of all time. I ... cannot play them. I've put a few hours into each one. The pause-and-correct battle system gives me actual stress headaches. The potato-gon graphics on KOTOR are hard to stomach now, which is not LucasArts' fault _per se_, but ... I just didn't want to hang around for the great writing that I was told would come.
 
-**Dishonored 2:**
+**Dishonored 2:** Speaking of great writing! Dug this game a whole bunch. Improved on its predecessor, provided just the right mix of open exploration and guideposts, and the voice acting! Voice acting in open-world games often gets extremely old, to the point of irony ("[then I took an arrow in the knee](https://knowyourmeme.com/memes/i-took-an-arrow-in-the-knee)"). I could listen to the NPCs in Dishonored talk forever.
 
-**Wolfenstein II: The New Order:**
-
-
-
-
+**Wolfenstein: The New Order:** What a fun ride. I am very sad that killing Nazis—really, just killing lots of Nazis, and wanting more of them to be killed—has even more real-world context now than when this was released in 2014. But it wouldn't work if the mechanics, the feel, the voice acting, and even a lot of the writing didn't sing and glide.
 
 <a name="pets"></a>
 ## Pictures of pets
