@@ -12,7 +12,7 @@ I'm heading to [iFixit](https://www.ifixit.com/), which is a few different thing
 
 Yes, I can also lend you a spudger, if you're nearby. I start in early April.
 
-Leaving Wirecutter was an extremely tough decision. I will miss so many of the people that are part of my daily life now. I almost wrote "despite only knowing them through Slack,"" but I think I know these people better through an open all-day chat than I would if we worked in the same building. We're obsessives, and the job demands that we burrow into our computers and spreadsheets and tests. But people play off one another when they need a break from rabbit holes, and it's often a wonderful cacophony of knowledge and good humor and corny humor and trivia and deep links and encouragement.
+Leaving Wirecutter was an extremely tough decision. I will miss so many of the people that are part of my daily life now. I almost wrote "despite only knowing them through Slack," but I think I know these people better through an open all-day chat than I would if we worked in the same building. We're obsessives, and the job demands that we burrow into our computers and spreadsheets and tests. But people play off one another when they need a break from rabbit holes, and it's often a wonderful cacophony of knowledge and good humor and corny humor and trivia and deep links and encouragement.
 
 But. After nearly six years of trying to answer the question "What's the best one of these things to buy, so I don't have to worry about it?", I'm ready for something new. It might be the question: "Why are we getting rid of so many things?"
 
