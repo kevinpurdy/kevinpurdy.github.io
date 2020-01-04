@@ -28,6 +28,8 @@ Working at iFixit for just a few months has changed my understanding of consumer
 <a name="repairs"></a>
 ## Repairs
 
+![Replacing the battery on a Big Jambox at Community Beer Works brewery](/assets/post_images/2019-12-29/battery_replacement_web.jpg)
+
 Here's everything I can remember trying to fix in 2019:
 
 + Replace battery in 2014 Chromebook Pixel: **Success**
