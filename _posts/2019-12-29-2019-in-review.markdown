@@ -29,12 +29,14 @@ Working at iFixit for just a few months has changed my understanding of consumer
 ## Repairs
 
 ![Replacing the battery on a Big Jambox at Community Beer Works brewery](/assets/post_images/2019-12-29/battery_replacement_web.jpg)
+_Helping a friend replace the battery in a Big Jambox at Community Beer Works, because neither of our wives wanted us drinking and scattering parts on their table that night._
 
-Here's everything I can remember trying to fix in 2019:
+Here's everything I can remember trying to fix in 2019. I think it's important to be honest about expected outcomes when trying DIY repairs. Some things you can do yourself, but bore qualified technicians offering all kinds of repair services, at competitive prices to manufacturers, is a win for everyone.
 
 + Replace battery in 2014 Chromebook Pixel: **Success**
 + Replace the water-logged screen in Pixel C tablet with the screen from a bricked parts-only Pixel C bought on eBay, clean corrosion on logic board: **Success**
-+ Replace
++ Replace battery on Big Jambox: **Mixed** (Battery was replaced, but something else may have been wrong with it: wouldn't take a charge after working once, then wouldn't even work plugged in.)
++ Replace battery in MacBook Air: **Success**
 + Replace headlamp on Ford C-Max with used $150 junkyard part, instead of $550 dealer part: **Success**
 + Replace battery in friend's iPhone 6s,7 Plus phone: **Success**
 + Replace screen on iPad Mini 2nd gen: **Mixed** (Had to order a new LCD panel, too, because removing an obscene amount of very sticky broken glass injured it)
@@ -42,7 +44,8 @@ Here's everything I can remember trying to fix in 2019:
 + Replace battery in Pixel 2: **Success**
 + iPad 2 screen separated, unreliable charging: **Success** (fixed with Sugru and pliers)
 + Galaxy S8 Plus battery and screen replacement: **Success**
-+
++ Replace battery in Pixel 2: **Mixed/Failure** (Why did the screen die on _this_ Pixel 2 during a battery replacement, when I had pulled off the same exact fix with less experience a few months prior? Do not know. Fragile OLED displays under fragile curved glass are not my favorite technology. The battery replacement worked, though.)
++ [Remove write-protect screw from Chromebook Pixel 2013](https://www.ifixit.com/Guide/Install+CloudReady+for+Chrome+Updates+(or+another+OS)/123869), Toshiba Chromebook 2, various other Chromebooks: **Success** (Long-term project, for myself and for work).
 
 <a name="pi"></a>
 ## Raspberry Pi Nonsense
