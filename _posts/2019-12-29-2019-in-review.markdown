@@ -5,23 +5,34 @@ published: false
 ---
 
 + [New Job](#newjob)
-+ [Bikes](#bikes)
 + [Repairs](#repairs)
++ [Raspberry Pi](#pi)
++ [Bikes](#bikes)
 + [Baking (Plus a Granola Recipe)](#baking)
 + [Writing](#writing)
 + [Lifting](#lifting)
 + [TEDxBuffalo](#tedxbuffalo)
 + [Awesome Buffalo](#awesome)
-+ [Raspberry Pi](#pi)
 + [Ugh, Twitter](#twitter)
 + [Reading](#reading)
 + [Games](#games)
 + [Pictures of Pets](#pets)
 
+<a name="newjob"></a>
+## New Job
+
+<a name="repairs"></a>
+## Repairs
+
+<a name="pi"></a>
+## Raspberry Pi Nonsense
+
+<a name="bikes"></a>
+
 <a name="baking"></a>
 ## Baking (Plus a Granola Recipe)
 
-Me, King Arthur Flour, Domino Sugars and, sometimes, Organic Valley Cultured Butter: we got even closer this year.
+Me, King Arthur Flour, Domino Sugar, and Organic Valley Cultured Butter: we got even closer this year.
 
 <img src="/assets/post_images/2019-12-29/baking_grid_web.jpg"/>
 Clockwise, from top left, and then ending in the middle:
@@ -43,8 +54,6 @@ Normally the thing I bake most is cookies—lots and lots and lots of cookies—
 <img align="right" src="/assets/post_images/2019-12-29/granola.jpg" width="300"/>It started with [this recipe in NYT Cooking](https://cooking.nytimes.com/recipes/1014304-eleven-madison-park-granola), pulled from the cookbook of modernist restaurant [Eleven Madison Park](https://www.elevenmadisonpark.com/). It is the granola given to guests at the end of their meal, intended for breakfast the next morning. It's a nice gesture, earned by paying nearly $350 per person for a dinner with no set menu. Moving on.
 
 I made it once because I had a bunch of the ingredients on-hand, taking up space in the cupboard. My in-laws were over, and I offered it with some Fage yogurt for breakfast. I don't know if I've ever heard such praise for something I made. My in-laws are pretty picky about granola, because they are, well, granola types. Something about the olive oil and salt as a backing, the varied textures, the good amount of protein amongst the maple-covered carbs. I kept making it, for ourselves and for friends. Ever make something really simple that gets more praise than the really complex stuff you sweat over? Yeah, it's like the social media equivalent of baking.
-
-
 
 Here's an annotated version of that granola. By all means, though, subscribe to [NYT Cooking](cooking.nytimes.com), where I found the original, and which my house finds invaluable for meal inspiration.
 
@@ -84,6 +93,21 @@ Meanwhile, in a large bowl, mix together dry non-sweet ingredients (oats, nuts, 
 On a rimmed baking sheet, lined with parchment or a silpat, spread out the granola, as even as you can get it. Place in the oven (I use a lower rack, probably doesn't matter). Bake 35-40 minutes. I stir it every 12 minutes with a spatula, for a total of 36 minutes. After 35 minutes, it's up to you how brown and toasty you want your granola.
 
 When it's ready, remove from the oven and immediately mix in the dried fruit. In my head, this softens them up and causes them to trade their sweet/bitter flavors with the still-hot roasted stuff, but who knows. Wait until the granola is cool to store it.
+
+<a name="writing"></a>
+## Writing
+
+<a name="lifting"></a>
+## Lifting
+
+<a name="tedxbuffalo"></a>
+## TEDxBuffalo
+
+<a name="awesome"></a>
+## Awesome Buffalo
+
+<a name="twitter"></a>
+## Twitter
 
 <a name="reading"></a>
 ## Reading
