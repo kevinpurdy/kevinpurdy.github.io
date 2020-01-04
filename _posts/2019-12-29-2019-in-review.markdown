@@ -21,8 +21,26 @@ published: false
 <a name="newjob"></a>
 ## New Job
 
+I [left Wirecutter and started writing at iFixit](http://thepurdman.com/leaving-wirecutter-joining-ifixit/) in April 2019. It's been a very odd, rewarding adventure so far. On any given day, I'm researching copyright legislation, touring an electronics recycling plant, interviewing [Pebble hackers](https://www.ifixit.com/News/rebble-with-a-cause-how-pebble-watches-got-their-amazing-afterlife), or digging deep into device design.
+
+Working at iFixit for just a few months has changed my understanding of consumerism, recycling, product design, the legislative process, and, of course, how capable the average person is when it comes to fixing their things. As such, I tried to fix more things than I normally do last year.
+
 <a name="repairs"></a>
 ## Repairs
+
+Here's everything I can remember trying to fix in 2019:
+
++ Replace battery in 2014 Chromebook Pixel: **Success**
++ Replace the water-logged screen in Pixel C tablet with the screen from a bricked parts-only Pixel C bought on eBay, clean corrosion on logic board: **Success**
++ Replace
++ Replace headlamp on Ford C-Max with used $150 junkyard part, instead of $550 dealer part: **Success**
++ Replace battery in friend's iPhone 6s,7 Plus phone: **Success**
++ Replace screen on iPad Mini 2nd gen: **Mixed** (Had to order a new LCD panel, too, because removing an obscene amount of very sticky broken glass injured it)
++ Replace keyboard in Chromebook Pixel 2013: **Gruesome failure** (I killed the display while trying to make this overwrought fix, probably because the battery was connected while I attempted to re-attach the cable and shorted it. Next time I read that the keys are riveted to the case, I'll think twice!)
++ Replace battery in Pixel 2: **Success**
++ iPad 2 screen separated, unreliable charging: **Success** (fixed with Sugru and pliers)
++ Galaxy S8 Plus battery and screen replacement: **Success**
++
 
 <a name="pi"></a>
 ## Raspberry Pi Nonsense
@@ -154,6 +172,10 @@ Nearly 30 hours later, I am a happy tenant on my wife's farm. I'm learning how t
 
 **Wargroove:** Dug it, well worth the tiny price. I really like the idea of asynchronous games you can play turn by turn with friends, remotely.
 
+![Night in the Woods screenshot, featuring Pastabilities, which is an honest-to-God restaurant in Syracuse that seems like parody, but is just a restaurant everyone recommends](/assets/post_images/2019-12-29/night_in_the_woods.jpg)
+
+**Night in the Woods:** Sasha at Wirecutter told me that I would love this game, over and over. I grew up in a past-its-glory upstate NY town, she knew, and if I didn't like the vibe of this game, well, she doubted whether she knew anything about me. Sasha, you were right! This game was wonderful, and lasted exactly as long as it should, and had a real impact on my brain-feels.
+
 **My Friend Pedro:** Neat core mechanics, but I didn't love the vibe or plot, however thin a layer they were supposed to be. Games that mock you to redo levels for a better score? Not my favorite, but then, they also make it easier to realize you don't care enough to do better.
 
 **Untitled Goose Game:** I bought it before a 5-hour flight, and it was just perfect for it. Like the good person tweeted:
@@ -192,10 +214,13 @@ Nearly 30 hours later, I am a happy tenant on my wife's farm. I'm learning how t
 ## Pictures of pets
 
 **Howard**
+
 ![Howard](/assets/post_images/2019-12-29/howard.jpg)
 
 **Cork**
+
 ![Cork](/assets/post_images/2019-12-29/cork.jpg)
 
 **Apricot**
+
 ![Apricot](/assets/post_images/2019-12-29/apricot.jpg)
