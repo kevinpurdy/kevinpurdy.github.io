@@ -6,7 +6,8 @@ published: false
 
 + [New Job](#newjob)
 + [Bikes](#bikes)
-+ [Baking](#baking)
++ [Repairs](#repairs)
++ [Baking (Plus a Granola Recipe)](#baking)
 + [Writing](#writing)
 + [Lifting](#lifting)
 + [TEDxBuffalo](#tedxbuffalo)
@@ -18,7 +19,41 @@ published: false
 + [Pictures of Pets](#pets)
 
 <a name="baking"></a>
-## Baking
+## Baking (Plus a Granola Recipe)
+
+Me, King Arthur Flour, Domino Sugars and, sometimes, Organic Valley Cultured Butter: we got even closer this year.
+
+<img src="/assets/post_images/2019-12-29/baking_grid_web.jpg"/>
+Clockwise, from top left, and then ending in the middle:
+
++ Lemon meringue pie
++ Giant chocolate cake
++ Sobble Pokemon (sculpted by Matt Taylor) on a fondant-covered chocolate cake
++ Millionaire's Shortbread (Cook's Illustrated)
++ Guinness Cake (NYT)
++ Bakewell Tart (Great British Baking Show/BBC)
++ Thick & Chewy cookies (Cook's)
++ Chocolate Beet Cake (Good Housekeeping)
++ Almost-No-Knead bread (Cook's)
+
+I wrote about my four-year quest to make a "no-knead" bread, rife with [dense little failure discs](https://photos.app.goo.gl/LAhiXMhbVhYjWMMu7), for [Buffalo Eats' favorite meal roundup](http://www.buffaloeats.org/2020/01/01/meals-of-2019-part-4/).
+
+Normally the thing I bake most is cookies—lots and lots and lots of cookies—for my Ride for Roswell patrons ([email me](mailto:kspurdy@gmail.com?subject=Roswell Cookies 2020) if you want in for 2020!). This year, however, the thing I baked most was granola.
+
+It started with [this recipe in NYT Cooking](https://cooking.nytimes.com/recipes/1014304-eleven-madison-park-granola), pulled from the cookbook of modernist restaurant [Eleven Madison Park](https://www.elevenmadisonpark.com/). It is the granola given to guests at the end of their meal, intended for breakfast the next morning. It's a nice gesture, earned by paying nearly $350 per person for a dinner with no set menu. Moving on.
+
+I made it once because I had a bunch of the ingredients on-hand, taking up space in the cupboard. My in-laws were over, and I offered it with some Fage yogurt for breakfast. I don't know if I've ever heard such praise for something I made. My in-laws are pretty picky about granola, because they are, well, granola types. Something about the olive oil and salt as a backing, the varied textures, the good amount of protein amongst the maple-covered carbs. I kept making it, for ourselves and for friends. Ever make something really simple that gets more praise than the really complex stuff you sweat over? Yeah, it's like the social media equivalent of baking.
+
+<img src="/assets/post_images/2019-12-29/granola.jpg"/>
+
+Here's an annotated version of that granola. By all means, though, subscribe to [NYT Cooking](cooking.nytimes.com), where I found the original, and which my house finds invaluable for meal inspiration.
+
+**Ingredients**
++ 2 3/4 cups rolled oats (i.e. _not_ instant oats)
++ 1 cup shelled pistachios
+    * Or almonds, walnuts, pecans, cashews, chopped about as fine as pistachios
++
+
 
 
 
@@ -28,9 +63,9 @@ Cookies
 Bakewell tart
 Almost-No-Knead bread
 
-<img src="/assets/post_images/2019-12-29/baking_grid_web.jpg"/>
 
-<img src="/assets/post_images/2019-12-29/granola.jpg"/>
+
+
 
 
 <a name="reading"></a>
