@@ -57,9 +57,12 @@ Anyways, I now have a Pi running [RetroPie](https://retropie.org.uk/), inside th
 The other Pi, a version 4 with 4 GB RAM, is in my office, always on and doing weird stuff. Network stuff, downloading stuff, firewall stuff. In some ways, it's like a learning box for Linux, remote sysadmin, and stuff like that. I love it.
 
 <a name="bikes"></a>
+## Bikes
+
 I didn't buy any bikes this year; I've staved off the armies of n+1 for another year. But I did buy new tires, cables, housings, and a few other components for the 1985-ish Peugeot mountain bike. I had once used it as a winter beater; after trying to restore it back to health after that, I don't think anyone should have to deal with Buffalo's roads in winter, ever. Humans included.
 
 ![Doofus cleaning and polishing some mountain bike wheels](/assets/post_images/2019-12-29/bike_wheel.jpg)
+
 _Me, a human in the U.S., using his limited vacation time to clean bike wheels_
 
 I spent a good chunk of vacation scraping the salt and rust off with steel wool, cleaning and greasing everything, repacking the bearings, and trying to make it all fit again. But I'm stuck on the rear wheel. I can't make the axle go back together and fit the frame again. I had to dismantle it to get the freewheel off, but I didn't do a good enough job keeping track of the original hardware and spacings. Part of me wants to give in and just buy entirely new wheels with sealed bearings, but they don't make 26-inch wheels in that width anymore. Time to scavenge the vintage parts at the co-op and see what can be done.
@@ -152,7 +155,13 @@ I know, that doesn't sound like me at all! But it's working.
 <a name="twitter"></a>
 ## Ugh, Twitter
 
-https://twitter.com/kevinpurdy/status/1144358951951196160 - 103
+<a href="https://twitter.com/kevinpurdy/status/1144358951951196160">![In this 3-D animated rendering of Buffalo's newest reuse project, they included one guy who is absolutely not feeling this bank office. https://youtu.be/xz8PSZiREAg](/assets/post_images/2019-12-29/tweet1.jpg)</a>
+
+
+
+
+
+
 https://twitter.com/kevinpurdy/status/1185220329242877953 - 88
 https://twitter.com/kevinpurdy/status/1140676957119664128 -71
 https://twitter.com/kevinpurdy/status/1125407930155700224 - 68
