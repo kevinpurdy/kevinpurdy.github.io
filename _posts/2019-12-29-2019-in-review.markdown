@@ -63,8 +63,6 @@ I didn't buy any bikes this year; I've staved off the armies of n+1 for another 
 
 <img src="/assets/post_images/2019-12-29/bike_wheel.jpg" align="right" width="300" alt="Doofus cleaning and polishing some mountain bike wheels"/>
 
-_Me, a human in the U.S., using his limited vacation time to clean bike wheels_
-
 I spent a good chunk of vacation scraping the salt and rust off with steel wool, cleaning and greasing everything, repacking the bearings, and trying to make it all fit again. But I'm stuck on the rear wheel. I can't make the axle go back together and fit the frame again. I had to dismantle it to get the freewheel off, but I didn't do a good enough job keeping track of the original hardware and spacings. Part of me wants to give in and just buy entirely new wheels with sealed bearings, but they don't make 26-inch wheels in that width anymore. Time to scavenge the vintage parts at the co-op and see what can be done.
 
 <a name="baking"></a>
