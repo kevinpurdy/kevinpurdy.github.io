@@ -38,7 +38,7 @@ Here's everything I can remember trying to fix in 2019. I think it's important t
 + Replace battery on Big Jambox: **Mixed** (Battery was replaced, but something else may have been wrong with it: wouldn't take a charge after working once, then wouldn't even work plugged in.)
 + Replace battery in MacBook Air: **Success**
 + Replace headlamp on Ford C-Max with used $150 junkyard part, instead of $550 dealer part: **Success**
-+ Replace battery in friend's iPhone 6s,7 Plus phone: **Success**
++ Replace battery in friend's iPhone 6s,7 Plus phones: **Success**
 + Replace screen on iPad Mini 2nd gen: **Mixed** (Had to order a new LCD panel, too, because removing an obscene amount of very sticky broken glass injured it)
 + Replace keyboard in Chromebook Pixel 2013: **Gruesome failure** (I killed the display while trying to make this overwrought fix, probably because the battery was connected while I attempted to re-attach the cable and shorted it. Next time I read that the keys are riveted to the case, I'll think twice!)
 + Replace battery in Pixel 2: **Success**
@@ -50,7 +50,19 @@ Here's everything I can remember trying to fix in 2019. I think it's important t
 <a name="pi"></a>
 ## Raspberry Pi Nonsense
 
+I owned zero [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) devices in 2018. By the end of 2019, I had two. They're addictive. They're tiny Linux computers that use very little power. They're a workshop that's always open if you have SSH or VNC access, even if it's freezing outside or you're trapped in a waiting room.
+
+Anyways, I now have a Pi running [RetroPie](https://retropie.org.uk/), inside this [wonderful tiny NES case](https://www.amazon.com/gp/product/B07BRHDVTN), hooked up to the TV, waiting for ... a life where I have lots of time to play old games. I did get to play some Golden Sun, which I never got to try on Game Boy Advance, and it's pretty neat.
+
+The other Pi, a version 4 with 4 GB RAM, is in my office, always on and doing weird stuff. Network stuff, downloading stuff, firewall stuff. In some ways, it's like a learning box for Linux, remote sysadmin, and stuff like that. I love it.
+
 <a name="bikes"></a>
+I didn't buy any bikes this year; I've staved off the armies of n+1 for another year. But I did buy new tires, cables, housings, and a few other components for the 1985-ish Peugeot mountain bike. I had once used it as a winter beater; after trying to restore it back to health after that, I don't think anyone should have to deal with Buffalo's roads in winter, ever. Humans included.
+
+![Doofus cleaning and polishing some mountain bike wheels](/assets/post_images/2019-12-29/bike_wheel.jpg)
+_Me, a human in the U.S., using his limited vacation time to clean bike wheels_
+
+I spent a good chunk of vacation scraping the salt and rust off with steel wool, cleaning and greasing everything, repacking the bearings, and trying to make it all fit again. But I'm stuck on the rear wheel. I can't make the axle go back together and fit the frame again. I had to dismantle it to get the freewheel off, but I didn't do a good enough job keeping track of the original hardware and spacings. Part of me wants to give in and just buy entirely new wheels with sealed bearings, but they don't make 26-inch wheels in that width anymore. Time to scavenge the vintage parts at the co-op and see what can be done.
 
 <a name="baking"></a>
 ## Baking (Plus a Granola Recipe)
@@ -120,8 +132,16 @@ When it's ready, remove from the oven and immediately mix in the dried fruit. In
 <a name="writing"></a>
 ## Writing
 
+Other than this post you're reading, the previous post about my job change, and some odd press releases or text contributions? No real writing outside work. No value judgment at this time! Just how it was last year.
+
 <a name="lifting"></a>
 ## Lifting
+
+This year really taught me that you have to be in it for the long haul. I had some long stretches where I had to step back and watch my numbers go down: work travel, injuries from lifting, injuries from other stuff, the holidays.
+
+Much like you develop core strength, accessory muscles, and good form for the weights, you can, it seems, build resilient strength for setbacks. I've had so many now that it's just exhausting to host a small tantrum and act like it's all outside my own control. There's no shame in not being able to maintain a pro-am exercise schedule while you live you life. Just walk up to the weight, pick it up, and realize that doing something, anything, is better than walking out.
+
+I know, that doesn't sound like me at all! But it's working.
 
 <a name="tedxbuffalo"></a>
 ## TEDxBuffalo
@@ -130,7 +150,21 @@ When it's ready, remove from the oven and immediately mix in the dried fruit. In
 ## Awesome Buffalo
 
 <a name="twitter"></a>
-## Twitter
+## Ugh, Twitter
+
+https://twitter.com/kevinpurdy/status/1144358951951196160 - 103
+https://twitter.com/kevinpurdy/status/1185220329242877953 - 88
+https://twitter.com/kevinpurdy/status/1140676957119664128 -71
+https://twitter.com/kevinpurdy/status/1125407930155700224 - 68
+https://twitter.com/kevinpurdy/status/1109095259412316161 - 57
+https://twitter.com/kevinpurdy/status/1140986632792870913 - 53
+https://twitter.com/kevinpurdy/status/1135567980186804225 - 50
+https://twitter.com/kevinpurdy/status/1185262669676318722 - 44
+https://twitter.com/kevinpurdy/status/1211348580386115585 - 42
+https://twitter.com/kevinpurdy/status/1128695750219763713 - 31
+https://twitter.com/kevinpurdy/status/1124326166318518272 - 21
+
+
 
 <a name="reading"></a>
 ## Reading
