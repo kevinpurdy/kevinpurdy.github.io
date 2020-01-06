@@ -85,7 +85,7 @@ Clockwise, from top left, and then ending in the middle:
 
 I wrote about my four-year quest to make a "no-knead" bread, rife with [dense little failure discs](https://photos.app.goo.gl/LAhiXMhbVhYjWMMu7), for [Buffalo Eats' favorite meal roundup](http://www.buffaloeats.org/2020/01/01/meals-of-2019-part-4/).
 
-Normally the thing I bake most is cookies—lots and lots and lots of cookies—for my Ride for Roswell patrons ([email me](mailto:kspurdy@gmail.com?subject=Roswell Cookies 2020) if you want in for 2020!). This year, however, the thing I baked most was granola.
+Normally the thing I bake most is cookies—lots and lots and lots of cookies—for my Ride for Roswell patrons (<a href="mailto:kspurdy@gmail.com?subject=Roswell Cookies 2020">email me</a> if you want in for 2020!). This year, however, the thing I baked most was granola.
 
 <img align="right" src="/assets/post_images/2019-12-29/granola.jpg" width="300"/>It started with [this recipe in NYT Cooking](https://cooking.nytimes.com/recipes/1014304-eleven-madison-park-granola), pulled from the cookbook of modernist restaurant [Eleven Madison Park](https://www.elevenmadisonpark.com/). It is the granola given to guests at the end of their meal, intended for breakfast the next morning. It's a nice gesture, earned by paying nearly $350 per person for a dinner with no set menu. Moving on.
 
@@ -174,7 +174,7 @@ I deleted my Goodreads account, because I didn't like the idea of Amazon knowing
 
 **Elmore Leonard ([Road Dogs](https://www.amazon.com/Road-Dogs-Novel-Elmore-Leonard-ebook/dp/B0028MVHDM), [Killshot](https://www.amazon.com/Killshot-Novel-Elmore-Leonard-ebook/dp/B000FC12F0/ref=sr_1_1?keywords=elmore+leonard+killshot&qid=1578323820&sr=8-1)):** Late-period Elmore Leonard, mid-period Elmore Leonard: he's one of the writers who gets more and more efficient as he aged. Pretty rare. Buying used Leonard books from libraries and charities is going to be a lifelong habit.
 
-**[Big Game: The NFL in Dangerous Times](http://markleibovich.com/books/big-game-the-nfl-in-dangerous-times):** I read in some review or reference to this book that it started out as a book expansion of Leibovich's interviews with Tom Brady and Robert Kraft, but he couldn't get enough material out of two people who can't or won't express anything remotely profound about their lives and stations. So he went big-picture and anecdotal, in the style of his hit "This Town," and ... I didn't really dig it. I have a voracious appetite for material about our country's favorite socialist tax-dodging billionaire's club, but none of this felt revelatory, and the arch tone made it hard to sit with.
+**[Big Game: The NFL in Dangerous Times](http://markleibovich.com/books/big-game-the-nfl-in-dangerous-times):** I read in some review or reference to this book that it started out as a book expansion of Leibovich's interviews with Tom Brady and Robert Kraft, but he couldn't get enough material out of two people who can't or won't express anything remotely profound about their lives and stations. So he went big-picture and anecdotal, in the style of his hit "This Town," and ... I didn't really dig it. I have a voracious appetite for material about the shitty NFL (see [above tweet](#twitter)), but none of this felt revelatory, and the arch tone made it hard to sit with.
 
 It is fun to read the quips he got out of owners who forgot they were on the record or, like Jimmy Johnson, were dead drunk.
 
@@ -190,7 +190,7 @@ Now, _NBA Jam_: this is my favorite kind of Boss Fight Book, one that tells the 
 
 **[The 33 1/3 B-Sides: New Essays by 33 1/3 Authors on Beloved and Underrated Albums](https://www.amazon.com/33-B-sides-Authors-Beloved-Underrated/dp/1501342452):** A mixed bag, kind of like the used bin at a record store. Some gems, some oddities, mostly enjoyable.
 
-**Bike Snob Abroad:** Not an inspiring rant like the first Bike Snob book, but useful for ... feeling bad about where I live, I guess? Still, humorous and worth the time.
+**[Bike Snob Abroad](https://www.amazon.com/Bike-Snob-Abroad-Incredible-Paradise/dp/1452105251):** Not an inspiring rant like the first Bike Snob book, but useful for ... feeling bad about where I live, I guess? Still, humorous and worth the time.
 
 <a name="games"></a>
 ## Games
@@ -215,11 +215,11 @@ Nearly 30 hours later, I am a happy tenant on my wife's farm. I'm learning how t
 
 **Night in the Woods:** Sasha at Wirecutter told me that I would love this game, over and over. I grew up in a past-its-glory upstate NY town, she knew, and if I didn't like the vibe of this game, well, she doubted whether she knew anything about me. Sasha, you were right! This game was wonderful, and lasted exactly as long as it should, and had a real impact on my brain-feels.
 
-**My Friend Pedro:** Neat core mechanics, but I didn't love the vibe or plot, however thin a layer they were supposed to be. Games that mock you to redo levels for a better score? Not my favorite, but then, they also make it easier to realize you don't care enough to do better.
+**My Friend Pedro:** Neat core mechanics, but I didn't love the vibe or plot, however thin they were intended to be. Games that mock your score to make you redo levels? They make it easy to decide when you're done.
 
 **Untitled Goose Game:** I bought it before a 5-hour flight, and it was just perfect for it. Like the good person tweeted:
 
-[<img src="/assets/post_images/goosegame_tweet.jpg">](https://twitter.com/p01arst0rm/status/1177717337845374976)
+<a href="https://twitter.com/p01arst0rm/status/1177717337845374976"><img src="/assets/post_images/goosegame_tweet.jpg"/></a>
 
 ![Image from Link's Awakening on Switch](/assets/post_images/2019-12-29/links_awakening.jpg)
 
