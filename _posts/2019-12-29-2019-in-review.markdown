@@ -33,7 +33,7 @@ Working at iFixit has changed my understanding of consumerism, recycling, produc
 ![Replacing the battery on a Big Jambox at Community Beer Works brewery](/assets/post_images/2019-12-29/battery_replacement_web.jpg)
 _Helping a friend replace the battery in a Big Jambox at Community Beer Works, because neither of our wives wanted us drinking and scattering parts in the dining room that night._
 
-Here's everything I can remember trying to fix in 2019. I think it's important to be honest about expectations when trying DIY repairs. Some things you can do yourself, and should try. Some things make you wish for the days of repair shops, which are only gone because we let them go.
+Here's everything I can remember trying to fix in 2019. I think it's important to be honest about expectations with DIY repairs. Some things you can fix yourself, and should try. Some things make you wish for the days of repair shops, which are only gone because we let them go.
 
 + Replace battery in 2014 Chromebook Pixel: **Success**
 + Replace water-damaged Pixel C tablet screen with screen from bricked parts-only Pixel C bought on eBay, clean corrosion on logic board: **Success**
@@ -45,7 +45,7 @@ Here's everything I can remember trying to fix in 2019. I think it's important t
 + Replace keyboard in Chromebook Pixel 2013: **Gruesome failure** (Killed display, probably because battery was connected while re-attaching, and because of frustration. Next time I read that the keys are riveted to the case, I'll think twice!)
 + Replace battery in Pixel 2: **Success**
 + iPad 2 screen separated, unreliable charging port: **Success** (fixed with Sugru and pliers)
-+ Galaxy S8 Plus battery and screen replacement: **Success** 
++ Galaxy S8 Plus battery and screen replacement: **Success**
 + Replace battery in Pixel 2: **Mixed/Failure** (Why did the screen die on _this_ Pixel 2 during a battery replacement, when I had pulled off the same exact fix with less experience a few months prior? Do not know. Fragile OLED displays under fragile curved glass are not my favorite technology. The battery replacement worked, though.)
 + [Remove write-protect screw from Chromebook Pixel 2013](https://www.ifixit.com/Guide/Install+CloudReady+for+Chrome+Updates+(or+another+OS)/123869), Toshiba Chromebook 2, various other Chromebooks: **Success** (Long-term project, for myself and for work).
 
@@ -54,18 +54,16 @@ Here's everything I can remember trying to fix in 2019. I think it's important t
 
 I owned zero [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) devices in 2018. By the end of 2019, I had two. They're addictive. They're tiny Linux computers that use very little power. They're a workshop that's always open if you have SSH or VNC access, even if it's freezing outside or you're trapped in a waiting room.
 
-Anyways, I now have a Pi running [RetroPie](https://retropie.org.uk/), inside this [wonderful tiny NES case](https://www.amazon.com/gp/product/B07BRHDVTN), hooked up to the TV, waiting for ... a life where I have lots of time to play old games. I did get to play some Golden Sun, which I never got to try on Game Boy Advance, and it's pretty neat.
-
-The other Pi, a version 4 with 4 GB RAM, is in my office, always on and doing weird stuff. Network stuff, downloading stuff, firewall stuff. In some ways, it's like a learning box for Linux, remote sysadmin, and stuff like that. I love it.
+Anyways, I now have a Pi 3B+ running [RetroPie](https://retropie.org.uk/), inside this [wonderful tiny NES case](https://www.amazon.com/gp/product/B07BRHDVTN), hooked up to the TV, waiting for a life where I have lots of time to play old games. The other Pi, a version 4 with 4 GB RAM, is in my office, always on and doing weird stuff. Network stuff, downloading stuff, firewall stuff. In some ways, it's like a learning box for Linux, remote sysadmin, and stuff like that. I love it.
 
 <a name="bikes"></a>
 ## Bikes
 
 <img src="/assets/post_images/2019-12-29/bike_wheel.jpg" align="right" width="300" alt="Doofus cleaning and polishing some mountain bike wheels"/>
 
-I didn't buy any bikes this year; I've staved off the armies of n+1 for another year. But I did buy new tires, cables, housings, and a few other components for the 1985-ish Peugeot mountain bike. I had once used it as a winter beater; after trying to restore it back to health after that, I don't think anyone should have to deal with Buffalo's roads in winter, ever. Humans included.
+I didn't buy any bikes this year. But I did buy new tires, cables, housings, and a few other components for the 1985-ish Peugeot mountain bike. I had once used it as a winter beater; after seeing it up-close again, I don't think anyone should have to deal with Buffalo's roads in winter, ever. Humans included.
 
-I spent a good chunk of vacation scraping the salt and rust off with steel wool, cleaning and greasing everything, repacking the bearings, and trying to make it all fit again. But I'm stuck on the rear wheel. I can't make the axle go back together and fit the frame again. I had to dismantle it to get the freewheel off, but I didn't do a good enough job keeping track of the original hardware and spacings. Part of me wants to give in and just buy entirely new wheels with sealed bearings, but they don't make 26-inch wheels in that width anymore. Time to scavenge the vintage parts at the co-op and see what can be done.
+I spent a good chunk of a vacation week scraping the salt and rust off with steel wool, cleaning and greasing everything, repacking the bearings, and trying to make it all fit again. But I'm stuck on the rear wheel. I had to dismantle it to get the freewheel off and get at the bearings, but I didn't do a good enough job keeping track of the original hardware and spacings. Part of me wants to give in and just buy entirely new wheels with sealed bearings, but they don't even make 26-inch wheels in that width anymore. Time to scavenge the vintage parts at the co-op and see what can be done.
 
 <a name="baking"></a>
 ## Baking (Plus a Granola Recipe)
@@ -85,15 +83,15 @@ Clockwise, from top left, and then ending in the middle:
 + Chocolate Beet Cake (Good Housekeeping)
 + Almost-No-Knead bread (Cook's)
 
-I wrote about my four-year quest to make a "no-knead" bread, rife with [dense little failure discs](https://photos.app.goo.gl/LAhiXMhbVhYjWMMu7), for [Buffalo Eats' favorite meal roundup](http://www.buffaloeats.org/2020/01/01/meals-of-2019-part-4/).
+I wrote about my four-year quest to make that "no-knead" bread in the center, rife with [dense little failure discs](https://photos.app.goo.gl/LAhiXMhbVhYjWMMu7), for [Buffalo Eats' favorite meal roundup](http://www.buffaloeats.org/2020/01/01/meals-of-2019-part-4/).
 
-Normally the thing I bake most is cookies—lots and lots and lots of cookies—for my Ride for Roswell patrons (<a href="mailto:kspurdy@gmail.com?subject=Roswell Cookies 2020">email me</a> if you want in for 2020!). This year, however, the thing I baked most was granola.
+Normally the thing I bake most is cookies for my Ride for Roswell patrons (<a href="mailto:kspurdy@gmail.com?subject=Roswell Cookies 2020">email me</a> if you want in for 2020!). This year, granola was king.
 
-<img align="right" src="/assets/post_images/2019-12-29/granola.jpg" width="300"/>It started with [this recipe in NYT Cooking](https://cooking.nytimes.com/recipes/1014304-eleven-madison-park-granola), pulled from the cookbook of modernist restaurant [Eleven Madison Park](https://www.elevenmadisonpark.com/). It is the granola given to guests at the end of their meal, intended for breakfast the next morning. It's a nice gesture, earned by paying nearly $350 per person for a dinner with no set menu. Moving on.
+<img align="right" src="/assets/post_images/2019-12-29/granola.jpg" width="300"/>It started with [this recipe in NYT Cooking](https://cooking.nytimes.com/recipes/1014304-eleven-madison-park-granola), pulled from the cookbook of modernist restaurant [Eleven Madison Park](https://www.elevenmadisonpark.com/). It is the granola given to guests at the end of their meal, intended for breakfast the next morning. It's a nice gesture, for people who paid nearly $350 per person for a no-menu dinner.
 
-I made it once because I had a bunch of the ingredients on-hand, taking up space in the cupboard. My in-laws were over, and I offered it with some Fage yogurt for breakfast. I don't know if I've ever heard such praise for something I made. My in-laws are pretty picky about granola, because they are, well, granola types. Something about the olive oil and salt as a backing, the varied textures, the good amount of protein amongst the maple-covered carbs. I kept making it, for ourselves and for friends. Ever make something really simple that gets more praise than the really complex stuff you sweat over? Yeah, it's like the social media equivalent of baking.
+I made it once because I had a bunch of the ingredients taking up space in the cupboard. My in-laws were over, and I offered it with some Fage yogurt for breakfast. I don't know if I've ever heard such praise for something I made. Something about the olive oil and salt as a backing, the varied textures, the good amount of protein amongst the maple-covered carbs. I kept making it, for ourselves and for friends. Ever make something really simple that gets more praise than the really complex stuff you sweat over? Like the kitchen equivalent of a pet picture.
 
-Here's an annotated version of that granola. By all means, though, subscribe to [NYT Cooking](cooking.nytimes.com), where I found the original, and which my house finds invaluable for meal inspiration.
+Here's an annotated version of that granola recipe. By all means, though, subscribe to [NYT Cooking](cooking.nytimes.com), where I found the original, and which my house finds invaluable for meal inspiration.
 
 ### Kevin Madison Park Granola
 
@@ -124,32 +122,33 @@ Here's an annotated version of that granola. By all means, though, subscribe to 
 + 3/4 cup dried sour cherries
     * They're great, but they're expensive and not always easy to find. Any kind of dried, sweet, but tangy/sour fruit works here: dried blueberries, currants, cranberries, or (if you chop them up) dates, apricots, etc. Raisins, obviously, can work, but they're kind of a bog-standard granola ingredient.
 
-Start the oven heating to 300. In a small saucepan, pour in the sugar, syrup, and oil, and start on low heat.
+**Directions**
+Set the oven to 300F. In a small saucepan, pour in the sugar, syrup, and oil, and start on low heat.
 
-Meanwhile, in a large bowl, mix together dry non-sweet ingredients (oats, nuts, chips, seeds, salt). Watch the saucepan, and pull it off the heat when the sugar has dissolved into the liquids (or a very slight boil is starting). Fold the liquids into the dry ingredients with a spatula, until they're evenly coated.
+Meanwhile, in a large bowl, mix together dry non-sweet ingredients (oats, nuts, chips, seeds, salt). Watch the saucepan, and pull it off the heat when the sugar has dissolved into the liquids (or a very slight boil is starting). Stire the liquids good, then fold into the dry ingredients with a spatula, until everything is evenly coated.
 
-On a rimmed baking sheet, lined with parchment or a silpat, spread out the granola, as even as you can get it. Place in the oven (I use a lower rack, probably doesn't matter). Bake 35-40 minutes. I stir it every 12 minutes with a spatula, for a total of 36 minutes. After 35 minutes, it's up to you how brown and toasty you want your granola.
+On a rimmed baking sheet, lined with parchment or a silpat, spread out the granola, as even as you can get it. Place in the oven (I use a lower rack, probably doesn't matter). Bake 35-40 minutes. I take it out every 12 minutes and stir it every 12 minutes with a spatula, for a total of 36 minutes. After 36 minutes, it's up to you how much longer you want to keep going for a deeper brown toastiness.
 
-When it's ready, remove from the oven and immediately mix in the dried fruit. In my head, this softens them up and causes them to trade their sweet/bitter flavors with the still-hot roasted stuff, but who knows. Wait until the granola is cool to store it.
+When it's ready, remove from the oven and immediately mix in the dried fruit. In my head, this softens the fruit up and causes it to trade sweet/bitter flavors with the still-warm roasted stuff, but who knows. Wait until the granola is cool to store it.
 
 <a name="writing"></a>
 ## Writing
 
-Other than this post you're reading, the previous post about my job change, and some odd press releases or text contributions? No real writing outside work. No value judgment at this time! Just how it was last year.
+Other than this post you're reading, the previous post about my job change, and some odd press releases or text contributions? No real writing outside work. No judgement from me, just how it is lately.
 
 <a name="lifting"></a>
 ## Lifting
 
-This year really taught me that you have to be in it for the long haul. I had some long stretches where I had to step back and watch my numbers go down: work travel, injuries from lifting, injuries from other stuff, the holidays.
+This year really taught me that you have to be in it for the long haul. I had some extended periods where I had to step back and watch my numbers go down: travel, injuries, [mallet finger](https://en.wikipedia.org/wiki/Mallet_finger), the holidays.
 
-Much like you develop core strength, accessory muscles, and good form for the weights, you can, it seems, build resilient strength for setbacks. I've had so many now that it's just exhausting to host a small tantrum and act like it's all outside my own control. There's no shame in not being able to maintain a pro-am exercise schedule while you live you life. Just walk up to the weight, pick it up, and realize that doing something, anything, is better than walking out.
+Much like you develop core strength, accessory muscles, and good form for weights, you can build resilient mental strength for setbacks. I've had so many now that it's exhausting to throw a small tantrum every time I get back to work. There's no shame in not being able to maintain a pro-am exercise schedule while you live your life. Just walk up to the weight, pick it up, and realize that doing something, anything, is better than walking out.
 
-I know, that doesn't sound like me at all! But it's working.
+That previous graf doesn't quite sound like me, but in a good way. The work is paying dividends.
 
 <a name="tedxbuffalo"></a>
 ## TEDxBuffalo
 
-It happened again! I'm impressed every year, and deeply thankful that people dedicate their time to keep it going.
+It [happened again](http://tedxbuffalo.com)! I'm impressed every year, and deeply thankful that people dedicate their time to keep it going.
 
 <a name="awesome"></a>
 ## Awesome Buffalo
@@ -167,6 +166,8 @@ If you want to give some money and vote on which great projects it should go to,
 <a name="twitter"></a>
 ## Ugh, Twitter
 
+These are some of the tweets that people (or bots) liked. Linked and screen-captured, because embedding tweets is misplaced optimism.
+
 <a href="https://twitter.com/kevinpurdy/status/1144358951951196160">![In this 3-D animated rendering of Buffalo's newest reuse project, they included one guy who is absolutely not feeling this bank office. https://youtu.be/xz8PSZiREAg](/assets/post_images/2019-12-29/tweet1.jpg)</a>
 
 <a href="https://twitter.com/kevinpurdy/status/1185220329242877953">![The story of Pebble, Rebble @pebble_dev, and their remarkable efforts to keep thousands of well-loved gadgets running—and maybe even working on new hardware. My feature:](/assets/post_images/2019-12-29/tweet2.jpg)</a>
@@ -180,29 +181,29 @@ If you want to give some money and vote on which great projects it should go to,
 <a name="reading"></a>
 ## Reading
 
-I deleted my Goodreads account, because I didn't like the idea of Amazon knowing what, when, and where I read, or which books my friends like. Weird, right? Here's what I do remember reading. (And, yes, a lot of these are Amazon links, if I can't find a proper book/author page. If you're going to buy through Amazon, please consider buying used, especially from a non-profit or independent bookstore).
+I deleted my Goodreads account, because I didn't like the idea of Amazon knowing what, when, and where I read, or which books my friends like. Weird, right?
 
-**[Beastie Boys Book](https://www.beastieboysbook.com/):** The Beastie Boys' music, starting at _Paul's Boutique_, had a major influence on me. This is a big, pricey book, but worth it to me. Horovitz and Diamond are funny, self-effacing, honest about their luck and privilege, and gracious in naming influences and collaborators. If you're the type who's ever wanted to know what it was like to hang around the studios while they were making _Check Your Head_, read this book.
+Here's what I do remember reading. (And, yes, some of these are Amazon links, where I can't find a proper book/author page. If you're going to buy through Amazon, please consider buying used, especially from a non-profit or independent bookstore).
 
-**Elmore Leonard ([Road Dogs](https://www.amazon.com/Road-Dogs-Novel-Elmore-Leonard-ebook/dp/B0028MVHDM), [Killshot](https://www.amazon.com/Killshot-Novel-Elmore-Leonard-ebook/dp/B000FC12F0/ref=sr_1_1?keywords=elmore+leonard+killshot&qid=1578323820&sr=8-1)):** Late-period Elmore Leonard, mid-period Elmore Leonard: he's one of the writers who gets more and more efficient as he aged. Pretty rare. Buying used Leonard books from libraries and charities is going to be a lifelong habit.
+**[Beastie Boys Book](https://www.beastieboysbook.com/):** The Beastie Boys' music, starting with _Paul's Boutique_, had a major influence on me. This is a big, pricey book, but worth it to me. Horovitz and Diamond are funny, self-effacing, honest about their luck and privilege, and gracious in naming influences and collaborators. If you're the type who's ever wanted to know what it was like to hang around the studios while they were making _Check Your Head_, read this book. RIP Adam Yauch.
 
-**[Big Game: The NFL in Dangerous Times](http://markleibovich.com/books/big-game-the-nfl-in-dangerous-times):** I read in some review or reference to this book that it started out as a book expansion of Leibovich's interviews with Tom Brady and Robert Kraft, but he couldn't get enough material out of two people who can't or won't express anything remotely profound about their lives and stations. So he went big-picture and anecdotal, in the style of his hit "This Town," and ... I didn't really dig it. I have a voracious appetite for material about the shitty NFL (see [above tweet](#twitter)), but none of this felt revelatory, and the arch tone made it hard to sit with.
+**Elmore Leonard ([Road Dogs](https://www.amazon.com/Road-Dogs-Novel-Elmore-Leonard-ebook/dp/B0028MVHDM), [Killshot](https://www.amazon.com/Killshot-Novel-Elmore-Leonard-ebook/dp/B000FC12F0/ref=sr_1_1?keywords=elmore+leonard+killshot&qid=1578323820&sr=8-1)):** Late-period Elmore Leonard, mid-period Elmore Leonard: he's one of the few writers who got more efficient at characters and plot as he aged. Buying used Leonard books from libraries and charities is going to be a lifelong habit.
 
-It is fun to read the quips he got out of owners who forgot they were on the record or, like Jimmy Johnson, were dead drunk.
+**[Big Game: The NFL in Dangerous Times](http://markleibovich.com/books/big-game-the-nfl-in-dangerous-times):** I read in some review of this book that it started out as an expansion of Leibovich's [interviews with Tom Brady](https://www.nytimes.com/2015/02/01/magazine/tom-brady-cannot-stop.html) and Robert Kraft, but he couldn't get enough material out of two people who can't or won't express anything remotely profound about their lives and stations. So he went big-picture and anecdotal, in the style of the D.C. tour _This Town_ and ... I didn't really dig it. I have a voracious appetite for material about the shitty NFL (see [above tweet](#twitter)), but none of this felt revelatory, and the arch tone made it hard to sit with.
 
 **[What If This Were Enough?](https://www.penguinrandomhouse.com/books/557733/what-if-this-were-enough-by-heather-havrilesky/) & [How to Do Nothing](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/):** Unsettling books, in the good way. You can read an [essay-length version of How To Do Nothing on Medium](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
 
-**[The Mastermind](https://magazine.atavist.com/the-mastermind):** I admire Evan Ratliff and his Atavist project immensely. This book is a passion project, through and through. You can _feel_ him working way harder than any editor ever wanted him to, beyond what even makes sense, to piece together the unknowable aspects of a guy who was as close as they get to a supervillain.
+**[The Mastermind](https://magazine.atavist.com/the-mastermind):** I admire Evan Ratliff and his [Atavist long-form journalism project](https://www.boston.com/sports/nfl/2018/09/13/mark-leibovich-on-big-game-nfl-patriots) immensely. This book is a work of dogged reporting and passion, through and through. You can _feel_ him working way harder than any editor ever wanted him to, beyond what even makes sense commercially, to piece together the unknowable aspects of a guy who was as close as they get to a supervillain.
 
 **[Glock: The Rise of America's Gun](https://www.amazon.com/Glock-Americas-Paul-M-Barrett/dp/0307719952):** I know a bit more about guns now, and I know a lot more about how guns get into people's hands.
 
 **Boss Fight Books series ([Star Wars: KOTOR](https://bossfightbooks.com/collections/books/products/star-wars-knights-of-the-old-republic-by-alex-kane), [NBA Jam](https://bossfightbooks.com/)):** I didn't finish the KOTOR book, in part because I tried playing the game halfway through and was defeated in my efforts at enthusiasm (see below!).
 
-Now, _NBA Jam_: this is my favorite kind of Boss Fight Book, one that tells the story of a bigger thing (the arcade industry at its late-'90s nadir) through one crystalline example. Real heavy research and great editing.
+Now, _NBA Jam_: this is my favorite kind of Boss Fight Book, one that tells the story of a bigger thing (the arcade industry at its late-'90s/early-'00s nadir) through one crystalline example. Real heavy research and great editing.
 
 **[The 33 1/3 B-Sides: New Essays by 33 1/3 Authors on Beloved and Underrated Albums](https://www.amazon.com/33-B-sides-Authors-Beloved-Underrated/dp/1501342452):** A mixed bag, kind of like the used bin at a record store. Some gems, some oddities, mostly enjoyable.
 
-**[Bike Snob Abroad](https://www.amazon.com/Bike-Snob-Abroad-Incredible-Paradise/dp/1452105251):** Not an inspiring rant like the first Bike Snob book, but useful for ... feeling bad about the bike culture where I live, I guess? Still, humorous and worth the time.
+**[Bike Snob Abroad](https://www.amazon.com/Bike-Snob-Abroad-Incredible-Paradise/dp/1452105251):** Not an inspiring rant like the first Bike Snob book, but useful for ... feeling bad about the bike culture of my country, I guess? Still, humorous and worth the time.
 
 <a name="games"></a>
 ## Games
@@ -211,55 +212,57 @@ Now, _NBA Jam_: this is my favorite kind of Boss Fight Book, one that tells the 
 
 ![Stardew Valley screenshot](/assets/post_images/2019-12-29/stardew_valley.jpg)
 
-**Stardew Valley:** I stopped working on my first farm after 100 hours. All year long, I saw the game pop up on lists of stress-relieving, low-key games, games for people who aren't really into games, etc. Finally, a mutiplayer update arrived on the Switch, so I nudged my wife to try it, with the idea that I could jump in and help when needed.
+**Stardew Valley:** I stopped working on my first single-player farm in late 2018, after [100 hours of enjoyable farming](http://thepurdman.com/currently-digging-vol-3/). All year long, I saw the game pop up on lists of stress-relieving, low-key games, for people who aren't really into games, or just need a break from the endless news of how helpless we all are. After a mutiplayer update arrived on the Switch, I nudged my wife to try it, with the idea that I could jump in and help when needed.
 
-Nearly 30 hours later, I am a happy tenant on my wife's farm. I'm learning how to just go along with someone else's plans, not optimize everything just for the sake of it, and divide up work on a day-to-day basis. It's really a remarkable game.
+Nearly 30 hours later, I am a happy tenant worker on my wife's farm. I'm learning how to just go along with someone else's plans, not optimize everything just for the sake of it, and divide up work on a day-to-day basis.
 
-**Tetris 99:** I'm not all that good at battle-royale tetris, but my wife is brutally efficient. She usually places in the top 10, often in the top five. It's a big part of why she got her own Switch Lite—I didn't want to deprive her of dunking on other people's weak lines while I was away or playing ...
+It's really a remarkable game, exponentially so if you know it was mostly made by one person. For $15, it's a steal.
 
 ![Image from Witcher 3 on Switch: Geralt looks at his vineyard and says, "Pretty vast..."](/assets/post_images/2019-12-29/witcher_3.jpg)
 
-**The Witcher 3: Wild Hunt:** I'd already [played through once on PC](http://thepurdman.com/2017-in-review/#games). The graphics on the Switch are a far cry from that. Sometimes you can nearly feel the Switch trudging like it's on mile 18 of a marathon. I don't care; I don't think tri-linear filtering or water ripple effects are why this game is one of my all-time favorites. I'm trying out different decisions, new character builds and strategies, reliving old favorite moments, and doing it in an airport terminal, or while rice is cooking for dinner.
+**The Witcher 3: Wild Hunt:** I'd already [played through Witcher 3 once on PC](http://thepurdman.com/2017-in-review/#games). The graphics on the Switch are a far cry from that. Sometimes you can feel the Switch trudging like it's on mile 18 of a marathon. I don't care; I don't think tri-linear filtering or water ripple effects are why this game is one of my all-time favorites. I'm trying out different decisions, new character builds and strategies, reliving old favorite moments, and I'm doing it while stuck in an airport terminal, or while rice is cooking for dinner.
 
-**Wargroove:** Dug it, well worth the tiny price. I really like the idea of asynchronous games you can play turn by turn with friends, remotely.
+**Wargroove:** Dug it, well worth the tiny price and time commitment. I really like the idea of asynchronous games you can play turn by turn with friends, remotely.
 
 ![Night in the Woods screenshot, featuring Pastabilities, which is an honest-to-God restaurant in Syracuse that seems like parody, but is just a restaurant everyone recommends](/assets/post_images/2019-12-29/night_in_the_woods.jpg)
 
-**Night in the Woods:** Sasha at Wirecutter told me that I would love this game, over and over. I grew up in a past-its-glory upstate NY town, she knew, and if I didn't like the vibe of this game, well, she doubted whether she knew anything about me. Sasha, you were right! This game was wonderful, and lasted exactly as long as it should, and had a real impact on my brain-feels.
+**Night in the Woods:** Sasha at Wirecutter told me that I would love this game, over and over. I grew up in a past-its-glory upstate NY town, and if I didn't like the vibe of this game, well, she doubted whether she knew anything about me. Sasha, you were right! This game was wonderful, and lasted exactly as long as it should, and made a real impact on my brain-feels.
 
-**My Friend Pedro:** Neat core mechanics, but I didn't love the vibe or plot, however thin they were intended to be. Games that mock your score to make you redo levels? They make it easy to decide when you're done.
+**My Friend Pedro:** Neat core mechanics, but I didn't love the vibe or plot, however thin they were intended to be. Games that mock your score to make you redo levels? They make it easy to decide that you're done.
 
 **Untitled Goose Game:** I bought it before a 5-hour flight, and it was just perfect for it. Like the good person tweeted:
 
 <a href="https://twitter.com/p01arst0rm/status/1177717337845374976"><img src="/assets/post_images/2019-12-29/goosegame_tweet.jpg"/></a>
 
-![Image from Link's Awakening on Switch](/assets/post_images/2019-12-29/links_awakening.jpg)
+<img src="/assets/post_images/2019-12-29/links_awakening.jpg" align="right" width="300" alt="Screenshot from Switch version of Link's Awakening, with Papahl saying, I'll be lost in the hills later, so keep a look out for me, hear?"/>
 
-**The Legend of Zelda: Link's Awakening:** The art style is really neat, the music is top-notch, and the nostalgia kicks were fun. But this is one of a growing number of Nintendo first-party games that I've bought, played immediately, then re-sold to recoup about 2/3 the cost. Not a ton of replay value, but glad to hang with an old friend for a while. Speaking of old friends!
-
-![Super Metroid screnshot](/assets/post_images/2019-12-29/super_metroid.jpg)
+**The Legend of Zelda: Link's Awakening:** The art style is slick, the music is top-notch, and the nostalgia kicks were fun. But this is one of many Nintendo first-party games that I've bought, played immediately, then re-sold to recoup about 2/3 the cost. Not a ton of replay value, but glad to hang with an old friend for a while. Speaking of old friends!
 
 **Super Metroid:** The minute I saw that Super Metroid was coming to the Switch's free NES/SNES game library, I knew I would be playing through it, yet again. And I did. With maybe 10 years distance since my last play-through (maybe?), I notice how some of the puzzles and secrets are seemingly impossible to intuit without a quick Google search, or the kind of time kids have. Or maybe the web has made me lazy. Or both!
 
 ![Dragon Quest Builders screenshot](/assets/post_images/2019-12-29/dragonquest_builders.jpg)
 
-**Dragon Quest Builders 1/2:** Based entirely on [Jason Schreier's review](https://kotaku.com/dragon-quest-builders-the-kotaku-review-1822880632), I tried out a demo of "_Minecraft_ with actual tasks." One week later, I had bought a used copy on eBay and was well into building something way too elaborate for what was required. Weird humor that feels like all the mistranslated humor of my JRPG youth (but intentional?), interesting tasks, and really good performance on the Switch.
+**Dragon Quest Builders 1/2:** Based entirely on [Jason Schreier's review](https://kotaku.com/dragon-quest-builders-the-kotaku-review-1822880632), I tried out a demo of "_Minecraft_ with actual tasks." One week later, I had a used copy from eBay and was building little towns. It's got weird humor that feels like all the mistranslated humor of my JRPG youth (but intentional?), interesting tasks, and solid performance on the Switch.
 
-2 contained lots of fixes and upgrades for the systems, controls, and gameplay loops. I'm maybe halfway through it, but I dropped it for other games. I'll probably get back in, but it might be easier to OD on blocks and tasks than, say, endlessly varied strategy games. LIKE ...
+DQ Builders 2 contained lots of fixes and upgrades for the systems, controls, and gameplay loops. I'm maybe halfway through it, but I dropped it for something else, and I've yet to get back, months later.
 
-**Into the Breach:** I have never really stopped playing this game. It's installed on every computer I own (even this Pixelbook, via Linux/Steam), it's on my Switch. I almost hope they never release DLC for it. I've never been so driven to 100% a game. UNLIKE ...
+**Into the Breach:** I have never really stopped playing this game. It's installed on every computer I own (even this Pixelbook, via Linux/Steam), it's on my Switch. God help me if they released a mobile version. I also hope never release DLC for it. I've never been so driven to 100% a game. UNLIKE ...
 
-**Super Smash Bros. Ultimate:** I ended up selling this. Too demanding of my time to learn, advance, or just enjoy. I did enjoy playing against friends online, when it worked. Footnote: I went to a local Smash tournament, big-screened inside a historic theater, and watching that and feeling the cohesion and camaraderie of the competitors and crowd was honestly thrilling. And way more fun than endlessly changing controller settings or fighting AI opponents to unlock characters.
+**Super Smash Bros. Ultimate:** I ended up selling this. Too demanding of my time to learn, advance, or just be able to enjoy. The menus are truly some kind of teachable course in hostile interface design. I did enjoy playing against friends online, whenever the lag wasn't bad.
+
+However! I went to a local Smash tournament, big-screened inside a historic theater, and watching that and feeling the cohesion and camaraderie of the competitors and crowd was honestly thrilling. It was one of the most diverse events I've ever attended in Buffalo. And way more fun than endlessly changing controller settings or fighting AI opponents to unlock characters.
 
 ### PC
 
-**Slay the Spire:** _Magic: The Gathering_ is off-putting, both in card and computer form, because it feels like I could never catch up, or stop spending money. Ditto _Hearthstone_. But a contained, single-player deckbuilding game with rogue-ish progression? Oh heck yes. I have installed this on a PC, a Mac, and a Chromebook, have different progress on each of them, don't even care that it's inefficient.
+**Slay the Spire:** _Magic: The Gathering_ is off-putting to me, in card and computer form, because it feels like I could never catch up with its immense history, or ever stop spending money. Ditto _Hearthstone_. But a contained, single-player deckbuilding game with rogue-ish progression? Oh heck yes. I have installed this on three different computers, have different progress on each of them, and I don't even care that it's inefficient. I'd be happy to have to win on all three of them.
 
-**Baldur's Gate II / Knights of the Old Republic I/II:** Maybe it was the Switch release of BioWare's classic CRPGs, or the endless _Star Wars_ discussions, but it felt like every game critic personally emailed me this year to remind me that these are among the most well-regarded RPGs of all time. I ... cannot play them. I've put a few hours into each one. The pause-and-correct battle system gives me actual stress headaches. The potato-gon graphics on KOTOR are hard to stomach now, which is not LucasArts' fault _per se_, but ... I just didn't want to hang around for the great writing that I was told would come.
+**Baldur's Gate II / Knights of the Old Republic I/II:** Maybe it was the Switch release of BioWare's classic CRPGs, or the endless _Star Wars_ discussions, but it felt like every game critic personally emailed me this year to remind me that these are among the most well-regarded RPGs of all time, and, as an enthusiast of the form, I should play them.
 
-**Dishonored 2:** Speaking of great writing! Dug this game a whole bunch. Improved on its predecessor, provided just the right mix of open exploration and guideposts, and the voice acting! Voice acting in open-world games often gets extremely old, to the point of irony ("[then I took an arrow in the knee](https://knowyourmeme.com/memes/i-took-an-arrow-in-the-knee)"). I could listen to the NPCs in Dishonored talk forever.
+I ... cannot play them. I've put a few hours into each one. The pause-and-correct battle system gives me low-grade agita. The potato-ish graphics on KOTOR are hard to stomach now, which is not LucasArts' fault _per se_ (although the company's burn-the-ships shift to 3D seems tragic, in retrospect. Baldur's Gate II is just a lot of interface to deal with; I can't imagine it on the Switch. I've heard nothing but praise for the writing in these games, but I can't find my way in.
 
-**Wolfenstein: The New Order:** What a fun ride. I am very sad that killing Nazis—really, just killing lots of Nazis, and wanting more of them to be killed—has even more real-world context now than when this was released in 2014. But it wouldn't work if the mechanics, the feel, the voice acting, and even a lot of the writing didn't sing and glide.
+**Dishonored 2:** Speaking of great writing! Dug this game a whole bunch. Improved on its predecessor, provided just the right mix of open exploration and guideposting, and the voice acting! Voice acting in open-world games often gets [extremely old](https://knowyourmeme.com/memes/i-took-an-arrow-in-the-knee). I could listen to the NPCs in Dishonored talk forever.
+
+**Wolfenstein: The New Order:** What a fun ride. I am very sad that killing Nazis—really, just killing lots of Nazis, and wanting more of them to be killed—has even more real-world context now than when this was released in 2014. But it wouldn't work if the mechanics, the feel, the voice acting, and (most of) the plotting and dialogue didn't sing and glide.
 
 <a name="pets"></a>
 ## Pictures of pets
