@@ -4,6 +4,8 @@ title: 2019 In Review
 published: false
 ---
 
+
+
 + [New Job](#newjob)
 + [Repairs](#repairs)
 + [Raspberry Pi](#pi)
@@ -229,7 +231,7 @@ Nearly 30 hours later, I am a happy tenant on my wife's farm. I'm learning how t
 
 **Untitled Goose Game:** I bought it before a 5-hour flight, and it was just perfect for it. Like the good person tweeted:
 
-<a href="https://twitter.com/p01arst0rm/status/1177717337845374976"><img src="/assets/post_images/goosegame_tweet.jpg"/></a>
+<a href="https://twitter.com/p01arst0rm/status/1177717337845374976"><img src="/assets/post_images/2019-12-29/goosegame_tweet.jpg"/></a>
 
 ![Image from Link's Awakening on Switch](/assets/post_images/2019-12-29/links_awakening.jpg)
 
