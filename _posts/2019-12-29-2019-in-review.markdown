@@ -4,7 +4,7 @@ title: 2019 In Review
 published: false
 ---
 
-
+Sure was a year, 2019. Let's get into it.
 
 + [New Job](#newjob)
 + [Repairs](#repairs)
@@ -23,7 +23,7 @@ published: false
 <a name="newjob"></a>
 ## New Job
 
-I [left Wirecutter and started writing at iFixit](http://thepurdman.com/leaving-wirecutter-joining-ifixit/) in April 2019. It's been a very odd, rewarding adventure so far. On any given day, I'm researching copyright legislation, touring an electronics recycling plant, interviewing [Pebble hackers](https://www.ifixit.com/News/rebble-with-a-cause-how-pebble-watches-got-their-amazing-afterlife), or digging deep into device design.
+I [left Wirecutter and started writing at iFixit](http://thepurdman.com/leaving-wirecutter-joining-ifixit/) in April 2019. It's been a fun ride so far. Any given day, I'm researching copyright legislation, touring an electronics recycling plant, cultivating sources and tipsters, interviewing [Pebble hackers](https://www.ifixit.com/News/rebble-with-a-cause-how-pebble-watches-got-their-amazing-afterlife), or doing something that involves a terminal, a circuit diagram, or a PDF I shouldn't have.
 
 Working at iFixit for just a few months has changed my understanding of consumerism, recycling, product design, the legislative process, and, of course, how capable the average person is when it comes to fixing their things. As such, I tried to fix more things than I normally do last year.
 
