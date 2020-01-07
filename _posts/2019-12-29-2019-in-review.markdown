@@ -6,6 +6,8 @@ published: false
 
 Sure was a year, 2019. Let's get into it.
 
+If you spot a typo or formatting quirk, let me know by [tweet](https://mobile.twitter.com/home?status=@kevinpurdy%20Typo%20in%202018%20review%20post:) or [email](mailto:kspurdy@gmail.com?subject=Error in 2019 In Review post).
+
 + [New Job](#newjob)
 + [Repairs](#repairs)
 + [Raspberry Pi](#pi)
