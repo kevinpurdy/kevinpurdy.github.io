@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 In Review
-published: false
+published: true
 ---
 
 Sure was a year, 2019. Let's get into it.
