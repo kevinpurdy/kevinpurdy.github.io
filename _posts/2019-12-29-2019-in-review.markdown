@@ -23,29 +23,29 @@ Sure was a year, 2019. Let's get into it.
 <a name="newjob"></a>
 ## New Job
 
-I [left Wirecutter and started writing at iFixit](http://thepurdman.com/leaving-wirecutter-joining-ifixit/) in April 2019. It's been a fun ride so far. Any given day, I'm researching copyright legislation, touring an electronics recycling plant, cultivating sources and tipsters, interviewing [Pebble hackers](https://www.ifixit.com/News/rebble-with-a-cause-how-pebble-watches-got-their-amazing-afterlife), or doing something that involves a terminal, a circuit diagram, or a PDF I shouldn't have.
+I [left Wirecutter and started writing at iFixit](http://thepurdman.com/leaving-wirecutter-joining-ifixit/) in April 2019. It's been a fun ride so far. I'm researching copyright legislation, touring recycling plants, cultivating sources and tipsters, interviewing [Pebble hackers](https://www.ifixit.com/News/rebble-with-a-cause-how-pebble-watches-got-their-amazing-afterlife), and messing with all kinds of terminal apps, circuit diagrams, and PDFs I shouldn't have.
 
-Working at iFixit for just a few months has changed my understanding of consumerism, recycling, product design, the legislative process, and, of course, what people can fix. As such, I tried to fix more things than I normally do.
+Working at iFixit has changed my understanding of consumerism, recycling, product design, the legislative process, and, of course, what people can fix. As such, I tried to fix more things than I normally do.
 
 <a name="repairs"></a>
 ## Repairs
 
 ![Replacing the battery on a Big Jambox at Community Beer Works brewery](/assets/post_images/2019-12-29/battery_replacement_web.jpg)
-_Helping a friend replace the battery in a Big Jambox at Community Beer Works, because neither of our wives wanted us drinking and scattering parts on their table that night._
+_Helping a friend replace the battery in a Big Jambox at Community Beer Works, because neither of our wives wanted us drinking and scattering parts in the dining room that night._
 
-Here's everything I can remember trying to fix in 2019. I think it's important to be honest about expected outcomes when trying DIY repairs. Some things you can do yourself, but bore qualified technicians offering all kinds of repair services, at competitive prices to manufacturers, is a win for everyone.
+Here's everything I can remember trying to fix in 2019. I think it's important to be honest about expectations when trying DIY repairs. Some things you can do yourself, and should try. Some things make you wish for the days of repair shops, which are only gone because we let them go.
 
 + Replace battery in 2014 Chromebook Pixel: **Success**
-+ Replace the water-logged screen in Pixel C tablet with the screen from a bricked parts-only Pixel C bought on eBay, clean corrosion on logic board: **Success**
++ Replace water-damaged Pixel C tablet screen with screen from bricked parts-only Pixel C bought on eBay, clean corrosion on logic board: **Success**
 + Replace battery on Big Jambox: **Mixed** (Battery was replaced, but something else may have been wrong with it: wouldn't take a charge after working once, then wouldn't even work plugged in.)
 + Replace battery in MacBook Air: **Success**
 + Replace headlamp on Ford C-Max with used $150 junkyard part, instead of $550 dealer part: **Success**
 + Replace battery in friend's iPhone 6s,7 Plus phones: **Success**
-+ Replace screen on iPad Mini 2nd gen: **Mixed** (Had to order a new LCD panel, too, because removing an obscene amount of very sticky broken glass injured it)
-+ Replace keyboard in Chromebook Pixel 2013: **Gruesome failure** (I killed the display while trying to make this overwrought fix, probably because the battery was connected while I attempted to re-attach the cable and shorted it. Next time I read that the keys are riveted to the case, I'll think twice!)
++ Replace screen on iPad Mini 2nd gen: **Mixed** (Had to order new LCD panel after prying out an obscene amount of sticky glass)
++ Replace keyboard in Chromebook Pixel 2013: **Gruesome failure** (Killed display, probably because battery was connected while re-attaching, and because of frustration. Next time I read that the keys are riveted to the case, I'll think twice!)
 + Replace battery in Pixel 2: **Success**
-+ iPad 2 screen separated, unreliable charging: **Success** (fixed with Sugru and pliers)
-+ Galaxy S8 Plus battery and screen replacement: **Success**
++ iPad 2 screen separated, unreliable charging port: **Success** (fixed with Sugru and pliers)
++ Galaxy S8 Plus battery and screen replacement: **Success** 
 + Replace battery in Pixel 2: **Mixed/Failure** (Why did the screen die on _this_ Pixel 2 during a battery replacement, when I had pulled off the same exact fix with less experience a few months prior? Do not know. Fragile OLED displays under fragile curved glass are not my favorite technology. The battery replacement worked, though.)
 + [Remove write-protect screw from Chromebook Pixel 2013](https://www.ifixit.com/Guide/Install+CloudReady+for+Chrome+Updates+(or+another+OS)/123869), Toshiba Chromebook 2, various other Chromebooks: **Success** (Long-term project, for myself and for work).
 
