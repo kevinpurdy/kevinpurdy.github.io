@@ -61,7 +61,7 @@ Anyways, I now have a Pi 3B+ running [RetroPie](https://retropie.org.uk/), insid
 <a name="bikes"></a>
 ## Bikes
 
-<img src="/assets/post_images/2019-12-29/bike_wheel.jpg" align="right" width="300" alt="Doofus cleaning and polishing some mountain bike wheels"/>
+<img src="/assets/post_images/2019-12-29/bike_wheel.jpg" alt="Doofus cleaning and polishing some mountain bike wheels" align="right" width="300" style="margin-left: 1em;"/>
 
 I didn't buy any bikes this year. But I did buy new tires, cables, housings, and a few other components for the 1985-ish Peugeot mountain bike. I had once used it as a winter beater; after seeing it up-close again, I don't think anyone should have to deal with Buffalo's roads in winter, ever. Humans included.
 
@@ -89,7 +89,7 @@ I wrote about my four-year quest to make that "no-knead" bread in the center, ri
 
 Normally the thing I bake most is cookies for my Ride for Roswell patrons (<a href="mailto:kspurdy@gmail.com?subject=Roswell Cookies 2020">email me</a> if you want in for 2020!). This year, granola was king.
 
-<img align="right" src="/assets/post_images/2019-12-29/granola.jpg" width="300" hspace="50"/>It started with [this recipe in NYT Cooking](https://cooking.nytimes.com/recipes/1014304-eleven-madison-park-granola), pulled from the cookbook of modernist restaurant [Eleven Madison Park](https://www.elevenmadisonpark.com/). It is the granola given to guests at the end of their meal, intended for breakfast the next morning. It's a nice gesture, for people who paid nearly $350 per person for a no-menu dinner.
+<img src="/assets/post_images/2019-12-29/granola.jpg" align="right" width="300" style="margin-left: 1em;"/>It started with [this recipe in NYT Cooking](https://cooking.nytimes.com/recipes/1014304-eleven-madison-park-granola), pulled from the cookbook of modernist restaurant [Eleven Madison Park](https://www.elevenmadisonpark.com/). It is the granola given to guests at the end of their meal, intended for breakfast the next morning. It's a nice gesture, for people who paid nearly $350 per person for a no-menu dinner.
 
 I made it once because I had a bunch of the ingredients taking up space in the cupboard. My in-laws were over, and I offered it with some Fage yogurt for breakfast. I don't know if I've ever heard such praise for something I made. Something about the olive oil and salt as a backing, the varied textures, the good amount of protein amongst the maple-covered carbs. I kept making it, for ourselves and for friends. Ever make something really simple that gets more praise than the really complex stuff you sweat over? Like the kitchen equivalent of a pet picture.
 
@@ -236,7 +236,7 @@ It's really a remarkable game, exponentially so if you know it was mostly made b
 
 <a href="https://twitter.com/p01arst0rm/status/1177717337845374976"><img src="/assets/post_images/2019-12-29/goosegame_tweet.jpg"/></a>
 
-<img src="/assets/post_images/2019-12-29/links_awakening.jpg" align="right" width="300" alt="Screenshot from Switch version of Link's Awakening, with Papahl saying, I'll be lost in the hills later, so keep a look out for me, hear?"/>
+<img src="/assets/post_images/2019-12-29/links_awakening.jpg" alt="Screenshot from Switch version of Link's Awakening, with Papahl saying, I'll be lost in the hills later, so keep a look out for me, hear?" align="right" width="300" style="margin-left: 1em;"/>
 
 **The Legend of Zelda: Link's Awakening:** The art style is slick, the music is top-notch, and the nostalgia kicks were fun. But this is one of many Nintendo first-party games that I've bought, played immediately, then re-sold to recoup about 2/3 the cost. Not a ton of replay value, but glad to hang with an old friend for a while. Speaking of old friends!
 
