@@ -166,7 +166,7 @@ If you want to give some money and vote on which great projects it should go to,
 <a name="twitter"></a>
 ## Ugh, Twitter
 
-These are some of the tweets that people (or bots) liked. Linked and screen-captured, because embedding tweets is misplaced optimism.
+These are some of the tweets that people (or bots) most liked. Linked and screen-captured, because embedding tweets is misplaced optimism.
 
 <a href="https://twitter.com/kevinpurdy/status/1144358951951196160">![In this 3-D animated rendering of Buffalo's newest reuse project, they included one guy who is absolutely not feeling this bank office. https://youtu.be/xz8PSZiREAg](/assets/post_images/2019-12-29/tweet1.jpg)</a>
 
