@@ -111,7 +111,7 @@ Here's an annotated version of that granola recipe. By all means, though, subscr
 + 1 cup unsweetened coconut chips
     * Flakes/strands are okay, but chips add a lot of crunch and texture. Don't use sweetened, whatever you do.
 + 1/3 cup pumpkin seeds
-    * Or sunflower seds, squash seeds, or even hemp seeds, rough-ground flax, or chia seeds, if you wanna roll that way.
+    * Or sunflower seeds, squash seeds, or even hemp seeds, rough-ground flax, or chia seeds, if you wanna roll that way.
 + 1 tbsp kosher salt
     * A supposedly controversial aspect of the original recipe, but nobody has really complained about this amount.
 + 1/2 cup light brown sugar
@@ -127,9 +127,9 @@ Here's an annotated version of that granola recipe. By all means, though, subscr
 **Directions**
 Set the oven to 300F. In a small saucepan, pour in the sugar, syrup, and oil, and start on low heat.
 
-Meanwhile, in a large bowl, mix together dry non-sweet ingredients (oats, nuts, chips, seeds, salt). Watch the saucepan, and pull it off the heat when the sugar has dissolved into the liquids (or a very slight boil is starting). Stire the liquids good, then fold into the dry ingredients with a spatula, until everything is evenly coated.
+Meanwhile, in a large bowl, mix together dry non-sweet ingredients (oats, nuts, chips, seeds, salt). Watch the saucepan, and pull it off the heat when the sugar has dissolved into the liquids (or a very slight boil is starting). Stir the liquids good, then fold into the dry ingredients with a spatula, until everything is evenly coated.
 
-On a rimmed baking sheet, lined with parchment or a silpat, spread out the granola, as even as you can get it. Place in the oven (I use a lower rack, probably doesn't matter). Bake 35-40 minutes. I take it out every 12 minutes and stir it every 12 minutes with a spatula, for a total of 36 minutes. After 36 minutes, it's up to you how much longer you want to keep going for a deeper brown toastiness.
+On a rimmed baking sheet, lined with parchment or a silpat, spread out the granola, as even as you can get it. Place in the oven (I use a lower rack, probably doesn't matter). Bake 35-40 minutes. I take it out every 12 minutes and stir it with a spatula, for a total of 36 minutes. After 36 minutes, it's up to you how much longer you want to keep going for a deeper brown toastiness.
 
 When it's ready, remove from the oven and immediately mix in the dried fruit. In my head, this softens the fruit up and causes it to trade sweet/bitter flavors with the still-warm roasted stuff, but who knows. Wait until the granola is cool to store it.
 
@@ -260,7 +260,7 @@ However! I went to a local Smash tournament, big-screened inside a historic thea
 
 **Baldur's Gate II / Knights of the Old Republic I/II:** Maybe it was the Switch release of BioWare's classic CRPGs, or the endless _Star Wars_ discussions, but it felt like every game critic personally emailed me this year to remind me that these are among the most well-regarded RPGs of all time, and, as an enthusiast of the form, I should play them.
 
-I ... cannot play them. I've put a few hours into each one. The pause-and-correct battle system gives me low-grade agita. The potato-ish graphics on KOTOR are hard to stomach now, which is not LucasArts' fault _per se_ (although the company's burn-the-ships shift to 3D seems tragic, in retrospect. Baldur's Gate II is just a lot of interface to deal with; I can't imagine it on the Switch. I've heard nothing but praise for the writing in these games, but I can't find my way in.
+I ... cannot play them. I've put a few hours into each one. The pause-and-correct battle system gives me low-grade agita. The potato-ish graphics on KOTOR are hard to stomach now, which is not LucasArts' fault _per se_ (although the company's burn-the-ships move to 3D seems tragic, in retrospect). Baldur's Gate II is just a lot of interface to deal with; I can't imagine it on the Switch. I've heard nothing but praise for the writing in these games, but I can't find my way in.
 
 **Dishonored 2:** Speaking of great writing! Dug this game a whole bunch. Improved on its predecessor, provided just the right mix of open exploration and guideposting, and the voice acting! Voice acting in open-world games often gets [extremely old](https://knowyourmeme.com/memes/i-took-an-arrow-in-the-knee). I could listen to the NPCs in Dishonored talk forever.
 
