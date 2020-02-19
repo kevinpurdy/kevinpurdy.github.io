@@ -12,9 +12,6 @@ tags:
 - Microsoft
 ---
 
-![Illustration from The Economist](/assets/uploads/2007/09/economist_microsoft_illustration1.jpg)
-_How come the kid representing Linux has the unkempt hair?_
-
 To say the least, Microsoft's varied efforts at stonewalling or segmenting the Linux market have gotten markedly different receptions in the U.S. and Europe.
 
 Take, for example, [this report](http://www.economist.com/business/displaystory.cfm?story_id=9832868&CFID=21128925&CFTOKEN=80898931) in the Sept. 20 issue of The Economist, which summarizes the findings by a trial court for the European Union in upholding an antitrust ruling against Microsoft:
