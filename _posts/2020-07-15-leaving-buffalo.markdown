@@ -14,6 +14,7 @@ I have sold my house in Buffalo, NY. My wife and I and our pets will be moving t
 I came to Buffalo for school. The University at Buffalo is one of two state colleges that accepted me and my inconsistent high school efforts. It was a 2-hour drive from my family, which felt like a nice medium distance. The campus seemed very big, in large part because the hop-on, hop-off bus tour made the school seem more inside the actual city [than it was](https://www.google.com/maps/place/University+at+Buffalo/@43.0008093,-78.9290454,11z/data=!4m5!3m4!1s0x89d373d2261b049f:0x2868694d4fc4f56f!8m2!3d43.0008093!4d-78.7889697). Before the campus tour, I had never been to Buffalo; I only heard about it during Super Bowls, and when my friend Eric missed school because his family was stuck here during a blizzard.
 
 ![University at Buffalo, facing Clemens Hall, the Student Union, and Commons](/assets/post_images/2020-07-15/ub.jpg)
+_via [WikiMedia Commons](https://commons.wikimedia.org/wiki/File:University_at_Buffalo,_Student_Union.jpg)_
 
 Most importantly, it was a sunny day when I toured. Many people I've talked to about their college-picking memories mention the big difference a single day's weather made on their decision—when choosing their home for _four years of their life_. My wife says she rejected one school almost entirely because it was gray and raining when she toured. Now here I am, writing about my nearly two-decade experience in Buffalo, a city … not known for its sunny days.
 
@@ -66,7 +67,8 @@ Here's a first attempt. I wrote most of this post sitting in the same spot where
 
 22 years after my parents first dropped me off at UB, I am moving on. I am glad it was sunny that one day.
 
-***
+---
+
 [^1]: Or Nickel City, or Queen City, or Rust/Rust Belt, or 716, or WNY, or a "Buffa-" prefix, or some kind of bison/buffalo/herd/stampede metaphor.
 
 [^2]: Hey, look, it's never been more than 100 degrees Fahrenheit in Buffalo, and we miss _most_ disasters, other than blizzards. Moreso, it's not constantly snowing in Buffalo, it just snows a lot all at once, and you see that on the national news. I'm from the Syracuse, NY area, where it just constantly snows, and is gray, from October through April.
