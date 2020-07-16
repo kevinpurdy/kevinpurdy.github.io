@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leaving Buffalo
-published: false
+published: true
 ---
 
 ![Decrepit lion mural at corner of Delaware Ave and Virginia St in Buffalo NY](/assets/post_images/2020-07-15/busted_lion.jpg)
