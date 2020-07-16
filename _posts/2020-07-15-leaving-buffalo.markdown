@@ -24,7 +24,7 @@ After some initial flailing at various majors, I sunk heavily into the student n
 
 I was in that apartment when George W. Bush visited the concert hall [to talk up the Patriot Act](https://georgewbush-whitehouse.archives.gov/news/releases/2004/04/20040420-2.html). Secret Service agents interviewed my landlord and me a few days before the visit. They told us to stay away from our windows. I, a dumb young man who thought he was crafty, raised a retractable blind just enough to peek at the incoming procession. A man on the roof of Kleinhans, carrying the longest gun I have ever seen in person, flung me a "down" gesture, while two other snipers simultaneously turned toward me. I must have stayed prone under that window for at least three minutes, just laying there and thinking about dying because I wanted to see W get out of a black SUV.
 
-<img src="/assets/post_images/2020-07-15/news.jpg" alt="The author holding a copy of the Buffalo News, headline reading 55 Inches and Counting but Area Rises to Challenge" align="right" width="50%" style="margin-left: 1em;"/>
+<img src="/assets/post_images/2020-07-15/news.jpg" alt="The author holding a copy of the Buffalo News, headline reading 55 Inches and Counting but Area Rises to Challenge"/>
 
 I got to stay at the News as a long-term temporary, filling in for other reporters' temporary absences. Eventually the News Guild noticed, and demanded the News either hire me as a full-time reporter or send me away. For years afterward, I blamed the Guild for my exile, for stunting my career. Now I wish I knew who forced the issue, because I would pay their bar tab. Stay strong, [News Guild](http://www.buffaloguild.org/).
 
@@ -42,7 +42,7 @@ While I [worked at the Niagara Gazette](https://www.niagara-gazette.com/news/loc
 
 Eventually, I realized the Buffalo News was not simply playing hard to get, or waiting for me to write the most insightful feature on a Tonawanda vape shop. I noticed a goodbye post from an editor on one of my favorite blogs, then worked up the nerve to email [Gina Trapani](https://ginatrapani.org/) at [Lifehacker](https://lifehacker.com). She gave me a try-out, then hired me, mentored me, restored my confidence. I've worked online and remotely ever since, which allows me to better support my wife wherever she needs to be.
 
-<img src="/assets/post_images/2020-07-15/franklin.jpg" alt="Franklin Street house in Buffalo NY" align="right" width="500" style="margin-left: 1em;"/>
+<img src="/assets/post_images/2020-07-15/franklin.jpg" alt="Franklin Street house in Buffalo NY"/>
 
 We got married in 2007. We rented half a house on Franklin Street in Allentown for about a year. We came close to buying a small house on Ashland Ave., then I got extremely cold feet. There was a [9-month detour to Rochester](http://thepurdman.com/5-things-that-changed-since-my-last-post/). Then we [needed to move back to Buffalo again](http://thepurdman.com/infrequent-update-the-moving-back-to-buffalo-edition/) in mid-2009. This time, we wanted to buy a house.
 
