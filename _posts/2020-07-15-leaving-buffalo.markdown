@@ -5,6 +5,7 @@ published: false
 ---
 
 ![Decrepit lion mural at corner of Delaware Ave and Virginia St in Buffalo NY](/assets/post_images/2020-07-15/busted_lion.jpg)
+_Photo by [Jay Galvin/Flickr/CC](https://www.flickr.com/photos/jaygalvin/29077310352)_
 
 > Some people, upon learning how we've lived our lives, are unable to conceal their chagrin on our behalf, that our lives should be so limited, as if experience so geographically circumscribed could be neither rich nor satisfying. When I assure them it has been both, their smiles suggest we've been blessed with self-deception by way of compensation for all we've missed. - Richard Russo, "Bridge of Sighs"
 
