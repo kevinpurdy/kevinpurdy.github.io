@@ -63,7 +63,7 @@ pizza style. Or maybe moreso.
 
 And now it's time to go somewhere else. My wife has an exciting new job, and I'm ready to try something new with her. It's going to be a very quiet goodbye. Because of the ongoing COVID-19 pandemic, there will not be a party, or "one last" drinks or meals, or visits to favorite restaurants, ice cream stands, festivals, charity events. We will have to make our own catharsis before the movers show up.
 
-Here's a first attempt. I wrote most of this post sitting in the same spot where I once sat, shortly after moving into this house, when we had only just set up a couch, TV, and internet. The couch and TV are different, and so is the laptop. But the mostly quiet dark, mitigated by the streetlamp on the corner and the cobwebs around it, feels exactly the same.
+Here's a first attempt. I wrote most of this post sitting in the same spot where I once sat writing a different post, shortly after moving into this house, when we had only just set up a couch, TV, and internet. The couch and TV are different, and so is the laptop. But the mostly quiet dark, mitigated by the streetlamp on the corner and the cobwebs around it, feels exactly the same.
 
 22 years after my parents first dropped me off at UB, I am moving on. I am glad it was sunny that one day.
 
