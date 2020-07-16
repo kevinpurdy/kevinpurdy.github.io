@@ -26,7 +26,7 @@ I was in that apartment when George W. Bush visited the concert hall [to talk up
 
 <img src="/assets/post_images/2020-07-15/news.jpg" alt="The author holding a copy of the Buffalo News, headline reading 55 Inches and Counting but Area Rises to Challenge"/>
 
-I got to stay at the News as a long-term temporary, filling in for other reporters' temporary absences. Eventually the News Guild noticed, and demanded the News either hire me as a full-time reporter or send me away. For years afterward, I blamed the Guild for my exile, for stunting my career. Now I wish I knew who forced the issue, because I would pay their bar tab. Stay strong, [News Guild](http://www.buffaloguild.org/).
+I got to stay at the News as a long-term temporary, filling in for other reporters' absences. Eventually the News Guild noticed, and demanded the News either hire me as a full-time reporter or send me away. For years afterward, I blamed the Guild for my exile, for stunting my career. Now I wish I knew who forced the issue, because I would pay their bar tab. Stay strong, [News Guild](http://www.buffaloguild.org/).
 
 I [went to the Sandusky Register](http://thepurdman.com/old_site/clips/okmurder_print.html) in Ohio for a bit. I almost didn't come back to Buffalo. A fellow Buffalo News intern had recommended me to the Arkansas Democrat-Gazette, where covering Walmart's headquarters might lead to a much bigger gig, maybe at the Wall Street Journal. My girlfriend in Buffalo made it clear that she would not follow my blind faith in newspaper meritocracy, and definitely not to Arkansas. She had stayed in Buffalo for law school in large part because of me; it was my turn to show some commitment.
 
