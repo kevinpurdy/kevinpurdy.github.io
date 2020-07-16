@@ -24,7 +24,7 @@ After some initial flailing at various majors, I sunk heavily into the student n
 
 I was in that apartment when George W. Bush visited the concert hall [to talk up the Patriot Act](https://georgewbush-whitehouse.archives.gov/news/releases/2004/04/20040420-2.html). Secret Service agents interviewed my landlord and me a few days before the visit. They told us to stay away from our windows. I, a dumb young man who thought he was crafty, raised a retractable blind just enough to peek at the incoming procession. A man on the roof of Kleinhans, carrying the longest gun I have ever seen in person, flung me a "down" gesture, while two other snipers simultaneously turned toward me. I must have stayed prone under that window for at least three minutes, just laying there and thinking about dying because I wanted to see W get out of a black SUV.
 
-<img src="/assets/post_images/2020-07-15/news.jpg" alt="The author holding a copy of the Buffalo News, headline reading 55 Inches and Counting but Area Rises to Challenge" align="right" width="500" style="margin-left: 1em;"/>
+<img src="/assets/post_images/2020-07-15/news.jpg" alt="The author holding a copy of the Buffalo News, headline reading 55 Inches and Counting but Area Rises to Challenge" align="right" width="50%" style="margin-left: 1em;"/>
 
 I got to stay at the News as a long-term temporary, filling in for other reporters' temporary absences. Eventually the News Guild noticed, and demanded the News either hire me as a full-time reporter or send me away. For years afterward, I blamed the Guild for my exile, for stunting my career. Now I wish I knew who forced the issue, because I would pay their bar tab. Stay strong, [News Guild](http://www.buffaloguild.org/).
 
