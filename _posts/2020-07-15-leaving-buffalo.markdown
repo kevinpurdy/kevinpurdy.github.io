@@ -34,7 +34,7 @@ I [went to the Sandusky Register](http://thepurdman.com/old_site/clips/okmurder_
 
 So I stuck with my future wife. An editor at the Niagara Gazette hired me over the phone, telling me it was "time to do some great writing." When I arrived, I discovered that editor was fired, replaced by a company man from Community Newspaper Holdings, Inc. CNHI is as fun to work for as its name implies, and as committed to covering local news as [Alabama's pension fund](https://abcnews.go.com/US/wireStory/alabama-pension-fund-now-sole-owner-local-newspaper-60138236) allows. I remember a meeting where the publisher, addressing the staff in the cafeteria, tried out three different explanations of how our health plan was actually cheaper for employees, so long as nobody got sick.
 
-And, yet, there are some people I worked with whom I can never fully repay for helping me survive the Gazette. Same with the Sandusky Register. You shouldn't have to work illegally long hours in demoralizing conditions to form tight bonds, but it happens. I still talk with some of them. The rest, you should know that I remember, or at least cannot forget.
+There are some people I worked with whom I can never fully repay for helping me survive the Gazette. Same with the Sandusky Register. You shouldn't have to work illegally long hours in demoralizing conditions to form tight bonds, but it happens. I still talk with some of them. The rest, you should know that I remember, or at least cannot forget.
 
 ![House at corner of Allen St and Irving Pl in Buffalo NY](/assets/post_images/2020-07-15/june2.jpg)
 
