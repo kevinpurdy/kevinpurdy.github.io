@@ -71,4 +71,4 @@ Here's a first attempt. I wrote most of this post sitting in the same spot where
 
 [^1]: Or Nickel City, or Queen City, or Rust/Rust Belt, or 716, or WNY, or a "Buffa-" prefix, or some kind of bison/buffalo/herd/stampede metaphor.
 
-[^2]: Hey, look, it's never been more than 100 degrees Fahrenheit in Buffalo, and we miss _most_ disasters, other than blizzards. Moreso, it's not constantly snowing in Buffalo, it just snows a lot all at once, and you see that on the national news. I'm from the Syracuse, NY area, where it just constantly snows, and is gray, from October through April.
+[^2]: Hey, look, it's never been more than 100 degrees Fahrenheit in Buffalo, and we miss _most_ disasters, other than blizzards. Moreso, it's not constantly snowing in Buffalo, it just snows a lot all at once, and you see that on the national news. I'm from the Syracuse, NY area, where it just constantly snows, and is gray, from October through April. It's worse than Buffalo. [Usually](http://goldensnowglobe.com/its-official-buffalo-ny-is-snowiest-big-city-in-us/).
