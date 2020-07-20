@@ -60,6 +60,7 @@ One of my Wirecutter coworkers moved to Buffalo with their partner in the spring
 pizza style.
 
 ![Author during the Skyride in Buffalo NY](/assets/post_images/2020-07-15/skyride.jpg)
+_Photo credit: Buffalo News (though I can't find the original now)_
 
 And now it's time to go somewhere else. My wife has an exciting new job, and I'm ready to try something new with her. It's going to be a very quiet goodbye. Because of the ongoing COVID-19 pandemic, there will not be a party, or "one last" drinks or meals, or visits to favorite restaurants, ice cream stands, festivals, charity events. We will have to make our own catharsis before the movers show up.
 
