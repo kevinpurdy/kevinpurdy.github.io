@@ -5,11 +5,11 @@ Getting lights, switches, and other stuff to Just Work can involve tackling bad 
 
 I don't have a solution to all of these issues. But I have hired an assistant to simplify and manage the devices I do find actually useful. I pay them in electricity. It is [Home Assistant](https://www.home-assistant.io/), running on a [Raspberry Pi](https://www.raspberrypi.org/). I can control all the devices in my house from a browser window or my phone. To me, it is wonderful, and I cannot fathom going back to box-screaming, or a folder full of poorly designed apps on my phone.
 
-![Image from Kevin's Home Assistant setup in a browser window]()
+![Image from Kevin's Home Assistant setup in a browser window](/assets/post_images/2020-11-11/home_assistant_desktop.png)
 
 I have fewer smarthome devices in my D.C. apartment than I had in my large Buffalo house, but Home Assistant scales to whatever amount of nerdery you want to get into. You can, like me, simply have a panel of temperatures, switches, and some beginner automation. I have my lights gradually turn on in the morning, and I get an alert whenever the temperature in any room is over 77 degrees or below 64 degrees, so I can better avoid turning on the heat or A/C. I also get an alert whenever the battery in mine or my wife's smartphone gets below 30 percent, but that's a me thing.
 
-![Image from Kevin's Home Assistant setup on phone]()
+![Image from Kevin's Home Assistant setup on phone](/assets/post_images/2020-11-11/home_assistant_phone.png)
 
 If you want to go deeper, there are if/then scripts, automations, tons of panel design options, and support for way, way more kinds of devices than any one speaker can offer. You can set up sunrise/sunset actions based not just on each day's timing, but the precise angle of the sun. Is this not enough? Heck, you can do what I thought I was going to do and put an always-on wall-mounted control panel up. I mean, there's a YAML file involved, nerds, nobody's stopping you!
 
