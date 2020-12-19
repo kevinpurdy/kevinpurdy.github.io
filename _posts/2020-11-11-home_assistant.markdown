@@ -16,7 +16,7 @@ Oh, but you like to get deep, huh? Home Assistant's got depth. My lights don't j
 
 And I'm not even close to the deep end here. I've seen people in forums and subreddits using Home Assistant for [presence detection](https://www.home-assistant.io/getting-started/presence-detection/), camera monitoring, having your [speakers announce people's arrival](https://www.home-assistant.io/cookbook/sonos_say/), and [lots of other stuff](https://www.home-assistant.io/cookbook/). Do you get a little bit jazzed when you read the phrase "YAML file" or "Zigbee?" Here's a place to get wild.
 
-I'll walk through a basic setup in this post, but you could also rely on the first two pages of the [Getting Started guide](https://www.home-assistant.io/getting-started/). Maybe I can provide some context.
+I'll walk through a basic setup in this post. You could also rely on the first two pages of the [Getting Started guide](https://www.home-assistant.io/getting-started/), and there are other web guides out there. Many of them are a bit dated, though. And maybe I can provide some context.
 
 ## The Simple Version: A Pi and Some Switches
 
@@ -44,5 +44,42 @@ When you've got your card flashed, put it in the Pi. Plug the ethernet cable int
 
 Here's where it might seem weird. On most Raspberry Pi setups, you want to have the Pi connected to a TV or monitor, and have a USB keyboard and mouse ready to walk through an initial setup. Home Assistant, once you've flashed it and it boots up, is managed through a browser.
 
-Give Home Assistant some time to boot up. When it's awake, it downloads updates to its system, which can take a while. After 5-10 minutes, open a browser on another computer/tablet/whatever and, while you're connected to the same network as the Pi, try to browse to `homeassistant.local:81223`. If it works, you see the Home Assistant setup screen. 
+Follow [Home Assistant's setup guide](https://www.home-assistant.io/getting-started/), it's good. The guide at [Pi My Life Up](https://pimylifeup.com/home-assistant-raspberry-pi/) has more screenshots and some tricks to try if your browser doesn't show a setup screen.
+
+When you get to the screen showing the devices and services Home Assistant sees already, set up as many as you can then. It's helpful to have some objects to work with when you're first designing your panels. Some stuff will set up without any help at all, some will require username/password authentication, and some might be a royal pain in the butt. My SmartThings stuff required the creation of a webhook inside Home Assistant, which itself requires an API key from Samsung, a dynamic DNS tracker, an SSL certificate, port forwarding in the router ... it's a lot. My Logi camera requires that I ask the developers personally to open up an API spot for me, through a Google Form (!). I still haven't heard back on that one.
+
+Anyways! Set up what you can, hit "Finish" at the bottom of that page, and, BOOM, you've got a panel.
+
+### Set up your panel
+
+![Home Assistant Overview panel](/assets/post_images/2020-11-11/overview.png)
+
+Here's something confusing about Home Assistant: the first panel you see, "Overview," is not the one you should mess with. "Overview" is a meta panel, updated by Home Assistant itself, that shows you everything Home Assistant can work  with: rooms, scenes, devices, and weird little details about each thing. You can mess with it if you want, but it's better to create your own dashboard, make it the default, and have Overview to fall back on, if you muck things up too bad.
+
+Instead of trying to edit Overview, head down to "Configuration" in the lower part of the left-hand control panel, then scroll down to look for "Lovelace Dashboards." You'll see "Overview" as the only option here. Click the big "Add Dashboard" button in the lower-right corner. Give it a title, make sure "Show in sidebar" is toggled on at the bottom, and click "Create." (Don't worry about icons right now, we'll get to that in a bit). Your new panel will look exactly like the Overview panel. Click the three overflow dots in the upper-right corner, choose "Edit dashboard." You'll get a warning that Home Assistant is currently maintaining this, but it's fine. You'll probably want to toggle the "Start with an empty dashboard" option at bottom, then click "Take control."
+
+Now you've got ... nothing! Click the "+" button in the top bar to create your first "View." You'll probably only want one view, so just name this "Basic" or "Default" or whatever, then hit "Save." Now you have an "Add Card" button on your otherwise blank panel. Click it.
+
+It's time to think about what you want to do with your Home Assistant setup. You can organize your home stuff however you want. You could group all the lights, like I have, or you could group them by room, so it's easy to turn off, say, all your living room lights, all the downstairs lights, etc. If you're a heat miser like me, you can see all your room temperatures, and if you had a smart thermostat, put the control in there, too.
+
+You can add stuff either by choosing a pre-designed card, or pick the "entities" in your house and toss them in as a starting point. It may take some experimentation to figure out exactly which things you want in each panel. Some things in your smarthome may also have more than one "entity" attached. My TV has an entity that is just a power switch for the TV itself, and a media player entity that lets me control volume, pause playback, and such.
+
+I think it's easier to start off by searching for entities. If you want more detailed control over one thing, select it alone, then click "continue" to see a suggested panel.
+
+![Lamp control with dial](/assets/post_images/2020-11-11/panel_card2.png)
+
+Or select a few different entities, 
+
+
+Phones/tablets
+Security measures
+File editor
+Samba
+DuckDNS / SSL / secure access
+phone app
+Wireguard
+moving logs to RAM
+icons
+
+
 
