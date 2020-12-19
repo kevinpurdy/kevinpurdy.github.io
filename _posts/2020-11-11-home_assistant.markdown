@@ -1,12 +1,16 @@
-I love smarthome stuff. Lights slowing fading up at sunset, knowing the temperature in each room, setting up a routine that plays NPR for the dog when we leave? Heck yeah.
+I love smarthome stuff. Lights fading in at sunset, knowing the temperature in each room, a routine that plays NPR for the dog when we leave? Heck yeah.
 
-But I cannot stand using a dozen apps, with interfaces ranging from "overdone" to "awkward" to "semi-translated barely coherent spyware." I do not want to memorize a bunch of very specific phrases to yell at Alexa. And, if possible, I do not want to feel like I've given up on privacy, just because I want to turn on the humidifier 30 minutes before I go to bed.
+But I cannot stand using a dozen apps, with interfaces ranging from "overdone" to "awkward" to "semi-translated barely cohesive spyware." I also do not want to memorize a bunch of very specific phrases to yell at Alexa. And, if possible, I do not want to feel like I've given up on privacy, just because I want to turn on the humidifier 30 minutes before I go to bed.
 
-I'll get right to it, I found a solution. Yes, it involves a Raspberry Pi, okay, you got me. But just look at this dashboard I now have on my phone, in a browser, anywhere, really. Just look at it.
+I'll get right to it, I found a solution. Yes, it involves a [Raspberry Pi](https://www.raspberrypi.org/), okay, you got me. But just look at this dashboard I now have on my phone, in a browser, anywhere, really. Just look at it.
 
 ![Image from Kevin's Home Assistant setup in a browser window](/assets/post_images/2020-11-11/home_assistant_desktop.png)
 
 This is [Home Assistant](https://www.home-assistant.io/). If all you want is switches and monitors for all your stuff, in one app, it can do that. It does that with more style than the Google Home, Alexa, or HomeKit happs, I think. As you can see above, I've got switches for my Hue lights and Wemo outlets, readings for my SmartThings sensors, and media controls for Sonos speakers, a soundbar, and the TV.
+
+Looks good on a phone, too.
+
+![Image from Kevin's Home Assistant setup on a phone app](/assets/post_images/2020-11-11/home_assistant_phone.jpg)
 
 Oh, but you like to get deep, huh? Home Assistant's got depth. My lights don't just turn on in the morning—not even at "sunrise." They turn on when the sun is at a specific angle over the horizon, based on [civil dawn](https://www.timeanddate.com/astronomy/civil-twilight.html). My lights blink whenever the battery level is below 30 percent in my or my wife's phone. And, real casually, my Home Assistant is also a [DuckDNS](https://duckdns.org) client and a private [WireGuard VPN](https://www.wireguard.com/).
 
