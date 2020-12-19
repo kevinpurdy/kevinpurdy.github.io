@@ -18,7 +18,7 @@ And I'm not even close to the deep end here. I've seen people in forums and subr
 
 I'll walk through a basic setup in this post. You could also rely on the first two pages of the [Getting Started guide](https://www.home-assistant.io/getting-started/), and there are other web guides out there. Many of them are a bit dated, though. And maybe I can provide some context.
 
-## The Simple Version: A Pi and Some Switches
+## Get Started
 
 You might be asking yourself, "Is this one of those posts that's full of terminal commands?" You're not wrong to wonder, but it is not. You will download an image, write it to a micro SD card, load that card into a Raspberry Pi, boot it up, and then use a browser for everything 
 
@@ -46,11 +46,13 @@ Here's where it might seem weird. On most Raspberry Pi setups, you want to have 
 
 Follow [Home Assistant's setup guide](https://www.home-assistant.io/getting-started/), it's good. The guide at [Pi My Life Up](https://pimylifeup.com/home-assistant-raspberry-pi/) has more screenshots and some tricks to try if your browser doesn't show a setup screen.
 
-When you get to the screen showing the devices and services Home Assistant sees already, set up as many as you can then. It's helpful to have some objects to work with when you're first designing your panels. Some stuff will set up without any help at all, some will require username/password authentication, and some might be a royal pain in the butt. My SmartThings stuff required the creation of a webhook inside Home Assistant, which itself requires an API key from Samsung, a dynamic DNS tracker, an SSL certificate, port forwarding in the router ... it's a lot. My Logi camera requires that I ask the developers personally to open up an API spot for me, through a Google Form (!). I still haven't heard back on that one.
+When you get to the screen showing the devices and services Home Assistant sees already, set up as many as you can then. It's helpful to have some objects to work with when you're first designing your panels. 
+
+Some stuff will set up without any help at all, some will require username/password authentication, and some might be a royal pain in the butt. My SmartThings stuff required the creation of a webhook inside Home Assistant, which itself requires an API key from Samsung, a dynamic DNS tracker, an SSL certificate, port forwarding in the router ... it's a lot. My Logi camera requires that I ask the developers personally to open up an API spot for me, through a Google Form (!). I still haven't heard back on that one.
 
 Anyways! Set up what you can, hit "Finish" at the bottom of that page, and, BOOM, you've got a panel.
 
-### Set up your panel
+## The Basics: Control Your Smarthome Stuff
 
 ![Home Assistant Overview panel](/assets/post_images/2020-11-11/overview.png)
 
@@ -64,22 +66,74 @@ It's time to think about what you want to do with your Home Assistant setup. You
 
 You can add stuff either by choosing a pre-designed card, or pick the "entities" in your house and toss them in as a starting point. It may take some experimentation to figure out exactly which things you want in each panel. Some things in your smarthome may also have more than one "entity" attached. My TV has an entity that is just a power switch for the TV itself, and a media player entity that lets me control volume, pause playback, and such.
 
-I think it's easier to start off by searching for entities. If you want more detailed control over one thing, select it alone, then click "continue" to see a suggested panel.
+I think it's easier to start off by searching for entities. Generally, if you want more detailed control of one thing, select it alone, then click "continue" to see a suggested panel.
 
-![Lamp control with dial](/assets/post_images/2020-11-11/panel_card2.png)
+![Lamp control with dial](/assets/post_images/2020-11-11/panel_card_detail.png)
 
-Or select a few different entities, 
+Or select a few different entities, and let Home Assistant create a multi-entity card. I like to enable the "Color icons based on state?" control for most cards.
 
+![Selecting entities for a Home Assistant card](/assets/post_images/2020-11-11/panel_card_0.png)
 
-Phones/tablets
+![Multi-entity card in Home Assistant](/assets/post_images/2020-11-11/panel_card_1.png)
+
+It's easy to add too many controls to your home screen. Keep in mind that you can tap any entity to get more detailed controls.
+
+![Detailed view of an entity](/assets/post_images/2020-11-11/panel_card_2.png)
+
+You can also create more specific views. For instance, I can create another view, "Lights," that shows the dimming controls and big on/off buttons for each one.
+
+!["Lights" panel in a Home Assistant dashboard](/assets/post_images/2020-11-11/panel_card_3.png)
+
+You've got the hang of it now. You can always come back to this editor screen and add or remove entities from cards, change card types, and, as you'll see below, fine-tune the look and feel.
+
+### Icons and badges
+
+For most entities, Home Assistant has a default icon that makes sense and looks spiffy. Lights have light bulbs, switches have little lightning/power bolts, battery levels have batteries. But you might want to customize them, to better know at a glance which is which, or just scratch your customization itch.
+
+Let's fix up this card I for the Tile Bluetooth tracker I have on my keys. By default, it's four tiles--clever, Home Assistant. But let's say I have one in my wallet, so I want a quick-glance distinction. Click on the item you want to change, then click the gear icon in the upper-right corner of the detailed view that pops up.
+
+There's an "Icon" field, but it's ... text? Yes. Home Assistant has you choose icons from the [Material Design project](http://materialdesignicons.com/). head to that site, choose the "Cheatsheet" option on the top panel, and Control/Command-F search the page for the icon you want. I liked `mdi-wallet` on there, for example. In Home Assistant entities, you replace the `-` with a colon, `:`. So I enter `mdi:wallet` in the Icon field, and it shows up just to the right of that field, to prove it works.
+
+![Custom Material Design icons in a Home Assistant card](/assets/post_images/2020-11-11/tile_icons.png)
+
+There's one more thing you can mess with, besides cards. You can see in the "Overview" view that there's a whole bunch of little circular tiles at the top of the window. You can add them to your own view, too, maybe not where you would expect to. Open your panel, click the three-dot menu, choose "Edit Dashboard." Click the pencil icon next to the view you want to edit. One of the sub-sections is "Badges." That's what those text-only circles are, Badges.
+
+![Badgets on a Panel view in Home Assistant](/assets/post_images/2020-11-11/badges.png)
+
+The thing to keep in mind is that you can't manipulate  any of these Badges. You can click them for more detail; that's helpful for the weather, for example, or devices for which you want a history graph.
+
+If you stopped here, you'd have a webapp that lets you control your home from your local network, using a no-nonsense panel you designed yourself. Not bad!
+
+But I did not stop here.
+
+## What Else You Can Do with Home Assistant
+
+For the built-in things you can explore with Home Assistant--Scenes, Routines, Areas, Scripts, Tags, People tracking--you should rely on the [official Home Assistant documentation](https://www.home-assistant.io/docs/). It's good.
+
+I'm going to briefly note here the stuff that I've packed into my own Home Assistant, and some tips on how I got them working.
+
+### Install phone/tablet apps
+
+The iOS and Android apps for Home Assistant aren't just a quick way to get to your web panel, though they are that, too. They're also a way for Home Assistant to [send you notifications about smarthome things](https://companion.home-assistant.io/docs/notifications/notifications-basic). You can even [make those notifications actionable](https://companion.home-assistant.io/docs/notifications/actionable-notifications).
+
+My favorite part, though, is that, if you grant the permissions, Home Assistant can use the data from your phone. I can't even fit all the things your phone can report back to Home Assistant in one screenshot, but here's a few highlights (with some variance between iPhones and Android):
+
++ Battery level (%), health, state (charging, not charging), charging type (wireless/wired)
++ Wi-Fi network and LTE connection
++ Floors ascended/descended, steps walked
++ Location, last update
+
+### Install File Editor and/or Samba
+
+If you're going to dive deeper into Home Assistant, you'll need to edit some config files. You do _not_ want to have to shut down the system, remove the SD card, edit the files on another system, and then cross your fingers that it works on next boot up.
+
+Head into the Supervisor menu in the left-hand sidebar. Click the "Add-on Store" heading (or the storefront-style icon). Look or search for "File editor," then click and follow through to add it to Home Assistant. After it's done installing, you might want to enable the "Show in sidebar" option on its "Info" page. Now when you get deep into settings
+
 Security measures
 File editor
 Samba
 DuckDNS / SSL / secure access
-phone app
 Wireguard
 moving logs to RAM
-icons
-
 
 
