@@ -18,7 +18,7 @@ And I'm not even close to the deep end here. I've seen people in forums and subr
 
 I'll walk through a basic setup in this post, but you could also rely on the first two pages of the [Getting Started guide](https://www.home-assistant.io/getting-started/). Maybe I can provide some context.
 
-## The Simple Version: A Pi, Some Switches, A Phone
+## The Simple Version: A Pi and Some Switches
 
 You might be asking yourself, "Is this one of those posts that's full of terminal commands?" You're not wrong to wonder, but it is not. You will download an image, write it to a micro SD card, load that card into a Raspberry Pi, boot it up, and then use a browser for everything 
 
@@ -26,14 +26,23 @@ The worst-case scenario is that you decide you don't like Home Assistant, and yo
 
 Let's get into it.
 
-## Get a Pi, flash an image, boot it up
+### Get a Pi and some stuff
 
-At the moment, you can run Home Assistant on a Raspberry Pi 3B or 3B+, a 4B, a Tinkerboard, Odroid, or Intel NUC. If you're reading this far after fall 2020, or you're not sure, check the [installation page](https://www.home-assistant.io/hassio/installation/). Note that the easy, default installation takes over your Pi and does not give you a desktop to work with; everything is managed through a web broswer. There are ways of [running Home Assistant in a Docker](https://www.home-assistant.io/docs/installation/docker/) or, probably, as a service, but I'm not getting into them here. I like the simplicity of a tiny device, doing one thing, plugged into a router.
+As I write this, you can run Home Assistant on a Raspberry Pi 3B or 3B+, a 4B, a Tinkerboard, Odroid, or Intel NUC. If you're reading this long after fall 2020, or if you're not sure, check the [installation page](https://www.home-assistant.io/hassio/installation/). Note that the easy, default installation takes over your Pi and does not give you a desktop to work with; everything is managed through a web broswer. There are ways of [running Home Assistant in a Docker](https://www.home-assistant.io/docs/installation/docker/) or, probably, as a service, but I'm not getting into them here. I like the simplicity of a tiny device, doing one thing, plugged into ethernet.
 
-Yes, a router. A Home Assistant setup, and a Pi in general, works a lot easier if you can plug it into your network using an ethernet cord. For most people, this means setting it up near their home router. Otherwise, an attached ethernet port, a network extender, power
+If you're buying a new Pi, you should probably buy a kit rather than just the board. You want a power supply and case at a minimum. Some kits come with heat sinks--nice, but not strictly necessary. You'll need a micro SD card, too; some kits come with one, or you can buy one. Home Assistant says you should get one that is rated Application Class 2. Probably not a bad idea, probably [not strictly necessary](https://www.jeffgeerling.com/blog/2019/a2-class-microsd-cards-offer-no-better-performance-raspberry-pi). You don't need a USB keyboard and mouse, or even a micro-HDMI cable or dongle, though having those isn't an awful idea.
 
-***
+Oh, and, yes, an ethernet cable. A Home Assistant setup, and a Pi in general, works a lot easier if you can plug it into your network using an ethernet cord. For most people, this means setting it up near their home router. If you don't have a working ethernet cord to plug in, you can follow [step 4 on the Installation page](https://www.home-assistant.io/getting-started/) to set up Wi-Fi. The setup isn't too bad; it's the chance for Wi-Fi hiccups that's a pain.
 
+### Flash it
 
+[Balena Etcher](https://www.balena.io/etcher/) is great software. Download it, install it, open it on any computer, Windows, Mac, or even Linux. Download the [right Home Assistant image for your Pi](https://www.home-assistant.io/hassio/installation/). On the left-most side of Balena, pick that file. In the midddle section, choose the micro SD card. Hit the Flash button, and let Balena do its thing.
 
-[^1]: Google Home's app is probably the closest you can get to Home Assistant without actually setting up Home Assistant, but trying to remove duplicates, set up "rooms," and work out a bunch of phrases to say to Google Assistant to manage my devices is exactly what drove me to look for this alternative.
+When you've got your card flashed, put it in the Pi. Plug the ethernet cable into the Pi (or put the USB stick with the Wi-Fi setup in it, or modify the SD card with the Wi-Fi details, detailed in [step 3 here](https://www.home-assistant.io/hassio/installation/)). Plug in the Pi's power cable, and when you then plug it into the Pi, it will boot up (a little orange-red light shows this).
+
+### Set it up
+
+Here's where it might seem weird. On most Raspberry Pi setups, you want to have the Pi connected to a TV or monitor, and have a USB keyboard and mouse ready to walk through an initial setup. Home Assistant, once you've flashed it and it boots up, is managed through a browser.
+
+Give Home Assistant some time to boot up. When it's awake, it downloads updates to its system, which can take a while. After 5-10 minutes, open a browser on another computer/tablet/whatever and, while you're connected to the same network as the Pi, try to browse to `homeassistant.local:81223`. If it works, you see the Home Assistant setup screen. 
+
