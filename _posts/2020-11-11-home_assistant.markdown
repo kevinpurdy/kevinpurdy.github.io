@@ -2,7 +2,7 @@ I love smarthome stuff. Lights fading in at sunset, knowing the temperature in e
 
 But I cannot stand using a dozen apps, with interfaces ranging from "overdone" to "awkward" to "semi-translated barely cohesive spyware." I also do not want to memorize a bunch of very specific phrases to yell at Alexa. And, if possible, I do not want to feel like I've given up on privacy, just because I want to turn on the humidifier 30 minutes before I go to bed.
 
-I'll get right to it, I found a solution. Yes, it involves a [Raspberry Pi](https://www.raspberrypi.org/), okay, you got me. But just look at this dashboard I now have on my phone, in a browser, anywhere, really. Just look at it.
+I found a solution. Yes, it involves a [Raspberry Pi](https://www.raspberrypi.org/)--okay, you got me. But just look at this dashboard I now have on my phone, in a browser, anywhere, really. Just look at it.
 
 ![Image from Kevin's Home Assistant setup in a browser window](/assets/post_images/2020-11-11/home_assistant_desktop.png)
 
@@ -125,13 +125,14 @@ My favorite part, though, is that, if you grant the permissions, Home Assistant 
 
 ### Install File Editor and/or Samba
 
-If you're going to dive deeper into Home Assistant, you'll need to edit some config files. You do _not_ want to have to shut down the system, remove the SD card, edit the files on another system, and then cross your fingers that it works on next boot up.
+If you're going to dive deeper into Home Assistant, you'll need to edit some config files. Head into the Supervisor menu in the left-hand sidebar. Click the "Add-on Store" heading (or the storefront-style icon). Look or search for "File editor," then click and follow through to add it to Home Assistant. After it's done installing, you might want to enable the "Show in sidebar" option on its "Info" page.
 
-Head into the Supervisor menu in the left-hand sidebar. Click the "Add-on Store" heading (or the storefront-style icon). Look or search for "File editor," then click and follow through to add it to Home Assistant. After it's done installing, you might want to enable the "Show in sidebar" option on its "Info" page. Now when you get deep into settings
+You can also install a Samba add-on, which would (theoretically) allow other computers on your network to find your Home Assistant and browse or edit its files. Samba is a finicky protocol, but it's there if you want it.
 
-Security measures
-File editor
-Samba
+### Move your logs to RAM
+
+http://blog.ceard.tech/2017/10/home-assistant-moving-logs-and-database.html
+
 DuckDNS / SSL / secure access
 Wireguard
 moving logs to RAM
