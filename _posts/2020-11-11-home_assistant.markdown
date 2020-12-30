@@ -1,28 +1,29 @@
 ---
 layout: post
 title: God Help Me I Love Home Assistant
+description: > How to set up a Raspberry Pi as the single, private place for controlling a smart home. It rocks.
 published: true
 ---
 
-I love smarthome stuff. Lights fading in at sunset, knowing the temperature in each room, a routine that plays NPR for the dog when we leave? Heck yeah.
+I love smarthome stuff. Lights fading in at sunset, temperature readings in each room, a routine that plays NPR for the dog when we leave? Heck yeah.
 
-But I cannot stand using a dozen apps, with interfaces ranging from "overdone" to "awkward" to "semi-translated barely cohesive spyware." I also do not want to memorize a bunch of very specific phrases to yell at Alexa. And, if possible, I do not want to feel like I've given up on privacy, just because I want to turn on the humidifier 30 minutes before I go to bed.
+But I cannot stand using a dozen apps, with interfaces ranging from "overdone" to "awkward" to "semi-translated barely cohesive spyware," to manage the stuff. And I do not want to memorize very specific phrases to yell at Alexa. And, if possible, I do not want to feel like I've surrendered all privacy just to turn on the humidifier 30 minutes before I go to bed.
 
-I found a solution. Yes, it involves a [Raspberry Pi](https://www.raspberrypi.org/)—okay, you got me. But just look at this dashboard I now have on my phone, in a browser, anywhere, really. Just look at it.
+I found a solution. Yes, it involves a [Raspberry Pi](https://www.raspberrypi.org/)—okay, you got me. But you make the Raspberry Pi do this one thing, and you end up with a single place to control it all. You get a dashboard with all the switches and dials and readings. Like this one:
 
-![Image from Kevin's Home Assistant setup in a browser window](/assets/post_images/2020-11-11/home_assistant_desktop.png)
+<a href="/assets/post_images/2020-11-11/home_assistant_desktop.png"><img src="/assets/post_images/2020-11-11/home_assistant_desktop.png" alt="Image from Kevin's Home Assistant setup in a browser window"/></a>
 
-This is [Home Assistant](https://www.home-assistant.io/). If all you want is switches and monitors for all your stuff, in one app, it can do that. It does that with more style than the Google Home, Alexa, or HomeKit happs, I think. As you can see above, I've got switches for my Hue lights and Wemo outlets, readings for my SmartThings sensors, and media controls for Sonos speakers, a soundbar, and the TV.
+This is [Home Assistant](https://www.home-assistant.io/). If all you want is switches and monitors for all your stuff, in one app, it can do that. It does that better than Google Home, Alexa, or HomeKit, I think. As you can see above, I've got switches for my Hue lights and Wemo outlets, readings for my SmartThings sensors, and media controls for Sonos speakers, a soundbar, and the TV.
 
 Looks good on a phone, too.
 
 ![Image from Kevin's Home Assistant setup on a phone app](/assets/post_images/2020-11-11/home_assistant_phone.jpeg)
 
-Oh, but you like to get deep, huh? Home Assistant's got depth. My lights don't just turn on in the morning—not even at "sunrise." They turn on when the sun is at a specific angle over the horizon, based on [civil dawn](https://www.timeanddate.com/astronomy/civil-twilight.html). My lights blink whenever the battery level is below 30 percent in my or my wife's phone. And, real casually, my Home Assistant is also a [DuckDNS](https://duckdns.org) client and a private [WireGuard VPN](https://www.wireguard.com/).
+Oh, but you like to get deep, huh? Home Assistant's got depth. My lights don't just turn on in "the morning"—not even at "sunrise." They turn on when the sun is at a specific angle over the horizon, based on [civil dawn](https://www.timeanddate.com/astronomy/civil-twilight.html). My lights blink whenever someone's battery level goes below 30 percent. My Home Assistant is also a [DuckDNS](https://duckdns.org) client and a private [WireGuard VPN](https://www.wireguard.com/) host.
 
-And I'm not even close to the deep end here. I've seen people in forums and subreddits using Home Assistant for [presence detection](https://www.home-assistant.io/getting-started/presence-detection/), camera monitoring, having your [speakers announce people's arrival](https://www.home-assistant.io/cookbook/sonos_say/), and [lots of other stuff](https://www.home-assistant.io/cookbook/). Do you get a little bit jazzed when you read the phrase "YAML file" or "Zigbee?" Here's a place to get wild.
+And I'm not even close to the deep end here. I've seen people in forums and subreddits using Home Assistant for [presence detection](https://www.home-assistant.io/getting-started/presence-detection/), camera monitoring, having your [speakers announce people's arrival](https://www.home-assistant.io/cookbook/sonos_say/), and [lots of other stuff](https://www.home-assistant.io/cookbook/). Do you get a little jolt when you see the phrase "YAML file" or "Zigbee"? Can you see Stack Overflow pages in your mind? You can get into Home Assistant, believe me.
 
-I'll walk through a basic setup in this post. You could also rely on the first two pages of the [Getting Started guide](https://www.home-assistant.io/getting-started/), and there are other web guides out there. Many of them are a bit dated, though. And maybe I can provide some context.
+I'll walk through a basic setup in this post. You could also rely on the first two pages of the [Getting Started guide](https://www.home-assistant.io/getting-started/). There are lots of web guides to Home Assistant; I've read many of them. But at the end of 2020, many of them also seem a bit dated. I hope I can provide some context, and encouragement.
 
 ## Get Started
 
