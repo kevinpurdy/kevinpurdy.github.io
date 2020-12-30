@@ -1,7 +1,7 @@
 ---
 layout: post
 title: God Help Me I Love Home Assistant
-description: > How to set up a Raspberry Pi as the single, private place for controlling a smart home. It rocks.
+description: How to set up a Raspberry Pi as the single, private place for controlling a smart home. It rocks.
 published: true
 ---
 
@@ -27,9 +27,9 @@ I'll walk through a basic setup in this post. You could also rely on the first t
 
 ## Get Started
 
-You might be asking yourself, "Is this one of those posts that's full of terminal commands?" You're not wrong to wonder, but it is not. You will download an image, write it to a micro SD card, load that card into a Raspberry Pi, boot it up, and then use a browser for everything 
+You might be asking yourself, "Is this one of those posts that's full of terminal commands?" It is not. You will download an image, write it to a micro SD card, load that card into a Raspberry Pi, boot it up, and then use a browser to control everything from that point on.
 
-The worst-case scenario is that you decide you don't like Home Assistant, and you're stuck with a leftover Raspberry Pi. If you're the type who would bother trying to set this kind of thing up, well, that's really not a punishment. "Oh, I'm so sorry," you might imagine me saying. "I tricked you into buying the world's coolest [video game emulator](https://www.raspberrypi.org/blog/retropie-for-raspberry-pi-4-video-game-emulation-on-our-fastest-ever-device/), network-wide [ad blocker and privacy tool](https://pi-hole.net/), [personal VPN](https://www.pcmag.com/how-to/how-to-create-a-vpn-server-with-raspberry-pi), and backup [personal computer](https://www.forbes.com/sites/barrycollins/2020/11/02/raspberry-pi-400-a-full-blown-computer-for-86/). Truly, please, I beg your forgiveness.""
+The worst-case scenario is that you decide that Home Assistant isn't worth it, so you're stuck with a leftover Raspberry Pi. Sorry, that's not really a punishment. Sorry that I tricked you into buying the world's coolest [video game emulator](https://www.raspberrypi.org/blog/retropie-for-raspberry-pi-4-video-game-emulation-on-our-fastest-ever-device/), network-wide [ad blocker and privacy tool](https://pi-hole.net/), [personal VPN](https://www.pcmag.com/how-to/how-to-create-a-vpn-server-with-raspberry-pi), and backup [personal computer](https://www.forbes.com/sites/barrycollins/2020/11/02/raspberry-pi-400-a-full-blown-computer-for-86/). Truly, I beg your forgiveness.
 
 Let's get into it.
 
