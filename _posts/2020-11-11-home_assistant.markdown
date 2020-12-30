@@ -10,7 +10,7 @@ This is [Home Assistant](https://www.home-assistant.io/). If all you want is swi
 
 Looks good on a phone, too.
 
-![Image from Kevin's Home Assistant setup on a phone app](/assets/post_images/2020-11-11/home_assistant_phone.jpg)
+![Image from Kevin's Home Assistant setup on a phone app](/assets/post_images/2020-11-11/home_assistant_phone.jpeg)
 
 Oh, but you like to get deep, huh? Home Assistant's got depth. My lights don't just turn on in the morning—not even at "sunrise." They turn on when the sun is at a specific angle over the horizon, based on [civil dawn](https://www.timeanddate.com/astronomy/civil-twilight.html). My lights blink whenever the battery level is below 30 percent in my or my wife's phone. And, real casually, my Home Assistant is also a [DuckDNS](https://duckdns.org) client and a private [WireGuard VPN](https://www.wireguard.com/).
 
@@ -30,11 +30,16 @@ Let's get into it.
 
 As I write this, you can run Home Assistant on a Raspberry Pi 3B or 3B+, a 4B, a Tinkerboard, Odroid, or Intel NUC. If you're reading this long after fall 2020, or if you're not sure, check the [installation page](https://www.home-assistant.io/hassio/installation/). Note that the easy, default installation takes over your Pi and does not give you a desktop to work with; everything is managed through a web broswer. There are ways of [running Home Assistant in a Docker](https://www.home-assistant.io/docs/installation/docker/) or, probably, as a service, but I'm not getting into them here. I like the simplicity of a tiny device, doing one thing, plugged into ethernet.
 
+![My NES Raspberry Pi case, with an elegant ethernet plug](/assets/post_images/2020-11-11/nes_home_assistant_pi_case.jpg)
+_My Raspberry Pi 3B+, inside an NES-style case, force-fed ethernet._
+
 If you're buying a new Pi, you should probably buy a kit rather than just the board. You want a power supply and case at a minimum. Some kits come with heat sinks—nice, but not strictly necessary. You'll need a micro SD card, too; some kits come with one, or you can buy one. Home Assistant says you should get one that is rated Application Class 2. Probably not a bad idea, probably [not strictly necessary](https://www.jeffgeerling.com/blog/2019/a2-class-microsd-cards-offer-no-better-performance-raspberry-pi). You don't need a USB keyboard and mouse, or even a micro-HDMI cable or dongle, though having those isn't an awful idea.
 
 Oh, and, yes, an ethernet cable. A Home Assistant setup, and a Pi in general, works a lot easier if you can plug it into your network using an ethernet cord. For most people, this means setting it up near their home router. If you don't have a working ethernet cord to plug in, you can follow [step 4 on the Installation page](https://www.home-assistant.io/getting-started/) to set up Wi-Fi. The setup isn't too bad; it's the chance for Wi-Fi hiccups that's a pain.
 
 ### Flash it
+
+![Balena Etcher at work](/assets/post_images/2020-11-11/balena.png)
 
 [Balena Etcher](https://www.balena.io/etcher/) is great software. Download it, install it, open it on any computer, Windows, Mac, or even Linux. Download the [right Home Assistant image for your Pi](https://www.home-assistant.io/hassio/installation/). On the left-most side of Balena, pick that file. In the midddle section, choose the micro SD card. Hit the Flash button, and let Balena do its thing.
 
@@ -72,17 +77,17 @@ I think it's easier to start off by searching for entities. Generally, if you wa
 
 Or select a few different entities, and let Home Assistant create a multi-entity card. I like to enable the "Color icons based on state?" control for most cards.
 
-![Selecting entities for a Home Assistant card](/assets/post_images/2020-11-11/panel_card_0.png)
+![Selecting entities for a Home Assistant card](/assets/post_images/2020-11-11/panel_card0.png)
 
-![Multi-entity card in Home Assistant](/assets/post_images/2020-11-11/panel_card_1.png)
+![Multi-entity card in Home Assistant](/assets/post_images/2020-11-11/panel_card1.png)
 
 It's easy to add too many controls to your home screen. Keep in mind that you can tap any entity to get more detailed controls.
 
-![Detailed view of an entity](/assets/post_images/2020-11-11/panel_card_2.png)
+![Detailed view of an entity](/assets/post_images/2020-11-11/panel_card2.png)
 
 You can also create more specific views. For instance, I can create another view, "Lights," that shows the dimming controls and big on/off buttons for each one.
 
-!["Lights" panel in a Home Assistant dashboard](/assets/post_images/2020-11-11/panel_card_3.png)
+!["Lights" panel in a Home Assistant dashboard](/assets/post_images/2020-11-11/panel_card3.png)
 
 You've got the hang of it now. You can always come back to this editor screen and add or remove entities from cards, change card types, and, as you'll see below, fine-tune the look and feel.
 
@@ -104,7 +109,7 @@ The thing to keep in mind is that you can't manipulate  any of these Badges. You
 
 If you stopped here, you'd have a webapp that lets you control your home from your local network, using a no-nonsense panel you designed yourself. Not bad!
 
-But I did not stop here.
+But I did not stop there.
 
 ## What Else You Can Do with Home Assistant
 
@@ -163,7 +168,7 @@ recorder:
       - weather.home
       - weather.dark_sky
 ```
-Save the file when you're done (the red "disk" button in the upper-right corner). Make sure you've got your snapshot backup downloaded, then reboot your Home Assistant (Supervisor->System->Host System->Reboot). If it works ... nothing changes, really. You might check on your System Metrics every so often to make sure your RAM usage is okay. On my Pi 4 with 4 GB, I've rarely used more than 24% memory. 
+Save the file when you're done (the red "disk" button in the upper-right corner). Make sure you've got your snapshot backup downloaded, then reboot your Home Assistant (Supervisor->System->Host System->Reboot). If it works ... nothing changes, really. You might check on your System Metrics every so often to make sure your RAM usage is okay. On my Pi 3B+ with 2 GB RAM, I've rarely used more than 24% memory. 
 
 ## Set Up External Access
 
