@@ -1,3 +1,9 @@
+---
+layout: post
+title: God Help Me I Love Home Assistant
+published: true
+---
+
 I love smarthome stuff. Lights fading in at sunset, knowing the temperature in each room, a routine that plays NPR for the dog when we leave? Heck yeah.
 
 But I cannot stand using a dozen apps, with interfaces ranging from "overdone" to "awkward" to "semi-translated barely cohesive spyware." I also do not want to memorize a bunch of very specific phrases to yell at Alexa. And, if possible, I do not want to feel like I've given up on privacy, just because I want to turn on the humidifier 30 minutes before I go to bed.
