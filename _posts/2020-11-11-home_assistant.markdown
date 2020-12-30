@@ -11,6 +11,7 @@ But I cannot stand using a dozen apps, with interfaces ranging from "overdone" t
 I found a solution. Yes, it involves a [Raspberry Pi](https://www.raspberrypi.org/)—okay, you got me. But you make the Raspberry Pi do this one thing, and you end up with a single place to control it all. You get a dashboard with all the switches and dials and readings. Like this one:
 
 <a href="/assets/post_images/2020-11-11/home_assistant_desktop.png"><img src="/assets/post_images/2020-11-11/home_assistant_desktop.png" alt="Image from Kevin's Home Assistant setup in a browser window"/></a>
+_Click for larger image_
 
 This is [Home Assistant](https://www.home-assistant.io/). If all you want is switches and monitors for all your stuff, in one app, it can do that. It does that better than Google Home, Alexa, or HomeKit, I think. As you can see above, I've got switches for my Hue lights and Wemo outlets, readings for my SmartThings sensors, and media controls for Sonos speakers, a soundbar, and the TV.
 
@@ -34,12 +35,14 @@ Let's get into it.
 
 ### Get a Pi and some stuff
 
-As I write this, you can run Home Assistant on a Raspberry Pi 3B or 3B+, a 4B, a Tinkerboard, Odroid, or Intel NUC. If you're reading this long after fall 2020, or if you're not sure, check the [installation page](https://www.home-assistant.io/hassio/installation/). Note that the easy, default installation takes over your Pi and does not give you a desktop to work with; everything is managed through a web broswer. There are ways of [running Home Assistant in a Docker](https://www.home-assistant.io/docs/installation/docker/) or, probably, as a service, but I'm not getting into them here. I like the simplicity of a tiny device, doing one thing, plugged into ethernet.
+As I write this, you can run Home Assistant on a Raspberry Pi 3B or 3B+, a 4B, a Tinkerboard, Odroid, or Intel NUC. If you're reading this long after fall 2020, or if you're not sure, check the [installation page](https://www.home-assistant.io/hassio/installation/). Note that the easy, default installation takes over your whole Pi and does not give you a desktop to work with; everything is managed through a web broswer. There are ways of [running Home Assistant in a Docker](https://www.home-assistant.io/docs/installation/docker/) or [installed on an already configured Raspberry Pi](https://www.home-assistant.io/docs/installation/raspberry-pi/) but I'm not getting into them here. I like the simplicity of a tiny device, doing one job, plugged into ethernet.
 
 ![My NES Raspberry Pi case, with an elegant ethernet plug](/assets/post_images/2020-11-11/nes_home_assistant_pi_case.jpg)
 _My Raspberry Pi 3B+, inside an NES-style case, force-fed ethernet._
 
-If you're buying a new Pi, you should probably buy a kit rather than just the board. You want a power supply and case at a minimum. Some kits come with heat sinks—nice, but not strictly necessary. You'll need a micro SD card, too; some kits come with one, or you can buy one. Home Assistant says you should get one that is rated Application Class 2. Probably not a bad idea, probably [not strictly necessary](https://www.jeffgeerling.com/blog/2019/a2-class-microsd-cards-offer-no-better-performance-raspberry-pi). You don't need a USB keyboard and mouse, or even a micro-HDMI cable or dongle, though having those isn't an awful idea.
+If you're buying a new Pi, you should probably buy a kit rather than just the board. You want a power supply and case at a minimum. Some kits come with heat sinks—nice, but not strictly necessary. You'll need a micro SD card, too; some kits come with one, or you can buy one. Home Assistant says you should get one that is rated Application Class 2, one Pi enthusiast says, with charts, that [it doesn't really matter](https://www.jeffgeerling.com/blog/2019/a2-class-microsd-cards-offer-no-better-performance-raspberry-pi). I say, if you have a micro SD card already, use it, but go ahead and buy a good one if not.
+
+You don't need a USB keyboard and mouse, or even a micro-HDMI cable or dongle, though having those isn't an awful idea for future Pi projects.
 
 Oh, and, yes, an ethernet cable. A Home Assistant setup, and a Pi in general, works a lot easier if you can plug it into your network using an ethernet cord. For most people, this means setting it up near their home router. If you don't have a working ethernet cord to plug in, you can follow [step 4 on the Installation page](https://www.home-assistant.io/getting-started/) to set up Wi-Fi. The setup isn't too bad; it's the chance for Wi-Fi hiccups that's a pain.
 
@@ -47,25 +50,26 @@ Oh, and, yes, an ethernet cable. A Home Assistant setup, and a Pi in general, wo
 
 ![Balena Etcher at work](/assets/post_images/2020-11-11/balena.png)
 
-[Balena Etcher](https://www.balena.io/etcher/) is great software. Download it, install it, open it on any computer, Windows, Mac, or even Linux. Download the [right Home Assistant image for your Pi](https://www.home-assistant.io/hassio/installation/). On the left-most side of Balena, pick that file. In the midddle section, choose the micro SD card. Hit the Flash button, and let Balena do its thing.
+[Balena Etcher](https://www.balena.io/etcher/) is great software. Download it, install it, open it on any computer, Windows, Mac, or even Linux. Download the [right Home Assistant image for your Pi](https://www.home-assistant.io/hassio/installation/). Connect your micro SD card to your computer. On the left-most side of Balena, pick the downloaded image. In the midddle section, choose the micro SD card. Hit the Flash button, and let Balena do its thing.
 
-When you've got your card flashed, put it in the Pi. Plug the ethernet cable into the Pi (or put the USB stick with the Wi-Fi setup in it, or modify the SD card with the Wi-Fi details, detailed in [step 3 here](https://www.home-assistant.io/hassio/installation/)). Plug in the Pi's power cable, and when you then plug it into the Pi, it will boot up (a little orange-red light shows this).
+When you've got your card flashed, put it in the Pi. Plug the ethernet cable into the Pi (or put the USB stick with the Wi-Fi setup in it, or modify the SD card with the Wi-Fi details, detailed in [step 3 here](https://www.home-assistant.io/hassio/installation/)). Plug in the Pi's power cable, and when you then plug it into the Pi, it will boot up (a little orange-red light near the power cord shows activity). Then, do nothing.
 
 ### Set it up
 
-Here's where it might seem weird. On most Raspberry Pi setups, you want to have the Pi connected to a TV or monitor, and have a USB keyboard and mouse ready to walk through an initial setup. Home Assistant, once you've flashed it and it boots up, is managed through a browser.
+Here's where it might seem weird. On most Raspberry Pi setups, you want to have the Pi connected to a TV or monitor, and have a USB keyboard and mouse ready to walk through an initial setup. You wait until you see a big Raspberry on the screen. Home Assistant, once it installs and boots up, is managed through a browser. You don't see anything on a TV or monitor.
 
-Follow [Home Assistant's setup guide](https://www.home-assistant.io/getting-started/), it's good. The guide at [Pi My Life Up](https://pimylifeup.com/home-assistant-raspberry-pi/) has more screenshots and some tricks to try if your browser doesn't show a setup screen.
+Follow [Home Assistant's setup guide](https://www.home-assistant.io/getting-started/) to access your Home Assistant through a browser. The guide at [Pi My Life Up](https://pimylifeup.com/home-assistant-raspberry-pi/) has more screenshots and some tricks to try if your browser doesn't show a setup screen.
 
 When you get to the screen showing the devices and services Home Assistant sees already, set up as many as you can then. It's helpful to have some objects to work with when you're first designing your panels. 
 
-Some stuff will set up without any help at all, some will require username/password authentication, and some might be a royal pain in the butt. My SmartThings stuff required the creation of a webhook inside Home Assistant, which itself requires an API key from Samsung, a dynamic DNS tracker, an SSL certificate, port forwarding in the router ... it's a lot. My Logi camera requires that I ask the developers personally to open up an API spot for me, through a Google Form (!). I still haven't heard back on that one.
+Some stuff will set up without any help at all, some will require username/password authentication, and some might be a royal pain in the butt. My SmartThings stuff required the creation of a webhook inside Home Assistant. My Logi camera required that I ask the Logitech developers personally to open up an API spot for me, through a Google Form (!). I still haven't heard back on that one.
 
 Anyways! Set up what you can, hit "Finish" at the bottom of that page, and, BOOM, you've got a panel.
 
 ## The Basics: Control Your Smarthome Stuff
 
 ![Home Assistant Overview panel](/assets/post_images/2020-11-11/overview.png)
+_Don't edit this "Overview" panel_
 
 Here's something confusing about Home Assistant: the first panel you see, "Overview," is not the one you should mess with. "Overview" is a meta panel, updated by Home Assistant itself, that shows you everything Home Assistant can work  with: rooms, scenes, devices, and weird little details about each thing. You can mess with it if you want, but it's better to create your own dashboard, make it the default, and have Overview to fall back on, if you muck things up too bad.
 
@@ -144,7 +148,7 @@ You can also install a Samba add-on, which would (theoretically) allow other com
 
 Home Assistant is a server. As such, it logs everything that is happening, so that you might spot problems and tweak performance. Which is fine, but most people are going to run their Home Assistant from the micro SD card they've got plugged into their Raspberry Pi. Micro SD cards die faster with frequent writing.
 
-I can't say for certain whether this will matter for you, but once you have your Home Assistant set up, it's not a bad idea to prevent the system's storage from burning through your card. You have a few options:
+I can't say for certain whether this will matter for you. but once you have your Home Assistant set up, it's not a bad idea to prevent the system's storage from burning through your card. You have a few options:
 
 + **Use a USB stick** for your Assistant's storage. [This rather intenstive post explains how](http://blog.ceard.tech/2017/10/home-assistant-moving-logs-and-database.html)
 + Buy a **class A1 or A2 micro SD card**, since they are rated to last for years with gazillions of writes.
