@@ -1,7 +1,6 @@
 ---
 layout: post
 title: God Help Me I Love Home Assistant
-description: How to set up a Raspberry Pi as the single, private place for controlling a smart home. It rocks.
 published: true
 ---
 
