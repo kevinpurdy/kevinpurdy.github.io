@@ -2,7 +2,7 @@ I love smarthome stuff. Lights fading in at sunset, knowing the temperature in e
 
 But I cannot stand using a dozen apps, with interfaces ranging from "overdone" to "awkward" to "semi-translated barely cohesive spyware." I also do not want to memorize a bunch of very specific phrases to yell at Alexa. And, if possible, I do not want to feel like I've given up on privacy, just because I want to turn on the humidifier 30 minutes before I go to bed.
 
-I found a solution. Yes, it involves a [Raspberry Pi](https://www.raspberrypi.org/)--okay, you got me. But just look at this dashboard I now have on my phone, in a browser, anywhere, really. Just look at it.
+I found a solution. Yes, it involves a [Raspberry Pi](https://www.raspberrypi.org/)—okay, you got me. But just look at this dashboard I now have on my phone, in a browser, anywhere, really. Just look at it.
 
 ![Image from Kevin's Home Assistant setup in a browser window](/assets/post_images/2020-11-11/home_assistant_desktop.png)
 
@@ -30,7 +30,7 @@ Let's get into it.
 
 As I write this, you can run Home Assistant on a Raspberry Pi 3B or 3B+, a 4B, a Tinkerboard, Odroid, or Intel NUC. If you're reading this long after fall 2020, or if you're not sure, check the [installation page](https://www.home-assistant.io/hassio/installation/). Note that the easy, default installation takes over your Pi and does not give you a desktop to work with; everything is managed through a web broswer. There are ways of [running Home Assistant in a Docker](https://www.home-assistant.io/docs/installation/docker/) or, probably, as a service, but I'm not getting into them here. I like the simplicity of a tiny device, doing one thing, plugged into ethernet.
 
-If you're buying a new Pi, you should probably buy a kit rather than just the board. You want a power supply and case at a minimum. Some kits come with heat sinks--nice, but not strictly necessary. You'll need a micro SD card, too; some kits come with one, or you can buy one. Home Assistant says you should get one that is rated Application Class 2. Probably not a bad idea, probably [not strictly necessary](https://www.jeffgeerling.com/blog/2019/a2-class-microsd-cards-offer-no-better-performance-raspberry-pi). You don't need a USB keyboard and mouse, or even a micro-HDMI cable or dongle, though having those isn't an awful idea.
+If you're buying a new Pi, you should probably buy a kit rather than just the board. You want a power supply and case at a minimum. Some kits come with heat sinks—nice, but not strictly necessary. You'll need a micro SD card, too; some kits come with one, or you can buy one. Home Assistant says you should get one that is rated Application Class 2. Probably not a bad idea, probably [not strictly necessary](https://www.jeffgeerling.com/blog/2019/a2-class-microsd-cards-offer-no-better-performance-raspberry-pi). You don't need a USB keyboard and mouse, or even a micro-HDMI cable or dongle, though having those isn't an awful idea.
 
 Oh, and, yes, an ethernet cable. A Home Assistant setup, and a Pi in general, works a lot easier if you can plug it into your network using an ethernet cord. For most people, this means setting it up near their home router. If you don't have a working ethernet cord to plug in, you can follow [step 4 on the Installation page](https://www.home-assistant.io/getting-started/) to set up Wi-Fi. The setup isn't too bad; it's the chance for Wi-Fi hiccups that's a pain.
 
@@ -90,7 +90,7 @@ You've got the hang of it now. You can always come back to this editor screen an
 
 For most entities, Home Assistant has a default icon that makes sense and looks spiffy. Lights have light bulbs, switches have little lightning/power bolts, battery levels have batteries. But you might want to customize them, to better know at a glance which is which, or just scratch your customization itch.
 
-Let's fix up this card I for the Tile Bluetooth tracker I have on my keys. By default, it's four tiles--clever, Home Assistant. But let's say I have one in my wallet, so I want a quick-glance distinction. Click on the item you want to change, then click the gear icon in the upper-right corner of the detailed view that pops up.
+Let's fix up this card I for the Tile Bluetooth tracker I have on my keys. By default, it's four tiles—clever, Home Assistant. But let's say I have one in my wallet, so I want a quick-glance distinction. Click on the item you want to change, then click the gear icon in the upper-right corner of the detailed view that pops up.
 
 There's an "Icon" field, but it's ... text? Yes. Home Assistant has you choose icons from the [Material Design project](http://materialdesignicons.com/). head to that site, choose the "Cheatsheet" option on the top panel, and Control/Command-F search the page for the icon you want. I liked `mdi-wallet` on there, for example. In Home Assistant entities, you replace the `-` with a colon, `:`. So I enter `mdi:wallet` in the Icon field, and it shows up just to the right of that field, to prove it works.
 
@@ -173,7 +173,7 @@ But if you do need to open up Home Assistant, whether for access or to enable a 
 
 Like it says on their site, using Nabu Casa means:
 
->>> You don't have to deal with dynamic DNS, SSL certificates or opening ports on your router.
+> You don't have to deal with dynamic DNS, SSL certificates or opening ports on your router.
 
 But what if, like me, you hate yourself, you value victory over inanimate objects more than your free time, and you "love" a "challenge"? Then let's get into it!
 
@@ -185,7 +185,7 @@ My setup was probably different than yours: router, ISP, home network setup, etc
 + Open a port on your router and forward it to Home Assistant's static address and the Home Assistant port (8123).
 + Connect to Home Assistant now through that DuckDNS URL and whatever port you forwarded to HA: `something.duckdns.org:1234` or whatnot.
 
-The best advice I can give on this process is to avoid any rabbit holes you see about connecting to Home Assistant securely on both your internal and external network. Once you set up an external URL with a valid certificate, Home Assistant cannot serve up a valid certificate for your local network connection. You might find some posts suggesting a setup using the `nginx` add-on to create an SSL proxy, but, listen, you just wanted to control your lights and thermostat, right? That way lies madness.
+The best advice I can give on this process is to avoid any rabbit holes you see about connecting to Home Assistant securely on both your internal and external network. Once you set up an external URL with a valid certificate, Home Assistant cannot serve up a valid certificate for your local network connection. You might find some posts suggesting a setup using the `nginx` add-on to create an SSL proxy. But, listen, you just wanted to control your lights and thermostat, right? That way lies madness.
 
 Just bookmark and connect to your Home Assistant through your DuckDNS address, and then donate to [DuckDNS](https://duckdns.org) and [Let's Encrypt](https://letsencrypt.org/donate/) for making the web secure for everyone, including you and your weird home automation project.
 
