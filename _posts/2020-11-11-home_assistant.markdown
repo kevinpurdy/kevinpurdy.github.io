@@ -108,7 +108,7 @@ But I did not stop here.
 
 ## What Else You Can Do with Home Assistant
 
-For the built-in things you can explore with Home Assistant--Scenes, Routines, Areas, Scripts, Tags, People tracking--you should rely on the [official Home Assistant documentation](https://www.home-assistant.io/docs/). It's good.
+For the built-in things you can explore with Home Assistant—Scenes, Routines, Areas, Scripts, Tags, People tracking—you should rely on the [official Home Assistant documentation](https://www.home-assistant.io/docs/). It's good.
 
 I'm going to briefly note here the stuff that I've packed into my own Home Assistant, and some tips on how I got them working.
 
@@ -123,18 +123,83 @@ My favorite part, though, is that, if you grant the permissions, Home Assistant 
 + Floors ascended/descended, steps walked
 + Location, last update
 
-### Install File Editor and/or Samba
+### Install File Editor, Samba, and other add-ons
 
 If you're going to dive deeper into Home Assistant, you'll need to edit some config files. Head into the Supervisor menu in the left-hand sidebar. Click the "Add-on Store" heading (or the storefront-style icon). Look or search for "File editor," then click and follow through to add it to Home Assistant. After it's done installing, you might want to enable the "Show in sidebar" option on its "Info" page.
 
-You can also install a Samba add-on, which would (theoretically) allow other computers on your network to find your Home Assistant and browse or edit its files. Samba is a finicky protocol, but it's there if you want it.
+You can also install a Samba add-on, which would (theoretically) allow other computers on your network to find your Home Assistant and browse or edit its files. Samba is a finicky protocol, but it's there if you want it. If you know what SSH is, and can securely set up access for yourself, that's an easy add-on, too.
 
-### Move your logs to RAM
+### Move your logs (and learn how to back up your system)
 
-http://blog.ceard.tech/2017/10/home-assistant-moving-logs-and-database.html
+Home Assistant is a server. As such, it logs everything that is happening, so that you might spot problems and tweak performance. Which is fine, but most people are going to run their Home Assistant from the micro SD card they've got plugged into their Raspberry Pi. Micro SD cards die faster with frequent writing.
 
-DuckDNS / SSL / secure access
-Wireguard
-moving logs to RAM
+I can't say for certain whether this will matter for you, but once you have your Home Assistant set up, it's not a bad idea to prevent the system's storage from burning through your card. You have a few options:
+
++ **Use a USB stick** for your Assistant's storage. [This rather intenstive post explains how](http://blog.ceard.tech/2017/10/home-assistant-moving-logs-and-database.html)
++ Buy a **class A1 or A2 micro SD card**, since they are rated to last for years with gazillions of writes.
++ Do what I did: cut down what is logged, shorten the time logs are kept, and **move your logs to the system's memory**. Since your Assistant is always-on, you can still access your logs, and they won't impact your system RAM much.
+
+You'll want to install the File Editor add-on mentioned in the last section to monkey with `configuration.yaml`. **Before you do that, you ~~should~~ _must_ take a snapshot backup.** It's a couple clicks to recreate all the connections and settings inside your Assistant and download it from a browser. Do it before any notable monkeying around, running updates, and every so often, just because.
+
+In your Home Assistant sidebar, click Supervisor, then the "Snapshots" tab at the top. Give your snapshot a name (maybe with a date, too, like `2020-12-29-Home-Assistant`), password protect it if you want, and make it. Click on any of your snapshots in the gallery on this page, download them, put them somewhere safe.
+
+Okay, now that you've got a fallback in case a typo in a config file ruins everything (kidding! kinda!), open up that File Editor from the sidebar (or Supervisor->Add-on Store, File Editor, Open Web UI if it's not there). Click the file icon in the upper-left corner when the editor opens. Click `configuration.yaml` from the list. 
+
+In your configuration file, there should be a `recorder:` section header. Underneath that header, but indented two spaces, add `db_url: 'sqlite:///:memory:'`, as [suggested by this helpful Reddit commenter](https://www.reddit.com/r/homeassistant/comments/jvwtv1/friendly_reminder_dont_use_a_sd_card_on_a_pi/gcmrr8v/). Later in that same thread, he suggests purging your log files after 3 days' time, and excluding the really esoteric stuff Home Assistant logs, like when the position of the sun changes. So here's taylen123's recorder segment in `configuration.yaml`, pasted from their comment:
+
+```
+recorder:
+  db_url: 'sqlite:///:memory:'
+  purge_keep_days: 3
+  exclude:
+    domains:
+      - automations
+      - weblink
+      - updater
+    entities:
+      - sun.sun
+      - sensor.last_boot
+      - sensor.date
+      - weather.home
+      - weather.dark_sky
+```
+Save the file when you're done (the red "disk" button in the upper-right corner). Make sure you've got your snapshot backup downloaded, then reboot your Home Assistant (Supervisor->System->Host System->Reboot). If it works ... nothing changes, really. You might check on your System Metrics every so often to make sure your RAM usage is okay. On my Pi 4 with 4 GB, I've rarely used more than 24% memory. 
+
+## Set Up External Access
+
+You can use Home Assistant when you're on your home network, and that's fine. You might not need access to your server when you're away from home, or you might have another solution, like a VPN (which is easy to install with Wireguard). If so, you never need to dive into this murky realm.
+
+But if you do need to open up Home Assistant, whether for access or to enable a webhook or something else, you can do so. The easiest way to securely access Home Assistant from any device, anywhere, is to pay $5 per month to [Nabu Casa](https://www.nabucasa.com). Nabu Casa is a sponsor of Home Assistant, they're very serious about security and data privacy, and their service makes enabling remote access and all kinds of hardware access very easy. It also unlocks some [cool text-to-speech stuff](https://www.home-assistant.io/blog/2020/12/13/release-202012/#new-neural-voices-for-nabu-casa-cloud-tts).
+
+Like it says on their site, using Nabu Casa means:
+
+>>> You don't have to deal with dynamic DNS, SSL certificates or opening ports on your router.
+
+But what if, like me, you hate yourself, you value victory over inanimate objects more than your free time, and you "love" a "challenge"? Then let's get into it!
+
+My setup was probably different than yours: router, ISP, home network setup, etc. But the broad tasks for enabling remote access are:
+
++ Give your Home Assistant/Raspberry Pi a static IP address on your home network.
++ Get a [free DuckDNS account](https://www.duckdns.org/).
++ [Install the DuckDNS add-on in Home Assistant and configure it](https://techtechandmoretech.com/guides/hass-duckdns/) (I didn't need to do the port 80 configuration suggested by this guide, but your results may vary).
++ Open a port on your router and forward it to Home Assistant's static address and the Home Assistant port (8123).
++ Connect to Home Assistant now through that DuckDNS URL and whatever port you forwarded to HA: `something.duckdns.org:1234` or whatnot.
+
+The best advice I can give on this process is to avoid any rabbit holes you see about connecting to Home Assistant securely on both your internal and external network. Once you set up an external URL with a valid certificate, Home Assistant cannot serve up a valid certificate for your local network connection. You might find some posts suggesting a setup using the `nginx` add-on to create an SSL proxy, but, listen, you just wanted to control your lights and thermostat, right? That way lies madness.
+
+Just bookmark and connect to your Home Assistant through your DuckDNS address, and then donate to [DuckDNS](https://duckdns.org) and [Let's Encrypt](https://letsencrypt.org/donate/) for making the web secure for everyone, including you and your weird home automation project.
+
+***
+
+By all means, let me know if you:
+
++ find any issues with my Home Assistant advice
++ spot any typos or dead links
++ have some cool Home Assistant stuff to show off
+
+I hope you enjoy this tiny computer project at least half as much as I have.
+
+
+
 
 
