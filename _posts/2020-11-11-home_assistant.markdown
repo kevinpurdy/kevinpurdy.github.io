@@ -35,7 +35,7 @@ Let's get into it.
 
 ### Get a Pi and some stuff
 
-As I write this, you can run Home Assistant on a Raspberry Pi 3B or 3B+, a 4B, a Tinkerboard, Odroid, or Intel NUC. If you're reading this long after fall 2020, or if you're not sure, check the [installation page](https://www.home-assistant.io/hassio/installation/). Note that the easy, default installation takes over your whole Pi and does not give you a desktop to work with; everything is managed through a web broswer. There are ways of [running Home Assistant in a Docker](https://www.home-assistant.io/docs/installation/docker/) or [installed on an already configured Raspberry Pi](https://www.home-assistant.io/docs/installation/raspberry-pi/) but I'm not getting into them here. I like the simplicity of a tiny device, doing one job, plugged into ethernet.
+As I write this, you can run Home Assistant on a Raspberry Pi 3B or 3B+, or a 4B. You could also use a Tinkerboard, Odroid, or Intel NUC. If you're reading this long after fall 2020, or if you're not sure about compatibility, check the [installation page](https://www.home-assistant.io/hassio/installation/). Note that the easy, default installation takes over your whole Pi and does not give you a desktop to work with; everything is managed through a web broswer. There are ways of [running Home Assistant in a Docker](https://www.home-assistant.io/docs/installation/docker/) or [installed on an already configured Raspberry Pi](https://www.home-assistant.io/docs/installation/raspberry-pi/) but I'm not getting into them here. I like the simplicity of a tiny device, doing one job, plugged into ethernet.
 
 ![My NES Raspberry Pi case, with an elegant ethernet plug](/assets/post_images/2020-11-11/nes_home_assistant_pi_case.jpg)
 _My Raspberry Pi 3B+, inside an NES-style case, force-fed ethernet._
@@ -62,26 +62,26 @@ Follow [Home Assistant's setup guide](https://www.home-assistant.io/getting-star
 
 When you get to the screen showing the devices and services Home Assistant sees already, set up as many as you can then. It's helpful to have some objects to work with when you're first designing your panels. 
 
-Some stuff will set up without any help at all, some will require username/password authentication, and some might be a royal pain in the butt. My SmartThings stuff required the creation of a webhook inside Home Assistant. My Logi camera required that I ask the Logitech developers personally to open up an API spot for me, through a Google Form (!). I still haven't heard back on that one.
+Some stuff will set up without any help at all, some will require username/password authentication, and some devices might be a royal pain in the butt. My SmartThings stuff required the creation of a webhook inside Home Assistant. My Logi camera required that I ask the Logitech developers personally to open up an API spot for me, through a Google Form (!). I still haven't heard back on that one.
 
-Anyways! Set up what you can, hit "Finish" at the bottom of that page, and, BOOM, you've got a panel.
+Anyways! Set up what you can, hit "Finish" at the bottom of that page, and, BOOM, you've got your first dashboard, full of badges, cards, and entities inside each card.
 
 ## The Basics: Control Your Smarthome Stuff
 
-![Home Assistant Overview panel](/assets/post_images/2020-11-11/overview.png)
-_Don't edit this "Overview" panel_
+![Home Assistant Overview dashboard](/assets/post_images/2020-11-11/overview.png)
+_Don't edit this "Overview" dashboard_
 
-Here's something confusing about Home Assistant: the first panel you see, "Overview," is not the one you should mess with. "Overview" is a meta panel, updated by Home Assistant itself, that shows you everything Home Assistant can work  with: rooms, scenes, devices, and weird little details about each thing. You can mess with it if you want, but it's better to create your own dashboard, make it the default, and have Overview to fall back on, if you muck things up too bad.
+Here's something confusing about Home Assistant: the first dashboard you see, "Overview," is not the one you should mess with. "Overview" is a kind of omni-dashboard, updated by Home Assistant itself, showing you everything Home Assistant can work with and organize: rooms, scenes, devices, and weird little details about each thing. Rather than mess with Overview, you should create a new panel, make it the default, and have Overview to check in on as you make changes and add things.
 
-Instead of trying to edit Overview, head down to "Configuration" in the lower part of the left-hand control panel, then scroll down to look for "Lovelace Dashboards." You'll see "Overview" as the only option here. Click the big "Add Dashboard" button in the lower-right corner. Give it a title, make sure "Show in sidebar" is toggled on at the bottom, and click "Create." (Don't worry about icons right now, we'll get to that in a bit). Your new panel will look exactly like the Overview panel. Click the three overflow dots in the upper-right corner, choose "Edit dashboard." You'll get a warning that Home Assistant is currently maintaining this, but it's fine. You'll probably want to toggle the "Start with an empty dashboard" option at bottom, then click "Take control."
+Instead of trying to edit Overview, head down to "Configuration" in the lower part of the left-hand control panel, then scroll down to look for "Lovelace Dashboards." You'll see "Overview" as the only option here. Click the big "Add Dashboard" button in the lower-right corner. Give it a title, make sure "Show in sidebar" is toggled on at the bottom, and click "Create." (Don't worry about icons right now, we'll get to that in a bit). Your new dashboard will look exactly like the Overview dashboard. Click the three overflow dots in the upper-right corner, choose "Edit dashboard." You'll get a warning that Home Assistant is currently maintaining this, but it's fine. You'll probably want to toggle the "Start with an empty dashboard" option at bottom, then click "Take control."
 
-Now you've got ... nothing! Click the "+" button in the top bar to create your first "View." You'll probably only want one view, so just name this "Basic" or "Default" or whatever, then hit "Save." Now you have an "Add Card" button on your otherwise blank panel. Click it.
+Now you've got ... nothing! Click the "+" button in the top bar to create your first "View." You'll probably only want one view, so just name this "Basic" or "Default" or whatever, then hit "Save." Now you have an "Add Card" button on your otherwise blank dashboard. Click it.
 
-It's time to think about what you want to do with your Home Assistant setup. You can organize your home stuff however you want. You could group all the lights, like I have, or you could group them by room, so it's easy to turn off, say, all your living room lights, all the downstairs lights, etc. If you're a heat miser like me, you can see all your room temperatures, and if you had a smart thermostat, put the control in there, too.
+It's time to think about what you want to do with your Home Assistant setup. You can organize your stuff however you want. You could group all the lights, like I have, or you could group them by room, so it's easy to turn off, say, all your living room lights, all the downstairs lights, etc. You could group all your temperature sensors with your thermostat control. It's up to you.
 
-You can add stuff either by choosing a pre-designed card, or pick the "entities" in your house and toss them in as a starting point. It may take some experimentation to figure out exactly which things you want in each panel. Some things in your smarthome may also have more than one "entity" attached. My TV has an entity that is just a power switch for the TV itself, and a media player entity that lets me control volume, pause playback, and such.
+You can add stuff either by choosing a pre-designed card, or pick the "entities" in your house and toss them in as a starting point. It may take some experimentation to figure out exactly which things you want in each card. Keep in mind that an "entity" is not a device, it's one aspect of one device. Many things in a smarthome will have more than one entity attached to them. My TV has an entity that is just a power switch for the TV itself, as well as a media player entity that lets me control volume, pause playback, and such.
 
-I think it's easier to start off by searching for entities. Generally, if you want more detailed control of one thing, select it alone, then click "continue" to see a suggested panel.
+I think it's easier to start off by searching for entities. Generally, if you want more detailed control of one thing, select it alone, then click "continue" to see a suggested card.
 
 ![Lamp control with dial](/assets/post_images/2020-11-11/panel_card_detail.png)
 
@@ -99,27 +99,29 @@ You can also create more specific views. For instance, I can create another view
 
 !["Lights" panel in a Home Assistant dashboard](/assets/post_images/2020-11-11/panel_card3.png)
 
-You've got the hang of it now. You can always come back to this editor screen and add or remove entities from cards, change card types, and, as you'll see below, fine-tune the look and feel.
+You've got the hang of it now. You can always come back to this editor screen and add or remove entities from cards, change card types, and, as you'll see below, fine-tune the look and feel of everything.
 
 ### Icons and badges
 
-For most entities, Home Assistant has a default icon that makes sense and looks spiffy. Lights have light bulbs, switches have little lightning/power bolts, battery levels have batteries. But you might want to customize them, to better know at a glance which is which, or just scratch your customization itch.
+For most entities, Home Assistant has a default icon that makes sense and looks spiffy. Lights show light bulbs, switches have little lightning/power bolts, battery levels show batteries. But you might want to customize them, to better know at a glance which is which, or just scratch your customization itch.
 
-Let's fix up this card I for the Tile Bluetooth tracker I have on my keys. By default, it's four tiles—clever, Home Assistant. But let's say I have one in my wallet, so I want a quick-glance distinction. Click on the item you want to change, then click the gear icon in the upper-right corner of the detailed view that pops up.
+Let's fix up this card I have for Tile Bluetooth trackers. By default, every Tile icon is a square made up of four smaller tiles (clever!). But let's say I have one on my keys, and one in my wallet, so I want a quick-glance distinction between them. Click on the entity you want to change, then click the gear icon in the upper-right corner of the detailed view that pops up.
 
-There's an "Icon" field, but it's ... text? Yes. Home Assistant has you choose icons from the [Material Design project](http://materialdesignicons.com/). head to that site, choose the "Cheatsheet" option on the top panel, and Control/Command-F search the page for the icon you want. I liked `mdi-wallet` on there, for example. In Home Assistant entities, you replace the `-` with a colon, `:`. So I enter `mdi:wallet` in the Icon field, and it shows up just to the right of that field, to prove it works.
+There's an "Icon" field, but it's ... text? Yes. Home Assistant has you choose universal icons from the [Material Design project](http://materialdesignicons.com/). Head to that site, choose the "Cheatsheet" option on the top panel, and Control/Command-F search the page for the icon you want. I liked `mdi-wallet` on there, for example. In Home Assistant entities, you replace the `-` with a colon, `:`. So I enter `mdi:wallet` in the Icon field, and it should show up just after you type it in and hit enter.
 
 ![Custom Material Design icons in a Home Assistant card](/assets/post_images/2020-11-11/tile_icons.png)
 
-There's one more thing you can mess with, besides cards. You can see in the "Overview" view that there's a whole bunch of little circular tiles at the top of the window. You can add them to your own view, too, maybe not where you would expect to. Open your panel, click the three-dot menu, choose "Edit Dashboard." Click the pencil icon next to the view you want to edit. One of the sub-sections is "Badges." That's what those text-only circles are, Badges.
+Besides cards, you can also set up a shelf of permanent badges at the top of your dashboard. You can see them in the "Overview" dashboard: a whole bunch of little circular tiles at the top of the window. To add them to your own dashboard, navigate to it, click the three-dot menu, choose "Edit Dashboard." Click the pencil icon next to the view you want to edit. One of the sub-sections is "Badges." That's what those text-only circles are, Badges.
 
-![Badgets on a Panel view in Home Assistant](/assets/post_images/2020-11-11/badges.png)
+![Badges on a Panel view in Home Assistant](/assets/post_images/2020-11-11/badges.png)
 
-The thing to keep in mind is that you can't manipulate  any of these Badges. You can click them for more detail; that's helpful for the weather, for example, or devices for which you want a history graph.
+The thing to keep in mind is that you can't manipulate any of these Badges. You can click them for more detail; that's helpful for temperatures, battery levels, statuses, or things where you want to click to see more detail.
 
-If you stopped here, you'd have a webapp that lets you control your home from your local network, using a no-nonsense panel you designed yourself. Not bad!
+Once you've got your dashboard set up and looking good, you'll want to make it the default dashboard you see when you log into Home Assistant, or open the phone app. In the sidebar, look for the bottom-most option, with your name or username on it. Click it, and in the "Dashboard" section, click and change the default from Overview to your custom dashboard. While you're in this section, you can also choose a dark or light theme, tweak the color scheme, and make other changes.
 
-But I did not stop there.
+If you stopped here, you'd have an efficient little server and webapp that lets you control all your smarthome stuff at once, from your local network, using a no-nonsense panel you designed yourself. Not bad!
+
+Me, I did not stop there.
 
 ## What Else You Can Do with Home Assistant
 
@@ -135,7 +137,7 @@ My favorite part, though, is that, if you grant the permissions, Home Assistant 
 
 + Battery level (%), health, state (charging, not charging), charging type (wireless/wired)
 + Wi-Fi network and LTE connection
-+ Floors ascended/descended, steps walked
++ Floors ascended/descended, steps walked, and other fitness stats
 + Location, last update
 
 ### Install File Editor, Samba, and other add-ons
@@ -144,11 +146,11 @@ If you're going to dive deeper into Home Assistant, you'll need to edit some con
 
 You can also install a Samba add-on, which would (theoretically) allow other computers on your network to find your Home Assistant and browse or edit its files. Samba is a finicky protocol, but it's there if you want it. If you know what SSH is, and can securely set up access for yourself, that's an easy add-on, too.
 
-### Move your logs (and learn how to back up your system)
+### Move your logs (and back up your system)
 
-Home Assistant is a server. As such, it logs everything that is happening, so that you might spot problems and tweak performance. Which is fine, but most people are going to run their Home Assistant from the micro SD card they've got plugged into their Raspberry Pi. Micro SD cards die faster with frequent writing.
+Home Assistant is a server. As such, it logs everything that is happening, so that you might spot problems and tweak performance. That's fine, but most people run their Home Assistant from a micro SD card inside a Raspberry Pi. Micro SD cards die faster with frequent writing.
 
-I can't say for certain whether this will matter for you. but once you have your Home Assistant set up, it's not a bad idea to prevent the system's storage from burning through your card. You have a few options:
+I can't say for certain whether this will matter for you. But once you have your Home Assistant set up, it's not a bad idea to slow down the card burn. You have a few options:
 
 + **Use a USB stick** for your Assistant's storage. [This rather intenstive post explains how](http://blog.ceard.tech/2017/10/home-assistant-moving-logs-and-database.html)
 + Buy a **class A1 or A2 micro SD card**, since they are rated to last for years with gazillions of writes.
@@ -160,7 +162,7 @@ In your Home Assistant sidebar, click Supervisor, then the "Snapshots" tab at th
 
 Okay, now that you've got a fallback in case a typo in a config file ruins everything (kidding! kinda!), open up that File Editor from the sidebar (or Supervisor->Add-on Store, File Editor, Open Web UI if it's not there). Click the file icon in the upper-left corner when the editor opens. Click `configuration.yaml` from the list. 
 
-In your configuration file, there should be a `recorder:` section header. Underneath that header, but indented two spaces, add `db_url: 'sqlite:///:memory:'`, as [suggested by this helpful Reddit commenter](https://www.reddit.com/r/homeassistant/comments/jvwtv1/friendly_reminder_dont_use_a_sd_card_on_a_pi/gcmrr8v/). Later in that same thread, he suggests purging your log files after 3 days' time, and excluding the really esoteric stuff Home Assistant logs, like when the position of the sun changes. So here's taylen123's recorder segment in `configuration.yaml`, pasted from their comment:
+In your configuration file, there should be a `recorder:` section header. Underneath that header, but indented two spaces, add `db_url: 'sqlite:///:memory:'`, as [suggested by this helpful Reddit commenter](https://www.reddit.com/r/homeassistant/comments/jvwtv1/friendly_reminder_dont_use_a_sd_card_on_a_pi/gcmrr8v/). Later in that same thread, he suggests purging your log files after 3 days' time, and excluding the really esoteric stuff Home Assistant logs, like when the position of the sun changes. So here's taylen123's example recorder segment in `configuration.yaml`, pasted from their comment:
 
 ```
 recorder:
@@ -184,7 +186,7 @@ Save the file when you're done (the red "disk" button in the upper-right corner)
 
 You can use Home Assistant when you're on your home network, and that's fine. You might not need access to your server when you're away from home, or you might have another solution, like a VPN (which is easy to install with Wireguard). If so, you never need to dive into this murky realm.
 
-But if you do need to open up Home Assistant, whether for access or to enable a webhook or something else, you can do so. The easiest way to securely access Home Assistant from any device, anywhere, is to pay $5 per month to [Nabu Casa](https://www.nabucasa.com). Nabu Casa is a sponsor of Home Assistant, they're very serious about security and data privacy, and their service makes enabling remote access and all kinds of hardware access very easy. It also unlocks some [cool text-to-speech stuff](https://www.home-assistant.io/blog/2020/12/13/release-202012/#new-neural-voices-for-nabu-casa-cloud-tts).
+But if you do need to open up Home Assistant, whether for access or to enable a webhook or something else, you want it to be secure. The easiest way to securely access Home Assistant from any device, anywhere, is to pay $5 per month to [Nabu Casa](https://www.nabucasa.com). Nabu Casa is a sponsor of Home Assistant, they're very serious about security and data privacy, and their service makes enabling remote access and all kinds of hardware access very easy. It also unlocks some [cool text-to-speech stuff](https://www.home-assistant.io/blog/2020/12/13/release-202012/#new-neural-voices-for-nabu-casa-cloud-tts).
 
 Like it says on their site, using Nabu Casa means:
 
@@ -203,6 +205,8 @@ My setup was probably different than yours: router, ISP, home network setup, etc
 The best advice I can give on this process is to avoid any rabbit holes you see about connecting to Home Assistant securely on both your internal and external network. Once you set up an external URL with a valid certificate, Home Assistant cannot serve up a valid certificate for your local network connection. You might find some posts suggesting a setup using the `nginx` add-on to create an SSL proxy. But, listen, you just wanted to control your lights and thermostat, right? That way lies madness.
 
 Just bookmark and connect to your Home Assistant through your DuckDNS address, and then donate to [DuckDNS](https://duckdns.org) and [Let's Encrypt](https://letsencrypt.org/donate/) for making the web secure for everyone, including you and your weird home automation project.
+
+You might want to harden your Home Assistant security if you're opening it up to outside access. I liked [Kiril Peyanski's suggested two-line addition to `configuration.yaml`](https://peyanski.com/home-assistant-remote-access/#Home_Assistant_http_section), which locks out IP addresses after 5 incorrect password attempts. It's also a good idea to [turn on multi-factor authentication for log-ins](https://www.home-assistant.io/docs/authentication/multi-factor-auth/). Home Assistant itself might not be a prime hacker/griefer target, but it's an always-on computer attached to your network, so lock it down.
 
 ***
 
