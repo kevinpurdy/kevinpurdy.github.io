@@ -1,0 +1,19 @@
+---
+layout: post
+title: 2020 In Review
+published: false
+---
+
+If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.com/kevinpurdy/) or [email](mailto:kspurdy@gmail.com?subject=Error%20in%202019%20In%20Review%20post).
+
++ [Moved to DC](#dc)
++ [Repairs](#repairs)
++ [Raspberry Pi](#pi)
++ [Bikes](#bikes)
++ [Baking (Plus a Snack Mix Recipe)](#baking)
++ [Writing](#writing)
++ [Awesome Buffalo](#awesome)
++ [Ugh, Twitter](#twitter)
++ [Reading](#reading)
++ [Games](#games)
++ [Pictures of Pets](#pets)
