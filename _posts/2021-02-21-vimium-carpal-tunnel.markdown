@@ -19,11 +19,11 @@ Web pages have come very far, but they are still mostly a collection of text, im
 
 Right now I'm listening to Spotify through the [web player](http://play.spotify.com/). It's barely different from the desktop app, because the desktop app is [essentially a pre-packed Chrome browser pointed at Spotify](https://jonathanchang.org/blog/setting-up-spotifyd-on-macos/). Here's what it looks like in a Chrome window.
 
-![Spotify, open as a web page](/asets/post_images/2021-02-20/spotify_regular.jpg)
+![Spotify, open as a web page](/assets/post_images/2021-02-20/spotify_regular.jpg)
 
 Here's what happens when I focus the Spotify window and tap "f," the Vimium key that lets you "click" on any link on the page using keyboard shortcuts.
 
-![Spotify, open with Vimium active](/asets/post_images/2021-02-20/spotify_vimium.jpg)
+![Spotify, open with Vimium active](/assets/post_images/2021-02-20/spotify_vimium.jpg)
 
 It doesn't look very pretty, but it's temporary, and it's damned useful. From your keyboard, you can play/pause, skip tracks, turn on shuffle or random, send music to other devices, focus the volume or time slider, jump to some other track or playlist, and so on. You'd do these things by, as noted, tapping "f," then typing any of the little yellow shortcuts to "click" that link: f-fk would pause, f-sk would favorite/like the song, f-ad would jump to the Tuareg Guitar playlist, etc.
 
