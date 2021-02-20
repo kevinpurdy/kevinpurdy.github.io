@@ -34,7 +34,7 @@ I remember frantically texting my friends who had moved out of Buffalo homes bef
 
 I did, however, discover the joy that is belonging to [your local Buy Nothing group](https://buynothingproject.org/), and selling things on eBay like you have nothing to lose. I was so inspired by this discovery, I wrote the kind of [rant about personal responsibility nobody wants to read](https://buynothingproject.org/). Seriously, though: lose your second-hand guilt, if you're lucky enough to have it.
 
-Liz and I live in <a href="https://en.wikipedia.org/wiki/Southeast_(Washington,_D.C.)">Southeast D.C.</a>. It's not what most people think of when they think of the city—it's not the quadrant with the White House or the museums or the stadium or the hip strips where young political staffers live. It's perfect for us, as we get our bearings and learn how things work. We've done some DC things, taken some great walks and bike trips, and smiled at the still relatively mild winters they get here (though this year is harsher than most, locals say).
+Liz and I live in <a href="https://en.wikipedia.org/wiki/Southeast_(Washington,_D.C.)">Southeast D.C</a>. It's not what most people think of when they think of the city—it's not the quadrant with the White House or the museums or the stadium or the hip strips where young political staffers live. It's perfect for us, as we get our bearings and learn how things work. We've done some DC things, taken some great walks and bike trips, and smiled at the still relatively mild winters they get here (though this year is harsher than most, locals say).
 
 I like how pervasive bike culture, bikeshare systems, and scooters are. At some point I will probably appreciate the public transit. The food options are plentiful, the Eastern Market wonderful, the beer much better than Ryan Nagelhout said it would be. But, again, this is a city that's half asleep under the modern, rolling, soft quarantine.
 
@@ -70,20 +70,19 @@ Given that I sold my Buffalo home in 2020, I did a lot of little repairs around 
 
 I didn't really understand what [this stuff](https://www.acehardware.com/departments/paint-and-supplies/tape-glues-and-adhesives/glues-and-epoxy/12778) was until this job came up. It's like a real-world Minecraft material: you create a block of matter that can fill in for other stuff, sand it, paint it. When I was done, you could barely tell there was ever a soft spot or hole in the wood. It was a three-inch hole that felt like 100-yard victory.
 
-![Wii controller, opened up](/assets/post_images/2020-02-15/wii_controller.jpg)
+![Wii controller, opened up](/assets/post_images/2021-02-15/wii_controller.jpg)
 
 To give away a Nintendo Wii, to a father with two kids who was really glad for it, I fixed one of the non-responsive controllers. Turned out it was just in need of a thorough contact/board cleaning with some 90% isopropyl alcohol. Hardest part was keeping the buttons and little rubber gaskets from falling off the table.
 
-![Two orange wiring caps peeking out of a plaster wall](/assets/post_images/2020-02-15/wonderful_wiring.jpg)
+![Two orange wiring caps peeking out of a plaster wall](/assets/post_images/2021-02-15/wonderful_wiring.jpg)
 
 I also replaced the last of the old sconces on the walls. There are things I'll miss about our old 1878 Victorian, but not working with plaster and tightly-packed cloth-covered wire with no real markings.
 
 In the new (2019) apartment, I have mostly added things: installed two ceiling fans, wall-mounted a TV, set up a whole Container Store shelving rack. Maybe the only real non-bike, non-electronic fix has been switching the direction the door opens on the dryer. I had to find the manual online, and use a Torx screwdriver from my iFixit toolkit. Now our hands don't scrape on the closet wall when the clothes are dry.
 
-![My cat Cork, quote-unquote helping](/assets/post_images/2020-02-15/cork_dryer.jpg)
+![My cat Cork, quote-unquote helping](/assets/post_images/2021-02-15/cork_dryer.jpg)
 
 Here's one fix you can actually watch me perform: swapping out the drifting joystick on a Nintendo Switch Joy-Con, with my iFixit coworkers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9hHsDEECR_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
