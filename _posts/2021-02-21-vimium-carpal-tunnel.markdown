@@ -1,3 +1,10 @@
+---
+layout: post
+title: Vimium, Carpal Tunnel, and Accessibility
+published: false
+---
+
+
 Here's something I've been typing to a lot of people lately: f.
 
 There are many reasons to type "f" and mean it these days, in these United States. But what I'm doing is trying to navigate around a web page with [Vimium](https://vimium.github.io/). Sometimes I forget to escape out of a text box I had in focus, so I type "f" and then, instead of magically turning the whole page into a human-navigable documents, I just type "f" into a box. It's not a bad trade-off, considering the alternative is having to ice my forearm or elbow.

@@ -107,3 +107,24 @@ You can even train people like me, with my not-so-great hands and English degree
 
 Even still: really cool.
 
+<a name="pi"></name>
+## Raspberry Pi
+
+After actually using and playing it for none hours, I converted my Pi 3B+ from a retro games emulator to a [Pi-powered Home Assistant hub](https://thepurdman.com/home_assistant/). Now it provides me a convenient little panel to control all my smarthome stuff and speakers. Love it.
+
+![Home Assistant web panel](/assets/post_images/2020-11-11/home_assistant_desktop.png)
+
+The other Pi is doing a good job of serving up an external SSD to Plex and the network. It also has two backup drives hooked up to it, and is supposed to redundantly back them up (with `rsync`) every night, but I don't have that quite working yet. One thing I discovered about Pi USB ports: they don't supply a lot of power. If you want to connect a few drives to them, you have to use a powered hub or external power.
+
+<a name="bikes"></name>
+## Bikes
+
++ [Bikes](#bikes)
++ [Baking (Plus a Snack Mix Recipe)](#baking)
++ [Writing](#writing)
++ [Awesome Buffalo](#awesome)
++ [Ugh, Twitter](#twitter)
++ [Reading](#reading)
++ [Games](#games)
++ [Coronavirus, Pandemic, COVID-19](#virus)
++ [Pictures of Pets](#pets)
