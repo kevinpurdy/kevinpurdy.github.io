@@ -9,6 +9,7 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 + [Moved to DC](#dc)
 + [The Buffalo Bills, of All Things](#bills)
 + [Repairs](#repairs)
++ [Microsoldering School](#microsoldering)
 + [Raspberry Pi](#pi)
 + [Bikes](#bikes)
 + [Baking (Plus a Snack Mix Recipe)](#baking)
@@ -54,11 +55,35 @@ Beyond the comedy, I stopped paying attention to the team after that. And then, 
 
 It got to the point where, at my Monday morning work meetings, I was providing updates on what was happening in my former city ... in slide presentations.
 
-![Bills game work presentation, slide 1](/assets/post_images/2021-02-15/bills_slide1.png)
+![Bills game work presentation, slide 1](/assets/post_images/2021-02-15/bills_slide1.jpg)
 
-![Bills game work presentation, slide 2](/assets/post_images/2021-02-15/bills_slide2.png)
+![Bills game work presentation, slide 2](/assets/post_images/2021-02-15/bills_slide2.jpg)
 
-![Bills game work presentation, slide 3](/assets/post_images/2021-02-15/bills_slide3.png)
+![Bills game work presentation, slide 3](/assets/post_images/2021-02-15/bills_slide3.jpg)
 
 The Bills did not make or win the Super Bowl. But, for the first time in 21 years, the season ended, and I was hopeful for the next one. Not the next one _if we draft a miracle quarterback_, not the season _after we fire this stupid idiot coach_. This team, next year. I was, in 2020, very grateful for it.
+
+<a name="repairs"></a>
+## Repairs
+
+Given that I sold my Buffalo home in 2020, I did a lot of little repairs around the place. My favorite was using two-part epoxy to fill in a bit of rotted wood on the front step. The woodwork was complicated enough that I wouldn't have been able to pull the whole thing and cut new boards for it, nor hire anybody during a pandemic to do so.
+
+I didn't really understand what [this stuff](https://www.acehardware.com/departments/paint-and-supplies/tape-glues-and-adhesives/glues-and-epoxy/12778) was until this job came up. It's like a real-world Minecraft material: you create a block of matter that can fill in for other stuff, sand it, paint it. When I was done, you could barely tell there was ever a soft spot or hole in the wood. It was a three-inch hole that felt like 100-yard victory.
+
+![Wii controller, opened up](/assets/post_images/2020-02-15/wii_controller.jpg)
+
+To give away a Nintendo Wii, to a father with two kids who was really glad for it, I fixed one of the non-responsive controllers. Turned out it was just in need of a thorough contact/board cleaning with some 90% isopropyl alcohol. Hardest part was keeping the buttons and little rubber gaskets from falling off the table.
+
+![Two orange wiring caps peeking out of a plaster wall](/assets/post_images/2020-02-15/wonderful_wiring.jpg)
+
+I also replaced the last of the old sconces on the walls. There are things I'll miss about our old 1878 Victorian, but not working with plaster and tightly-packed cloth-covered wire with no real markings.
+
+In the new (2019) apartment, I have mostly added things: installed two ceiling fans, wall-mounted a TV, set up a whole Container Store shelving rack. Maybe the only real non-bike, non-electronic fix has been switching the direction the door opens on the dryer. I had to find the manual online, and use a Torx screwdriver from my iFixit toolkit. Now our hands don't scrape on the closet wall when the clothes are dry.
+
+![My cat Cork, quote-unquote helping](/assets/post_images/2020-02-15/cork_dryer.jpg)
+
+Here's one fix you can actually watch me perform: swapping out the drifting joystick on a Nintendo Switch Joy-Con, with my iFixit coworkers.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hHsDEECR_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
