@@ -119,6 +119,16 @@ The other Pi is doing a good job of serving up an external SSD to Plex and the n
 <a name="bikes"></name>
 ## Bikes
 
+Back in the holiday season of 2019, I bought a refurbished Kickr Core bike trainer, so I could put my lighter good-weather bike to use in the Buffalo winter. Sure, the manual says it's only for bikes with a certain dropout width, generally made after the mid-1990s. But, with enough cold setting and effort, I can probably make an early 1980s Trek fit, right?
+
+<img src="/assets/post_images/2021-02-20/seymour.jpg" align="right"/>So I worked up the energy to finally give Seymour Schwinn ([1988-2018 R.I.P.](https://thepurdman.com/2018-in-review/#bikes)) a proper burial. And by burial I mean dismantling. During my last session at GoBike Buffalo before the pandemic, I transplanted his combination brake/shifters, derailleur, and a few other pieces onto Theodore Trek. I ran new cables and routing, did a new bar tape wrap, and got Theodore ready for his new life as a winter trainer.
+
+The answer is technically yes, but also painfully, yes. I did a few weeks of Zwift, but often felt like something was slightly off with the gearing/resistance. I intend to get back into it, perhaps with a _slightly_ newer department store bike or with a new summer bike.
+
+Once the move to DC was known, I made the (correct) assumption that Liz and I would have to downsize from 3 bikes to 2.
+
+
+
 + [Bikes](#bikes)
 + [Baking (Plus a Snack Mix Recipe)](#baking)
 + [Writing](#writing)
