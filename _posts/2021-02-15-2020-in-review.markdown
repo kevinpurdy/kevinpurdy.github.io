@@ -9,7 +9,7 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 + [Moved to DC](#dc)
 + [The Buffalo Bills, of All Things](#bills)
 + [Repairs](#repairs)
-+ [Microsoldering School](#microsoldering)
++ [Board Repair School](#boardrepair)
 + [Raspberry Pi](#pi)
 + [Bikes](#bikes)
 + [Baking (Plus a Snack Mix Recipe)](#baking)
@@ -85,4 +85,25 @@ In the new (2019) apartment, I have mostly added things: installed two ceiling f
 Here's one fix you can actually watch me perform: swapping out the drifting joystick on a Nintendo Switch Joy-Con, with my iFixit coworkers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9hHsDEECR_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a name="boardrepair"></a>
+## Board Repair School
+
+![iPhone board with chip removed, next to fingernail for scale](/assets/post_images/2021-02-15/fingernail_board.jpg)
+
+The coolest thing I did this year, according to me, is attending [Practical Board Repair School at iPad Rehab](https://www.ipadrehab.com/index.cfm?Page=Practical-Board-Repair-School), just outside of Rochester. iFixit paid for me to attend, on the idea that it would be good for me to learn more about how devices work. Boy, did I.
+
+I wrote three posts about what we did there and what I learned:
+
++ [Background, multi-meters, thermal cameras, schematics](https://www.ifixit.com/News/36189/circuits-necromancy-and-solder-board-repair-school-part-1)
++ [Melting a display port, replacing chips, fixing my friend's Pixel 2](https://www.ifixit.com/News/36437/chip-gets-real-board-repair-school-part-2)
++ [Why it's easier to fix iPhones, weird Chinese parts, graduation](https://www.ifixit.com/News/36597/android-serial-numbers-and-china-board-repair-school-part-3)
+
+One of my favorite feelings in life is discovering the next layer down of something. I've been a Settings Nerd most of my life, which is one level down from most people. I have spent many hours with ROMs, wiping, kernel hacking, rooting, and the like; another layer down. Until I worked at iFixit, I didn't really know how a regular human could pop the screen off a phone and replace the battery. Once you're looking at the board, though, all those tiny copper traces running between chips, power coming in through a cable and somehow reaching everything ...
+
+But you can fix that stuff, too. It's all wires—tiny wires embedded in a board, but wires that can be disconnected, overloaded, damaged by water. Even the mysterious chips connect to the board through what are, [lots of little wires](https://en.wikipedia.org/wiki/Ball_grid_array).
+
+You can even train people like me, with my not-so-great hands and English degree, to fix these tiny wires. Fixing a single micrometer-wide wire or replacing a $2 chip could save a $1,000 phone from the recycling shredder. But without the schematics, the spare chips, and the economic incentive, it doesn't happen.
+
+Even still: really cool.
 
