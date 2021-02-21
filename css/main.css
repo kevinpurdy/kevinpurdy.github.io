@@ -274,7 +274,7 @@ div.posts span {
 
 div.posts img {
   max-width:50%;
-  margin: 10px; 
+  margin: 10px;
 }
 
 div.posts p {
@@ -337,6 +337,7 @@ div.posts p {
   margin-bottom: 1.5em;
 }
 
+
 /* Read/subscribe buttons/links */
 
 /*
@@ -348,7 +349,7 @@ div.meta {
 
 div.meta a {
   text-decoration: none;
-} 
+}
 */
 
 div.addthis_default_style {

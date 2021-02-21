@@ -129,7 +129,7 @@ So I worked up the energy to finally give Seymour Schwinn ([1988-2018 R.I.P.](ht
 
 The answer is technically yes, but also painfully, yes. I did a few weeks of Zwift, but often felt like something was slightly off with the gearing/resistance. I intend to get back into it, perhaps with a _slightly_ newer department store bike or with a new summer bike. I learned a lot, though.
 
-![Bike (Theodore) for sale](/assets/post_images/2021-02-15/theodore_for_sale.jpg#right)
+<img src="/assets/post_images/2021-02-15/theodore_for_sale.jpg" alt="Bike (Theodore) for sale" class="right"/>
 
 Once the move to DC was known, I knew I had to downsize to one bike. My flat-bar bike has a rack, wide Marathon tires, weather-resistant geared hub and belt drive—it felt like the better city bike. So I put the rear wheel back on Theodore, cleaned him up, and donated him to [GoBike Buffao](https://gobikebuffalo.org/). He sold pretty quick. The description was something like "Classic style with well-done upgrades," which, what is this feeling in my chest?
 
