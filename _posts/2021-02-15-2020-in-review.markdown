@@ -119,7 +119,7 @@ The other Pi is doing a good job of serving up an external SSD to Plex and the n
 <a name="bikes"></name>
 ## Bikes
 
-<div align="center">![Perfect chain grease imprint on an arm](/assets/post_images/2021-02-15/chain_grease.jpg)</div>
+<img src="/assets/post_images/2021-02-15/chain_grease.jpg" align="center"/>
 
 Back in the holiday season of 2019, I bought a refurbished Kickr Core bike trainer, so I could put my lighter good-weather bike to use in the Buffalo winter. Sure, the manual says it's only for bikes with a certain dropout width, generally made after the mid-1990s. But, with enough cold setting and effort, I can probably make an early 1980s Trek fit, right?
 
