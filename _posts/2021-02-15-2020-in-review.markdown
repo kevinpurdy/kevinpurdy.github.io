@@ -14,7 +14,7 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 + [Board Repair School](#boardrepair)
 + [Raspberry Pi](#pi)
 + [Bikes](#bikes)
-+ [Baking (Plus a Snack Mix Recipe)](#baking)
++ [Baking](#baking)
 + [Writing](#writing)
 + [Awesome Buffalo](#awesome)
 + [Ugh, Twitter](#twitter)
@@ -140,7 +140,7 @@ Before we left, I did what could be my final Ride for Roswell, at least as a Buf
 Since the move, I've come to rely on [DC's Capital Bikeshare](https://www.capitalbikeshare.com/) for 95% of my rides. I have occasionally taken the Green Machine bike out for cargo hauls or locations not convenient to a CaBi rack, but there are very few of those. I'm sure the local bike enthusiasts have lots to complain about—that's just how it works. But I'm still in the honeymoon phase of having to drive so rarely that I have to set a reminder to start the car every so often for the battery's sake.
 
 <a name="baking"></a>
-## Baking (Plus a Snack Mix Recipe)
+## Baking
 
 ![3x3 grid showing various baking accomplishments](/assets/post_images/2021-02-15/baking_2020_3by3.jpg)
 _Clockwise from top left: Eggnog cheesecake with gingerbread people (Pastry Love); [Kvæfjordkake](https://northwildkitchen.com/kvaefjordkake-worlds-best-cake/) (North Wild Kitchen); Chocolate-Glazed Mint-Frosted Brownies (Cook's Illustrated Baking); Orange-Almond Pudding Cake with Chocolate Ganache (Pastry Love); Funfetti angel food cake (Pastry Love); [Lemon pudding cake](https://cooking.nytimes.com/recipes/12363-lemon-pudding-cake) (NYT Cooking); Homemade Hostess-Style Cupcakes (Bravetart); Lemon Layer Cake with Fluffy Toasted Almond Icing (Cook's Illustrated Baking). Center: Lemon meringue cupcake (Pastry Love)._
@@ -149,10 +149,30 @@ Up above you can see some of the more impressive-looking things I baked this yea
 
 Also, King Arthur Flour is an employee-owned [B Corporation](https://en.wikipedia.org/wiki/Benefit_corporation), with a good and consistent product. And it makes a killer God-damned homemade pizza. I buy King Arthur flours, Domino sugars, and Land O'Lakes butters, if I'm able.
 
-Instagram is filled with people making baking seem like a talent you acquire through positive vibes, not trial and effort. So I want to share with you a collosal collapse of baking, an utterly dumb-headed baking choice: [Green Tea-Ginger Marshmallow Shortbread](https://cooking.nytimes.com/recipes/1013565-green-tea-ginger-marshmallow-shortbread).
+The web is filled with people making baking seem like a talent you acquire through positive vibes and great lighting, not trial and effort and deeply useful failure. So I want to share with you a collosal collapse of bakery, an utterly awful oven product: [Green Tea-Ginger Marshmallow Shortbread](https://cooking.nytimes.com/recipes/1013565-green-tea-ginger-marshmallow-shortbread).
+
+![Lime matcha disaster cake](/assets/post_images/2021-02-15/lime_matcha_disaster.jpg)
+
+I was feeling restless one weekend (in 2020, huge surprise) and wanted to bake something. I had the basics, but I also had a bunch of candied ginger stashed away for my [usual granola recipe](https://thepurdman.com/2019-in-review/#baking). Searching by ingredient, I came across this recipe. I didn't have the matcha or the unflavored gelatin, but I had almost everything else (and you can [make superfine sugar in a food processor](https://www.epicurious.com/expert-advice/how-to-make-your-own-superfine-powdered-and-brown-sugars-article).) The other stuff, I figured, I could find at Safeway, or Harris Teeter, or Whole Foods, or I'd find another spot in my new D.C. neighborhood that carried fussy things.
+
+I found neither unflavored gelatin packets nor matcha powder. I found instant matcha, which I figured was close enough for flavor's sake. And I found lime Jell-O. Lime was one of the flavors in this weird little cake, anyways; I'd just cut the amount of sugar listed on the box out of the other sugar. Using a scale, actually. This felt quite resourceful. I adapted the directions to my cold-setting Jell-O, put it in the fridge, and waited for that night's reveal
+
+<img src="/assets/post_images/2021-02-15/lime_matcha_square.jpg" alt="Sickeningly green square of marshmallow shortbread" class="right"/>
+
+Three things became apparent after the first bite:
+
++ Lime Jell-O is not a flavor to try and "sneak" into anything.
++ Without boiling water, instant matcha is not going to mix into anything, instead settling on the bottom as it set in the fridge.
++ A coating of pure matcha powder gel is not a pleasant taste on anything.
+
+The first night, my wife took one bite and declared the dessert not for her. Me, I think Sour Patch Kids are proof God loves us. But even I thought that "artificial lime marshmallow" plus "candied ginger" plus "the gritty taste of powdered grass" was not actually pleasant. I also had terrible stomach pains after eating one small square.
+
+Did I eat another square the next night? Yes, I did, and I once again felt like I'd been smacked in the stomach by a bag of candied lawn trimmings. Then I tossed the whole rest of the pan in the trash. Some real sunk-cost baking there, and I hope I remember it for a long while.
 
 <a name="writing"></a>
 ## Writing
+
+
 
 + [Writing](#writing)
 + [Awesome Buffalo](#awesome)
