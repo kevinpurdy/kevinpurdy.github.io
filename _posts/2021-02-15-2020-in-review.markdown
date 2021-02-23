@@ -72,7 +72,7 @@ Given that I sold my Buffalo home in 2020, I did a lot of little repairs around 
 
 I didn't really understand what [this stuff](https://www.acehardware.com/departments/paint-and-supplies/tape-glues-and-adhesives/glues-and-epoxy/12778) was until this job came up. It's like a real-world Minecraft material: you create a block of matter that can fill in for other stuff, sand it, paint it. When I was done, you could barely tell there was ever a soft spot or hole in the wood. It was a three-inch hole that felt like 100-yard victory.
 
-![Wii controller, opened up](/assets/post_images/2021-02-15/wii_controller.jpg)
+<img src="/assets/post_images/2021-02-15/wii_controller.jpg" alt="Wii controller, opened up" class="right"/>
 
 To give away a Nintendo Wii, to a father with two kids who was really glad for it, I fixed one of the non-responsive controllers. Turned out it was just in need of a thorough contact/board cleaning with some 90% isopropyl alcohol. Hardest part was keeping the buttons and little rubber gaskets from falling off the table.
 
@@ -82,7 +82,7 @@ I also replaced the last of the old sconces on the walls. There are things I'll 
 
 In the new (2019) apartment, I have mostly added things: installed two ceiling fans, wall-mounted a TV, set up a whole Container Store shelving rack. Maybe the only real non-bike, non-electronic fix has been switching the direction the door opens on the dryer. I had to find the manual online, and use a Torx screwdriver from my iFixit toolkit. Now our hands don't scrape on the closet wall when the clothes are dry.
 
-![My cat Cork, quote-unquote helping](/assets/post_images/2021-02-15/cork_dryer.jpg)
+<img src="/assets/post_images/2021-02-15/cork_dryer.jpg" alt="My cat Cork, quote-unquote helping" class="right"/>
 
 Here's one fix you can actually watch me perform: swapping out the drifting joystick on a Nintendo Switch Joy-Con, with my iFixit coworkers.
 
@@ -114,7 +114,7 @@ Even still: really cool.
 
 After actually using and playing it for none hours, I converted my Pi 3B+ from a retro games emulator to a [Pi-powered Home Assistant hub](https://thepurdman.com/home_assistant/). Now it provides me a convenient little panel to control all my smarthome stuff and speakers. Love it.
 
-![Home Assistant web panel](/assets/post_images/2020-11-11/home_assistant_desktop.png)
+<img src="/assets/post_images/2020-11-11/home_assistant_phone.jpeg" alt="Home Assistant web panel on phone" class="right"/>
 
 The other Pi is doing a good job of serving up an external SSD to Plex and the network. It also has two backup drives hooked up to it, and is supposed to redundantly back them up (with `rsync`) every night, but I don't have that quite working yet. One thing I discovered about Pi USB ports: they don't supply a lot of power. If you want to connect a few drives to them, you have to use a powered hub or external power.
 
@@ -140,9 +140,11 @@ Before we left, I did what could be my final Ride for Roswell, at least as a Buf
 Since the move, I've come to rely on [DC's Capital Bikeshare](https://www.capitalbikeshare.com/) for 95% of my rides. I have occasionally taken the Green Machine bike out for cargo hauls or locations not convenient to a CaBi rack, but there are very few of those. I'm sure the local bike enthusiasts have lots to complain about—that's just how it works. But I'm still in the honeymoon phase of having to drive so rarely that I have to set a reminder to start the car every so often for the battery's sake.
 
 <a name="baking"></a>
-## Baking
+## Baking (Plus a Snack Mix Recipe)
 
-+ [Baking (Plus a Snack Mix Recipe)](#baking)
+![3x3 grid showing various baking accomplishments](/assets/post_images/2021-02-15/baking_2020_3by3.jpg)
+_Clockwise from top left: Eggnog cheesecake with gingerbread people (Pastry Love); [Kvæfjordkake](https://northwildkitchen.com/kvaefjordkake-worlds-best-cake/); Brownies with creme de menthe frosting; Chocolate orange pudding cake (Bravetart); Funfetti angel food cake; Lemon pudding cake; Homemade Tasty Cakes; Lemon layer cake with almond frosting. Center: Lemon meringue cupcake._
+
 + [Writing](#writing)
 + [Awesome Buffalo](#awesome)
 + [Ugh, Twitter](#twitter)
