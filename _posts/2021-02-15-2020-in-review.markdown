@@ -162,19 +162,20 @@ I found neither unflavored gelatin packets nor matcha powder. I found instant ma
 Three things became apparent after the first bite:
 
 + Lime Jell-O is not a flavor to try and "sneak" into anything.
-+ Without boiling water, instant matcha is not going to mix into anything, instead settling on the bottom as it set in the fridge.
++ Without boiling water, instant matcha is not going to mix into anything, instead settling between the shortbread and marshmallow as it sets (you can see its dark green in the side view pic nearby).
 + A coating of pure matcha powder gel is not a pleasant taste on anything.
 
-The first night, my wife took one bite and declared the dessert not for her. Me, I think Sour Patch Kids are proof God loves us. But even I thought that "artificial lime marshmallow" plus "candied ginger" plus "the gritty taste of powdered grass" was not actually pleasant. I also had terrible stomach pains after eating one small square.
+The first night, my wife took one bite and declared the dessert not for her. Me, I think Sour Patch Kids are proof God loves us. But even I thought that "artificial lime marshmallow" plus "sugar-cured ginger" plus "the gritty taste of powdered grass" was not actually pleasant. I also had terrible stomach pains after eating one small square.
 
-Did I eat another square the next night? Yes, I did, and I once again felt like I'd been smacked in the stomach by a bag of candied lawn trimmings. Then I tossed the whole rest of the pan in the trash. Some real sunk-cost baking there, and I hope I remember it for a long while.
+Did I eat another square the next night? Yes, I did, and I once again felt like I'd been smacked in the stomach by a bag of candied lawn trimmings. Then I tossed the whole rest of the pan in the trash. Some real sunk-cost baking there. The recipe itself might be fine, if you have the right stuff. But I hope I remember this catastrophe for a while.
 
 <a name="writing"></a>
 ## Writing
 
+I mostly wrote things for [iFixit](https://ifixit.com) last year. Besides the board repair school posts I mentioned up in the [Repair section](#repair), my favorite iFixit posts from 2020 were a rant about [Amazon's relationship with e-waste](https://www.ifixit.com/News/35189/its-time-to-stop-making-excuses-for-amazons-disposable-tech), because it cause them to make some changes, and [a deep dive into the Nexus 5X/6P boot loop that literally nobody asked for](https://www.ifixit.com/News/36821/dark-magic-what-caused-googles-nexus-6p-death-loop-and-how-to-fix-it-with-a-hairdryer).
 
+I also wrote about [Leaving Buffalo](https://thepurdman.com/leaving-buffalo/) on this site. The reaction to it, from [others](https://twitter.com/kevinpurdy/status/1283832830720724993) and, after I stopped revising, myself, reaffirmed why I maintain this pile of misaligned text and code.
 
-+ [Writing](#writing)
 + [Awesome Buffalo](#awesome)
 + [Ugh, Twitter](#twitter)
 + [Reading](#reading)
