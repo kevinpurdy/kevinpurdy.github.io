@@ -17,10 +17,9 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 + [Baking](#baking)
 + [Writing](#writing)
 + [Awesome Buffalo](#awesome)
-+ [Ugh, Twitter](#twitter)
 + [Reading](#reading)
 + [Games](#games)
-+ [Coronavirus, Pandemic, COVID-19](#virus)
++ [Ugh, Twitter](#twitter)
 + [Pictures of Pets](#pets)
 
 <a name="dc"></a>
@@ -176,9 +175,20 @@ I mostly wrote things for [iFixit](https://ifixit.com) last year. Besides the bo
 
 I also wrote about [Leaving Buffalo](https://thepurdman.com/leaving-buffalo/) on this site. The reaction to it, from [others](https://twitter.com/kevinpurdy/status/1283832830720724993) and, after I stopped revising, myself, reaffirmed why I maintain this pile of misaligned text and code.
 
-+ [Awesome Buffalo](#awesome)
-+ [Ugh, Twitter](#twitter)
+<a name="awesome"></a>
+## Awesome Buffalo
+
+Given that I left Buffalo, it was my last year as a trustee of [Awesome Buffalo](https://www.awesomefoundation.org/en/chapters/buffalo). It was a different kind of year for the trustees, meeting virtually for almost all of the year, while re-examining what kind of projects would make Buffalo more "awesome." You could no longer really fund projects that involved events or outdoor gathering. You realized that many people were hurting: for work, for food, for connections. Every community needs art, mirth, and togetherness in addition to funds, infrastructure, and civility. But the balance swung back toward concrete initiatives and deeper concerns last year.
+
+You could see the whole list of 2020 projects by starting [in February 2020](https://www.awesomefoundation.org/en/projects/135400-rust-belt-harvest) and clicking through the year with the "Previous Project" link in the upper-left). I'm particularly proud to have been one of the advocates for [Colored Girls Bike Too](https://www.awesomefoundation.org/en/projects/153972-colored-girls-bike-too).
+
+If you've got a Buffalo-area project that could use a small injection of cash to make a big difference, [apply for an Awesome Buffalo grant](https://www.awesomefoundation.org/en/submissions/new?chapter=buffalo). If you want to help make Buffalo more awesome, [contact them about becoming a trustee](http://bit.ly/2jbU21o).
+
+
+
+<a name="twitter"></a>
+
 + [Reading](#reading)
 + [Games](#games)
-+ [Coronavirus, Pandemic, COVID-19](#virus)
++ [Ugh, Twitter](#twitter)
 + [Pictures of Pets](#pets)
