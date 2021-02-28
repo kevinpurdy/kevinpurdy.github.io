@@ -184,11 +184,32 @@ You could see the whole list of 2020 projects by starting [in February 2020](htt
 
 If you've got a Buffalo-area project that could use a small injection of cash to make a big difference, [apply for an Awesome Buffalo grant](https://www.awesomefoundation.org/en/submissions/new?chapter=buffalo). If you want to help make Buffalo more awesome, [contact them about becoming a trustee](http://bit.ly/2jbU21o).
 
+<a name="reading"></a>
+## Reading
 
+I'm sure there are people for whom a year in quarantine was an ideal year to get a lot of books read. Not me. I think I've never read fewer traditional books than in the last year. I've never subscribed to more publications, almost none of which I receive in paper form. It feels important, both to support good work and to have access to well-considered news and thought. But, books? I dunno, not last year.
+
+Books I did actually read:
+
++ [_Rust: The Longest War_](https://www.bookstorelink.com/9781451691603) - Read "for work," but found it fascinating. If nothing else, I learned that "Beer was made for cans, and cans were made for beer."
++ [_Made to Break: Technology and Obsolesence in America_](https://www.bookstorelink.com/9780674025721) - Lightbulb conspiracies, GM as the progenitor of the modern consumerist psyche: heady stuff.
++ [_Alien III: An Audible Original Drama_](https://www.audible.com/pd/Alien-III-Audiobook/B07QY3KR81) - Based on William Gibson's unproduced screenplay for this movie, [one of many](https://www.dailyscript.com/bhundlan/scripts/alien3/)! It was perfect for a drive to and from the Adirondacks. I can't remember a moment of it, but I was glad to hang out with Bishop and Ridley.
++ [_Uncommon Carriers_](https://www.bookstorelink.com/9780865477391) - Loaned by a friend with very good taste. McPhee's style seems very much my kind of thing, but a couple of the chapters in this collection of stories didn't click with me. The same style elicited quite different reactions from me, possibly because one chapter didn't feel different enough from another. Or I just don't enjoy boat stories, maybe.
++ [Every book in the recent season of Boss Fight Books](https://bossfightbooks.com/products/postal-by-brock-wilbur-nathan-rabin) - Minus _Final Fantasy VI_, which is not yet out, but also [Postal](https://bossfightbooks.com/products/postal-by-brock-wilbur-nathan-rabin) and [_Red Dead Redemption_](https://bossfightbooks.com/products/red-dead-redemption-by-matt-margini). I read _Majora's Mask_ most closely, because I helped with an edit/review copy. I've only actually played a good bit of _Red Dead Redemption_ out of these games, but I enjoyed them all.
+
+Some of the best longer or just more interesting articles I read in 2020, via my [Pocket](https://getpocket.com) account. This excludes stuff about the president at that time, which was important reading but which nobody needs to revisit now:
+
++ [The Vampire Ship](https://getpocket.com/redirect?url=https%3A%2F%2Fnewrepublic.com%2Farticle%2F159252%2Fnoor-one-vampire-ship-heroin-turkey-greece-corruption-scandal) - I miss _The Wire_ a lot.
++ [Injured?](https://getpocket.com/redirect?url=https%3A%2F%2Fnymag.com%2Fintelligencer%2Farticle%2Fcellino-and-barnes-breakup.html) - Cellino v. Barnes, and it's lit.
++ [What Happened to Val Kilmer? He's Just Starting to Figure It Out](https://getpocket.com/redirect?url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F05%2F06%2Fmagazine%2Fval-kilmer.html) - Deeply humanizing and reflective while still tremendously weird.
++ [All the Logistical Problems of That NYMag Sex Diary, Cataloged](https://slate.com/human-interest/2020/09/nymag-sex-diary-real-or-fake-or-just-a-lot-of-logistical-issues.html) - Shannon is a treasure, and I will have weird nostalgia for pandemic moments like this, when something deeply stupid took over all the discourse.
++ [A Student Debt Researcher Fucks Me Up With America's Broken Promises](https://defector.com/a-student-debt-researcher-fucks-me-up-with-americas-broken-promises/?utm_source=Default+audience&utm_campaign=c30a701cdc-EMAIL_CAMPAIGN_2020_12_11_04_20&utm_medium=email&utm_term=0_3cb9478f4c-c30a701cdc-193350026) - Sometimes headlines like this are far better than the strait-laced standard. You keep reading and your eyes keep getting wider.
+
+<a name="games"></a>
+## Games
 
 <a name="twitter"></a>
 
-+ [Reading](#reading)
 + [Games](#games)
 + [Ugh, Twitter](#twitter)
 + [Pictures of Pets](#pets)
