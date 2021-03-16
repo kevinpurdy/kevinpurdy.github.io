@@ -208,31 +208,55 @@ Some of the best longer or just more interesting articles I read in 2020, via my
 <a name="games"></a>
 ## Games
 
-**Hades:**
+I, a human made to spend most of 2020 inside, dug into some games.
 
-**Animal Crossing: New Horizons:**
+### Switch
 
-**Stardew Valley:**
+**Hades:** Everyone I know with good taste in games loved and recommended this game in 2020. It's not actually my exact type of game—I don't have the hands or brain or maybe temperament for an isometric brawler these days. But there's so much finely considered work on display at once that it's almost harder to _not_ like and try it a bit.
 
-**Slay the Spire:**
+My unwritten, unpaid essay about video games in 2020 is that this game had to come out in the same year as _Cyberpunk 2077_ so that we could all get one more try at
 
-**Cyberpunk 2077:**
+**Animal Crossing: New Horizons:** I have some friends who still check in on their Animal Crossing villages every day, nearly a year later. I can totally understand that. This game arrived just as the pandemic was shutting down everything you could _do_, everyone you could _see_. The news was so oppressive, the outlook for many things bleak ... and here's this place where your biggest problem is that you can't find this one kind of tree you need to build a bookcase.
 
-**Half-Life: Alyx:**
+I remember the complaints about how klutzy the island-visiting system was. I think now about how we, in hindsight, might appreciate a system where only people who really wanted to see each other could visit, for just a bit at a time, without the outside world intruding. We each had a little space without news, advertisements, concerns about being "productive," or Zoom cameras. It was a good space.
+
+**Stardew Valley:** I started working on my wife's farm in this game [in late 2019](https://thepurdman.com/2019-in-review/#games). Obviously, we had time to get back in and do some more farming, mining, trading, and even some reluctant fishing. Nothing changes, this is an epochal game that [continues to get better](https://thepurdman.com/2019-in-review/#games).
+
+### PC
+
+**Half-Life: Alyx:** I know what I looked like in a VR headset. And it was a huge pain in the butt to align the little motion-sensing standson the desk where my wife worked, where the powerful PC was located. Also, I had to upgrade my processor and motherboard to play this game at a reasonable speed, which ended up creating hours of defective-return nightmare.
+
+I don't care. This game was a wild swing by Valve, one that a lot of people couldn't play and still can't. It was fun as Hell, scary as anything, and stuffed with wonderful voice acting. Oh, and visual detail and set design that warped my perception of reality a bit.
+
+There are times, even now, where I have to get up to grab something—a remote, a cable, hand sanitizer—I will sometimes feel a small twinge to instead flick my hand back, as if I'm wearing [Gravity Gloves](https://www.pcgamer.com/the-gravity-gloves-are-the-real-star-of-half-life-alyx/). Is it sad, a longing to return to a more surprising and exploratory state I found myself in, a slightly troubling mental artifact? Yes, and probably two other things I left out.
+
+It's also worth noting that it's one of the few games I've played that makes holding and using a gun feel _less_ empowering. You have to go through most of the real motions of unloading and reloading and aiming your one or two guns. They don't always hit what you're aiming at with your waggly hands. And you are constantly caught off-guard if you focus too much on, well, playing it like a first-person shooter power fantasy. You don't become a superhuman killing machine, you survive as a young woman trying not to get mauled by highly dextrous monsters.
+
+**Hitman 2/3:** I last played Hitman [in 2017](https://thepurdman.com/2017-in-review/#games). I picked up Hitman 2 on sale this year, and it somehow clicked with me in a way the first game in this new trilogy could not. And, because each Hitman game essentially overlays its new mechanics and tools over the old levels, made me rediscover the original levels. Hitman 3 came out in on Inauguration Day 2021, but I wanted to mention it while it was fresh in my brain.
+
+You could honestly play this game forever, if you liked the escalating challenges. I'm the opposite of a 100%, all-the-collectibles-type gamer, but this game brings it out in me. I want to try and get to every target in just my original suit, or to try and snipe three disparate targets from a radio tower, or force this one person to walk next to an aquarium that electrocutes them. Something about this game, this evil kind of Groundhog Day Murder Simulator, clicks with me.
+
+**Return of the Obra Dinn:** Now for something completely different, a 1-bit nautical historical murder logic puzzle.
+
+**Slay the Spire:** It feels dangerous to even mention this game again, after I finally called it quits at some point last year. I own the game on Steam, GOG, and Switch, so I can't (_refuse to_) total up my hours played. I beat the game in the way where you beat it with three different characters. This game was so mean to me and I loved it.
+
+**XCOM: Chimera Squad:** It would take pretty awful reviews, or ransomware, for me not to install and try out an XCOM game, expansion, or, in this case, spin-off. It's not bad. It's a bit of fun while I wait for 3, and defintely worth the price.
+
 
 **Shenzen I/O:**
 
-**Hitman 2/3:**
 
 **Tetris Effect:**
 
 **Wasteland 3:**
 
-**Return of the Obra Dinn:**
 
 **Gwent:**
 
 **Wolfenstein II: The New Colossus:**
+
+**Cyberpunk 2077:**
+
 
 <a name="twitter"></a>
 
