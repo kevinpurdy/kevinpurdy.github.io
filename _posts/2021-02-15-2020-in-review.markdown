@@ -54,13 +54,9 @@ Being a lifelong fan does not make me an steadfast supporter of the Bills. I att
 
 Beyond the comedy, I stopped paying attention to the team after that. And then, this year, with nobody expecting much, things changed. Quarterback Josh Allen [got much better](https://www.theringer.com/nfl-playoffs/2021/1/12/22226307/josh-allen-bills-nfl-playoffs), something that rarely happens in the NFL and never happened with a Bills player. The coach made non-cowardly play calls and down decisions. The games were good. We beat the Patriots twice in one season, [the first time since 1999](https://touchdownwire.usatoday.com/2020/12/28/when-was-the-last-time-the-bills-swept-the-patriots-in-a-season/). We made the playoffs, handily.
 
-It got to the point where, at my Monday morning work meetings, I was providing updates on what was happening in my former city ... in slide presentations.
+It got to the point where, at my Monday morning work meetings during the playoff run, I was providing updates on what was happening in my former city ... in slide presentations.
 
 ![Bills game work presentation, slide 1](/assets/post_images/2021-02-15/bills_slide1.jpg)
-
-![Bills game work presentation, slide 2](/assets/post_images/2021-02-15/bills_slide2.jpg)
-
-![Bills game work presentation, slide 3](/assets/post_images/2021-02-15/bills_slide3.jpg)
 
 The Bills did not make or win the Super Bowl. But, for the first time in 21 years, the season ended, and I was hopeful for the next one. Not the next one _if we draft a miracle quarterback_, not the season _after we fire this stupid idiot coach_. This team, next year. I was, in 2020, very grateful for it.
 
@@ -69,7 +65,7 @@ The Bills did not make or win the Super Bowl. But, for the first time in 21 year
 
 Given that I sold my Buffalo home in 2020, I did a lot of little repairs around the place. My favorite was using two-part epoxy to fill in a bit of rotted wood on the front step. The woodwork was complicated enough that I wouldn't have been able to pull the whole thing and cut new boards for it, nor hire anybody during a pandemic to do so.
 
-I didn't really understand what [this stuff](https://www.acehardware.com/departments/paint-and-supplies/tape-glues-and-adhesives/glues-and-epoxy/12778) was until this job came up. It's like a real-world Minecraft material: you create a block of matter that can fill in for other stuff, sand it, paint it. When I was done, you could barely tell there was ever a soft spot or hole in the wood. It was a three-inch hole that felt like 100-yard victory.
+I didn't really understand what [two-part epoxy](https://www.acehardware.com/departments/paint-and-supplies/tape-glues-and-adhesives/glues-and-epoxy/12778) was until this job came up. It's like a real-world Minecraft material: you create a block of matter that can fill in for other stuff, sand it, paint it. When I was done, you could barely tell there was ever a soft spot or hole in the wood. It was a three-inch hole that felt like 100-yard victory.
 
 <img src="/assets/post_images/2021-02-15/wii_controller.jpg" alt="Wii controller, opened up" class="right"/>
 
@@ -208,48 +204,55 @@ Some of the best longer or just more interesting articles I read in 2020, via my
 <a name="games"></a>
 ## Games
 
-I, a human made to spend most of 2020 inside, dug into some games.
+Made to spend most of 2020 inside, I dug into some games. Here they are, in rough order of favorite-ness, for each platform.
 
 ### Switch
 
 **Hades:** Everyone I know with good taste in games loved and recommended this game in 2020. It's not actually my exact type of game—I don't have the hands or brain or maybe temperament for an isometric brawler these days. But there's so much finely considered work on display at once that it's almost harder to _not_ like and try it a bit.
 
-My unwritten, unpaid essay about video games in 2020 is that this game had to come out in the same year as _Cyberpunk 2077_ so that we could all get one more try at
+My unwritten, unpaid essay about video games in 2020 is that this game had to come out in the same year as _Cyberpunk 2077_ so that we could all learn important lessons about what really matters in a game.
+
+**Stardew Valley:** I started working on my wife's farm in this game [in late 2019](https://thepurdman.com/2019-in-review/#games). Obviously, we had time to get back in and do some more farming, mining, trading, and even some reluctant fishing. Nothing changes, this is an epochal game that [continues to get better](https://thepurdman.com/2019-in-review/#games).
 
 **Animal Crossing: New Horizons:** I have some friends who still check in on their Animal Crossing villages every day, nearly a year later. I can totally understand that. This game arrived just as the pandemic was shutting down everything you could _do_, everyone you could _see_. The news was so oppressive, the outlook for many things bleak ... and here's this place where your biggest problem is that you can't find this one kind of tree you need to build a bookcase.
 
 I remember the complaints about how klutzy the island-visiting system was. I think now about how we, in hindsight, might appreciate a system where only people who really wanted to see each other could visit, for just a bit at a time, without the outside world intruding. We each had a little space without news, advertisements, concerns about being "productive," or Zoom cameras. It was a good space.
 
-**Stardew Valley:** I started working on my wife's farm in this game [in late 2019](https://thepurdman.com/2019-in-review/#games). Obviously, we had time to get back in and do some more farming, mining, trading, and even some reluctant fishing. Nothing changes, this is an epochal game that [continues to get better](https://thepurdman.com/2019-in-review/#games).
-
 ### PC
 
-**Half-Life: Alyx:** I know what I looked like in a VR headset. And it was a huge pain in the butt to align the little motion-sensing standson the desk where my wife worked, where the powerful PC was located. Also, I had to upgrade my processor and motherboard to play this game at a reasonable speed, which ended up creating hours of defective-return nightmare.
+**Half-Life: Alyx:** I know what I looked like in a VR headset. And it was a huge pain in the butt to align the little motion-sensing standson the desk where my wife worked, where the powerful PC was located. Also, I had to upgrade my processor and motherboard to play this game at a reasonable speed, which ended up creating hours of second-guessing and defective-return pain.
 
-I don't care. This game was a wild swing by Valve, one that a lot of people couldn't play and still can't. It was fun as Hell, scary as anything, and stuffed with wonderful voice acting. Oh, and visual detail and set design that warped my perception of reality a bit.
+I don't care, it was worth it. This game was a wild swing by Valve, one that a lot of people couldn't play and still can't. It was fun as Hell, scary as anything, and stuffed with wonderful voice acting. Oh, and visual detail and set design that warped my perception of reality a bit.
 
-There are times, even now, where I have to get up to grab something—a remote, a cable, hand sanitizer—I will sometimes feel a small twinge to instead flick my hand back, as if I'm wearing [Gravity Gloves](https://www.pcgamer.com/the-gravity-gloves-are-the-real-star-of-half-life-alyx/). Is it sad, a longing to return to a more surprising and exploratory state I found myself in, a slightly troubling mental artifact? Yes, and probably two other things I left out.
+There are times, even now, when I have to get up to grab something—a remote, a cable, hand sanitizer—where I will feel a small twinge of impulse to instead flick my hand back, as if I'm wearing [Gravity Gloves](https://www.pcgamer.com/the-gravity-gloves-are-the-real-star-of-half-life-alyx/). Is it sad, a longing to return to a more surprising and exploratory state I found myself in, a slightly troubling mental artifact? Yes.
 
-It's also worth noting that it's one of the few games I've played that makes holding and using a gun feel _less_ empowering. You have to go through most of the real motions of unloading and reloading and aiming your one or two guns. They don't always hit what you're aiming at with your waggly hands. And you are constantly caught off-guard if you focus too much on, well, playing it like a first-person shooter power fantasy. You don't become a superhuman killing machine, you survive as a young woman trying not to get mauled by highly dextrous monsters.
+Alyx is one of the few games I've played that makes holding and using a gun feel _less_ empowering than you imagine. You have to go through most of the real motions of unloading and reloading and aiming your one or two guns, which, surprise, takes a lot more work than depicted in most games. Your guns doesn't always hit what you're aiming at with your waggly hands. And you are constantly caught off-guard, and die, if you focus too much on playing it like a first-person shooter power fantasy. You don't become a superhuman killing machine in Alyx; you survive as a young woman trying not to get mauled by highly dextrous monsters.
+
+My headset, an older Oculus Rift, was borrowed from a friend. I dabbled in some other VR games, but this was the only one that felt like it was designed for a new paradigm, not as an optional upgrade. I will probably get back into it.
 
 **Hitman 2/3:** I last played Hitman [in 2017](https://thepurdman.com/2017-in-review/#games). I picked up Hitman 2 on sale this year, and it somehow clicked with me in a way the first game in this new trilogy could not. And, because each Hitman game essentially overlays its new mechanics and tools over the old levels, made me rediscover the original levels. Hitman 3 came out in on Inauguration Day 2021, but I wanted to mention it while it was fresh in my brain.
 
 You could honestly play this game forever, if you liked the escalating challenges. I'm the opposite of a 100%, all-the-collectibles-type gamer, but this game brings it out in me. I want to try and get to every target in just my original suit, or to try and snipe three disparate targets from a radio tower, or force this one person to walk next to an aquarium that electrocutes them. Something about this game, this evil kind of Groundhog Day Murder Simulator, clicks with me.
 
-**Return of the Obra Dinn:** Now for something completely different, a 1-bit nautical historical murder logic puzzle.
+**Return of the Obra Dinn:** Now for something completely different, a 1-bit nautical historical murder logic puzzle. The mechanics are very new and maybe unwieldy at first, but once you catch the rhythm, it's an engrossing game with a killer aesthetic (at least if you remember that era, but maybe it's pleasantly new to others). There are a few images and moments in this game that will stick with me for a very long time. I'm being vague, because experiencing this game without a lot of preparation is a big part of the fun. That, and [the soundtrack](https://twitter.com/dukope/status/1366548236756914177).
 
 **Slay the Spire:** It feels dangerous to even mention this game again, after I finally called it quits at some point last year. I own the game on Steam, GOG, and Switch, so I can't (_refuse to_) total up my hours played. I beat the game in the way where you beat it with three different characters. This game was so mean to me and I loved it.
 
+**Shenzen I/O:** You design and code microcontrollers for a supplier in Shenzen. You learn an actual programming language and arrange circuit paths to do this. You are all but required to print out a reference manual and keep it in a binder nearby. You have some concerns about what kind of devices your work is powering.
+
+<img src="/assets/post_images/2021-02-15/shenzen_io.jpg" alt="Microcontroller design screen from Shenzen I/O game"/>
+
+It's wonderful. I had to step away from a particularly gruesome problem (a change-making machine for a Chinese theme park), but I'll be back. I have no doubt I will be making my way through other [Zachtronics](http://www.zachtronics.com/) games.
+
+Zachtronics [gives away their games to public or non-profit schools](http://www.zachtronics.com/zachademics/). That page, where they list the potentially objectionable content in each game, is like its own marketing page. Infinifactory is "probably one of our less kid-friendly games, as the story is told entirely through voice recordings attached to the spacesuits of people who died while building factories for the aliens who abducted them." Students playing Shenzen I/O "may acquire an increased sense of the ridiculousness of modern capitalist society." Sometimes you find your people.
+
+**Tetris Effect:** I mostly watched my wife play this, because she's seven to 10 times better at Tetris than I am. But the music, visuals, and pulse of this game are so good that you might happily watch somebody else play it. If you have good headphones, or a decent sound setup, it's hard to say it's not worth it. It is, after all, Tetris.
+
+**Wasteland 3:** I finished [Wasteland 2 in 2017](https://thepurdman.com/2017-in-review/#games). Back then, I said it was "A bit wonky, a bit fetch-quest-y, and the ending was, it was okay." I'm here to report that Wasteland 3 was ... very similar. The story was an interesting premise, the original music pretty good (until you hear a few tracks too many times), and the combat and inventory systems much improved. But the knee-jerk nihilism grates after a while. My friend Thorin complained that the ending shoehorns your long-ago decisions into somewhat manipulative Unexpected Consequences, and he was right.
+
+Would I pre-order/back a fourth version of this game? Maybe. What's the herd immunity looking like?
+
 **XCOM: Chimera Squad:** It would take pretty awful reviews, or ransomware, for me not to install and try out an XCOM game, expansion, or, in this case, spin-off. It's not bad. It's a bit of fun while I wait for 3, and defintely worth the price.
-
-
-**Shenzen I/O:**
-
-
-**Tetris Effect:**
-
-**Wasteland 3:**
-
 
 **Gwent:**
 
