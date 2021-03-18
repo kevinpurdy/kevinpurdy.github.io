@@ -276,7 +276,8 @@ There were two other notable tweets that people seemed to like:
 
 ![Tweet showing author holding up his keychain, with a small black plastic tag visible, reading "Souvenir of Buffalo. N. Y."](/assets/post_images/2020-02-15/tweet3.png)
 
-+ [Pictures of Pets](#pets)
+<a name="pets"></a>
+## Pictures of Pets
 
 **Cork:**
 ![Cork, gray Russian Blue cat](/assets/post_images/2020-02-15/cork.jpg)
