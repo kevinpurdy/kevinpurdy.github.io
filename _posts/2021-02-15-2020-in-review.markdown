@@ -81,23 +81,23 @@ The Bills did not make or win the Super Bowl. But, for once in 21 years, I was h
 <a name="repairs"></a>
 ## Repairs
 
-Given that I sold my Buffalo home in 2020, I did a lot of little repairs around the place. My favorite was using two-part epoxy to fill in a bit of rotted wood on the front step. The woodwork was complicated enough that I wouldn't have been able to pull the whole thing and cut new boards for it, nor hire anybody during a pandemic to do so.
+I did a lot of little repairs before I sold my house last year. My favorite was filling in a bit of rotted wood on the front step. The step layout was complicated enough that I wouldn't have been able to cut new boards for it in time, nor hire anybody during a pandemic. A patch and paint would have to do.
 
-I didn't really understand what [two-part epoxy](https://www.acehardware.com/departments/paint-and-supplies/tape-glues-and-adhesives/glues-and-epoxy/12778) was until this job came up. It's like a real-world Minecraft material: you create a block of matter that can fill in for other stuff, sand it, paint it. When I was done, you could barely tell there was ever a soft spot or hole in the wood. It was a three-inch hole that felt like 100-yard victory.
+I didn't understand what [two-part epoxy](https://www.acehardware.com/departments/paint-and-supplies/tape-glues-and-adhesives/glues-and-epoxy/12778) was until this job. It's like a real-world Minecraft material: you create a block of solid, featureless material that fills in for other stuff. You can sand it, carve it, or paint it. When I finished, you could barely tell there was ever a soft spot or hole in the wood. It was a three-inch hole that felt like a 100-yard victory. And, as with most repairs last year, it made me wonder why it took me so long to figure this stuff out.
 
 <img src="/assets/post_images/2021-02-15/wii_controller.jpg" alt="Wii controller, opened up" class="right"/>
 
-To give away a Nintendo Wii, to a father with two kids who was really glad for it, I fixed one of the non-responsive controllers. Turned out it was just in need of a thorough contact/board cleaning with some 90% isopropyl alcohol. Hardest part was keeping the buttons and little rubber gaskets from falling off the table.
+In more familiar projects, I gave away a Nintendo Wii and games to a father with two kids who was really glad for it. Before he picked it up, I fixed one of the non-responsive controllers. Turned out it was just leakage from a leaking battery, requiring thorough contact/board cleaning with 90% isopropyl alcohol. The hardest part was keeping the buttons and little rubber gaskets from falling off and rolling away.
 
 ![Two orange wiring caps peeking out of a plaster wall](/assets/post_images/2021-02-15/wonderful_wiring.jpg)
 
-I also replaced the last of the old sconces on the walls. There are things I'll miss about our old 1878 Victorian, but not working with plaster and tightly-packed cloth-covered wire with no real markings.
+I also replaced the last of the old sconces on the walls before our home showings. There are things I'll miss about our very old Victorian, but plaster and tightly-packed cloth-covered wire with no real markings? That's someone else's fetish.
 
-In the new (2019) apartment, I have mostly added things: installed two ceiling fans, wall-mounted a TV, set up a whole Container Store shelving rack. Maybe the only real non-bike, non-electronic fix has been switching the direction the door opens on the dryer. I had to find the manual online, and use a Torx screwdriver from my iFixit toolkit. Now our hands don't scrape on the closet wall when the clothes are dry.
+In the new apartment, I have mostly added things: two ceiling fans, a wall-mounted TV, a Container Store shelving rack. Maybe my biggest project was switching the direction the door opens on the dryer. I had to find the manual online and use a Torx screwdriver from my iFixit toolkit. Now our hands don't scrape on the closet wall when the clothes are dry.
 
 <img src="/assets/post_images/2021-02-15/cork_dryer.jpg" alt="My cat Cork, quote-unquote helping" class="right"/>
 
-Here's one fix you can actually watch me perform: swapping out the drifting joystick on a Nintendo Switch Joy-Con, with my iFixit coworkers.
+Here's one fix from last year you can watch me struggle through: swapping out the drifting joystick on a Nintendo Switch Joy-Con, with my iFixit coworkers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9hHsDEECR_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe>
 
@@ -106,51 +106,49 @@ Here's one fix you can actually watch me perform: swapping out the drifting joys
 
 ![iPhone board with chip removed, next to fingernail for scale](/assets/post_images/2021-02-15/fingernail_board.jpg)
 
-The coolest thing I did this year, according to me, is attending [Practical Board Repair School at iPad Rehab](https://www.ipadrehab.com/index.cfm?Page=Practical-Board-Repair-School), just outside of Rochester. iFixit paid for me to attend, on the idea that it would be good for me to learn more about how devices work. Boy, did I.
+The coolest thing I did last year is attend [Practical Board Repair School at iPad Rehab](https://www.ipadrehab.com/index.cfm?Page=Practical-Board-Repair-School). iFixit paid for me to attend classes at Jessa Jones' microsoldering/data recovery school just outside of Rochester, NY. I wanted to learn more about how devices work, at a level deeper than screens and batteries.
 
-I wrote three posts about what we did there and what I learned:
+I wrote three posts about what I learned:
 
 + [Background, multi-meters, thermal cameras, schematics](https://www.ifixit.com/News/36189/circuits-necromancy-and-solder-board-repair-school-part-1)
 + [Melting a display port, replacing chips, fixing my friend's Pixel 2](https://www.ifixit.com/News/36437/chip-gets-real-board-repair-school-part-2)
 + [Why it's easier to fix iPhones, weird Chinese parts, graduation](https://www.ifixit.com/News/36597/android-serial-numbers-and-china-board-repair-school-part-3)
 
-One of my favorite feelings in life is discovering the next layer down of something. I've been a Settings Nerd most of my life, which is one level down from most people. I have spent many hours with ROMs, wiping, kernel hacking, rooting, and the like; another layer down. Until I worked at iFixit, I didn't really know how a regular human could pop the screen off a phone and replace the battery. Once you're looking at the board, though, all those tiny copper traces running between chips, power coming in through a cable and somehow reaching everything ...
+One of my favorite moments is realizing I've explored the next layer down of something. I've been a check-the-settings nerd most of my life, which is one level down from most people. I have spent many hours with Android ROMs, automation apps, kernel hacking, rooting, and the like; another layer down. Until I worked at iFixit, I didn't really know how regular humans could pop the screen off a phone and replace the battery, but I caught the bug quickly. Once you've got a device open, you see this circuit board, with dozens or hundreds of little bits, tiny copper lines running between them ... but, surely, if something goes wrong here, you're sunk. 
 
-But you can fix that stuff, too. It's all wires—tiny wires embedded in a board, but wires that can be disconnected, overloaded, damaged by water. Even the mysterious chips connect to the board through what are, [lots of little wires](https://en.wikipedia.org/wiki/Ball_grid_array).
+But you can fix that stuff, too. It's all wires—tiny wires embedded in a board, maybe, but still wires, wires that might be disconnected, overloaded, damaged by water. Even the mysterious chips connect to the board through what are, [lots of little wires](https://en.wikipedia.org/wiki/Ball_grid_array). There are schematics, showing you where each wire goes, and how much charge it should carry. With that knowledge, you can get the power back to where it belongs.
 
-You can even train people like me, with my not-so-great hands and English degree, to fix these tiny wires. Fixing a single micrometer-wide wire or replacing a $2 chip could save a $1,000 phone from the recycling shredder. But without the schematics, the spare chips, and the economic incentive, it doesn't happen.
-
-Even still: really cool.
+You can even train people like me, with my not-so-great hands and English degree, to fix these tiny wires. Fixing a single micrometer-wide wire or replacing a $2 chip could save a $1,000 phone from the recycling shredder. Without the schematics, the spare chips, and the economic incentive, it doesn't happen. But when it does? It's mystic resurrection.
 
 <a name="pi"></a>
 ## Raspberry Pi
 
-After actually using and playing it for none hours, I converted my Pi 3B+ from a retro games emulator to a [Pi-powered Home Assistant hub](https://thepurdman.com/home_assistant/). Now it provides me a convenient little panel to control all my smarthome stuff and speakers. Love it.
+I converted my Pi 3B+ from an unused retro games emulator to a [Pi-powered Home Assistant hub](https://thepurdman.com/home_assistant/). Now it provides me a convenient little panel to control, monitor, and automate my smarthome stuff and speakers. Love it.
 
 <img src="/assets/post_images/2020-11-11/home_assistant_phone.jpeg" alt="Home Assistant web panel on phone" class="right"/>
 
-The other Pi is doing a good job of serving up an external SSD to Plex and the network. It also has two backup drives hooked up to it, and is supposed to redundantly back them up (with `rsync`) every night, but I don't have that quite working yet. One thing I discovered about Pi USB ports: they don't supply a lot of power. If you want to connect a few drives to them, you have to use a powered hub or external power.
+The other Pi 4 serves up external storage to Plex and a network share. It is supposed to redundantly back them up (with `rsync`) every night, but I don't have that quite working yet. One thing I discovered about Raspberry Pis: they don't throw a lot of power to their USB ports. You have to externally power a drive, especially an old spinning-disk drive, if you want it ready for access.
 
 <a name="bikes"></a>
 ## Bikes
 
 <img src="/assets/post_images/2021-02-15/chain_grease.jpg" align="center"/>
 
-Back in the holiday season of 2019, I bought a refurbished Kickr Core bike trainer, so I could put my lighter good-weather bike to use in the Buffalo winter. Sure, the manual says it's only for bikes with a certain dropout width, generally made after the mid-1990s. But, with enough cold setting and effort, I can probably make an early 1980s Trek fit, right?
+Back in late 2019, I bought a (refurbished, on-sale) Kickr Core bike trainer, so I could put my road bike to use in the Buffalo winter. Sure, the manual says it's only for bikes made in the late 1990s, with enough frame/hub width to fit properly. But, with enough [cold setting and effort](https://sheldonbrown.com/frame-spacing.html#spreading), I could make a 1983 Trek 500 fit, right?
 
-The answer is technically yes, but also painfully, yes. I did a few weeks of Zwift, but often felt like something was slightly off with the gearing/resistance. I fell off it once outside temperatures got above 45 Fahrenheit. I intend to get back into it, perhaps with a _slightly_ newer department store bike or with a new summer bike. I learned a lot, though.
+The answer is _technically_ yes but also _painfully_, yes. I did a few weeks of Zwift, but felt like something was always slightly off with the gearing/resistance. I spent more time with wrenches than fellow riders. I learned a lot, but eventually stopped trying so hard to prove my [retro-grouch](https://www.bikeforums.net/classic-vintage/1109637-when-do-you-realize-you-were-retro-grouch.html) worth. 
 
 <img src="/assets/post_images/2021-02-15/seymour.jpg" alt="Stripped-down bike (Seymour)" class="right"/>
 
-One nice part of that failed experiment: I finally worked up the gumption to give Seymour Schwinn ([1988-2018 R.I.P.](https://thepurdman.com/2018-in-review/#bikes)) a proper burial. And by burial I mean dismantling and organ-harvesting. During my last session at GoBike Buffalo before the pandemic, I transplanted his combination brake/shifters, derailleur, and a few other pieces onto Theodore Trek. I ran new cables and routing, did a new bar tape wrap, and got Theodore ready for his short career as a winter trainer.
+One nice result of that failed experiment: I finally gave Seymour Schwinn ([1988-2018 R.I.P.](https://thepurdman.com/2018-in-review/#bikes)) a proper goodbye. And by "proper" I mean dismantling and organ-harvesting. During my last session at [GoBike Buffalo](https://gobikebuffalo.org/) before the pandemic, I transplanted his combination brake/shifters, derailleur, and a few other pieces onto that 1983 Trek, Theodore. I ran new cables and routing, did a new bar tape wrap, and got Theodore ready for short, doomed career as a winter trainer.
 
 <img src="/assets/post_images/2021-02-15/theodore_for_sale.jpg" alt="Bike (Theodore) for sale" class="right"/>
 
-Once the move to DC was known, I knew I had to downsize to one bike. My flat-bar bike has a rack, wide Marathon tires, weather-resistant geared hub and belt drive—it felt like the better city bike. So I put the rear wheel back on Theodore, cleaned him up, and donated him to [GoBike Buffao](https://gobikebuffalo.org/). He sold pretty quick. The description was something like "Classic style with well-done upgrades," which, what is this feeling in my chest?
+Once the move to DC was underway, I knew I had to downsize to one bike. My [flat-bar Norco bike](https://thepurdman.com/2018-in-review/#bikes) has a rack, fenders, Marathon Plus tires, a weather-resistant geared hub and belt drive. It was a tougher, more veratile city bike. So I put the rear wheel back on Theodore, cleaned him up, and donated him to GoBike Buffalo. He sold pretty quick. The description was something like "Classic style, great condition with quality upgrades," which made me feel things.
 
-Before we left, I did what could be my final Ride for Roswell, at least as a Buffalonian. I raised the most money I've ever raised, despite (or because) it being my final ride, and also not really a big long Lycra-clad ride. We rode with some friends to a few breweries around the Old First Ward. It was one of the nicest warm-day events I can remember right now.
+Before we left, I made my final [Ride for Roswell](https://rideforroswell.org/), at least as a Buffalonian. I raised the most money I've ever raised, perhaps because I told people I would stop bugging them. Instead of putting in dozens of miles in a Lycra kit, I rode with some friends to a few breweries around the Old First Ward. It was one of the nicest days in 2020 I can remember.
 
-Since the move, I've come to rely on [DC's Capital Bikeshare](https://www.capitalbikeshare.com/) for 95% of my rides. I have occasionally taken the Green Machine bike out for cargo hauls or locations not convenient to a CaBi rack, but there are very few of those. I'm sure the local bike enthusiasts have lots to complain about—that's just how it works. But I'm still in the honeymoon phase of having to drive so rarely that I have to set a reminder to start the car every so often for the battery's sake.
+Since the move, I've relied on [DC's Capital Bikeshare](https://www.capitalbikeshare.com/) for 95% of my rides. I have taken the Green Machine out for cargo hauls or locations inconvenient to bike hubs, but rarely. I'm sure the local bike enthusiasts have lots to complain about here—that's just how it works. But I'm still in my biking honeymoon phase. I drive so rarely I have to set a reminder to start the car every so often, so the battery doesn't die. 
 
 <a name="baking"></a>
 ## Baking
@@ -158,29 +156,29 @@ Since the move, I've come to rely on [DC's Capital Bikeshare](https://www.capita
 ![3x3 grid showing various baking accomplishments](/assets/post_images/2021-02-15/baking_2020_3by3.jpg)
 _Clockwise from top left: Eggnog cheesecake with gingerbread people (Pastry Love); [Kvæfjordkake](https://northwildkitchen.com/kvaefjordkake-worlds-best-cake/) (North Wild Kitchen); Chocolate-Glazed Mint-Frosted Brownies (Cook's Illustrated Baking); Orange-Almond Pudding Cake with Chocolate Ganache (Pastry Love); Funfetti angel food cake (Pastry Love); [Lemon pudding cake](https://cooking.nytimes.com/recipes/12363-lemon-pudding-cake) (NYT Cooking); Homemade Hostess-Style Cupcakes (Bravetart); Lemon Layer Cake with Fluffy Toasted Almond Icing (Cook's Illustrated Baking). Center: Lemon meringue cupcake (Pastry Love)._
 
-Up above you can see some of the more impressive-looking things I baked this year. Besides that stuff, I baked a lot more bread this year. I made as many [crispy cheesy pan pizzas](https://www.kingarthurbaking.com/recipes/crispy-cheesy-pan-pizza-recipe) as time and blood pressure allowed. It's a recipe so good, so empowering, and so pefectly adapted to having a lot of time at home, that [the NYT Cooking section had to write about a recipe not their own](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html).
+I did a good deal of stress-baking in the first three-quarters of 2020. I baked a lot more bread, but no sourdough. I don't like the flour churn or timing enough to keep a starter fed; that's just my preference.
 
-Also, King Arthur Flour is an employee-owned [B Corporation](https://en.wikipedia.org/wiki/Benefit_corporation), with a good and consistent product. And it makes a killer God-damned homemade pizza. I buy King Arthur flours, Domino sugars, and Land O'Lakes butters, if I'm able.
+I made as many [crispy cheesy pan pizzas](https://www.kingarthurbaking.com/recipes/crispy-cheesy-pan-pizza-recipe) as time and blood pressure allowed. It's a recipe so good, so empowering, and so pefectly adapted to having some extra time at home, [the NYT Cooking section had to write about a recipe not their own](https://www.nytimes.com/2020/06/24/magazine/the-secret-to-perfect-pizza-at-home-cast-iron.html). Also, King Arthur Flour is an employee-owned [B Corporation](https://en.wikipedia.org/wiki/Benefit_corporation), with a good and consistent product. I buy King Arthur flours, Domino sugars, and Land O'Lakes butters, if I'm able.
 
-The web is filled with people making baking seem like a talent you acquire through positive vibes and great lighting, not trial and effort and deeply useful failure. So I want to share with you a collosal collapse of bakery, an utterly awful oven product: [Green Tea-Ginger Marshmallow Shortbread](https://cooking.nytimes.com/recipes/1013565-green-tea-ginger-marshmallow-shortbread).
+If your phone looks like mine, you come across a lot of posts and stories that make impressive bakes seem like they're powered by positive vibes and great lighting, not trial and effort and deeply useful failure. So I want to share some counterbalance, a collosal collapse of bakery, an utterly awful oven product I made: [Green Tea-Ginger Marshmallow Shortbread](https://cooking.nytimes.com/recipes/1013565-green-tea-ginger-marshmallow-shortbread), a.k.a. Lime Matcha Disaster Cake.
 
 ![Lime matcha disaster cake](/assets/post_images/2021-02-15/lime_matcha_disaster.jpg)
 
-I was feeling restless one weekend (in 2020, huge surprise) and wanted to bake something. I had the basics, but I also had a bunch of candied ginger stashed away for my [usual granola recipe](https://thepurdman.com/2019-in-review/#baking). Searching by ingredient, I came across this recipe. I didn't have the matcha or the unflavored gelatin, but I had almost everything else (and you can [make superfine sugar in a food processor](https://www.epicurious.com/expert-advice/how-to-make-your-own-superfine-powdered-and-brown-sugars-article).) The other stuff, I figured, I could find at Safeway, or Harris Teeter, or Whole Foods, or I'd find another spot in my new D.C. neighborhood that carried fussy things.
+I was feeling restless one weekend (in 2020, huge surprise) and found this recipe. I had the basic ingredients (you can [make superfine sugar in a food processor](https://www.epicurious.com/expert-advice/how-to-make-your-own-superfine-powdered-and-brown-sugars-article)), including candied ginger, from my [granola recipe](https://thepurdman.com/2019-in-review/#baking). I needed matcha powder and unflavored gelatin, but I figured I'd find them at Safeway, or Harris Teeter, or Whole Foods.
 
-I found neither unflavored gelatin packets nor matcha powder. I found instant matcha, which I figured was close enough for flavor's sake. And I found lime Jell-O. Lime was one of the flavors in this weird little cake, anyways; I'd just cut the amount of sugar listed on the box out of the other sugar. Using a scale, actually. This felt quite resourceful. I adapted the directions to my cold-setting Jell-O, put it in the fridge, and waited for that night's reveal
+I found neither unflavored gelatin packets nor matcha powder. I found instant matcha, which I figured was pretty much matcha powder, or close enough for a recipe. And I found lime Jell-O. Lime was one of the flavors in this weird little cake, anyways; I'd just cut the weight of sugar listed on the box out of the other sugar. This felt quite precise and clever. I adapted the directions to my cold-setting Jell-O, put it in the fridge, and waited for that night's reveal
 
 <img src="/assets/post_images/2021-02-15/lime_matcha_square.jpg" alt="Sickeningly green square of marshmallow shortbread" class="right"/>
 
 Three things became apparent after the first bite:
 
 + Lime Jell-O is not a flavor to try and "sneak" into anything.
-+ Without boiling water, instant matcha is not going to mix into anything, instead settling between the shortbread and marshmallow as it sets (you can see its dark green in the side view pic nearby).
-+ A coating of pure matcha powder gel is not a pleasant taste on anything.
++ Without boiling water, instant matcha is not going to mix into anything, and instead settles between the shortbread and marshmallow in a thick layer (you can see its dark green in the image nearby).
++ A combination of raw matcha granules, shortbread, hyper-sweet lime Jell-O, and even more sweet candied ginger is not modernist cuisine, it's just bad.
 
-The first night, my wife took one bite and declared the dessert not for her. Me, I think Sour Patch Kids are proof God loves us. But even I thought that "artificial lime marshmallow" plus "sugar-cured ginger" plus "the gritty taste of powdered grass" was not actually pleasant. I also had terrible stomach pains after eating one small square.
+My wife took one bite and said no, thanks. Me, I love Sour Patch Kids, believe they are proof God loves us. But this was a lesson from perhaps that same God. I had terrible stomach pains after eating one small square.
 
-Did I eat another square the next night? Yes, I did, and I once again felt like I'd been smacked in the stomach by a bag of candied lawn trimmings. Then I tossed the whole rest of the pan in the trash. Some real sunk-cost baking there. The recipe itself might be fine, if you have the right stuff. But I hope I remember this catastrophe for a while.
+Did I eat another square the next night? Yes, and I once again felt like I'd been smacked in the gut by a bag of candied lawn trimmings. I scraped the whole rest of the pan, an entire Sunday afternoon of planning and shopping and baking, in the trash. The recipe itself might be fine, if you have the right stuff. But I hope I remember this catastrophe the next time I refuse to acknowledge my sunk-cost baking obsession.
 
 <a name="writing"></a>
 ## Writing
