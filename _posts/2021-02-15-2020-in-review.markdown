@@ -183,23 +183,23 @@ Did I eat another square the next night? Yes, and I once again felt like I'd bee
 <a name="writing"></a>
 ## Writing
 
-I mostly wrote things for [iFixit](https://ifixit.com) last year. Besides the board repair school posts I mentioned up in the [Repair section](#repair), my favorite iFixit posts from 2020 were a rant about [Amazon's relationship with e-waste](https://www.ifixit.com/News/35189/its-time-to-stop-making-excuses-for-amazons-disposable-tech), because it cause them to make some changes, and [a deep dive into the Nexus 5X/6P boot loop that literally nobody asked for](https://www.ifixit.com/News/36821/dark-magic-what-caused-googles-nexus-6p-death-loop-and-how-to-fix-it-with-a-hairdryer).
+I mostly wrote things for [iFixit](https://ifixit.com) last year. Besides the board repair school posts (linked in the [Repair section](#repair)), my favorite posts were a rant about [Amazon's e-waste problem](https://www.ifixit.com/News/35189/its-time-to-stop-making-excuses-for-amazons-disposable-tech), and [a deep dive into the Nexus 5X/6P boot loop that nobody asked for](https://www.ifixit.com/News/36821/dark-magic-what-caused-googles-nexus-6p-death-loop-and-how-to-fix-it-with-a-hairdryer).
 
-I also wrote about [Leaving Buffalo](https://thepurdman.com/leaving-buffalo/) on this site. The reaction to it, from [others](https://twitter.com/kevinpurdy/status/1283832830720724993) and, after I stopped revising, myself, reaffirmed why I maintain this pile of misaligned text and code.
+I also wrote about [Leaving Buffalo](https://thepurdman.com/leaving-buffalo/) on this site. I quite liked it, and so did [many others](https://twitter.com/kevinpurdy/status/1283832830720724993). It reminds me why I maintain this pile of code you're looking at.
 
 <a name="awesome"></a>
 ## Awesome Buffalo
 
-Given that I left Buffalo, it was my last year as a trustee of [Awesome Buffalo](https://www.awesomefoundation.org/en/chapters/buffalo). It was a different kind of year for the trustees, meeting virtually for almost all of the year, while re-examining what kind of projects would make Buffalo more "awesome." You could no longer really fund projects that involved events or outdoor gathering. You realized that many people were hurting: for work, for food, for connections. Every community needs art, mirth, and togetherness in addition to funds, infrastructure, and civility. But the balance swung back toward concrete initiatives and deeper concerns last year.
+It was my last year as a trustee of [Awesome Buffalo](https://www.awesomefoundation.org/en/chapters/buffalo). It was a different kind of year, meeting virtually for most of the year and re-evaluating which projects would make Buffalo more "awesome." People were hurting for work, for food, for connections. Indoor events and large gatherings were a no-go. Every community needs art, mirth, and togetherness, in addition to funds, infrastructure, and civility. It was a tricky balance.
 
-You could see the whole list of 2020 projects by starting [in February 2020](https://www.awesomefoundation.org/en/projects/135400-rust-belt-harvest) and clicking through the year with the "Previous Project" link in the upper-left). I'm particularly proud to have been one of the advocates for [Colored Girls Bike Too](https://www.awesomefoundation.org/en/projects/153972-colored-girls-bike-too).
+You can see the 2020 projects by starting [in February 2020](https://www.awesomefoundation.org/en/projects/135400-rust-belt-harvest) and clicking through the year with the "Previous Project" link in the upper-left). I'm particularly proud to have been an advocate for [Colored Girls Bike Too](https://www.awesomefoundation.org/en/projects/153972-colored-girls-bike-too).
 
-If you've got a Buffalo-area project that could use a small injection of cash to make a big difference, [apply for an Awesome Buffalo grant](https://www.awesomefoundation.org/en/submissions/new?chapter=buffalo). If you want to help make Buffalo more awesome, [contact them about becoming a trustee](http://bit.ly/2jbU21o).
+If you've got a Buffalo-area project that could use a small boost of cash to make a big difference, [apply for an Awesome Buffalo grant](https://www.awesomefoundation.org/en/submissions/new?chapter=buffalo). If you want to help make Buffalo more awesome, [contact them about becoming a trustee](http://bit.ly/2jbU21o).
 
 <a name="reading"></a>
 ## Reading
 
-I'm sure there are people for whom a year in quarantine was an ideal year to get a lot of books read. Not me. I think I've never read fewer traditional books than in the last year. I've never subscribed to more publications, almost none of which I receive in paper form. It feels important, both to support good work and to have access to well-considered news and thought. But, books? I dunno, not last year.
+Some people read a lot during COVID isolation. Not me. I think I've never read fewer traditional books than in the last year. I've never subscribed to more publications, almost none of which I receive in paper form. It feels important, both to support good work and to have access to well-considered news and thought. But, books? I dunno, not last year.
 
 Books I did actually read:
 
