@@ -10,9 +10,9 @@ If the numbers hold, I could be vaccinated in May. With a two-shot vaccine, my i
 
 I didn't have it as bad as some, or even most. I was employed by a supportive company, I had housing, a loving partner, three pets, no kids. I didn't lose somebody unexpectedly. I even moved across the country. I'm an aging nerd, so last year didn't strip me of wild parties, crowded events, or cool bars. So what did I lose? 
 
-What fell away in 2020 was possibility, spontanaiety (beyond takeout choices). The feeling that any day could bring a new space, a new acquaintance, a new part of town that's actually open, an event that isn't a video call or socially distant pick-up. I also miss the familiar, like helping out friends with car rides or making a leisurely Sunday of out-of-town errands. Traveling for a familiy obligation or a lame work trip, then discovering the one good place to eat in some town you're stuck in. That kind of thing. I don't need to go to a Bills game; I need to sit at someone's kitchen counter and hear about their awful neighbor.
+What fell away in 2020 was possibility, spontaneity (beyond takeout choices). The feeling that any day could bring a new space, a new acquaintance, a new part of town that's actually open, an event that isn't a video call or socially distant pick-up. I also miss the familiar, like helping out friends with car rides or making a leisurely Sunday of out-of-town errands. Traveling for a family obligation or a lame work trip, then discovering the one good place to eat in some town you're stuck in. That kind of thing. I don't need to go to a Bills game; I need to sit at someone's kitchen counter and hear about their awful neighbor.
 
-I'm also scared that, once we're vaccinated and the world opens up a bit, every lazy, isolated day will feel like a lost opportunity. But maybe knowing that others are crowding the hot spots and vacation towns will make the small stuff seem even more worthwhile. We'll see.
+I'm also scared that, once the world opens up again, every lazy, isolated day will feel like a lost opportunity–hyper-[FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out). But maybe knowing that others are crowding the hot spots and vacation towns will make the small stuff seem even more worthwhile. We'll see.
 
 ***
 
@@ -40,7 +40,7 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 I wrote last year about [leaving Buffalo after nearly 20 years](https://thepurdman.com/leaving-buffalo/). What about the other half of that, moving to DC? Because of the pandemic, I only have a skewed impression, a few anecdotes. I don't live in a city that's fully awake yet. But I've got some early impressions.
 
 <img src="/assets/post_images/2021-02-15/3d_model.jpg" class="right"/>
-The days leading up to the move were more stressful than any I can remember. We lived in a big Victorian house in Buffalo. We spent 11 years filling its attic, basement, backyard, garage, and closets. We were moving to a 2-bedroom apartment. We knew some bigger things had to go. Why else would I make a 3D model of the new apartment based on the floor plans and video walkthrough, measure all our furniture, and see which items fit?
+The days leading up to the move were more stressful than anything I can remember. We lived in a big Victorian house in Buffalo. We spent 11 years filling its attic, basement, backyard, garage, and closets. We were moving to a 2-bedroom apartment. We knew some bigger things had to go. Why else would I make a 3D model of the new apartment based on the floor plans and video walkthrough, measure all our furniture, and see which items fit?
 
 Except our apartment building gave us a larger, penthouse-level floor plan, and insisted it was the same layout as our second-floor unit. Whoops.
 
@@ -110,7 +110,7 @@ The coolest thing I did last year is attend [Practical Board Repair School at iP
 
 I wrote three posts about what I learned:
 
-+ [Background, multi-meters, thermal cameras, schematics](https://www.ifixit.com/News/36189/circuits-necromancy-and-solder-board-repair-school-part-1)
++ [Background, multimeters, thermal cameras, schematics](https://www.ifixit.com/News/36189/circuits-necromancy-and-solder-board-repair-school-part-1)
 + [Melting a display port, replacing chips, fixing my friend's Pixel 2](https://www.ifixit.com/News/36437/chip-gets-real-board-repair-school-part-2)
 + [Why it's easier to fix iPhones, weird Chinese parts, graduation](https://www.ifixit.com/News/36597/android-serial-numbers-and-china-board-repair-school-part-3)
 
