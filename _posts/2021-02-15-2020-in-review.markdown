@@ -249,46 +249,48 @@ Alyx might be the only game I've played that makes holding and using a gun feel 
 
 I had to give back the headset I borrowed before I moved. I will probably get back into it. I think about it more than I ever thought I would.
 
-**Hitman 2/3:** I last played Hitman [in 2017](https://thepurdman.com/2017-in-review/#games). I picked up Hitman 2 on sale, and it  clicked. And, because each Hitman game essentially overlays its new mechanics and tools over the old levels, made me rediscover the original levels. Hitman 3 came out in on Inauguration Day 2021, but I wanted to mention it while it was fresh in my brain.
+**Hitman 2/3:** I last played Hitman [in 2017](https://thepurdman.com/2017-in-review/#games). I picked up Hitman 2 on sale, and it  clicked. Because each Hitman game overlays its new mechanics and tools over the old levels, it made me rediscover the original levels. Hitman 3 was technically a 2021 release, but who cares, it was really the fifth quarter of 2020.
 
-You could honestly play this game forever, if you liked the escalating challenges. I'm the opposite of a 100%, all-the-collectibles-type gamer, but this game brings it out in me. I want to try and get to every target in just my original suit, or to try and snipe three disparate targets from a radio tower, or force this one person to walk next to an aquarium that electrocutes them. Something about this game, this evil kind of Groundhog Day Murder Simulator, clicks with me.
+You could play this game forever, if you dug escalating challenges and quirky targets. I'm not a 100%, all-the-achievements type, but this game brings it out in me. I want to try and hit every target in just my original suit, or snipe three disparate targets from the same treehouse or radio tower, or figure out how to electrocute this one guard with an aquarium. This Groundhog Day Murder Simulator clicks with me.
 
-**Return of the Obra Dinn:** Now for something completely different, a 1-bit nautical historical murder logic puzzle. The mechanics are very new and maybe unwieldy at first, but once you catch the rhythm, it's an engrossing game with a killer aesthetic (at least if you remember that era, but maybe it's pleasantly new to others). There are a few images and moments in this game that will stick with me for a very long time. I'm being vague, because experiencing this game without a lot of preparation is a big part of the fun. That, and [the soundtrack](https://twitter.com/dukope/status/1366548236756914177).
+**Return of the Obra Dinn:** Now for something completely different: a 1-bit nautical historical murder logic puzzle. The mechanics might be unwieldy at first, but once you catch the rhythm, it's an engrossing game with a killer aesthetic. There are a few images and moments in this game that will stick with me a long time. I'm being vague, because experiencing this game without a lot of preparation is a big part of the fun. That, and [the soundtrack](https://twitter.com/dukope/status/1366548236756914177).
 
-**Slay the Spire:** It feels dangerous to even mention this game again, after I finally called it quits at some point last year. I own the game on Steam, GOG, and Switch, so I can't (_refuse to_) total up my hours played. I beat the game in the way where you beat it with three different characters. This game was so mean to me and I loved it.
+**Slay the Spire:** It feels dangerous to even mention this game again, after I finally called it quits at some point last year. I own the game on Steam, GOG, and Switch. I _refuse_ to add up my total hours played. This game was so mean to me and I loved it.
 
-**Shenzen I/O:** You design and code microcontrollers for a supplier in Shenzen. You learn an actual programming language and arrange circuit paths to do this. You are all but required to print out a reference manual and keep it in a binder nearby. You have some concerns about what kind of devices your work is powering.
+**Shenzen I/O:** You design and code microcontrollers for a supplier in Shenzen. You learn an actual programming language and arrange circuit paths to do this. You are all but required to print out a reference manual and keep it in a binder nearby. You develop concerns about what exactly you are making.
 
 <img src="/assets/post_images/2021-02-15/shenzen_io.jpg" alt="Microcontroller design screen from Shenzen I/O game"/>
 
 It's wonderful. I had to step away from a particularly gruesome problem (a change-making machine for a Chinese theme park), but I'll be back. I have no doubt I will be making my way through other [Zachtronics](http://www.zachtronics.com/) games.
 
-Zachtronics [gives away their games to public or non-profit schools](http://www.zachtronics.com/zachademics/). That page, where they list the potentially objectionable content in each game, is like its own marketing page. Infinifactory is "probably one of our less kid-friendly games, as the story is told entirely through voice recordings attached to the spacesuits of people who died while building factories for the aliens who abducted them." Students playing Shenzen I/O "may acquire an increased sense of the ridiculousness of modern capitalist society." Sometimes you find your people.
+Zachtronics [gives away their games to public or non-profit schools](http://www.zachtronics.com/zachademics/). That page, where they list the potentially objectionable content in each game, is its own marketing page. Infinifactory is "probably one of our less kid-friendly games, as the story is told entirely through voice recordings attached to the spacesuits of people who died while building factories for the aliens who abducted them." Students playing Shenzen I/O "may acquire an increased sense of the ridiculousness of modern capitalist society." Sometimes you just find _your people_.
 
-**Tetris Effect:** I mostly watched my wife play this, because she's seven to 10 times better at Tetris than I am. But the music, visuals, and pulse of this game are so good that you might happily watch somebody else play it. If you have good headphones, or a decent sound setup, it's hard to say it's not worth it. It is, after all, Tetris.
+**Tetris Effect:** I mostly watched my wife play this, because she's exponentially better at Tetris than I am. Te music, visuals, and pulse of this game are so good you might happily watch someone else play it. If you have good headphones, or a decent sound setup, it's hard to say it's not worth it. It is, after all, Tetris.
 
-**Wolfenstein II: The New Colossus:** More of the same, but that's a good thing. Surprisingly good writing and voice acting, decent enough shooting. It's a good time, shooting Nazis.
+**Wolfenstein II: The New Colossus:** More of the same, but that's a good thing. Surprisingly good writing (minus some uninspired gags/tropes) and voice acting, decent shooting, no stupid final boss battle. It's a good time, shooting Nazis.
 
-**Wasteland 3:** I finished [Wasteland 2 in 2017](https://thepurdman.com/2017-in-review/#games). Back then, I said it was "A bit wonky, a bit fetch-quest-y, and the ending was, it was okay." I'm here to report that Wasteland 3 was ... very similar. The story was an interesting premise, the original music pretty good (until you hear a few tracks too many times), and the combat and inventory systems much improved. But the knee-jerk nihilism grates after a while. My friend Thorin complained that the ending shoehorns your long-ago decisions into somewhat manipulative Unexpected Consequences, and he was right.
+**XCOM: Chimera Squad:** It would take pretty awful reviews, or ransomware, for me not to install and try out an XCOM game, expansion, or (in this case) spin-off. It's not bad. It's a bit of fun while I wait for 3, it spins some interesting characters and interactions out of very little subtext, and it's defintely worth the double-A-game price.
 
-Would I pre-order/back a fourth version of this game? Maybe. What's the herd immunity looking like?
+**Wasteland 3:** I finished [Wasteland 2 in 2017](https://thepurdman.com/2017-in-review/#games). Back then, I said it was "A bit wonky, a bit fetch-quest-y, and the ending was,) it was okay." I'm here to report that Wasteland 3 was ... very similar. The premise was interesting, the original music pretty good (until you hear a few tracks too many times), and the combat and inventory systems much improved. But the knee-jerk nihilism grates after a while. My friend Thorin complained that the ending shoehorns your long-ago decisions into somewhat manipulative Unexpected Consequences, and he was right.
 
-<img src="/assets/post_images/2021-02-15/cork_pc.jpg" alt="Gray cat in front of opened PC case" class="right"/>
-
-**XCOM: Chimera Squad:** It would take pretty awful reviews, or ransomware, for me not to install and try out an XCOM game, expansion, or, in this case, spin-off. It's not bad. It's a bit of fun while I wait for 3, and defintely worth the price.
+Would I pre-order/back a fourth version of this game? Maybe. Where are we at with herd immunity?
 
 **Gwent:** Enjoyed playing a few rounds of this against other humans, and Slay the Spire gave me a good training in deck building/pruning. But it felt overwhelming, so I fell off.
 
-**Cyberpunk 2077:** I have played one hour of this game. I was very excited for it, so much so that I upgraded my graphics card in anticipation. I dig the aesthetic (minus [the Orientalism](https://www.reddit.com/r/Cyberpunk/comments/1vggi6/cyberpunk_and_orientalism/), if you can even minus that). More importantly, it was from the makers of one of my all-time favorite games, _The Witcher 3: Wild Hunt_. That game was a triumph of writing, dialogue, and storytelling, nestled inside a decent to good RPG.
+<img src="/assets/post_images/2021-02-15/cork_pc.jpg" alt="Gray cat in front of opened PC case" class="right"/>
 
-The game was hard to play, even for just one hour. As an actual game product, it had bug and glitches, a fatiguing attitude/viewpoint, and tutorial missions that weren't exciting. As a cultural phenomenon, it managed to feel played out, before I even booted it up. Nothing kills your enthusiasm for something you were anticipating like an entire section of the global press declaring that, not only is that thing not good, but it's exploitative, it demoralized and taxed workers, its maker essentially lied to some of its buyers, and sometimes while playing it you burst out of your car naket in a Christ-like T-pose.
+**Cyberpunk 2077:** I was very excited for this. So much so that I found and bought a new GeForce graphics card for it, in 2020 (its own meta/overhyped game). I was jazzed for the aesthetic (minus [the Orientalism](https://www.reddit.com/r/Cyberpunk/comments/1vggi6/cyberpunk_and_orientalism/), if you can even separate it). Most importantly, it was from the makers of one of my all-time favorite games, _The Witcher 3: Wild Hunt_. That game was a triumph of writing, dialogue, and storytelling, nestled inside a decent RPG.
 
-So I uninstalled this huge game-as-a-metaphor-for-the-year and will maybe check back on it later in 2021. Or not.
+I have played one hour of this game.
+
+It was simply hard to play, even for just one hour. It had bug and glitches, a fatiguing attitude/viewpoint, and tutorial missions that weren't exciting. Style-wise, it felt played-out before it really got going. Further dampening enthusiasm was the entiretey of the global press rightly declaring that, not only is this game not good, but it's exploitative, it demoralized and taxed the people who made it, and the development company lied about its readiness.
+
+So I uninstalled this huge game-as-a-metaphor-for-the-year and will maybe check back on it later in 2021, after many patches. Or not.
 
 <a name="twitter"></a>
 ## Ugh, Twitter
 
-Defying all advice and logical outcomes, I logged into Twitter multiple times in 2020. My most popular tweet was a picture of [early pandemic takeout lasagna](https://twitter.com/kevinpurdy/status/1240396788839976961). There was some [good news about recycling pizza boxes](https://twitter.com/kevinpurdy/status/1284240559029325824) (you can). And I [made a weird goof about podcasts](https://twitter.com/kevinpurdy/status/1263111581497536514).
+Defying all advice and logical outcomes, I logged into Twitter and sent messages multiple times in 2020. My most popular tweet was a picture of [early pandemic takeout lasagna](https://twitter.com/kevinpurdy/status/1240396788839976961). There was some [good news about recycling pizza boxes](https://twitter.com/kevinpurdy/status/1284240559029325824) (you can). And I [made a weird goof about podcasts](https://twitter.com/kevinpurdy/status/1263111581497536514).
 
 There were two other notable tweets that people seemed to like:
 
