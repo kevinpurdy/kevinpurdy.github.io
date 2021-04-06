@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2020 In Review
-published: false
+published: true
 ---
 
 Before the pandemic, I spent a lot of time wondering if I was in standing in the wrong place, in the wrong line, imposing on people. These days it's still like that, except the worst possible outcome isn't embarassment, it's death, yours or theirs. If you're reading this many years from now, it might be hard for you to understand how serious I am about this. I spent most of last year trying not to die or kill people. It had its effects.
