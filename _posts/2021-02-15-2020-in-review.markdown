@@ -95,9 +95,9 @@ In more familiar projects, I gave away a Nintendo Wii and games to a father with
 
 I also replaced the last of the old sconces on the walls before our home showings. There are things I'll miss about our very old Victorian, but plaster and tightly-packed cloth-covered wire with no real markings? That's someone else's fetish.
 
-In the new apartment, I have mostly added things: two ceiling fans, a wall-mounted TV, a Container Store shelving rack. Maybe my biggest project was switching the direction the door opens on the dryer. I had to find the manual online and use a Torx screwdriver from my iFixit toolkit. Now our hands don't scrape on the closet wall when the clothes are dry.
-
 <img src="/assets/post_images/2021-02-15/cork_dryer.jpg" alt="My cat Cork, quote-unquote helping" class="right"/>
+
+In the new apartment, I have mostly added things: two ceiling fans, a wall-mounted TV, a Container Store shelving rack. Maybe my biggest project was switching the direction the door opens on the dryer. I had to find the manual online and use a Torx screwdriver from my iFixit toolkit. Now our hands don't scrape on the closet wall when the clothes are dry.
 
 Here's one fix from last year you can watch me struggle through: swapping out the drifting joystick on a Nintendo Switch Joy-Con, with my iFixit coworkers.
 
@@ -125,9 +125,9 @@ You can even train people like me, with my not-so-great hands and English degree
 <a name="pi"></a>
 ## Raspberry Pi
 
-I converted my Pi 3B+ from an unused retro games emulator to a [Pi-powered Home Assistant hub](https://thepurdman.com/home_assistant/). Now it provides me a convenient little panel to control, monitor, and automate my smarthome stuff and speakers. Love it.
-
 <img src="/assets/post_images/2020-11-11/home_assistant_phone.jpeg" alt="Home Assistant web panel on phone" class="right"/>
+
+I converted my Pi 3B+ from an unused retro games emulator to a [Pi-powered Home Assistant hub](https://thepurdman.com/home_assistant/). Now it provides me a convenient little panel to control, monitor, and automate my smarthome stuff and speakers. Love it.
 
 The other Pi 4 serves up external storage to Plex and a network share. It is supposed to redundantly back them up (with `rsync`) every night, but I don't have that quite working yet. One thing I discovered about Raspberry Pis: they don't throw a lot of power to their USB ports. You have to externally power a drive, especially an old spinning-disk drive, if you want it ready for access.
 
@@ -213,11 +213,11 @@ Books I did actually read:
 
 Some of the best longer or just more interesting articles I read in 2020, via my [Pocket](https://getpocket.com) account. This excludes stuff about the president at that time, which was important reading but which nobody needs to revisit now:
 
-+ [The Vampire Ship](https://getpocket.com/redirect?url=https%3A%2F%2Fnewrepublic.com%2Farticle%2F159252%2Fnoor-one-vampire-ship-heroin-turkey-greece-corruption-scandal) - I miss _The Wire_ a lot.
-+ [Injured?](https://getpocket.com/redirect?url=https%3A%2F%2Fnymag.com%2Fintelligencer%2Farticle%2Fcellino-and-barnes-breakup.html) - Cellino v. Barnes, and it's lit.
-+ [What Happened to Val Kilmer? He's Just Starting to Figure It Out](https://getpocket.com/redirect?url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F05%2F06%2Fmagazine%2Fval-kilmer.html) - Deeply humanizing and reflective and tremendously weird.
++ [The Vampire Ship](https://newrepublic.com/article/159252/noor-one-vampire-ship-heroin-turkey-greece-corruption-scandal) - The story of one ship full of heroin and nearly every life it ruined.
++ [Injured?](https://nymag.com/intelligencer/article/cellino-and-barnes-breakup.html) - Cellino v. Barnes, and it's lit.
++ [What Happened to Val Kilmer? He's Just Starting to Figure It Out](https://www.nytimes.com/2020/05/06/magazine/val-kilmer.html) - Deeply humanizing and reflective and tremendously weird.
 + [All the Logistical Problems of That NYMag Sex Diary, Cataloged](https://slate.com/human-interest/2020/09/nymag-sex-diary-real-or-fake-or-just-a-lot-of-logistical-issues.html) - Shannon is a treasure. I will one day have weird nostalgia for pandemic moments like this, when something deeply stupid took over the discourse..
-+ [A Student Debt Researcher Fucks Me Up With America's Broken Promises](https://defector.com/a-student-debt-researcher-fucks-me-up-with-americas-broken-promises/?utm_source=Default+audience&utm_campaign=c30a701cdc-EMAIL_CAMPAIGN_2020_12_11_04_20&utm_medium=email&utm_term=0_3cb9478f4c-c30a701cdc-193350026) - Sometimes the best headline just says it like you feel it. My inner vision got continually wider as I read.
++ [A Student Debt Researcher Fucks Me Up With America's Broken Promises](https://defector.com/a-student-debt-researcher-fucks-me-up-with-americas-broken-promises) - Sometimes the best headline just says it like you feel it. My inner vision got continually wider as I read.
 
 <a name="games"></a>
 ## Games
