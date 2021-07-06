@@ -2,6 +2,7 @@
 layout: post
 title: Vimium, Carpal Tunnel, and Accessibility
 published: false
+description: Once you see how most sites half-ass accessibility, you'll never stop being mad.
 ---
 
 
