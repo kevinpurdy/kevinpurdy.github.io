@@ -1,6 +1,7 @@
 ---
 layout: post
 title: God Help Me I Love Home Assistant
+description: A free app, a cheap Raspberry Pi, and suddenly smart lights actually feel convenient.
 published: true
 ---
 
