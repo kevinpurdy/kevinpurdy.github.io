@@ -5,6 +5,6 @@ kramdown:
 markdown: kramdown
 pygments: false
 base_url: http://thepurdman.com
-description: "Kevin Purdy's personal site"
+description: Kevin Purdy, the writer who lives in Washington, D.C.
 permalink: /:title/
 highlighter: rouge
