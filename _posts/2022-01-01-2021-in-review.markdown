@@ -1,0 +1,210 @@
+---
+layout: post
+title: 2021 In Review
+description:
+published: false
+---
+
+Intro
+
+***
+
+If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.com/kevinpurdy/) or [email](mailto:kspurdy@gmail.com?subject=Error%20in%202020%20In%20Review%20post).
+
++ [One full year in DC](#dc)
++ [The Buffalo Bills are definitely an American football team](#bills)
++ [Repairs](#repairs)
++ [Switch mods](#switch)
++ [Tiny computers](#tiny)
++ [Bikes & ebikes & e-mopeds](#bikes)
++ [Baking](#baking)
++ [Writing](#writing)
++ [Reading](#reading)
++ [Games](#games)
++ [Ugh, Twitter](#twitter)
++ [Pictures of pets](#pets)
+
+<a name="dc"></a>
+## One full year in DC
+
+<a name="bills"></a>
+## The Buffalo Bills, of All Things
+
+<a name="repairs"></a>
+## Repairs
+
+The biggest "fix" I made in 2021 was to my 2013 car. I wrote about it at iFixit.
+
+Switches and Switch parts
+
+* Battery replacement, MacBook Pro 2017 - Excellent
+* Battery and USB-C port replacement, MacBook 2016 - Excellent
+* Screen and battery, iPad Air 4 - Fair (Screen separation blob)
+* Pixel 3 rear camera & battery - Excellent
+* Clear the jam and etch new grind markings on pepper grinder - Good
+*
+
+
+<a name="switch"></a>
+## Switch mods
+
+<a name="tiny"></a>
+## Raspberry Pi
+
+<img src="/assets/post_images/2020-11-11/home_assistant_phone.jpeg" alt="Home Assistant web panel on phone" class="right"/>
+
+I converted my Pi 3B+ from an unused retro games emulator to a [Pi-powered Home Assistant hub](https://thepurdman.com/home_assistant/). Now it provides me a convenient little panel to control, monitor, and automate my smarthome stuff and speakers. Love it.
+
+The other Pi 4 serves up external storage to Plex and a network share. It is supposed to redundantly back them up (with `rsync`) every night, but I don't have that quite working yet. One thing I discovered about Raspberry Pis: they don't throw a lot of power to their USB ports. You have to externally power a drive, especially an old spinning-disk drive, if you want it ready for access.
+
+<a name="bikes"></a>
+## Bikes
+
+
+
+<a name="baking"></a>
+## Baking
+
+![3x3 grid showing various baking accomplishments](/assets/post_images/2021-02-15/baking_2020_3by3.jpg)
+_Clockwise from top left: Eggnog cheesecake with gingerbread people (Pastry Love); [Kvæfjordkake](https://northwildkitchen.com/kvaefjordkake-worlds-best-cake/) (North Wild Kitchen); Chocolate-Glazed Mint-Frosted Brownies (Cook's Illustrated Baking); Orange-Almond Pudding Cake with Chocolate Ganache (Pastry Love); Funfetti angel food cake (Pastry Love); [Lemon pudding cake](https://cooking.nytimes.com/recipes/12363-lemon-pudding-cake) (NYT Cooking); Homemade Hostess-Style Cupcakes (Bravetart); Lemon Layer Cake with Fluffy Toasted Almond Icing (Cook's Illustrated Baking). Center: Lemon meringue cupcake (Pastry Love)._
+
+Apple Pie
+Cinnamon babka
+chocolate babka
+Ted Lasso biscuits + brownies
+
+
+<a name="writing"></a>
+## Writing
+
+I mostly wrote things for [iFixit](https://ifixit.com) last year. Besides the board repair school posts (linked in the [Repair section](#repair)), my favorite posts were a rant about [Amazon's e-waste problem](https://www.ifixit.com/News/35189/its-time-to-stop-making-excuses-for-amazons-disposable-tech), and [a deep dive into the Nexus 5X/6P boot loop that nobody asked for](https://www.ifixit.com/News/36821/dark-magic-what-caused-googles-nexus-6p-death-loop-and-how-to-fix-it-with-a-hairdryer).
+
+I also wrote about [Leaving Buffalo](https://thepurdman.com/leaving-buffalo/) on this site. I quite liked it, and so did [many others](https://twitter.com/kevinpurdy/status/1283832830720724993). It reminds me why I maintain this pile of code you're looking at.
+
+<a name="reading"></a>
+## Reading
+
+Some people read a lot during COVID isolation. Not me. I think I've never read fewer traditional books than in the last year. I've never subscribed to more publications, or read more _words_, but read fewer books. It felt important to support good work, real journalism, and have access to well-considered news and thought. But, books? I dunno, not last year.
+
+Books I did actually read:
+
++ [_Rust: The Longest War_](https://www.bookstorelink.com/9781451691603) - If nothing else, I learned that "Beer was made for cans, and cans were made for beer."
++ [_Made to Break: Technology and Obsolesence in America_](https://www.bookstorelink.com/9780674025721) - Lightbulb conspiracies, GM as the progenitor of the modern consumerist psyche.
++ [_Alien III: An Audible Original Drama_](https://www.audible.com/pd/Alien-III-Audiobook/B07QY3KR81) - Based on William Gibson's unproduced screenplay for this movie, [one of many](https://www.dailyscript.com/bhundlan/scripts/alien3/)! It was perfect for a drive to and from the Adirondacks. I can't remember a moment of it, but I was glad to hang out with Bishop and Ridley again.
++ [_Uncommon Carriers_](https://www.bookstorelink.com/9780865477391) - Loaned by a friend with very good taste. McPhee's style seems very much my kind of thing, but a couple of the chapters in this collection of stories didn't click with me. Some just felt like they had too much detail about a setup that hadn't hooked me yet. Or I just don't enjoy boat stories, maybe.
++ [Every book in the recent season of Boss Fight Books](https://bossfightbooks.com/products/postal-by-brock-wilbur-nathan-rabin) - Minus _Final Fantasy VI_, which is not out, but add in [Postal](https://bossfightbooks.com/products/postal-by-brock-wilbur-nathan-rabin) and [_Red Dead Redemption_](https://bossfightbooks.com/products/red-dead-redemption-by-matt-margini). I read _Majora's Mask_ most closely, because I helped with an edit/review copy. I've only actually played _Red Dead Redemption_ out of these games, but I enjoyed all these books.
+
+Some of the best longer or just more interesting articles I read in 2020, via my [Pocket](https://getpocket.com) account. This excludes stuff about the president at that time, which was important reading but which nobody needs to revisit now:
+
++ [The Vampire Ship](https://newrepublic.com/article/159252/noor-one-vampire-ship-heroin-turkey-greece-corruption-scandal) - The story of one ship full of heroin and nearly every life it ruined.
++ [Injured?](https://nymag.com/intelligencer/article/cellino-and-barnes-breakup.html) - Cellino v. Barnes, and it's lit.
++ [What Happened to Val Kilmer? He's Just Starting to Figure It Out](https://www.nytimes.com/2020/05/06/magazine/val-kilmer.html) - Deeply humanizing and reflective and tremendously weird.
++ [All the Logistical Problems of That NYMag Sex Diary, Cataloged](https://slate.com/human-interest/2020/09/nymag-sex-diary-real-or-fake-or-just-a-lot-of-logistical-issues.html) - Shannon is a treasure. I will one day have weird nostalgia for pandemic moments like this, when something deeply stupid took over the discourse..
++ [A Student Debt Researcher Fucks Me Up With America's Broken Promises](https://defector.com/a-student-debt-researcher-fucks-me-up-with-americas-broken-promises) - Sometimes the best headline just says it like you feel it. My inner vision got continually wider as I read.
+
+<a name="games"></a>
+## Games
+
+I dug into some games last year, huge surprise. Here they are, in rough order of favorite-ness, for each platform.
+
+### Switch
+
+#### Hades
+Everyone I know with good taste in games loved and recommended this game in 2020. It's not actually my exact type of game—I don't have the hands or brain or maybe temperament for an isometric hack-and-slash these days. But there's so much finely considered art on display in here that it's almost harder to _not_ like and try it a bit.
+
+My unwritten, unpaid essay about video games in 2020 is that this game came out the same year as _Cyberpunk 2077_ so we could all learn important lessons about what really matters in a game.
+
+#### Stardew Valley
+I started working on my wife's farm in this game [in late 2019](https://thepurdman.com/2019-in-review/#games). Obviously, we had time to get back into it and do some more farming, mining, trading, and even stupid, useless fishing. Nothing really changed, this is an epochal game that [continues to get better](https://thepurdman.com/2019-in-review/#games).
+
+<img src="/assets/post_images/2021-02-15/animal_crossing.jpg" alt="The author, rendered in Animal Crossing New Horizons" class="right"/>
+
+#### Animal Crossing: New Horizons
+I have friends who still check in on their villages every day, nearly a year later. I dig it. This game arrived just as the pandemic was shutting down everything you could _do_, everyone you could _see_. The news was so oppressive, the outlook so bleak ... and here's this place where your biggest problem is that you can't find this one kind of tree you need to build a bookcase.
+
+I remember the complaints about how klutzy the online island-visiting system was. I think now about how we, in hindsight, might appreciate a system where only people who really wanted to see each other could visit, for just a bit at a time, without the outside world intruding. We each had a little space without news, advertisements, concerns about being "productive," or Zoom cameras. It was a good space.
+
+### PC
+
+#### Half-Life: Alyx
+
+I know what I looked like in a VR headset. And it was a huge pain in the butt to triangulate the motion-sensing gear on my wife's desk, where the powerful PC was located. I had to upgrade my processor and motherboard to play this game at reasonable fidelity, which led to hours of second-guessing and RMA purgatory.
+
+It was worth it. This game was a wild swing by Valve, one that a lot of people couldn't play and still can't. It was fun as Hell, scary as anything, and stuffed with wonderful voice acting. Oh, and visual detail and level design that felt real in a way that seems goofy unless I put the googles on your head.
+
+There are times, even now, when I need to grab something—a remote, a cable, hand sanitizer—where I will feel a small but real impulse to flick my [Gravity Gloves](https://www.pcgamer.com/the-gravity-gloves-are-the-real-star-of-half-life-alyx/) and catch the thing as it flings toward me. Is it sad, longing to return to a world created by two lenses inside a shoebox strapped to my head? Does it say something about last year? Shut up, yes.
+
+Alyx might be the only game I've played that makes holding and using a gun feel _less_ empowering. You go through the real motions of unloading and reloading and aiming with your hands, which, surprise, takes a lot more work than a mouse or gamepad suggest. Your aim probably sucks, and you waste ammo out of fear. You are constantly caught off-guard. You don't become a superhuman killing machine in Alyx; you survive as a young woman trying not to get mauled by highly dextrous monsters.
+
+I had to give back the headset I borrowed before I moved. I will probably get back into it. I think about it more than I ever thought I would.
+
+#### Hitman 2/3
+I last played Hitman [in 2017](https://thepurdman.com/2017-in-review/#games). I picked up Hitman 2 on sale, and it  clicked. Because each Hitman game overlays its new mechanics and tools over the old levels, it made me rediscover the original levels. Hitman 3 was technically a 2021 release, but who cares, it was really the fifth quarter of 2020.
+
+You could play this game forever, if you dug escalating challenges and quirky targets. I'm not a 100%, all-the-achievements type, but this game brings it out in me. I want to try and hit every target in just my original suit, or snipe three disparate targets from the same treehouse or radio tower, or figure out how to electrocute this one guard with an aquarium. This Groundhog Day Murder Simulator clicks with me.
+
+#### Return of the Obra Dinn
+Now for something completely different: a 1-bit nautical historical murder logic puzzle. The mechanics might be unwieldy at first, but once you catch the rhythm, it's an engrossing game with a killer aesthetic. There are a few images and moments in this game that will stick with me a long time. I'm being vague, because experiencing this game without a lot of preparation is a big part of the fun. That, and [the soundtrack](https://twitter.com/dukope/status/1366548236756914177).
+
+#### Slay the Spire
+It feels dangerous to even mention this game again, after I finally called it quits at some point last year. I own the game on Steam, GOG, and Switch. I _refuse_ to add up my total hours played. This game was so mean to me and I loved it.
+
+#### Shenzen I/O
+You design and code microcontrollers for a supplier in Shenzen. You learn an actual programming language and arrange circuit paths to do this. You are all but required to print out a reference manual and keep it in a binder nearby. You develop concerns about what exactly you are making.
+
+<img src="/assets/post_images/2021-02-15/shenzen_io.jpg" alt="Microcontroller design screen from Shenzen I/O game"/>
+
+It's wonderful. I had to step away from a particularly gruesome problem (a change-making machine for a Chinese theme park), but I'll be back. I have no doubt I will be making my way through other [Zachtronics](http://www.zachtronics.com/) games.
+
+Zachtronics [gives away their games to public or non-profit schools](http://www.zachtronics.com/zachademics/). That page, where they list the potentially objectionable content in each game, is its own marketing page. Infinifactory is "probably one of our less kid-friendly games, as the story is told entirely through voice recordings attached to the spacesuits of people who died while building factories for the aliens who abducted them." Students playing Shenzen I/O "may acquire an increased sense of the ridiculousness of modern capitalist society." Sometimes you just find _your people_.
+
+#### Tetris Effect
+I mostly watched my wife play this, because she's exponentially better at Tetris than I am. Te music, visuals, and pulse of this game are so good you might happily watch someone else play it. If you have good headphones, or a decent sound setup, it's hard to say it's not worth it. It is, after all, Tetris.
+
+#### Wolfenstein II: The New Colossus
+More of the same, but that's a good thing. Surprisingly good writing (minus some uninspired gags/tropes) and voice acting, decent shooting, no stupid final boss battle. It's a good time, shooting Nazis.
+
+#### XCOM: Chimera Squad
+It would take pretty awful reviews, or ransomware, for me not to install and try out an XCOM game, expansion, or (in this case) spin-off. It's not bad. It's a bit of fun while I wait for 3, it spins some interesting characters and interactions out of very little subtext, and it's defintely worth the double-A-game price.
+
+#### Wasteland 3
+I finished [Wasteland 2 in 2017](https://thepurdman.com/2017-in-review/#games). Back then, I said it was "A bit wonky, a bit fetch-quest-y, and the ending was,) it was okay." I'm here to report that Wasteland 3 was ... very similar. The premise was interesting, the original music pretty good (until you hear a few tracks too many times), and the combat and inventory systems much improved. But the knee-jerk nihilism grates after a while. My friend Thorin complained that the ending shoehorns your long-ago decisions into somewhat manipulative Unexpected Consequences, and he was right.
+
+Would I pre-order/back a fourth version of this game? Maybe. Where are we at with herd immunity?
+
+#### Gwent
+Enjoyed playing a few rounds of this against other humans, and Slay the Spire gave me a good training in deck building/pruning. But it felt overwhelming, so I fell off.
+
+<img src="/assets/post_images/2021-02-15/cork_pc.jpg" alt="Gray cat in front of opened PC case" class="right"/>
+
+#### Cyberpunk 2077
+I was very excited for this. So much so that I found and bought a new GeForce graphics card for it, in 2020 (its own meta/overhyped game). I was jazzed for the aesthetic (minus [the Orientalism](https://www.reddit.com/r/Cyberpunk/comments/1vggi6/cyberpunk_and_orientalism/), if you can even separate it). Most importantly, it was from the makers of one of my all-time favorite games, _The Witcher 3: Wild Hunt_. That game was a triumph of writing, dialogue, and storytelling, nestled inside a decent RPG.
+
+I have played one hour of this game.
+
+It was simply hard to play, even for just one hour. It had bug and glitches, a fatiguing attitude/viewpoint, and tutorial missions that weren't exciting. Style-wise, it felt played-out before it really got going. Further dampening enthusiasm was the entiretey of the global press rightly declaring that, not only is this game not good, but it's exploitative, it demoralized and taxed the people who made it, and the development company lied about its readiness.
+
+So I uninstalled this huge game-as-a-metaphor-for-the-year and will maybe check back on it later in 2021, after many patches. Or not.
+
+<a name="twitter"></a>
+## Ugh, Twitter
+
+Defying all advice and logical outcomes, I logged into Twitter and sent messages multiple times in 2020. My most popular tweet was a picture of [early pandemic takeout lasagna](https://twitter.com/kevinpurdy/status/1240396788839976961). There was some [good news about recycling pizza boxes](https://twitter.com/kevinpurdy/status/1284240559029325824) (you can). And I [made a weird goof about podcasts](https://twitter.com/kevinpurdy/status/1263111581497536514).
+
+There were two other notable tweets that people seemed to like:
+
+![Tweet showing author as an 11-year-old boy, captioned "Me, the last time the Bills were 10-3"](/assets/post_images/2021-02-15/tweet2.png)
+
+![Tweet showing author holding up his keychain, with a small black plastic tag visible, reading "Souvenir of Buffalo. N. Y."](/assets/post_images/2021-02-15/tweet3.png)
+
+<a name="pets"></a>
+## Pictures of Pets
+
+**Cork:**
+![Cork, gray Russian Blue cat](/assets/post_images/2021-02-15/cork.jpg)
+
+**Apricot:**
+![Apricot, black and white tabby cat](/assets/post_images/2021-02-15/apricot.jpg)
+
+**Howard:**
+![Howard, pug mix weirdo dog](/assets/post_images/2021-02-15/howard.jpg)
