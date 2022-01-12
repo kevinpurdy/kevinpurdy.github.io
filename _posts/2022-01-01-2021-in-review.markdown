@@ -33,16 +33,17 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 <a name="repairs"></a>
 ## Repairs
 
-The biggest "fix" I made in 2021 was to my 2013 car. I wrote about it at iFixit.
+![Car dashboard with top part opened up to reveal display system's guts](/assets/post_images/2022-01-01/sync_swap.jpg)
 
-Switches and Switch parts
+The biggest "fix" I made in 2021 was to my 2013 car. I wrote about [replacing my awful Ford Sync system](https://www.ifixit.com/News/52123/the-coming-battle-over-hacking-your-own-car) (and learning a lot about car wiring) at iFixit.
+
+
 
 * Battery replacement, MacBook Pro 2017 - Excellent
 * Battery and USB-C port replacement, MacBook 2016 - Excellent
 * Screen and battery, iPad Air 4 - Fair (Screen separation blob)
 * Pixel 3 rear camera & battery - Excellent
 * Clear the jam and etch new grind markings on pepper grinder - Good
-*
 
 
 <a name="switch"></a>
