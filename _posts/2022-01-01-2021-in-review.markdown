@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2021 In Review
-description:
+description: Kevin Purdy, writing mostly for Kevin Purdy, about the year he had in 2021.
 published: false
 ---
 
@@ -12,7 +12,7 @@ Intro
 If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.com/kevinpurdy/) or [email](mailto:kspurdy@gmail.com?subject=Error%20in%202020%20In%20Review%20post).
 
 + [One full year in DC](#dc)
-+ [The Buffalo Bills are definitely an American football team](#bills)
++ [The Best Bills Year of My Life (So Far)](#bills)
 + [Repairs](#repairs)
 + [Switch mods](#switch)
 + [Tiny computers](#tiny)
@@ -28,7 +28,9 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 ## One full year in DC
 
 <a name="bills"></a>
-## The Buffalo Bills, of All Things
+## The Buffalo Bills
+
+I traveled to Nashville to see friends and, hey, may as well watch the Buffalo Bills play the Tennessee Titans. It was tighter than most expected, and the game essentially came down to the Bills' quarterback Josh Allen slipping on the last play. Walking back from the stadium, my friend [Ryan](https://www.patreon.com/thegoosesroost/posts) said he was willfully refusing to be too mad about it. The team, and especially Josh Allen, were promising, he said. This was not one of those games from [The Drought](https://www.cbssports.com/nfl/news/bills-playoff-berth-snaps-longest-postseason-drought-in-pro-american-sports/) (and [he should know](https://web.archive.org/web/20200428220940/http://www.thegoosesroost.com/2017/01/introducing-the-droughtcast/)).  
 
 <a name="repairs"></a>
 ## Repairs
