@@ -30,7 +30,17 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 <a name="bills"></a>
 ## The Buffalo Bills
 
-I traveled to Nashville to see friends and, hey, may as well watch the Buffalo Bills play the Tennessee Titans. It was tighter than most expected, and the game essentially came down to the Bills' quarterback Josh Allen slipping on the last play. Walking back from the stadium, my friend [Ryan](https://www.patreon.com/thegoosesroost/posts) said he was willfully refusing to be too mad about it. The team, and especially Josh Allen, were promising, he said. This was not one of those games from [The Drought](https://www.cbssports.com/nfl/news/bills-playoff-berth-snaps-longest-postseason-drought-in-pro-american-sports/) (and [he should know](https://web.archive.org/web/20200428220940/http://www.thegoosesroost.com/2017/01/introducing-the-droughtcast/)).  
+<img src="/assets/post_images/2022-01-01/bills.jpg" alt="Bills Little People with chicken wing hat, placed underneath Go For It pennant" class="right"/>
+
+I traveled to Nashville to gather with Buffalo friends, hanging the trip on seeing the Buffalo Bills play the Tennessee Titans. It was a tighter game than most expected, and the game essentially came down to the Bills' quarterback Josh Allen slipping on the last play. Walking back from the stadium, my friend [Ryan](https://www.patreon.com/thegoosesroost/posts) said he was willfully refusing to be too mad about it. The team, and especially Josh Allen, were promising, he said. This was not one of those games from [The Drought](https://www.cbssports.com/nfl/news/bills-playoff-berth-snaps-longest-postseason-drought-in-pro-american-sports/) (and [he should know](https://web.archive.org/web/20200428220940/http://www.thegoosesroost.com/2017/01/introducing-the-droughtcast/)).
+
+It was the start of a mid-season rough patch. They regained their form, though, and made the playoffs. I started feeling [the excitement again](https://thepurdman.com/2020-in-review/#bills). Hats and sweaters came out. Then my friend Ryan was proved correct, twice in two weeks.
+
+The 47-17 win over the Patriots was both [the first-ever perfect offensive game in (modern) NFL history](https://www.msn.com/en-us/sports/nfl/bills-played-first-perfect-offensive-game-in-nfl-history-in-win-over-patriots/ar-AASPXcs) and an exorcism of the Patriots' 20-year hex on the Bills, a hex cast primarily by Tom Brady. I was at home, yelling, hooting, anxiously awaiting something to break the streak, but nothing did. An real [changing of the guard](https://www.boston.com/sports/new-england-patriots/2022/01/16/patriots-bills-review-chad-finn/), with lots of ceremony.
+
+The next game the Bills did not win. The consolation prize: it was arguably the [most exciting NFL game](https://slate.com/culture/2022/01/chiefs-bills-2022-nfl-playoffs-wow.html) of [all time](https://defector.com/that-was-a-football-game-for-all-time/). It was the best one I've ever seen. I watched it at a DC bar taken over by the local Bills backers. I screamed at every unlikely touchdown catch, called out the response to the [Shout Song](https://www.youtube.com/watch?v=1JpeDWbgUO8), hugged people I didn't know when it seemed like we'd clinched it.[^1]
+
+I don't get to see the Bills in the Super Bowl. Instead, I get to see the Bills win the sports world's respect—statistically undeniable, historically significant respect. No small thing, that. Next year.
 
 <a name="repairs"></a>
 ## Repairs
@@ -140,3 +150,7 @@ For no monetary gain and almost no reward, I continued feeding Twitter's API in 
 
 ### Howard
 ![Howard, pug mix weirdo dog](/assets/post_images/2021-02-15/howard.jpg)
+
+***
+
+[^1]: Not a smart move during COVID times. DC restaurants and bars are vaccinated-only at the moment. It was a risk, I took it.
