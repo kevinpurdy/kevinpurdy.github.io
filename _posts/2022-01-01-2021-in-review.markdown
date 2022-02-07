@@ -1,4 +1,4 @@
-  ---
+---
 layout: post
 title: 2021 In Review
 description: Kevin Purdy, writing mostly for Kevin Purdy, about the year he had in 2021.
