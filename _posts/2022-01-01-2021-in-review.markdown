@@ -1,4 +1,4 @@
----
+  ---
 layout: post
 title: 2021 In Review
 description: Kevin Purdy, writing mostly for Kevin Purdy, about the year he had in 2021.
@@ -47,19 +47,38 @@ I don't get to see the Bills in the Super Bowl. Instead, I get to see the Bills 
 
 ![Car dashboard with top part opened up to reveal display system's guts](/assets/post_images/2022-01-01/sync_swap.jpg)
 
-The biggest "fix" I made in 2021 was to my 2013 car. I wrote about [replacing my awful Ford Sync system](https://www.ifixit.com/News/52123/the-coming-battle-over-hacking-your-own-car) (and learning a lot about car wiring) at iFixit.
-
-
+The biggest "fix" I made in 2021 was to my 2013 car. I wrote about [replacing my awful Ford Sync system](https://www.ifixit.com/News/52123/the-coming-battle-over-hacking-your-own-car) (and learning a lot about car wiring) at iFixit. Here are some other notable fixes, and how they went.
 
 * Battery replacement, MacBook Pro 2017 - Excellent
 * Battery and USB-C port replacement, MacBook 2016 - Excellent
-* Screen and battery, iPad Air 4 - Fair (Screen separation blob)
+* Screen and battery, iPad Air 4 - Fair (Screen/digitizer separation discoloration)
 * Pixel 3 rear camera & battery - Excellent
 * Clear the jam and etch new grind markings on pepper grinder - Good
 
-
 <a name="switch"></a>
 ## Switch mods
+
+After that Verge event, I ended up with four disassembled Nintendo Switches. I seemed to have all the parts to rebuild at least one full Switch, and it was one of the [newer variety with better battery life](https://www.ign.com/articles/2019/07/17/new-nintendo-switch-model-with-longer-battery-life-announced). It was modified ("modded") with a translucent green plastic back, listed on eBay as not being able to sync with right Joy-cons. I opened it up and, yes, someone had snapped the right rail's cable. I replaced the rail and it took Joy-Cons again—though it looked ugly, and half the screws were the wrong size. I decided to restore it and take it a different direction.
+
+I was a Super Nintendo teen, so [that's what I picked](https://www.amazon.com/gp/product/B07M69XR32). The kit came with a link to a YouTube video, featuring sped-up time-lapse footage of someone rushing through the job, like it was their twelfth kit that day. At one point the guy essentially yanks a Joy-Con's delicate rail ribbons out rather than flip open the tab holding them into their ZIF connector. I beg you, if you're doing this kind of mod, check out [iFixit's Joy-Con guides](https://www.ifixit.com/Device/Joy-Con), at least as a second opinion.
+
+After transplanting the two Joy-Cons' guts into new shells, finding a runaway rail release button, and almost putting the home button in upside down, I had my Super Switchtendo.
+
+![Back of Nintendo Switch modded in SNES style with Power and Reset button images](/assets/post_images/2022-01-01/switchtendo1.jpg)
+
+![Close-up of buttons on modded Nintendo Switch, showing purple buttons and gray joy-con case](/assets/post_images/2022-01-01/switchtendo2.jpg)
+
+This inspired my friend Adam to mod his own Switch with the same basic kit. He made it through, despite one cable snag. When he beheld his work, he realized he needed the two-tone buttons and one-piece directional pad to truly reconnect with the [controller of his youth](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System#/media/File:Nintendo-Super-NES-Controller.jpg). Gotta admit, it looks snazzy.
+
+![My friend Adam's SNES-modded Switch](/assets/post_images/2022-01-01/adamtendo.jpeg)
+
+Now that I had a Switchtendo, my original Switch was just sitting there, annoyingly non-modded. I asked my sister-in-law if she'd like to own her first game system ever, and if she'd like it to look any particular way. She picked out a mod, and I got to work. I discovered too late that a right Joy-Con from my pile of parts wasn't syncing. Right Joy-Cons, even those with drifting joysticks, are multiple times more rare on eBay and other second-hand sites than left. Eventually I found one, swapped its parts in, and: pearlescent Shinytendo.
+
+![My sister-in-law's green/purple Switch, front](/assets/post_images/2022-01-01/shinytendo1.jpg)
+
+![Sister-in-law's green/purple Switch, back](/assets/post_images/2022-01-01/shinytendo2.jpg)
+
+There are two more Switches in the pile. Every other weekend, there's a quiet moment where I think about resurrecting just one more. Franken-Switches are addictive.
 
 <a name="tiny"></a>
 ## Raspberry Pi and other tiny computers
