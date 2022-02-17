@@ -5,13 +5,12 @@ description: Kevin Purdy, writing mostly for Kevin Purdy, about the year he had 
 published: false
 ---
 
-Intro
 
 ***
 
 If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.com/kevinpurdy/) or [email](mailto:kspurdy@gmail.com?subject=Error%20in%202020%20In%20Review%20post).
 
-+ [One full year in DC](#dc)
++ [One full year in D.C.](#dc)
 + [The Best Bills Year of My Life (So Far)](#bills)
 + [Repairs](#repairs)
 + [Switch mods](#switch)
@@ -25,7 +24,15 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 + [Pictures of pets](#pets)
 
 <a name="dc"></a>
-## One full year in DC
+## One full year in D.C.
+
+I know more of the neighborhoods. I've taken some Metro subway rides. If someone asked me where to eat or drink or just walk near my home quadrant, I have quite a few suggestions. I've lived through a full summer here, and now one of the coldest winters in a couple decades. I'm approaching the point where I can say "I live in D.C." out loud and don't immediately question the statement in my head.
+
+The hardest part is making friends. I'm 41, I'm new here, I work from home for a company somewhere else, there's a pandemic, and D.C. is a city where a lot of people are on their way up or out. I'm lucky to have the Buffalo connections I do have, while they're still here. But it's like jobs and experience: the best way to make friends is to have friends, who introduce you to others.
+
+The advice I read and hear most often is to join groups based on my interests, and to be a lot more deliberate in telling people what you're after—friends. I can certainly do better. But D.C. is not like Buffalo, where showing up and showing interest carry you much further. Is this a fair comparison? I've applied to the D.C. versions of three things I was involved with in Buffalo. Two of them have not responded to a couple different emails/applications. One of them is just far enough away by bike or by Metro[^2] that it's easy to get discouraged by an out-of-date website, an unreturned email.
+
+But I like it here. I'll try harder.
 
 <a name="bills"></a>
 ## The Buffalo Bills
@@ -173,3 +180,5 @@ For no monetary gain and almost no reward, I continued feeding Twitter's API in 
 ***
 
 [^1]: Not a smart move during COVID times. DC restaurants and bars are vaccinated-only at the moment. It was a risk, I took it.
+
+[^2]: In Buffalo, you just expect to drive everywhere, unless it's really warm and bike-able or walking distance.
