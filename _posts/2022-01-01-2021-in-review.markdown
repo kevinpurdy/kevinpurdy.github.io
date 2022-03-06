@@ -90,6 +90,20 @@ There are two more Switches in the pile. Every other weekend, there's a quiet mo
 <a name="tiny"></a>
 ## Raspberry Pi and other tiny computers
 
+I got into [Home Assistant](https://thepurdman.com/home_assistant/) right before 2021. I've tweaked it a few times since then, adding new gadgets and optimizing routines. I did not acquire any further Raspberry Pis in 2021, for which I commend myself.
+
+I did, however, bring two other small, programmable circuit boards into my home.
+
+The [Tidbyt](https://tidbyt.com) is a small wooden box with an LED matrix display that shows whatever you tell it to. The default displays are pretty handy: time and weather, sports scores, calendar events, countdowns to notable future events. It has an API and SDK, and I'm determined to make something of it. My dream was an occasional update on how far the closest scooter, ebike, or e-moped was to me, but I didn't find a good, reasonable-cost API for that. Working on it.
+
+I bought an [Adafruit Circuit Playground Bluefruit](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit) a while back. My first goal was to program it as a [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer: 25 minutes of work, short break, repeat a total of four times, then long break. After a couple nights learning [CircuitPython](https://circuitpython.org/), and some help from other Circuit Playground owners on GitHub, I got there.
+
+![Image of Circuit Playground Pomodoro timer]()
+
+It plays two different Zelda cues ("Open a chest" and "Good discovery," essentially) when pomos are finished. It does a little light dance of purple and blue when you complete all four. To me, it is perfect. I didn't program 2-minute/15-minute break timers on it because, working from home, I like to get up, move around, and often get pulled into other stuff.
+
+There's so much more inside this little guy to make use of: temperature sensor, gyroscope, and, of course, Bluetooth. Someday.
+
 <a name="bikes"></a>
 ## Bikes
 
