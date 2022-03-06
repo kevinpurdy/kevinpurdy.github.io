@@ -107,7 +107,17 @@ There's so much more inside this little guy to make use of: temperature sensor, 
 <a name="bikes"></a>
 ## Bikes
 
+I'm fairly certain I used to frown, facially or rhetorically, at ebikes. Exercise! Simplicity! Use more gears if the hills are hard! Similar egalitarian platitudes!
 
+Moving to D.C. changed that. Buffalo was a reasonably flat city, whereas D.C. has real hills. Biking in Buffalo was a good-intentioned secondary transportation, while here it's my primary, and the best, way to get around. D.C. has a lot more intersections and traffic than Buffalo. And the summers in D.C. are as hot and humid as you've heard, and while I'm not prudish about sweating, sometimes you don't want to arrive drenched, or change clothes multiple times a day. 
+
+My wife also took to biking to work here. She faces all those same challenges, plus hauling her work devices, paperwork, a change of clothes, food and drink, and other necessities. I wanted to encourage her, so I helped the best way I could: falling down a deep rabbit hole full of esoteric tools and knowledge.
+
+The wife got a DIY electric commuter out of it, and I got the background for a [Wirecutter feature on building your own ebike](https://www.nytimes.com/wirecutter/blog/build-ebike/). I just recently converted my own bike, using a Swytch kit. I likely would have gotten a lot more quirky and powerful with it, but my belt drive and internal geared hub precluded many options. And, realistically, I don't have a commute, I'm not hauling a lot of stuff long distances—I just wanted relief for the hottest days, or when my knee feels particularly bad. And, sometimes, just to cruise around on a magic boost.
+
+As with most explainers, there's a lot of opinions and digressions cut out of that Wirecutter post. There are ebike enthusiasts who truly believe that the only reasonable ebike is one with a mid-drive motor that can run faster than 20 miles per hour for hours, without pedaling. There are mountain bike types maximizing for torque and carrying 20-pound extra batteries in their backpacks. Folks looking for something to simply even out tough hills and boost their typical get around aren't posting on Reddit threads or arguing in comment sections. It reminds me of, well, almost every DIY project I've investigated, from Android ROM flashing to home coffee roasting to smart home automation. Everyone brings their selves and their situation to a hobby, and don't have time to explain themselves wholly before they offer up opinions.
+
+For the moment, I'm glad that my wife and I didn't have more options without buying more stuff. It was better, as Walt Whitman/Ted Lasso put it, to be curious, not judgemental.
 
 <a name="baking"></a>
 ## Baking
