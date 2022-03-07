@@ -193,13 +193,13 @@ For no monetary gain and almost no reward, I continued feeding Twitter's API in 
 ## Pictures of Pets
 
 ### Cork
-![Cork, gray Russian Blue cat](/assets/post_images/2021-02-15/cork.jpg)
+![Cork, gray Russian Blue cat](/assets/post_images/)
 
 ### Apricot
-![Apricot, black and white tabby cat](/assets/post_images/2021-02-15/apricot.jpg)
+![Apricot, black and white tabby cat](/assets/post_images/)
 
 ### Howard
-![Howard, pug mix weirdo dog](/assets/post_images/2021-02-15/howard.jpg)
+![Howard, pug mix weirdo dog](/assets/post_images/)
 
 ***
 
