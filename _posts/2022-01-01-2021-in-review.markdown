@@ -143,7 +143,7 @@ Mostly stuck to writing for iFixit last year, besides the [DIY ebike post](https
 
 ### Books
 
-I don't use GoodReads, and I typically give away or donate books immediately after finishing, so this list is somewhat incomplete. Working on tracking in the new year!
+I don't use GoodReads, and I typically give away or donate books immediately after finishing, so this list is somewhat incomplete. Working on non-Amazon-owned tracking in the new year!
 
 **[Parable of the Sower](https://bookshop.org/books/parable-of-the-sower/9781538732182):** Deeply moving. It never stops amazing me that this book was written in 1993. It's too modern for comfort.
 
@@ -153,7 +153,15 @@ I don't use GoodReads, and I typically give away or donate books immediately aft
 
 ### Notable articles
 
-**[My Time with Kurt Cobain](https://www.newyorker.com/culture/personal-history/my-time-with-kurt-cobain?utm_source=pocket_mylist):** There might be people of my generation who haven't engaged with Cobain, and Nirvana, since their
+**[My Time with Kurt Cobain](https://www.newyorker.com/culture/personal-history/my-time-with-kurt-cobain):** I haven't engaged much with Cobain, or Nirvana, since shortly after his death. Thinking of that time puts me back in that mid-teens mindset: angry, depressed, hopeless. This was a bracing, well-controlled exposure to that time and place. Raises more questions than it answers, but that's how it goes.
+
+**[The Notorious Mrs. Mossler]:()** Is there a Skip Hollandsworth story in Texas Monthly I won't read, on principle? So far, not yet.
+
+**[The Rise and Fall of an American Tech Giant]:()** Kodak made a blip in pandemic news when it seemed like it was might help make COVID drugs. It was a great moment to re-examine what "innovation" companies were like a century ago, and what they meant to their cities.
+
+There are a dozen killer paragraphs, among them this excerpt that hits me right in my upstate NY sternum:
+
+> Like any city, it has cultivated grand and sometimes silly self-mythologies. Once called "Flour City" in honor of its status as the country's leading producer and distributor of flour, Rochester was renamed "Flower City," supposedly because of an abnormal concentration of garden nurseries, which remains a point of confusion for residents 150 years later. As a child, I was told that the Genesee River, which cuts through the center of the city, is the only river on Earth besides the Nile that runs north. (It turns out that a lot of rivers run north). Rochester has an arched aqueduct, just like Rome, and an abandoned subway system full of ghosts, and it once had a famous daredevil, who survived jumping from the top of Niagara Falls but died jumping from the High Falls along the Genesee, in November 1829, with a crowd looking on. (In the spring, legend has it, a block of ice enclosing his corpse turned up on a suburban riverbank).
 
 <a name="games"></a>
 ## Games
@@ -164,7 +172,7 @@ It was also the year that I sold my almost brand-new GTX 3070 at cost to a frien
 
 ### PC
 
-**Hitman 3:** More of the same? Yes, and it's great. Dartmoor, Berlin, and Chongqing all belong in the Hitman Level Hall of Fame. 
+**Hitman 3:** More of the same? Yes, and it's great. Dartmoor, Berlin, and Chongqing all belong in the Hitman Level Hall of Fame.
 
 **Divinity: Original Sin 2:** By the end I loved it, but the game could have done a _lot_ more to explain itself during early stages. The tactical battles were a treat.
 
@@ -184,7 +192,7 @@ It was also the year that I sold my almost brand-new GTX 3070 at cost to a frien
 
 #### [Griftlands](https://klei.com/games/griftlands)
 
-Developer Klei entertainment gets right of first refusal in my library. I loved _Don't Starve_ and _Invisible Inc_. This one is (surprise!) a roguelike deckbuilder, set on a dystopian-ish colony planet. It's a great airport/free-moment Switch game. You can negotiate or fight your way out of every situation, and there are real pay-offs to choices you make, positive and negative. 
+Developer Klei entertainment gets right of first refusal in my library. I loved _Don't Starve_ and _Invisible Inc_. This one is (surprise!) a roguelike deckbuilder, set on a dystopian-ish colony planet. It's a great airport/free-moment Switch game. You can negotiate or fight your way out of every situation, and there are real pay-offs to choices you make, positive and negative.
 
 ### iOS
 
