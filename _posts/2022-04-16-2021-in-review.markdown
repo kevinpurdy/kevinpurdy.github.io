@@ -26,7 +26,7 @@ If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.c
 + [One full year in D.C.](#dc)
 + [The Best Bills Year of My Life (So Far)](#bills)
 + [Repairs](#repairs)
-+ [Switch mods](#switch)
++ [Switch mods](#switchmods)
 + [Tiny computers](#tiny)
 + [Bikes & ebikes & e-mopeds](#bikes)
 + [Baking](#baking)
@@ -79,7 +79,7 @@ The biggest "fix" I made in 2021 was to my 2013 car. I wrote about [replacing my
 * Pixel 3 rear camera & battery - Excellent
 * Clear the jam and etch new grind markings on pepper grinder - Good
 
-<a name="switch"></a>
+<a name="switchmods"></a>
 ## Switch mods
 
 After [a live Switch teardown](https://twitter.com/verge/status/1451962164374343687) and [rooftop repair workshop](https://twitter.com/SuperAntonio64/status/1453168153417158656) at The Verge's 10-year anniversary in October, I ended up with four disassembled Nintendo Switches. I seemed to have all the parts to rebuild at least one full Switch, and it was one of the [newer variety with better battery life](https://www.ign.com/articles/2019/07/17/new-nintendo-switch-model-with-longer-battery-life-announced). It was modified ("modded") with a translucent green plastic back, and originally listed on eBay as unable to sync with right Joy-cons. I opened it up and, yes, someone had snapped the right rail's cable. I replaced the rail and it connected Joy-Cons again—though it looked ugly, and half the screws were the wrong size. I decided to restore it and take it in a different direction.
@@ -128,7 +128,7 @@ There's so much more inside this little guy to make use of: temperature sensor, 
 
 I'm fairly certain I used to frown, facially or rhetorically, at ebikes. But, I would think, what about exercise! Simplicity! Just use more gears if the hills are hard! Similar egalitarian platitudes!
 
-Moving to D.C. changed that. Buffalo was a reasonably flat city, whereas D.C. has real hills. Biking in Buffalo was good-intentioned secondary transportation, while here it's my primary, and best, way to get around.[^2] D.C. has a lot more intersections and traffic than Buffalo. And the summers in D.C. are as hot and humid as you've heard. I'm not prudish about sweating, but sometimes you don't want to arrive somewhere  drenched, or change clothes multiple times a day.
+Moving to D.C. changed that. Buffalo was a reasonably flat city, whereas D.C. has real hills. Biking in Buffalo was good-intentioned secondary transportation, while here it's my primary, and best, way to get around. [^2] D.C. has a lot more intersections and traffic than Buffalo. And the summers in D.C. are as hot and humid as you've heard. I'm not prudish about sweating, but sometimes you don't want to arrive somewhere  drenched, or change clothes multiple times a day.
 
 More significantly, my wife bikes to work here. She faces all those same challenges, plus hauling her work devices, paperwork, a change of clothes, food and drink, and other necessities. I wanted to encourage her, so I helped the best way I could: falling down a deep rabbit hole full of esoteric tools and knowledge. I bought an e-bike kit. I replaced her front wheel with one containing a small motor, ran the cables, and stuck the battery on top of her rear rack.
 
