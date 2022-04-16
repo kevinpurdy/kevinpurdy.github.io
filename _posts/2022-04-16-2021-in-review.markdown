@@ -128,7 +128,7 @@ There's so much more inside this little guy to make use of: temperature sensor, 
 
 I'm fairly certain I used to frown, facially or rhetorically, at ebikes. But, I would think, what about exercise! Simplicity! Just use more gears if the hills are hard! Similar egalitarian platitudes!
 
-Moving to D.C. changed that. Buffalo was a reasonably flat city, whereas D.C. has real hills. Biking in Buffalo was good-intentioned secondary transportation, while here it's my primary, and best, way to get around. D.C. has a lot more intersections and traffic than Buffalo. And the summers in D.C. are as hot and humid as you've heard. I'm not prudish about sweating, but sometimes you don't want to arrive somewhere  drenched, or change clothes multiple times a day.
+Moving to D.C. changed that. Buffalo was a reasonably flat city, whereas D.C. has real hills. Biking in Buffalo was good-intentioned secondary transportation, while here it's my primary, and best, way to get around.[^2] D.C. has a lot more intersections and traffic than Buffalo. And the summers in D.C. are as hot and humid as you've heard. I'm not prudish about sweating, but sometimes you don't want to arrive somewhere  drenched, or change clothes multiple times a day.
 
 More significantly, my wife bikes to work here. She faces all those same challenges, plus hauling her work devices, paperwork, a change of clothes, food and drink, and other necessities. I wanted to encourage her, so I helped the best way I could: falling down a deep rabbit hole full of esoteric tools and knowledge. I bought an e-bike kit. I replaced her front wheel with one containing a small motor, ran the cables, and stuck the battery on top of her rear rack.
 
@@ -252,4 +252,4 @@ For no monetary gain and almost no reward, I continued feeding Twitter's API in 
 
 [^1]: Not a smart move during COVID times. DC restaurants and bars are vaccinated-only at the moment. It was a risk, I took it.
 
-[^2]: In Buffalo, you just expect to drive everywhere, unless it's really warm and bike-able or walking distance or a bus route accidentally runs by it or it’s a Sabres game at the end of the Metro Rail.
+[^2]: In Buffalo, you just expect to drive everywhere, unless it's really warm and bike-able or walking distance or a bus route accidentally runs by it or it’s a Sabres game at the end of the Metro Rail. There is less "traffic," but many of the major roads are too wide for the city's smaller population, so they're moving much faster, often openly defying the posted speed limits.
