@@ -2,7 +2,7 @@
 layout: post
 title: 2021 In Review
 description: Kevin Purdy, writing mostly for Kevin Purdy, about the year he had in 2021.
-published: false
+published: true
 ---
 
 _Editor's note (I'm the editor): This post was essentially finished in late March, but a lot of Things came up around then. I will write about the most major Thing at some point soon. Otherwise, here is this post about a year almost none of us can remember now, barely in time for the tax deadline._
@@ -189,7 +189,7 @@ There are a dozen killer paragraphs, among them this excerpt that hits me right 
 
 2021 was my year of [roguelike deck builders](https://en.wikipedia.org/wiki/Roguelike_deck-building_game) and Western RPGs.
 
-It was also the year that I sold my almost brand-new GTX 3070 at cost to a friend, a couple weeks after buying it, because I knew they were going to get more use out of it than me. I streamed most games I played via GeForce Now (the card came with a free year of it). With a gigabit fiber connection, it was a viable platform, so long as I didn't run out of games I found intriguing. It would be neat if it was an option for more people, rather than paying a huge fee, in time or money, to buy a card that then gorges itself on power.
+It was also the year that I sold my almost brand-new GTX 3070 at cost to a friend, a couple weeks after buying it, because I knew they were going to get more use out of it than me. I streamed most games I played via GeForce Now (the card came with a free year of it). With a gigabit fiber connection, it was a viable platform, so long as I didn't run out of games I found intriguing. It would be neat if game streaming were an option for more people.
 
 ### PC
 
