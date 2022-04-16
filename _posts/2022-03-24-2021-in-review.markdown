@@ -117,11 +117,11 @@ I did, however, bring two other small, programmable circuit boards into my home.
 
 ![Tidbyt box displaying "Hello World!" next to a Chromebook terminal](/assets/post_images/2022-01-01/tidbyt.jpg)
 
-The [Tidbyt](https://tidbyt.com) is a small wooden box with an LED matrix display that shows whatever you tell it to. The default displays are pretty handy: time and weather, sports scores, calendar events, countdowns to notable future events. It has an API and SDK, and I'm determined to make something of it. My dream was an occasional update on how far the closest scooter, ebike, or e-moped was to me, but I didn't find a good, reasonable-cost API for that. Working on it.
+The [Tidbyt](https://tidbyt.com) is a small wooden box with an LED matrix display that shows anything that fits. The default displays are pretty handy: time and weather, sports scores, calendar items, countdowns to notable future events. It has an API and SDK, and I'm determined to make something of them. My dream was an occasional update on how far the closest scooter, ebike, or e-moped was to me, but I didn't find a good, reasonable-cost API for that. Working on it.
 
 <img src="/assets/post_images/2022-01-01/bluefruit.jpg" alt="Image of Circuit Playground Pomodoro timer" class="right"/>
 
-I bought an [Adafruit Circuit Playground Bluefruit](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit) a while back. My first goal was to program it as a [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer: 25 minutes of work, short break, repeat a total of four times, then long break. After a couple nights learning [CircuitPython](https://circuitpython.org/), and some help from other Circuit Playground owners on GitHub, I got there.
+I bought an [Adafruit Circuit Playground Bluefruit](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit) early last year. My first goal was to program it as a [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer: 25 minutes of work, short break, repeat a total of four times, then long break. After a couple nights learning [CircuitPython](https://circuitpython.org/), and some help from other Circuit Playground owners on GitHub, I got there.
 
 It plays two different Zelda cues ("Open a chest" and "Good discovery," essentially) when pomos are finished. It does a little light dance of purple and blue when you complete all four. To me, it is perfect. I didn't program 2-minute/15-minute break timers on it because, working from home, I like to get up, move around, and often get pulled into other stuff.
 
@@ -130,21 +130,21 @@ There's so much more inside this little guy to make use of: temperature sensor, 
 <a name="bikes"></a>
 ## Bikes
 
-I'm fairly certain I used to frown, facially or rhetorically, at ebikes. Exercise! Simplicity! Use more gears if the hills are hard! Similar egalitarian platitudes!
+I'm fairly certain I used to frown, facially or rhetorically, at ebikes. But, I would think, what about exercise! Simplicity! Just use more gears if the hills are hard! Similar egalitarian platitudes!
 
-Moving to D.C. changed that. Buffalo was a reasonably flat city, whereas D.C. has real hills. Biking in Buffalo was a good-intentioned secondary transportation, while here it's my primary, and the best, way to get around. D.C. has a lot more intersections and traffic than Buffalo. And the summers in D.C. are as hot and humid as you've heard, and while I'm not prudish about sweating, sometimes you don't want to arrive drenched, or change clothes multiple times a day.
+Moving to D.C. changed that. Buffalo was a reasonably flat city, whereas D.C. has real hills. Biking in Buffalo was good-intentioned secondary transportation, while here it's my primary, and best, way to get around. D.C. has a lot more intersections and traffic than Buffalo. And the summers in D.C. are as hot and humid as you've heard. I'm not prudish about sweating, but sometimes you don't want to arrive somewhere  drenched, or change clothes multiple times a day.
 
-My wife also took to biking to work here. She faces all those same challenges, plus hauling her work devices, paperwork, a change of clothes, food and drink, and other necessities. I wanted to encourage her, so I helped the best way I could: falling down a deep rabbit hole full of esoteric tools and knowledge. I bought a kit, replaced her front wheel with one that contained a small motor, ran the cables, and stuck the battery on top of her rear rack.
+More significantly, my wife bikes to work here. She faces all those same challenges, plus hauling her work devices, paperwork, a change of clothes, food and drink, and other necessities. I wanted to encourage her, so I helped the best way I could: falling down a deep rabbit hole full of esoteric tools and knowledge. I bought an e-bike kit. I replaced her front wheel with one containing a small motor, ran the cables, and stuck the battery on top of her rear rack.
 
 ![Nishiki hybrid bike after ebike conversion](/assets/post_images/2022-01-01/nishiki.jpg)
 
-The wife got a DIY electric commuter out of it, and I got the background for a [Wirecutter feature on building your own ebike](https://www.nytimes.com/wirecutter/blog/build-ebike/). I just recently converted my own bike, using a Swytch kit. I likely would have gotten a lot more quirky and powerful with it, but my belt drive and internal geared hub precluded many options. And, realistically, I don't have a commute, I'm not hauling a lot of stuff long distances—I just wanted relief for the hottest days, or when my knee feels particularly bad. And, sometimes, just to cruise around on a magic boost.
+The wife got a DIY electric commuter out of it, and I got the background for a [Wirecutter feature on building your own ebike](https://www.nytimes.com/wirecutter/blog/build-ebike/). I just recently converted my own bike, using a Swytch kit. My belt-driven, internally-geared setup precluded more powerful or esoteric options. Also, I don't really have a commute, and I'm not hauling a lot of stuff long distances—I just wanted relief for the hottest days, or when my bad knee feels particularly bad. And, sometimes, just to cruise around on a magic boost.
 
-A lot of opinions and digressions had to be cut out of that Wirecutter post. There are ebike enthusiasts who believe  the only reasonable ebike is one with a mid-drive motor that can run faster than 20 miles per hour for hours, without pedaling. There are mountain bike types maximizing for torque and carrying 20-pound extra batteries in their backpacks. Folks looking for something to simply even out tough hills and boost their typical get around aren't posting on Reddit threads or arguing in comment sections.
+A lot of opinions and digressions had to be cut out of that Wirecutter post. There are ebike enthusiasts who believe the only reasonable ebike is one with a mid-drive motor that can run faster than 20 miles per hour for hours, without pedaling. There are mountain bike types maximizing for torque and carrying 20-pound extra batteries in their backpacks. Most folks looking for something to simply even out tough hills, or boost their typical get-around range, aren't posting on Reddit threads or arguing in comment sections.
 
-Wading through all of that reminded me of, well, every DIY project I've gotten into, from Android ROM flashing to home coffee roasting to smart home automation. Everyone brings their selves and their situation to a hobby, but nobody has the time to explain themselves before offering up opinions.
+Wading through all of that reminded me of, well, every DIY project I've gotten into, from Android ROM flashing to home coffee roasting to smart home automation. Everyone brings their selves and their situation to a hobby, but nobody has the time to really explain themselves before offering up opinions.
 
-For the moment, I'm glad that my wife and I didn't have more options without buying more stuff. It was better, as Walt Whitman/Ted Lasso put it, to be curious, not judgemental.
+For the moment, I'm glad that my wife and I got new experiences without having to buy wholly new bikes. It was better, as Walt Whitman/Ted Lasso put it, to be curious, not judgmental.
 
 <a name="baking"></a>
 ## Baking
@@ -152,7 +152,7 @@ For the moment, I'm glad that my wife and I didn't have more options without buy
 <img src="/assets/post_images/2022-01-01/baking_grid.jpg" alt="Four baked goods: German chocolate cake, chocolate babka, shortbread with brownies, crumb-top apple pie"/>
 _Clockwise from top left: German chocolate cake (made for myself for my birthday), chocolate babka, crumb-topped apple pie, and shortbread/brownie stack_.
 
-I did not bake nearly as much in 2021 as in previous years. It was another year of mostly staying inside, and I don't have a lot of friends nearby to gift with excess sweets. I did pull off four pans of babka from the excellent cookbook _A Good Bake_, both cinnamon and chocolate. And I made a few batches of [the shortbread](https://cooking.nytimes.com/recipes/1020851-bittersweet-brownie-shortbread) that Apple claims is the origin of Ted Lasso's gifts for his boss. Big hits, all.
+I did not bake nearly as much in 2021 as in previous years. It was another year of mostly staying inside, and I don't have a lot of friends nearby to gift with excess sweets. I did pull off four pans of babka from the excellent cookbook _A Good Bake_, both cinnamon and chocolate. And I made a few batches of [the shortbread](https://cooking.nytimes.com/recipes/1020851-bittersweet-brownie-shortbread) that Apple claims is the origin of Ted Lasso's gifts for his boss. Big hits, both.
 
 <a name="writing"></a>
 ## Writing
@@ -170,15 +170,15 @@ I don't use GoodReads, and I typically give away or donate books immediately aft
 
 **[The Secret Life of Groceries](https://bookshop.org/books/the-secret-life-of-groceries-the-dark-miracle-of-the-american-supermarket-9781094180014/9780553459418):** Informative and enjoyable, if somewhat slowly paced. I appreciate that the author read his own audiobook. It made you realize that, not only does he stand by his sometimes page-length footnotes, he _treasures_ them.
 
-**[Foreverland](https://www.amazon.com/dp/B09DB3FRHS/):** Economy of story, expansiveness of heart.
+**[Foreverland](https://www.amazon.com/dp/B09DB3FRHS/):** An economic story told by an expansive heart (and is someone I casually know online).
 
 ### Notable articles
 
 **[My Time with Kurt Cobain](https://www.newyorker.com/culture/personal-history/my-time-with-kurt-cobain):** I haven't engaged much with Cobain, or Nirvana, since shortly after his death. Thinking of that time puts me back in that mid-teens mindset: angry, depressed, hopeless. This was a bracing, well-controlled exposure to that time and place. Raises more questions than it answers, but that's how it goes.
 
-**[The Notorious Mrs. Mossler]:()** Is there a Skip Hollandsworth story in Texas Monthly I won't read, on principle? So far, not yet.
+**[The Notorious Mrs. Mossler]:(https://www.texasmonthly.com/news-politics/the-notorious-mrs-mossler/)** Is there a Skip Hollandsworth story in Texas Monthly I won't read, on principle? So far, not yet.
 
-**[The Rise and Fall of an American Tech Giant]:()** Kodak made a blip in pandemic news when it seemed like it was might help make COVID drugs. It was a great moment to re-examine what "innovation" companies were like a century ago, and what they meant to their cities.
+**[The Rise and Fall of an American Tech Giant]:(https://www.theatlantic.com/magazine/archive/2021/07/kodak-rochester-new-york/619009/)** Kodak made a blip in pandemic news when it seemed like it was might help make COVID drugs. It was a great moment to re-examine what "innovation" companies were like a century ago, and what they meant to their cities.
 
 There are a dozen killer paragraphs, among them this excerpt that hits me right in my upstate NY sternum:
 
@@ -187,9 +187,9 @@ There are a dozen killer paragraphs, among them this excerpt that hits me right 
 <a name="games"></a>
 ## Games
 
-2021 was the year of [roguelike deck builders](https://en.wikipedia.org/wiki/Roguelike_deck-building_game) and Western RPGs.
+2021 was my year of [roguelike deck builders](https://en.wikipedia.org/wiki/Roguelike_deck-building_game) and Western RPGs.
 
-It was also the year that I sold my almost brand-new GTX 3070 at cost to a friend, a couple weeeks after buying it, because I knew they were going to get more use out of it than me. I streamed most games I played via GeForce Now (the card came with a free year of it). With a gigabit fiber connection, it was a viable platform, so long as I didn't run out of games I found intriguing. It would be neat if it was an option for more people, rather than paying a huge fee, in time or money, to buy a card that then gorges itself on power.
+It was also the year that I sold my almost brand-new GTX 3070 at cost to a friend, a couple weeks after buying it, because I knew they were going to get more use out of it than me. I streamed most games I played via GeForce Now (the card came with a free year of it). With a gigabit fiber connection, it was a viable platform, so long as I didn't run out of games I found intriguing. It would be neat if it was an option for more people, rather than paying a huge fee, in time or money, to buy a card that then gorges itself on power.
 
 ### PC
 
