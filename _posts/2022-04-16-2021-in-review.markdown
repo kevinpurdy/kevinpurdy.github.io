@@ -128,7 +128,7 @@ It plays two different Zelda cues ("Open a chest" and "Good discovery," essentia
 There's so much more inside this little guy to make use of: temperature sensor, gyroscope, and, of course, Bluetooth. Someday.
 
 <a name="bikes"></a>
-## Bikes
+## Bikes & e-bikes & e-mopeds
 
 I'm fairly certain I used to frown, facially or rhetorically, at ebikes. But, I would think, what about exercise! Simplicity! Just use more gears if the hills are hard! Similar egalitarian platitudes!
 
@@ -145,6 +145,10 @@ A lot of opinions and digressions had to be cut out of that Wirecutter post. The
 Wading through all of that reminded me of, well, every DIY project I've gotten into, from Android ROM flashing to home coffee roasting to smart home automation. Everyone brings their selves and their situation to a hobby, but nobody has the time to really explain themselves before offering up opinions.
 
 For the moment, I'm glad that my wife and I got new experiences without having to buy wholly new bikes. It was better, as Walt Whitman/Ted Lasso put it, to be curious, not judgmental.
+
+As an addendum with no particular transition: Last year I also got to ride shared electric mopeds, like the [Revel](https://gorevel.com/mopeds/moped) and (now seemingly defunct) Lime bikes, a few times. There are limited use cases where I want to go somewhere only within the city, without much or any cargo, while it's warm enough not to freeze my hands off.
+
+But, golly, are they fun when you can make it work. "Work" sometimes literally, because roughly 1/3 of the units are either drained, missing a helmet, or simply broken in some way. And yet, I'll keep trying them out when I can.
 
 <a name="baking"></a>
 ## Baking
