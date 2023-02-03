@@ -4,7 +4,7 @@ title: 2017 In Review
 published: true
 ---
 
-2017, as lived in and around the United States of America, kept asking us if we believed there were winners and losers. If we did, we then had to ask if the competitions that made them win or lose were fair. And then, ultimately, how much we were willing to do to change the competition, assist those on the losing side, or work with the people on the other side from us.
+2017 kept asking us if we believed, fundamentally, in winners and losers. If we did, we then had to ask if the competitions that made them win or lose were fair. And then, ultimately, how much we were willing to do to change the competition, assist those on the losing side, or work with the people on the other side from us.
 
 That's about as clear and calm as I can write it, after quite a few tries. 2017 felt like a shift toward entire sets of U.S. people being ignored by the institutions supposed to benefit them: governments, small and national, employers, healthcare, schools, news publishers, environmental and safety watchdogs, to name a few. Some of it is political, although we're the people who vote. Some of it is economic, although we're the people who buy things where we do, if we have a choice. It's a lot of "it depends" and "not everyone" stuff, hard to think about in clear lines and anecdotal narratives.
 
@@ -12,17 +12,17 @@ I'm a liberal, I was born in 1981, and I'm doing fine, by a number of common mea
 
 I'm sorry, your question was, "Hey, how was your year?" Yes, I have some sub-heds about that.
 
-+ [Creative Mornings Talk](#cmtalk)
-+ [Bikes](#bikes)
-+ [Other Projects](#projects)
-+ [Writing](#writing)
-+ [Lifting](#lifting)
-+ [The Knee](#theknee)
-+ [TEDxBuffalo](#tedxbuffalo)
-+ [CoworkBuffalo](#coworkbuffalo)
-+ [Ugh, Twitter](#twitter)
-+ [Games](#games)
-+ [Pictures of Pets](#pets)
+- [Creative Mornings Talk](#creative-mornings-talk)
+- [Bikes](#bikes)
+- [Other Projects](#other-projects)
+- [Writing](#writing)
+- [Lifting](#lifting)
+- [The Knee](#the-knee)
+- [TEDxBuffalo](#tedxbuffalo)
+- [CoworkBuffalo](#coworkbuffalo)
+- [Ugh, Twitter](#ugh-twitter)
+- [Games](#games)
+- [Pictures of Pets](#pictures-of-pets)
 
 <a name="cmtalk"></a>
 ### Creative Mornings Talk
@@ -118,18 +118,14 @@ The [coworking space](http://coworkbuffalo.com), of which I am a co-owner, is in
 ### Ugh, Twitter
 
 Why did I keep tweeting this year? This was some of the least-bad stuff the people enjoyed.
+<br/>
+<a href="https://twitter.com/kevinpurdy/status/942086315163684866"><img src="../assets/post_images/2018-02-01/tweet1.png" alt="Pictured: A man who took an hour to fix the brakes on a kids&#39; bike he couldn&#39;t stop himself from messing with. But for a good cause!"/></a>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pictured: A man who took an hour to fix the brakes on a kids&#39; bike he couldn&#39;t stop himself from messing with. But for a good cause! <a href="https://t.co/ZgaXKJ0rOv">https://t.co/ZgaXKJ0rOv</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/942086315163684866?ref_src=twsrc%5Etfw">December 16, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br/>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Shooting photos for work, then my dog posed for a front page story about how he&#39;s still looking for the killers, ALL THESE YEARS LATER <a href="https://t.co/WaBKgGs6Cd">pic.twitter.com/WaBKgGs6Cd</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/861995430476959745?ref_src=twsrc%5Etfw">May 9, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br/>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/ginatrapani?ref_src=twsrc%5Etfw">@ginatrapani</a> took an email from me when I was assistant editor of the weekend insert of a tiny newspaper, and listened to me ramble about Linux on a phone call while I kicked stones around the parking lot. Owe her a whole lot. <a href="https://t.co/G0z5DeFsaT">https://t.co/G0z5DeFsaT</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/939167775720960003?ref_src=twsrc%5Etfw">December 8, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br/>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Via Buffalo subreddit (<a href="https://t.co/x3Hy8ZTS3V">https://t.co/x3Hy8ZTS3V</a>) old BN article, and <a href="https://twitter.com/sparklebombbb?ref_src=twsrc%5Etfw">@sparklebombbb</a>, the short explanation of the cereal smells in Buffalo: <a href="https://t.co/j7JAw8wW8j">pic.twitter.com/j7JAw8wW8j</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/922554631372361729?ref_src=twsrc%5Etfw">October 23, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/kevinpurdy/status/861995430476959745"><img src="../assets/post_images/2018-02-01/tweet2.png" alt="Shooting photos for work, then my dog posed for a front page story about how he&#39;s still looking for the killers, ALL THESE YEARS LATER"/></a>
+
+<a href="https://twitter.com/kevinpurdy/status/939167775720960003"><img src="../assets/post_images/2018-02-01/tweet3.png" alt="@ginatrapani took an email from me when I was assistant editor of the weekend insert of a tiny newspaper, and listened to me ramble about Linux on a phone call while I kicked stones around the parking lot. Owe her a whole lot."/></a>
+
+<a href="https://twitter.com/kevinpurdy/status/922554631372361729"><img src="../assets/post_images/2018-02-01/tweet4.png" alt="Via Buffalo subreddit, old BN article, and @sparklebombbb, the short explanation of the cereal smells in Buffalo"/></a>
 
 <a name="games"></a>
 ### Games
