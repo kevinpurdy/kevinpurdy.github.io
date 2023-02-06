@@ -16,17 +16,17 @@ Still, here it is. A condensed, yet strangely verbose, collection of takes on Ke
 
 **Contents**
 
-+ [Working for the New York Times](#times)
-+ [Writing](#writing)
-+ [CoworkBuffalo acquired a software service](#cowork)
-+ [TEDxBuffalo](#tedx)
-+ [Lifting](#lifting)
-+ [Twitter](#twitter)
-+ [In Pod Form](#inpodform)
-+ [Games](#games)
-+ [The new president](#president)
-+ [All you can do](#allyoucando)
-+ [Pictures of my pets](#pets)
+- [Working for the New York Times](#working-for-the-new-york-times)
+- [Writing](#writing)
+- [CoworkBuffalo acquired a software service](#coworkbuffalo-acquired-a-software-service)
+- [TEDxBuffalo](#tedxbuffalo)
+- [Lifting](#lifting)
+- [One year of Twitter](#one-year-of-twitter)
+- [In Pod Form](#in-pod-form)
+- [Games](#games)
+- [The new president](#the-new-president)
+- [All you can do](#all-you-can-do)
+- [Pictures of my pets](#pictures-of-my-pets)
 
 <a name="times"></a>
 
@@ -109,21 +109,16 @@ You might say strength training is simple: Lift heavy things, a bit heavier than
 
 I posted [too many tweets](https://twitter.com/search?l=&q=from%3Akevinpurdy%20since%3A2016-01-01%20until%3A2016-12-31&src=typd) in 2016, breaking the most important rule of Twitter over and over again. Most were dross. A few seemed to make people smile, or think, or something like that.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Attempts to persuade wife to forgo leftovers with modern literary allusions were met with silence. <a href="https://t.co/yzcu8XyPWA">pic.twitter.com/yzcu8XyPWA</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/688841615960592384">January 17, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/kevinpurdy/status/688841615960592384"><img src="../assets/post_images/2017-01-17/tweet1.jpg" alt="Attempts to persuade wife to forgo leftovers with modern literary allusions were met with silence."/></a>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New Radiohead album! New Doom game! Who knows, maybe I&#39;ll get that job at Darien Lake and mom will let me borrow the car all summer!</p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/730581928311672832">May 12, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/kevinpurdy/status/730581928311672832?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E730581928311672832%7Ctwgr%5E8d5120fe2fe2b5631f5760d482e803609e0cf57b%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fthepurdman.com%2F2016-in-review%2F"><img src="../assets/post_images/2017-01-17/tweet5.png" alt="New Radiohead album! New Doom game! Who knows, maybe I&#39;ll get that job at Darien Lake and mom will let me borrow the car all summer!"/></a>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just bring back Google Reader, you jackasses.</p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/732991905017958400">May 18, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/kevinpurdy/status/732991905017958400?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E732991905017958400%7Ctwgr%5E8d5120fe2fe2b5631f5760d482e803609e0cf57b%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fthepurdman.com%2F2016-in-review%2F"><img src="../assets/post_images/2017-01-17/tweet2.png" alt="Just bring back Google Reader, you jackasses."/></a>
 (_Written during a Google I/O keynote, as the company announced Yet Another Messaging Platform_)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I wish I had the same kind of never-give-up sprit for my side projects that I have for installing Linux on old laptops.</p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/762422690753814530">August 7, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/kevinpurdy/status/762422690753814530?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E762422690753814530%7Ctwgr%5E8d5120fe2fe2b5631f5760d482e803609e0cf57b%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fthepurdman.com%2F2016-in-review%2F"><img src="../assets/post_images/2017-01-17/tweet3.png" alt="I wish I had the same kind of never-give-up sprit for my side projects that I have for installing Linux on old laptops."/></a>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/wirecutter">@wirecutter</a> guide to photo/slide scanning services finally got my mom to get her attic box of Kodaks digitized. <a href="https://t.co/tGFvvn3Bdn">https://t.co/tGFvvn3Bdn</a> <a href="https://t.co/Jw81jSaHJs">pic.twitter.com/Jw81jSaHJs</a></p>&mdash; Kevin Purdy (@kevinpurdy) <a href="https://twitter.com/kevinpurdy/status/781226463450324992">September 28, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/kevinpurdy/status/781226463450324992?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E781226463450324992%7Ctwgr%5E8d5120fe2fe2b5631f5760d482e803609e0cf57b%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fthepurdman.com%2F2016-in-review%2F"><img src="../assets/post_images/2017-01-17/tweet4.jpg" alt="Wirecutter guide to photo and slide scanning services finally got my mom to get her attic box of Kodaks digitized."/></a>
 
 <a name="inpodform"></a>
 
