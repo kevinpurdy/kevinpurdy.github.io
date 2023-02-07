@@ -281,6 +281,11 @@ div.posts p {
   margin: 0;
 }
 
+div.tweet {
+  border: 1px solid;
+  border-radius: 10px;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
