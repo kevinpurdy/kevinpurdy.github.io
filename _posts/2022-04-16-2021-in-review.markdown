@@ -23,18 +23,26 @@ I'm so thankful these days for an excuse to go somewhere new, break up my schedu
 
 If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.com/kevinpurdy/) or [email](mailto:kspurdy@gmail.com?subject=Error%20in%202021%20In%20Review%20post).
 
-+ [One full year in D.C.](#dc)
-+ [The Best Bills Year of My Life (So Far)](#bills)
-+ [Repairs](#repairs)
-+ [Switch mods](#switchmods)
-+ [Tiny computers](#tiny)
-+ [Bikes & ebikes & e-mopeds](#bikes)
-+ [Baking](#baking)
-+ [Writing](#writing)
-+ [Reading](#reading)
-+ [Games](#games)
-+ [Ugh, Twitter](#twitter)
-+ [Pictures of pets](#pets)
+- [One full year in D.C.](#one-full-year-in-dc)
+- [The Buffalo Bills](#the-buffalo-bills)
+- [Repairs](#repairs)
+- [Switch mods](#switch-mods)
+- [Raspberry Pi and other tiny computers](#raspberry-pi-and-other-tiny-computers)
+- [Bikes \& e-bikes \& e-mopeds](#bikes--e-bikes--e-mopeds)
+- [Baking](#baking)
+- [Writing](#writing)
+- [Reading](#reading)
+  - [Books](#books)
+  - [Notable articles](#notable-articles)
+- [Games](#games)
+  - [PC](#pc)
+  - [Switch](#switch)
+  - [iOS](#ios)
+- [Ugh, Twitter](#ugh-twitter)
+- [Pictures of Pets](#pictures-of-pets)
+  - [Cork](#cork)
+  - [Apricot](#apricot)
+  - [Howard](#howard)
 
 <a name="dc"></a>
 ## One full year in D.C.
@@ -226,17 +234,37 @@ It was also the year that I sold my almost brand-new GTX 3070 at cost to a frien
 
 For no monetary gain and almost no reward, I continued feeding Twitter's API in 2021. Here are five selected tweets, with the most-ish likes/faves/whatevers, minus work stuff.
 
+<div class="tweet">
+
 <a href="https://twitter.com/kevinpurdy/status/1455724441128906752">![Another Buffalo Was Possible](/assets/post_images/2022-01-01/tweet1.jpg)</a>
+
+</div>
 
 (Previous tweet is re: [this](https://www.newyorker.com/news/the-political-scene/another-buffalo-is-possible) and then [that](https://nymag.com/intelligencer/2021/11/buffalo-election-2021-results-india-walton-defeated.html))
 
+<div class="tweet">
+
 <a href="https://twitter.com/kevinpurdy/status/1426165257345585157">![Was not aware the National Hurricane Center had been my middle school teacher and kept their notes.](/assets/post_images/2022-01-01/tweet2.jpg)</a>
+
+</div>
+
+<div class="tweet">
 
 <a href="https://twitter.com/kevinpurdy/status/1382858994029621260">![I attended a memorial, ride, and rally for bike safety in DC, in honor of Jim Pagels, killed at Mass Ave./2nd St. NW. Friends remembered Jim, we rode to city hall, we laid down our bikes at city hall. Citizens should not die on wide roads so that people can commute faster.](/assets/post_images/2022-01-01/tweet3.jpg)</a>
 
+</div>
+
+<div class="tweet">
+
 <a href="https://twitter.com/kevinpurdy/status/1412461201355939842">![I just ate a Wegmans sub a minimum of 1.5 years after my last and now I fully appreciate how much Frodo missed the Shire.](/assets/post_images/2022-01-01/tweet4.jpg)
 
+</div>
+
+<div class="tweet">
+
 <a href="https://twitter.com/kevinpurdy/status/1385242418560258049">![Been working at @iFixit > 2 years. Ever since, I dread Earth Day. Companies, celebrities, media going out of their way to say literally anything except "consume less." Causing less material from the earth to be manufactured is actual help. But most people can't or won't say it.](/assets/post_images/2022-01-01/tweet5.jpg)
+
+</div>
 
 <a name="pets"></a>
 ## Pictures of Pets

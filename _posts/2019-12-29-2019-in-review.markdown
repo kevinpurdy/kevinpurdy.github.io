@@ -8,19 +8,22 @@ Sure was a year, 2019. Let's get into it.
 
 If you spot a typo or formatting quirk, let me know by [tweet](https://twitter.com/kevinpurdy/) or [email](mailto:kspurdy@gmail.com?subject=Error%20in%202019%20In%20Review%20post).
 
-+ [New Job](#newjob)
-+ [Repairs](#repairs)
-+ [Raspberry Pi](#pi)
-+ [Bikes](#bikes)
-+ [Baking (Plus a Granola Recipe)](#baking)
-+ [Writing](#writing)
-+ [Lifting](#lifting)
-+ [TEDxBuffalo](#tedxbuffalo)
-+ [Awesome Buffalo](#awesome)
-+ [Ugh, Twitter](#twitter)
-+ [Reading](#reading)
-+ [Games](#games)
-+ [Pictures of Pets](#pets)
+- [New Job](#new-job)
+- [Repairs](#repairs)
+- [Raspberry Pi Nonsense](#raspberry-pi-nonsense)
+- [Bikes](#bikes)
+- [Baking (Plus a Granola Recipe)](#baking-plus-a-granola-recipe)
+  - [Kevin Madison Park Granola](#kevin-madison-park-granola)
+- [Writing](#writing)
+- [Lifting](#lifting)
+- [TEDxBuffalo](#tedxbuffalo)
+- [Awesome Buffalo](#awesome-buffalo)
+- [Ugh, Twitter](#ugh-twitter)
+- [Reading](#reading)
+- [Games](#games)
+  - [Switch](#switch)
+  - [PC](#pc)
+- [Pictures of pets](#pictures-of-pets)
 
 <a name="newjob"></a>
 ## New Job
@@ -170,15 +173,25 @@ If you want to give some money and vote on which great projects it should go to,
 
 These are some of the tweets that people (or bots) most liked. Linked and screen-captured, because embedding tweets is misplaced optimism.
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/1144358951951196160">![In this 3-D animated rendering of Buffalo's newest reuse project, they included one guy who is absolutely not feeling this bank office. https://youtu.be/xz8PSZiREAg](/assets/post_images/2019-12-29/tweet1.jpg)</a>
+</div>
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/1185220329242877953">![The story of Pebble, Rebble @pebble_dev, and their remarkable efforts to keep thousands of well-loved gadgets running—and maybe even working on new hardware. My feature:](/assets/post_images/2019-12-29/tweet2.jpg)</a>
+</div>
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/1140676957119664128"><img src="/assets/post_images/2019-12-29/tweet3.jpg" alt="I was wrong. I told people to put their phones in rice. You shouldn't do that. You're just letting water have a longer window of exposure for corrosion. Say it with us: Rice is a food, not a tool. Food rice good, phone rice bad."></a>
+</div>
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/1125407930155700224">![Image from local Nextdoor forums, tagged for @BestOfNextdoor](/assets/post_images/2019-12-29/tweet4.jpg)</a>
+</div>
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/1135567980186804225">![Thus would end my literally lifelong fandom of this team, when a fracking billionaire demands public money for his profitable franchise of a tax-dodging socialist club for billionaires.](/assets/post_images/2019-12-29/tweet5.jpg)</a>
+</div>
 
 <a name="reading"></a>
 ## Reading

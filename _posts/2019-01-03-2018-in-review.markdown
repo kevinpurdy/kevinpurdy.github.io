@@ -14,20 +14,24 @@ Wow, buddy. But, also, I can forgive myself. It was hard to believe 2017 happene
 
 If you spot a typo or formatting quirk, let me know by [quick tweet](https://mobile.twitter.com/home?status=@kevinpurdy%20Typo%20in%202018%20review%20post:) or [email](mailto:kspurdy@gmail.com).
 
-+ [CoworkBuffalo](#coworkbuffalo)
-+ [Bikes](#bikes)
-+ [Baking](#baking)
-+ [Writing](#writing)
-+ [Lifting](#lifting)
-+ [TEDxBuffalo](#tedxbuffalo)
-+ [Awesome Buffalo](#awesome)
-+ [Smart home nonsense](#smarthome)
-+ [Friends, beer, and making an effort](#friends)
-+ [Ugh, Twitter](#twitter)
-+ [Reading](#reading)
-+ [Tasks](#tasks)
-+ [Games](#games)
-+ [Pictures of Pets](#pets)
+- [CoworkBuffalo is closed](#coworkbuffalo-is-closed)
+- [Bikes](#bikes)
+- [Baking](#baking)
+- [Writing](#writing)
+- [Lifting](#lifting)
+- [TEDxBuffalo](#tedxbuffalo)
+- [Awesome Buffalo](#awesome-buffalo)
+- [Smart home nonsense](#smart-home-nonsense)
+- [Friends, beer, and making an effort](#friends-beer-and-making-an-effort)
+- [Ugh, Twitter](#ugh-twitter)
+- [Reading](#reading)
+  - [Articles/posts](#articlesposts)
+  - [Books](#books)
+- [Tasks](#tasks)
+- [Games](#games)
+  - [Switch](#switch)
+  - [PC](#pc)
+- [Pictures of pets](#pictures-of-pets)
 
 <a name="coworkbuffalo"></a>
 ## CoworkBuffalo is closed
@@ -214,15 +218,25 @@ I continued to break the cardinal rule of Twitter in 2018. Here were the five be
 
 I'm using screencaps, with links to the original tweets, rather than embeds, because no way will Twitter outlast this website.
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/1058318446893694976?s=17"><img src="/assets/post_images/2019-01-03/tweet1.png" alt="Last public day of @coworkbuffalo today. I hope this project helped some people live a better life in Buffalo. We ran it because we thought the city could use it."/></a>
+</div>
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/993466991498407936?s=17"><img src="/assets/post_images/2019-01-03/tweet2.png" alt="Financial app Mint needed access to all my accounts and debt information so it could algorithmically warn me about &quot;Unusual Spending on Federal Taxes.&quot; In April."/></a>
+</div>
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/1068890351677698049?s=17"><img src="/assets/post_images/2019-01-03/tweet3.png" alt="I haven't worked from home regularly for nearly 7 years. If I remember right, it's like: * Lots of healthy food available * Starting work right on time * Friends and relatives respect your boundaries * UPS rings the doorbell and respects signature-required packages."/></a>
+</div>
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/948210315929575424"><img src="/assets/post_images/2019-01-03/tweet4.png" alt="It's very pretty, the way the snow outside is falling, drifting, twirling, glittering, inundating roofs, making cars kill people, trying to kill the elderly, endangering pets, rotting roads, freezing pipes, creating spine-straining work for everyone."/></a>
+</div>
 
+<div class="tweet">
 <a href="https://twitter.com/kevinpurdy/status/997867263318544384?s=17"><img src="/assets/post_images/2019-01-03/tweet5.png" alt="&quot;Alexa, when does Porchfest start in Buffalo?&quot; &quot;William McKinley was the 25th president ...&quot; THAT WAS 117 YEARS AGO AMAZON,  LET IT GO ALREADY."/></a>
+</div>
 
 My favorite Twitter moment from this year happened the day after I went with some friends to Jay's Artisan Pizza on a Wednesday night in summer. Right outside, in a pocket park, a band of middle-aged guys was ripping through some classic rock tracks. I said something offhand about the band being named "Dad Halen." The next day, it popped back into my head: what if a group of dads was self-aware enough to put "Dad" in their punny cover-band name?
 

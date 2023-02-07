@@ -311,9 +311,13 @@ Defying all advice and logical outcomes, I logged into Twitter and sent messages
 
 There were two other notable tweets that people seemed to like:
 
+<div class="tweet">
 ![Tweet showing author as an 11-year-old boy, captioned "Me, the last time the Bills were 10-3"](/assets/post_images/2021-02-15/tweet2.png)
+</div>
 
+<div class="tweet">
 ![Tweet showing author holding up his keychain, with a small black plastic tag visible, reading "Souvenir of Buffalo. N. Y."](/assets/post_images/2021-02-15/tweet3.png)
+</div>
 
 <a name="pets"></a>
 ## Pictures of Pets
