@@ -109,7 +109,7 @@ You might say strength training is simple: Lift heavy things, a bit heavier than
 
 I posted [too many tweets](https://twitter.com/search?l=&q=from%3Akevinpurdy%20since%3A2016-01-01%20until%3A2016-12-31&src=typd) in 2016, breaking the most important rule of Twitter over and over again. Most were dross. A few seemed to make people smile, or think, or something like that.
 
-<div class="w3-border">
+<div class="w3-panel w3-border w3-round" style="border:1px">
 <a href="https://twitter.com/kevinpurdy/status/688841615960592384"><img src="../assets/post_images/2017-01-17/tweet1.jpg" alt="Attempts to persuade wife to forgo leftovers with modern literary allusions were met with silence."/></a>
 </div>
 
