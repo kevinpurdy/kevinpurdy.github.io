@@ -123,6 +123,36 @@ li p {
    display: inline;
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2%;
+}
+
+.square {
+  aspect-ratio: 1/ 1;
+  display: flex;
+  align-items: center;
+  padding: 5%;
+  background-color: #1E1E1E;
+  color: #fff;
+}
+
+.square img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+.square.fullImg {
+  padding: 0;
+}
+
+.square.fullImg img {
+  object-fit: cover;
+}
+
 /*****************************************************************************/
 /*
 /* Site
@@ -133,7 +163,6 @@ li p {
   margin: auto;
   max-width: 33.875em;
   padding: 0 1em;
-#  color: #111;
 }
 
 .site img.left {
@@ -151,7 +180,6 @@ li p {
 div.header {
   margin-bottom: 2em;
   word-wrap: normal;
-#  display: inline-table;
 }
 
 .site .header a {
@@ -162,7 +190,6 @@ div.header {
 }
 
 .site .header h1.title {
-#  display: inline-block;
   font-size: 300%;
 }
 
