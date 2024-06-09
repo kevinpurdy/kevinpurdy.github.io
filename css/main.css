@@ -90,32 +90,11 @@ h3 {
   line-height: 1.6em;
 }
 
-h4 {
-  position: absolute;
-  top: 200px;
-  left: 0;
-  width: 100%;
-}
-
-h4 span {
-  color: white;
-  font: bold 24px/45px 'Helvetica neue', sans-serif;
-  letter-spacing: -1px;
-  background: rgb(0, 0, 0); /* fallback color */
-  background: rgba(0, 0, 0, 0.7);
-  padding: 10px;  
-}
-
-h4 span.spacer {
-  padding:0 5px;
-}
-
 p { margin-bottom: 1.5em;}
 
 a         { color: #0058a1; }
 a:hover   { color: #1b202e; }
 a:visited { color: #5b2b61; }
-
 
 blockquote {
   padding: 0.1em 1.3em;
@@ -171,6 +150,26 @@ li p {
 
 .square.fullImg img {
   object-fit: cover;
+}
+
+.portfolio {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 100%;
+}
+
+.portfolio span {
+  color: white;
+  font: bold 24px/45px 'Helvetica neue', sans-serif;
+  letter-spacing: -1px;
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;  
+}
+
+.portfolio span.spacer {
+  padding:0 5px;
 }
 
 /*****************************************************************************/
