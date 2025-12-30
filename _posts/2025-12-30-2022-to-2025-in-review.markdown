@@ -27,7 +27,7 @@ Whatever the reason, it’s time to get it done. Because it’s been nearly four
 - [Travel](#travel)
 - [Pictures of Pets](#pictures-of-pets)
 
-Hit me up with typos on [Bluesky](https://bsky.app/profile/thepurdman.com), by [email](https://thepurdman.com/contact), or by GitHub pull request, if that's your thing.
+Hit me up with typos on [Bluesky](https://bsky.app/profile/thepurdman.com), by [email](https://thepurdman.com/contact), or by [pull request](https://github.com/kevinpurdy/kevinpurdy.github.io/blob/master/_posts/2025-12-30-2022-to-2025-in-review.markdown), if that's your thing.
 
 <a name="2022"></a>
 ## The big thing in 2022
