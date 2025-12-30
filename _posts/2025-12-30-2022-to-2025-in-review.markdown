@@ -175,21 +175,21 @@ Notably, over the past few years, my wife has requested that I stop reading non-
 
 I recommend borrowing these from your library, in-person or through the Libby app, or buying from your local bookstore, or registering your local bookstore with [Bookshop.org](https://bookshop.org) and buying there. Bookshop also has DRM-free ebooks.
 
- - _Bullshit Jobs_, David Graeber. Of all the books I read about the modern workplace, this one stuck the most. Helps to not overstay its welcome.
- - *The Path to Power*, Robert A. Caro. This was essentially my bedside book for all of 2022. Unsurprisingly great.
- - *Newsroom Confidential*, Margaret Sullivan. For one brief period, my boss' boss, and now one of the most prominent chroniclers of what is actually happening at regional newsrooms, the former backbone of truth in everyday life. 
- - *Titanium Noir*, Nick Harkaway. I read three of this man's books before I realized who his father was. This was my favorite, but they're all good reads that take just about 1/3 the length to really set their hooks.
- - *Beowulf: A New Translation*, Maria Dahvana Headley. I don't own a tweed jacket, but I have now read three translations of Beowulf (Heaney, Tolkien, Headley). And I would read them again.
- - *Among the Bros*, Max Marshall. A fast-moving, freewheeling yarn about something you had no idea was going on in South Carolina.
- - *Wool*, Hugh Howey. The Apple TV version is *Silo*, and it has, of course, less worldbuilding and characterization. But I've enjoyed both.
- - *Joyful Recollections of Trauma*, Paul Scheer. Highly recommend the audiobook, which Scheer reads, and which has extra bits.
- - *The Perfectionists*, Simon Winchester. This book kept me riveted (pun?) for days on end, and was also pure melatonin for my wife on a road trip.
- - *Cults Like Us*, Jane Borden. Dragged a bit in the last third for me, but it revealed a lot about the Puritan/American/expansionist mythos that explains why we're like this.
- - *Playing Dead*, Elizabeth Greenwood. It meanders a bit, feeling like a journalistic fishing expedition. But wonderful human stories about a topic that has always fascinated me.
- - *The Bright Sword*, Lev Grossman. My favorite book of 2025. Who could have guessed I would love an even-more-magically-real take on Camelot? (everybody, everybody could guess)
- - _Play Nice: The Rise, Fall, and Future Of Blizzard Entertainment_, Jason Schreier. The whole story, the whole way through, or as close as we'll likely ever get.
-- *Dune*, Frank Herbert. Felt like it was finally time to read it. And, yep, I read it. One of those books that was really formative, but that doesn't make it an easy read, decades later.
-- _Alright, Alright, Alright: The Oral History of Richard Linklater's Dazed and Confused_, Melissa Maerz. One of my top 10 movies, and I just devoured this.
+ - **_Bullshit Jobs_**, David Graeber. Of all the books I read about the modern workplace, this one stuck the most. Helps to not overstay its welcome.
+ - **_The Path to Power_**, Robert A. Caro. This was essentially my bedside book for all of 2022. Unsurprisingly great.
+ - **_Newsroom Confidential_**, Margaret Sullivan. For one brief period, my boss' boss, and now one of the most prominent chroniclers of what is actually happening at regional newsrooms, the former backbone of truth in everyday life. 
+ - **_Titanium Noir_**, Nick Harkaway. I read three of this man's books before I realized who his father was. This was my favorite, but they're all good reads that take just about 1/3 the length to really set their hooks.
+ - **_Beowulf: A New Translation_**, Maria Dahvana Headley. I don't own a tweed jacket, but I have now read three translations of Beowulf (Heaney, Tolkien, Headley). And I would read them again.
+ - **_Among the Bros_**, Max Marshall. A fast-moving, freewheeling yarn about something you had no idea was going on in South Carolina.
+ - **_Wool_**, Hugh Howey. The Apple TV version is *Silo*, and it has, of course, less worldbuilding and characterization. But I've enjoyed both.
+ - **_Joyful Recollections of Trauma_**, Paul Scheer. Highly recommend the audiobook, which Scheer reads, and which has extra bits.
+ - **_The Perfectionists_**, Simon Winchester. This book kept me riveted (pun?) for days on end, and was also pure melatonin for my wife on a road trip.
+ - **_Cults Like Us_**, Jane Borden. Dragged a bit in the last third for me, but it revealed a lot about the Puritan/American/expansionist mythos that explains why we're like this.
+ - **_Playing Dead_**, Elizabeth Greenwood. It meanders a bit, feeling like a journalistic fishing expedition. But wonderful human stories about a topic that has always fascinated me.
+ - **_The Bright Sword_**, Lev Grossman. My favorite book of 2025. Who could have guessed I would love an even-more-magically-real take on Camelot? (everybody, everybody could guess)
+ - **_Play Nice: The Rise, Fall, and Future Of Blizzard Entertainment_**, Jason Schreier. The whole story, the whole way through, or as close as we'll likely ever get.
+- **_Dune_**, Frank Herbert. Felt like it was finally time to read it. And, yep, I read it. One of those books that was really formative, but that doesn't make it an easy read, decades later.
+- **_Alright, Alright, Alright: The Oral History of Richard Linklater's Dazed and Confused_**, Melissa Maerz. One of my top 10 movies, and I just devoured this.
 
 <a name="gaming"></a>
 ## Gaming
@@ -227,7 +227,7 @@ I’m lucky to have gotten to these places throughout 2022-2025:
 ### Apricot
 We lost Apricot in early 2022. Her heart was going very fast, she was breathing very heavy, and very compassionate vets told me that the surgery options were limited for a ~15-year-old cat. I sat holding her for her final moments. Apricot was the first pet I lost, beyond a childhood cat who died while I was away from home. I know she's not suffering now, but it was a heavy experience.
 
-![Apricot, a white cat with a black "cape and cowl" fur pattern, sitting on a pink and white blanket on a couch](assets/post_images/2025-12-30/)
+![Apricot, a white cat with a black "cape and cowl" fur pattern, sitting on a pink and white blanket on a couch](assets/post_images/2025-12-30/apricot_2025_review.jpg)
 ### Cork
 Cork is 19 years old as I write this. His right ear is messed up from when it bruised and ballooned up and needed surgery, he's real skinny, and he's got the kidney disease that eventually comes for all domesticated cats. But he still loves laps, and is pretty clever and spry, considering all that.
 
@@ -236,3 +236,4 @@ Cork is 19 years old as I write this. His right ear is messed up from when it br
 14 years old (we think). What a goof.
 
 ![Howard, sitting very upright on a couch](/assets/post_images/2025-12-30/howard_2025_review.jpg)
+_Photo credit for Cork and Howard: Chaz Adams_
