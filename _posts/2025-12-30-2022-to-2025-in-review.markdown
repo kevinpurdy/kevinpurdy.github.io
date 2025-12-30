@@ -135,7 +135,7 @@ The best biking thing I’ve done in the last two years is join [The Bike House]
 Helping at the Brookland clinic has brought me face to face with imposter syndrome. If I don’t know how to do something, I have to just say that, instead of watching a YouTube video in the corner or speed-reading Sheldon Brown’s site. But I do know how to do a lot of bike things, and I’m getting pretty good at explaining them in a way that helps people understand not just want is wrong, but why, and how you might fix it in the future. 
 
 My big thing is truing wheels. I legitimately love truing a wheel. I dove head-first into wheel building and truing when I [rebuilt my Schwinn bike from the ground up](https://thepurdman.com/2017-in-review/#bikes), and it stuck. I haven’t done meditative practice or much zen reading in what has to be a decade. But walking people through tightening, loosening, checking, balancing, dishing, and, crucially, knowing when it’s time to stop and let go? It feels like I’m back on the mat again.
-<a href="repairs"></a>
+<a name="repairs"></a>
 ## Repairs (and trauma)
 Before I get to the big, awful repair I had to make:
 * I got my Encore Baratza grinder working again, after its motor was repeatedly getting stuck.
