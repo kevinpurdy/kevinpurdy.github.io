@@ -2,7 +2,7 @@
 layout: post
 title: Years In Review, 2022-2025
 description: Heard ya missed me, well I'm back
-published: false
+published: true
 ---
 Until recently, I would typically delay writing my “Year in Review” posts until a bit into the new year. The thinking was, I would be done with holiday travel, it would be slow at work, and I had some space to reflect on the year past.
 
