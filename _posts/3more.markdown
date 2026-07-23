@@ -12,11 +12,20 @@ Oh, right: the 3 "bonus" slides. See, at some point, it got in my head that a li
 ## The remaining three pitches, cut for time (and speaking oxygen):
 
 ### Give them data nobody else has
-- #treats
-- #unique
+- `#treats`
+- `#unique`
 
 This pairs with doing the work to know your reporter (#7), helping them count to a listicle (#2), and "Detail is the soul of narrative." Find a useful data point inside the mess of analytics your company analyzes. "We see 2.3x more activations on weekends when the Eastern seaboard experiences a heat wave." "We've seen a huge shift in customers that choose 'privacy' over 'price' in our onboarding survey."
 
 If you are in contact with a few reporters, offer it up to all the reliable names. If you're keen to get coverage any which way, offer the most likely reporter a mini-exclusive. A little
 
-### 
+### Point them toward a rabbit hole
+- `#depth`
+
+This takes a certain kind of reporter. I certainly knew reporters who _avoided_ rabbit holes, in favor of concise stories that could be researched and written by 4:58 p.m. But _most_ reporters became reporters because they are curious. And showing them that there's a whole little world down there, inside the specifics of your work? [Quite effective](https://arstechnica.com/gadgets/2025/04/raspberry-pi-cuts-product-returns-by-50-by-changing-up-its-pin-soldering/).
+
+### Pets. Cute ones.
+- `#lazy`
+- `#snacks`
+
+"Every story needs a dog. Failing that, an interesting human." This paraphrased bit of William Blundell's _The Art and Craft of Feature Writing_ never leaves my head. It's a long shot that your firm or project will ever have a real pitch to make involving cute animals, suffice to reach the bar of "Worthy of a press release." And it's tricky to frame it as anything other than a genially cynical ploy. But with the right relationship—built from all these other pitches and strategies—, the right reporter, and the right timing (holiday weekends?), you might get some discount humanization for your capitalist venture.
