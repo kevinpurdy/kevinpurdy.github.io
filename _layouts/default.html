@@ -6,6 +6,7 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+        {% if page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
 
 
 
@@ -53,6 +54,5 @@
             </div>
           </div>
         </div>
-        <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58e5217d0a5cbc63"></script> 
     </body>
 </html>
